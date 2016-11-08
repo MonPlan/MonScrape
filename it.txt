@@ -1,0 +1,232 @@
+FIT1002 Computer programming
+FIT1003 IT in organisations
+FIT1006 Business information analysis
+FIT1008 Introduction to computer science
+FIT1013 Digital futures: IT for business
+FIT1031 Computers and networks
+FIT1033 Foundations of 3D
+FIT1040 Digital futures: adventures in programming
+FIT1041 Research project 1
+FIT1043 Introduction to data science
+FIT1044 Mobile communications 1
+FIT1045 Algorithms and programming fundamentals in python
+FIT1046 Creative computing foundations
+FIT1047 Introduction to computer systems, networks and security
+FIT1048 Fundamentals of C++
+FIT1049 IT professional practice
+FIT1050 Web fundamentals
+FIT1051 Programming fundamentals in java
+FIT1052 Digital futures: IT shaping society
+FIT2001 Systems development
+FIT2002 IT project management
+FIT2004 Algorithms and data structures
+FIT2005 Software analysis, design and architecture
+FIT2009 Data structures and algorithms
+FIT2014 Theory of computation
+FIT2017 Computer models for business decision making
+FIT2020 Network architecture
+FIT2032 Industry-based learning
+FIT2033 Computer models for business decisions
+FIT2034 Computer programming 2
+FIT2043 Technical documentation for software engineers
+FIT2065 Operating systems and the Unix environment
+FIT2069 Computer architecture
+FIT2072 Educational multimedia
+FIT2073 Game design studio 1
+FIT2074 Technology, information and organisations
+FIT2077 Advanced data management
+FIT2079 Data visualisation
+FIT2081 Mobile application development
+FIT2082 Research project 2
+FIT2083 Research methods in computer science
+FIT2085 Introduction to computer science for engineers
+FIT2086 Modelling for data analysis
+FIT2087 Advanced 3D
+FIT2089 Mobile networks
+FIT2090 Business information systems and processes
+FIT2091 Creative computing studio 1
+FIT2092 Creative computing studio 2
+FIT2093 Introduction to cyber security
+FIT2094 Databases
+FIT2095 e-Business software technologies
+FIT2096 Games programming 1
+FIT2097 Games programming 2
+FIT2098 Interactive media
+FIT2099 Object oriented design and implementation
+FIT2100 Operating systems
+FIT2101 Software engineering process and management
+FIT2102 Programming paradigms
+FIT2104 Web database interface
+FIT2105 Creative computing: understanding art, science and technology
+FIT2107 Software quality and testing
+FIT2108 Industry based learning seminar
+FIT3002 Applications of data mining
+FIT3003 Business intelligence and data warehousing
+FIT3008 Advanced digital video
+FIT3013 Formal specification for software engineering
+FIT3019 Information systems management
+FIT3020 Information visualisation
+FIT3021 Infrastructure for e-commerce
+FIT3027 Android and iOS development
+FIT3031 Information and network security
+FIT3036 Computer science project
+FIT3037 Software engineering
+FIT3039 Studio project 1
+FIT3040 Studio project 2
+FIT3042 System tools and programming languages
+FIT3045 Industry-based learning
+FIT3046 Operating environments
+FIT3047 Industry experience studio project 1
+FIT3048 Industry experience studio project 2
+FIT3063 Human-computer interaction
+FIT3077 Software engineering: architecture and design
+FIT3080 Intelligent systems
+FIT3081 Image processing
+FIT3083 e-Business software technologies
+FIT3088 Computer graphics
+FIT3094 Artificial life, artificial intelligence and virtual environments
+FIT3098 Social informatics
+FIT3130 Computer network design and deployment
+FIT3134 IT-based entrepreneurship
+FIT3136 IT governance and strategy for business
+FIT3138 Real time enterprise systems
+FIT3139 Computational science
+FIT3140 Advanced programming
+FIT3142 Distributed computing
+FIT3143 Parallel computing
+FIT3144 Advanced computer science project
+FIT3145 Game design studio 2
+FIT3146 Emergent technologies and interfaces
+FIT3152 Data analytics
+FIT3153 Research-based learning
+FIT3154 Advanced data analysis
+FIT3155 Advanced data structures and algorithms
+FIT3156 Advanced visual effects
+FIT3157 Advanced web design
+FIT3158 Business decision modelling
+FIT3159 Computer architecture
+FIT3161 Computer science project 1
+FIT3162 Computer science project 2
+FIT3163 Data science project 1
+FIT3164 Data science project 2
+FIT3165 Computer networks
+FIT3168 IT forensics
+FIT3169 Immersive environments
+FIT3170 Software engineering practice
+FIT3171 Databases
+FIT3172 Sonics
+FIT3173 Software security
+FIT3174 IT strategy and governance
+FIT3175 Usability
+FIT3176 Advanced database design
+FIT3178 Advanced mobile applications
+FIT3179 Data visualisation
+FIT4000 Honours thesis extension
+FIT4002 Software engineering industry experience studio project
+FIT4003 Software engineering research project
+FIT4004 System validation and verification, quality and standards
+FIT4005 Research methods in information technology
+FIT4007 Advanced topics in information systems
+FIT4008 Reading unit
+FIT4009 Advanced topics in intelligent systems
+FIT4010 Advanced topics in algorithms and discrete structures
+FIT4012 Advanced topics in computational science
+FIT4039 Android and iOS development
+FIT4042 Industry-based learning
+FIT4165 Computer networks
+FIT4441 Honours thesis part 1
+FIT4442 Honours thesis part 2
+FIT4443 Honours thesis part 3
+FIT4444 Honours thesis final
+FIT4448 Honours thesis final
+FIT5000 Minor thesis extension
+FIT5003 Software security
+FIT5010 Network protocols standards
+FIT5011 Network design and performance
+FIT5032 Internet applications development
+FIT5034 Quality of service and network management
+FIT5037 Network security
+FIT5042 Enterprise application development for the web
+FIT5046 Mobile and distributed computing systems
+FIT5047 Intelligent systems
+FIT5057 Project management
+FIT5083 Network infrastructure
+FIT5086 Organisational informatics
+FIT5088 Information and knowledge management systems
+FIT5090 Social informatics
+FIT5094 IT for management decision making
+FIT5097 Business intelligence modelling
+FIT5101 Enterprise systems
+FIT5102 IT strategy and governance
+FIT5104 Information and knowledge management professional practice
+FIT5105 Information access and use
+FIT5106 Information organisation
+FIT5107 Managing business records
+FIT5108 Reading unit
+FIT5109 Research topic
+FIT5111 Information systems development practices
+FIT5120 Industry experience studio project
+FIT5122 Professional practice
+FIT5124 Advanced topics in security
+FIT5125 IT research methods
+FIT5126 Masters thesis part 1
+FIT5127 Masters thesis part 2
+FIT5128 Masters thesis final
+FIT5129 Enterprise IT security - planning, operations and management
+FIT5133 Enterprise architecture and management
+FIT5136 Software engineering
+FIT5137 Database analysis and processing
+FIT5138 Advanced software engineering
+FIT5139 Advanced distributed and parallel systems
+FIT5140 Advanced mobile systems
+FIT5141 Advanced topics in information technology
+FIT5142 Advanced data mining
+FIT5143 IT research methods
+FIT5144 Research strategies and skills
+FIT5145 Introduction to data science
+FIT5146 Data curation and management
+FIT5147 Data exploration and visualisation
+FIT5148 Distributed databases and big data
+FIT5149 Applied data analysis
+FIT5152 User interface design and usability
+FIT5159 IT for financial decisions
+FIT5160 Business process modelling, design and simulation
+FIT5163 Information and computer security
+FIT5166 Information retrieval systems
+FIT5168 Semi-structured data management
+FIT5170 Programming for distributed, parallel and mobile systems
+FIT5171 System validation and verification, quality and standards
+FIT5178 Applied project management
+FIT5180 Business and legal issues in project management
+FIT5183 Mobile and distributed computing systems
+FIT5186 Intelligent systems
+FIT5187 Wireless networks
+FIT5190 Introduction to IT research methods
+FIT5191 Network protocols and network security
+FIT5192 Enterprise and internet applications development
+FIT5194 Computer based global project management
+FIT5195 Business intelligence and data warehousing
+FIT5196 Data wrangling
+FIT5197 Modelling for data analysis
+FIT5201 Data analysis algorithms
+FIT5202 Data processing for big data
+FIT5203 Community informatics
+FIT5204 Heritage informatics
+FIT5205 Data in society
+FIT5206 Digital continuity
+FIT5207 Data for sustainability
+FIT5211 Algorithms and data structures
+FIT6021 Advanced research methods
+FIT9027 Website authoring
+FIT9059 Algorithms and data structures
+FIT9123 Introduction to business information systems
+FIT9130 Systems analysis and design
+FIT9131 Programming foundations in Java
+FIT9132 Introduction to databases
+FIT9133 Programming foundations for python
+FIT9134 Computer architecture and operating systems
+FIT9135 Data communications
+MAT1830 Discrete mathematics for computer science
+MAT1841 Continuous mathematics for computer science
+MAT9004 Mathematical foundations for data science
+RAD5106 Medical imaging data management and health informatics

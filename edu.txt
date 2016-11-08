@@ -1,0 +1,404 @@
+EDF1010 Learning in a university context
+EDF1011 Knowledge and context
+EDF1012 Mathematics for tertiary study
+EDF1013 Academic writing
+EDF1028 Information and communication technologies across the curriculum
+EDF1029 Learners with special needs in the primary classroom
+EDF1030 English and literacy learning
+EDF1031 Creative learning in childhood through music and the arts
+EDF1032 Thinking mathematically from an early age
+EDF1033 Education for environment and sustainability
+EDF1038 Introduction to the early childhood education field
+EDF1039 Inclusivity and partnerships in early childhood education
+EDF1051 Early years professional experience 1A
+EDF1052 Early years professional experience 1B
+EDF1053 Primary professional experience 1A
+EDF1054 Primary professional experience 1B
+EDF1055 Secondary professional experience 1A
+EDF1056 Secondary professional experience 1B
+EDF1071 Introduction to health and physical education
+EDF1072 Contemporary issues in health and physical education
+EDF1101 Fieldwork experience 1A
+EDF1102 Fieldwork experience 1B
+EDF1103 Fieldwork experience in outdoor education and environmental studies 1A
+EDF1104 Fieldwork experience in outdoor education and environmental studies 1B
+EDF1151 Fundamentals of the English language
+EDF1152 Reading and writing the world
+EDF1161 Doing and learning mathematics
+EDF1162 Subject knowledge for teaching: Number and algebra
+EDF1171 Sociocultural foundations of health and physical education
+EDF1172 Biophysical and behavioural foundations of health and physical education
+EDF1174 Foundations of outdoor education and environmental studies
+EDF1175 Ways of knowing outdoor environments
+EDF1205 English education 1
+EDF1206 Mathematics education 1
+EDF1303 Understanding learning and learners
+EDF1304 Understanding teaching for learning
+EDF1551 Foundation to inclusive education
+EDF1552 Using assessment to respond to diversity across the school years
+EDF2005 Professional responsibilities, practice and relationships
+EDF2006 Education priorities
+EDF2007 Adolescent development and learning
+EDF2008 Becoming a specialist teacher
+EDF2020 English and literacies 1
+EDF2021 Mathematics and numeracy 1
+EDF2028 Health, wellbeing and social learning in primary contexts
+EDF2029 Active citizenship and community connections: Local and global
+EDF2030 Contemporary child development theories and practices
+EDF2031 Indigenous perspectives on teaching and learning
+EDF2032 Learning through play pedagogies
+EDF2033 Learning with children, their families and communities
+EDF2034 Learning about patterns, shapes and numbers through play
+EDF2035 Health and physical wellbeing in the young child
+EDF2038 Curriculum, assessment and documentation in education
+EDF2039 Children and childhood across time: Policies and practices
+EDF2051 Early years professional experience 2A
+EDF2052 Early years professional experience 2B
+EDF2053 Primary professional experience 2A
+EDF2054 Primary professional experience 2B
+EDF2055 Secondary professional experience 2A
+EDF2056 Secondary professional experience 2B
+EDF2057 Primary professional experience 2C
+EDF2071 Interdisciplinary approaches to health and physical education
+EDF2072 Social and environmental influences on health and physical education
+EDF2101 Professional experience 2A
+EDF2102 Professional experience 2B
+EDF2103 Fieldwork experience in outdoor education and environmental studies 2
+EDF2151 New literacies
+EDF2152 Diverse literacies
+EDF2161 Numeracy and mathematics for learning and life
+EDF2162 Subject knowledge for teaching: Measurement and geometry
+EDF2171 Motor control and skill acquisition
+EDF2172 Applied movement contexts in health and physical education 1
+EDF2173 Perspectives on health
+EDF2174 Outdoor education, learners and contexts
+EDF2175 Human interactions and relationships in outdoor education
+EDF2182 Innovation in pedagogy through film and new media
+EDF2210 Fostering positive child and adolescent behaviour and development
+EDF2211 Classroom practice
+EDF2213 English education 2
+EDF2214 Science education
+EDF2215 Mathematics education 2
+EDF2303 Movement, environment and community
+EDF2551 Understanding behaviour in classrooms and schools
+EDF2552 Learning and teaching for students with diverse needs in various education settings
+EDF3007 Developing multiple literacies in education
+EDF3009 Schooling, education and equity: Local and global perspectives
+EDF3010 Curriculum development and innovative practice
+EDF3021 Mathematics and numeracy 2
+EDF3022 Arts education in the primary years
+EDF3023 Advanced pedagogy in the primary years A
+EDF3024 Advanced pedagogy in the primary years B
+EDF3030 Diversity in child development
+EDF3031 Local and global perspectives in education policy
+EDF3032 Children's literature, storytelling and the arts
+EDF3033 Change and transition in children's education
+EDF3034 Children's literacy development
+EDF3035 Investigating our world: Science, technology and the environment
+EDF3036 Professional studies
+EDF3038 Professionalism, ethics and interdisciplinary work in education
+EDF3039 Leadership and management in education contexts
+EDF3050 Early years professional experience 3A
+EDF3051 Early years professional experience 3A
+EDF3052 Early years professional experience 3B
+EDF3053 Primary professional experience 3A
+EDF3054 Primary professional experience 3B
+EDF3055 Secondary professional experience 3A
+EDF3056 Secondary professional experience 3B
+EDF3057 Secondary professional experience 3C
+EDF3071 Community development and partnerships
+EDF3072 Leadership, policy and pedagogies in health and physical education
+EDF3073 Health, sustainability and wellbeing
+EDF3101 Professional experience 3A
+EDF3102 Professional experience 3B
+EDF3103 Fieldwork experience in outdoor education and environmental studies 3
+EDF3151 Literacy theory, policy and practice
+EDF3152 Leading English and literacy
+EDF3161 Subject knowledge for teaching: Statistics and probability
+EDF3162 Leading mathematics and numeracy
+EDF3171 Applied movement contexts in health and physical education 2
+EDF3172 Inclusion and diversity in movement contexts
+EDF3173 Food, health and wellbeing
+EDF3174 Experiencing outdoor environments
+EDF3175 Outdoor environments, education and sustainability
+EDF3181 Art, environment and community
+EDF3210 Education policy and practice
+EDF3211 Inclusive education: Teaching diverse learners
+EDF3212 Mathematics education 2
+EDF3213 Creative arts education
+EDF3216 Humanities and social sciences education in the primary and secondary years
+EDF3217 Digital technologies: Teaching, learning and the curriculum
+EDF3218 Curriculum, assessment and evaluation
+EDF3219 English education 2
+EDF3220 Health and physical education
+EDF3269 Secondary pedagogy A
+EDF3303 Integrating the curriculum 1: Creative exchange
+EDF3304 Integrating the curriculum 2: Different places
+EDF3306 Literacy
+EDF3551 Curriculum in inclusive education
+EDF3552 Teaching and learning of students needing increased support
+EDF3618 Research planning in sport and outdoor recreation
+EDF3622 Advanced sports coaching and development
+EDF4004 Curriculum, assessment and education policy
+EDF4006 Transition and professional engagement
+EDF4020 English and literacies 2
+EDF4022 Humanities and social education in the primary years
+EDF4023 Science and technology education in the primary years
+EDF4024 Health and physical education for wellbeing in the primary curriculum
+EDF4025 Studies of science, environment and sustainability
+EDF4026 Arts education in the primary years
+EDF4028 Understanding place, space and education
+EDF4029 Play in lifelong learning
+EDF4031 Sociology of early childhood
+EDF4032 Contemporary theories of learning development
+EDF4033 Innovation in curriculum and pedagogy in schools
+EDF4034 Educating the young mathematician
+EDF4035 Early childhood learning through new media and technologies
+EDF4037 Thinking mathematically in primary education
+EDF4041 Professional experience 4A
+EDF4042 Professional experience 4B
+EDF4050 Early years professional experience 4C
+EDF4051 Early years professional experience 4A
+EDF4052 Early years professional experience 4B
+EDF4053 Primary professional experience 4A
+EDF4054 Primary professional experience 4B
+EDF4055 Secondary professional experience 4A
+EDF4056 Secondary professional experience 4B
+EDF4059 Primary professional experience 4C
+EDF4100 Researching teaching and learning
+EDF4101 Research project in education
+EDF4120 Learning at the heart of teaching
+EDF4121 Teaching: The power to change
+EDF4122 Teaching partnerships: Working with families and communities
+EDF4123 Literacy across the years
+EDF4171 Advanced sport and exercise science
+EDF4205 Initiatives in health education
+EDF4251 Creative arts education
+EDF4252 Integrated approaches to science learning and teaching
+EDF4253 Humanities and social sciences education in the primary and secondary years
+EDF4254 Developing literacy and numeracy across the curriculum
+EDF4260 Curriculum, assessment and evaluation
+EDF4262 History education (P-10)
+EDF4264 Practical education and learning
+EDF4266 English education 3
+EDF4267 Mathematics education 3
+EDF4268 Health and physical education
+EDF4269 Secondary pedagogy B
+EDF4311 Professional contexts 1
+EDF4312 Professional contexts 2
+EDF4314 Entering the profession 2
+EDF4326 Early childhood field studies
+EDF4511 English as an additional language (EAL) in content areas
+EDF4512 Gifted education
+EDF4530 Lifespan development and counsellor identity
+EDF4531 Professional practice in counselling
+EDF4532 Introduction to mental health issues
+EDF4533 Counselling children and adolescents
+EDF4536 Counselling practice and theory
+EDF4537 Human growth and lifespan development
+EDF4538 Mental health issues: Grief, trauma and substance abuse
+EDF4539 Counselling in a multicultural context
+EDF4551 Collaborative principles, partnerships and procedures
+EDF4552 Advanced pedagogy
+EDF4600 Developmental psychology and wellbeing
+EDF4601 Ethics and professional issues
+EDF4602 Psychological assessment
+EDF4603 Behaviour change interventions for practitioners
+EDF4604 Research project
+EDF4605 Introduction to counselling psychology
+EDF4610 Interacting with research in education contexts
+EDF4611 Investigating education issues in global contexts
+EDF4730 Professional experience 1A
+EDF4731 Professional experience 1B
+EDF4733 Professional experience 2A
+EDF4734 Professional experience 2B
+EDF4803 Senior secondary physical education
+EDF4804 Senior secondary health education
+EDF5015 Professional experience 3B
+EDF5016 Inclusive teaching
+EDF5017 Numeracy for learners and teachers
+EDF5018 Curriculum, assessment and reporting
+EDF5019 Teacher as professional leader
+EDF5020 Early years numeracy and critical thinking
+EDF5021 Lenses on child development
+EDF5022 Science, technology and sustainability in early years
+EDF5023 Creative development for children
+EDF5024 Play and pedagogy
+EDF5025 Early childhood policy transformations
+EDF5026 Early years wellbeing and workplace safety
+EDF5030 Science education in the primary years
+EDF5031 Literacy and English education in the primary years
+EDF5032 Numeracy and mathematics education in the primary years
+EDF5033 Humanities and social sciences education in the primary years
+EDF5034 Arts and design education in the primary years
+EDF5035 Health and physical education in the primary years
+EDF5036 Arts, design and health education in the primary years
+EDF5040 Lifelong and workplace learning
+EDF5041 Engaging adolescent learners
+EDF5099 Education research project
+EDF5121 Accounting education in the secondary years A
+EDF5122 Accounting education in the secondary years B
+EDF5123 Biology education in the secondary years A
+EDF5124 Biology education in the secondary years B
+EDF5125 Business management education in the secondary years A
+EDF5126 Business management education in the secondary years B
+EDF5127 Chemistry education in the secondary years A
+EDF5128 Chemistry education in the secondary years B
+EDF5129 Drama education in the secondary years A
+EDF5130 Drama education in the secondary years B
+EDF5131 Economics education in the secondary years A
+EDF5132 Economics education in the secondary years B
+EDF5133 English as an additional language (EAL) education in the secondary years A
+EDF5134 English as an additional language (EAL) education in the secondary years B
+EDF5135 English education in the secondary years A
+EDF5136 English education in the secondary years B
+EDF5137 General science education in the secondary years A
+EDF5138 General science education in the secondary years B
+EDF5139 Geography education in the secondary years A
+EDF5140 Geography education in the secondary years B
+EDF5141 Health education in the secondary years A
+EDF5142 Health education in the secondary years B
+EDF5143 History education in the secondary years A
+EDF5144 History education in the secondary years B
+EDF5145 Information and communication technology education in the secondary years A
+EDF5146 Information and communication technology education in the secondary years B
+EDF5151 Honours thesis part 1
+EDF5152 Honours thesis part 2
+EDF5153 Honours thesis extension 1
+EDF5154 Honours thesis extension 2
+EDF5155 Languages education in the secondary years A
+EDF5156 Languages education in the secondary years B
+EDF5157 Languages education A
+EDF5158 Languages education B
+EDF5159 Legal studies education in the secondary years A
+EDF5160 Legal studies education in the secondary years B
+EDF5161 Mathematics education in the secondary years A
+EDF5162 Mathematics education in the secondary years B
+EDF5163 Media education in the secondary years A
+EDF5164 Media education in the secondary years B
+EDF5165 Music education in the secondary years 1A
+EDF5166 Music education in the secondary years 1B
+EDF5167 Music education in the secondary years 2A
+EDF5168 Music education in the secondary years 2B
+EDF5169 Outdoor education in the secondary years A
+EDF5170 Outdoor education in the secondary years B
+EDF5171 Physical education in the secondary years A
+EDF5172 Physical education in the secondary years B
+EDF5173 Physics education in the secondary years A
+EDF5174 Physics education in the secondary years B
+EDF5175 Psychology education in the secondary years A
+EDF5176 Psychology education in the secondary years B
+EDF5177 Social education in the secondary years A
+EDF5178 Social education in the secondary years B
+EDF5179 Visual art and design education in the secondary years 1A
+EDF5180 Visual art and design education in the secondary years 1B
+EDF5181 Visual art and design education in the secondary years 2A
+EDF5182 Visual art and design education in the secondary years 2B
+EDF5183 Teaching specialism in secondary education A
+EDF5184 Teaching specialism in secondary education B
+EDF5301 Introduction to STEM education
+EDF5302 Content, pedagogy and pedagogical content knowledge in STEM education
+EDF5303 Digital foundations of STEM education
+EDF5304 Contemporary practices of STEM education
+EDF5513 Evidence-based counselling in practice
+EDF5514 Applied psychological assessment and psychopathology
+EDF5515 Applied ethics and research practice
+EDF5516 Clinical and therapeutic interventions
+EDF5517 Professional experience in psychology
+EDF5530 Counselling skills for individuals, couples and groups
+EDF5531 Cognitive behaviour therapies
+EDF5532 Ethics for counsellors
+EDF5533 Advanced counselling practice
+EDF5534 Supervised professional counselling practice
+EDF5540 Children and adolescents counselling
+EDF5541 Personnel and career development counselling
+EDF5542 Counselling skills: Individuals and couples
+EDF5543 Ethics and professional issues in counselling and psychology
+EDF5544 Group counselling skills and psychotherapy
+EDF5545 Cognitive behaviour therapy
+EDF5546 Advanced personnel and career development counselling
+EDF5547 Counselling research design, statistics and program evaluation
+EDF5551 Psychological assessment and measurement
+EDF5552 Counselling practicum
+EDF5553 Research project in counselling
+EDF5554 Counselling internship
+EDF5613 Research approaches in education
+EDF5614 Research project in education
+EDF5620 Leading education and work
+EDF5621 Challenging curriculum, pedagogy and assessment
+EDF5622 Developing learners and learning
+EDF5623 Deepening education and sustainability
+EDF5632 Understanding inclusion in learning communities
+EDF5635 Leading capable organisations
+EDF5636 Leading organisational decision making
+EDF5637 Inner leadership: Understanding self and others
+EDF5640 Language, culture and curriculum
+EDF5641 Pedagogy and assessment in TESOL
+EDF5642 Bilingualism and content-based programs
+EDF5645 Educating the gifted
+EDF5646 Talent development and diversity
+EDF5647 Technology and education key issues and debates
+EDF5648 Instructional design: Harnessing digital technologies for learning
+EDF5649 Language and literacies across educational contexts
+EDF5650 Literacy leadership in schools, workplaces and communities
+EDF5651 Developing expertise in mathematics education
+EDF5652 Understanding research and leadership in science education
+EDF5653 Research perspectives in music education
+EDF5654 Teaching music: Theory and practice
+EDF5655 Expertise in teaching
+EDF5656 Practising inclusion
+EDF5657 Indigenous perspectives in professional practice
+EDF5658 Young people: Culture, communities and education
+EDF5659 Building partnerships with families and communities
+EDF5661 Designing learning for adults
+EDF5662 Leading local, rural and regional learning and participation
+EDF5663 Education and globalisation in the Asian century
+EDF5664 Learning through participation
+EDF5665 Environmental education, design and learning for sustainability
+EDF5666 Education, development and ecological sustainability
+EDF5667 Positive behaviour support
+EDF5670 Leadership studies
+EDF5671 Leadership challenge project
+EDF5672 Leadership in educational technology practices
+EDF5673 Leading mathematics and numeracy education
+EDF5674 Engaging with practices of contemporary science
+EDF5678 Leading learning communities
+EDF5691 Professional project
+EDF5692 Professional practice in special and inclusive education
+EDF5693 Using and evaluating research evidence
+EDF5694 Taking a stand in education debates
+EDF5695 Self-study as professional inquiry
+EDF5696 Professional practice for teachers of TESOL
+EDF5699 Extended teaching practice
+EDF5720 Developmental psychology and counselling and research
+EDF5721 Clinical interventions in educational and developmental psychology
+EDF5722 Cognitive, personality and educational assessment
+EDF5723 Exceptionality: Assessment and intervention
+EDF5731 Clinical placement in psychology 1
+EDF5732 Clinical placement in psychology 2
+EDF5733 Clinical placement in psychology 3
+EDF5741 Psychology thesis part 1
+EDF5742 Psychology thesis part 2
+EDF5810 VCAL and VET at school
+EDF5814 Creative research approaches
+EDF5905 Early years literacy and numeracy
+EDF5925 Early years professional experience 1
+EDF5926 Early years professional experience 2
+EDF5927 Early years professional experience 3
+EDF5928 Early years professional experience 4
+EDF5931 Primary professional experience 1
+EDF5932 Primary professional experience 2
+EDF5933 Primary professional experience 3
+EDF5934 Primary professional experience 4
+EDF5935 Primary professional experience 5
+EDF5936 Primary professional experience 6
+EDF5941 Secondary professional experience 1
+EDF5942 Secondary professional experience 2
+EDF5943 Secondary professional experience 3
+EDF5944 Secondary professional experience 4
+EDF6509 Clinical placement in psychology 3
+EDF6536 Psychology thesis part 2
+EDF6541 Field experience in counselling
+HED5031 Higher education project: Design and literature review
+HED5041 Research project development and implementation
+HED5052 Contemporary issues in higher education in South East Asia

@@ -1,0 +1,401 @@
+CEM6881 Scanning electron microscopy
+CEM6882 Transmission electron microscopy
+CHE2161 Mechanics of fluids
+CHE2162 Material and energy balances
+CHE2163 Heat and mass transfer
+CHE2164 Thermodynamics I
+CHE2166 Introduction to process simulation
+CHE2167 Process material selection
+CHE2871 Biochemistry for engineers
+CHE3161 Chemistry and chemical thermodynamics
+CHE3162 Process control
+CHE3163 Sustainable processing I
+CHE3164 Reaction engineering
+CHE3165 Separation processes
+CHE3166 Process design
+CHE3167 Transport phenomena and numerical methods
+CHE3171 Bioprocess technology
+CHE3172 Nanotechnology and materials 1
+CHE4161 Engineer in society
+CHE4162 Particle technology
+CHE4164 Integrated industrial project
+CHE4170 Design project
+CHE4171 Biochemical engineering
+CHE4172 Nanotechnology and materials 2
+CHE4173 Sustainable processing 2
+CHE4180 Chemical engineering project
+CHE5167 Pulp and paper laboratory
+CHE5290 Biomass resource and its utilisation
+CHE5291 Engineering aspects of biomass pulping
+CHE5292 Chemistry of biomass processing
+CHE5293 Processing fibres into paper
+CHE5294 Performance of paper products
+CHE5295 Control of processes and quality
+CHE5296 Minimising environmental impact
+CHE5297 Recycling and contaminant removal
+CHE5298 Biorefinery foundations
+CHE5299 Biorefinery processes
+CHE5881 Advanced reaction engineering
+CHE5882 Biomass and biorefineries
+CHE5883 Nanostructured membranes for separation and energy production
+CHE5884 Process modeling and optimisation
+CHE5885 Principles and practices for sustainable development
+CHE6881 Advanced reaction engineering
+CHE6882 Biomass and biorefineries
+CHE6883 Nanostructured membranes for separation and energy production
+CHE6884 Process modeling and optimisation
+CHE6885 Principles and practices for sustainable development
+CHM1752 Chemistry for engineering
+CIV2206 Mechanics of solids
+CIV2207 Computing and water systems modelling
+CIV2225 Design of steel and timber structures
+CIV2226 Design of concrete and masonry structures
+CIV2242 Geomechanics I
+CIV2263 Water systems
+CIV2282 Transport and traffic engineering
+CIV2283 Civil engineering construction
+CIV3203 Civil engineering construction
+CIV3204 Engineering investigation
+CIV3205 Project management for civil engineers
+CIV3221 Building structures and technology
+CIV3222 Bridge design and assessment
+CIV3247 Geomechanics II
+CIV3248 Groundwater and environmental geomechanics
+CIV3264 Urban water and wastewater systems
+CIV3283 Road engineering
+CIV4210 Project A
+CIV4211 Project B
+CIV4212 Civil and environmental engineering practice
+CIV4234 Advanced structural analysis
+CIV4235 Advanced structural design
+CIV4248 Ground hazards engineering
+CIV4249 Foundation engineering
+CIV4261 Integrated urban water management
+CIV4268 Water resources management
+CIV4283 Transport planning
+CIV4284 Traffic systems
+CIV5301 Advanced traffic engineering
+CIV5302 Traffic engineering and management
+CIV5303 Quantitative methods
+CIV5304 Intelligent transport systems
+CIV5305 Travel demand modelling
+CIV5306 Road safety engineering
+CIV5308 Transport and traffic systems project
+CIV5309 Transport and traffic data
+CIV5310 Infrastructure project and policy evaluation
+CIV5311 Infrastructure project management
+CIV5312 Asset management I
+CIV5313 Asset management II
+CIV5314 Planning urban transport systems
+CIV5315 Transport economics
+CIV5316 Fundamentals of urban public transport
+CIV5318 Intelligent transportation systems: engineering and management
+CIV5319 Quantitative methods for transportation systems analysis
+CIV5320 Case studies in transportation systems
+CIV5321 Sustainable transportation systems planning
+CIV5322 Urban public transportation systems
+CIV5406 Modelling transportation systems
+CIV5881 Ground water hydrology
+CIV5882 Flood hydraulics and hydrology
+CIV5883 Surface water hydrology
+CIV5884 Water sensitive stormwater design
+CIV5885 Infrastructure dynamics
+CIV5886 Infrastructure geomechanics
+CIV5887 Infrastructure rehabilitation and monitoring
+CIV5888 Advanced computational methods
+CIV6301 Advanced traffic engineering
+CIV6302 Traffic engineering and management
+CIV6305 Travel demand modelling
+CIV6314 Transport planning and policy
+CIV6881 Ground water hydrology
+CIV6882 Flood hydraulics and hydrology
+CIV6883 Surface water hydrology
+CIV6884 Water sensitive stormwater design
+CIV6885 Infrastructure dynamics
+CIV6886 Infrastructure geomechanics
+CIV6887 Infrastructure rehabilitation and monitoring
+CIV6888 Advanced computational methods
+ECE2011 Signal processing
+ECE2021 Electromagnetism
+ECE2031 Circuits and control
+ECE2041 Telecommunications
+ECE2061 Analogue electronics
+ECE2071 Computer organisation and programming
+ECE2072 Digital systems
+ECE2111 Signals and systems
+ECE2131 Electrical circuits
+ECE2191 Probability models in engineering
+ECE3022 Wireless and guided EM
+ECE3031 Control systems
+ECE3051 Electrical energy systems
+ECE3062 Electronic systems and control
+ECE3073 Computer systems
+ECE3091 Engineering design
+ECE3093 Optimisation estimation and numerical methods
+ECE3121 Engineering electromagnetics
+ECE3141 Information and networks
+ECE4012 Applied digital signal processing
+ECE4023 Radio frequency electronics
+ECE4024 Wireless communications
+ECE4032 Advanced control
+ECE4033 Industrial instrumentation and measurement technologies
+ECE4042 Communications theory
+ECE4043 Optical communications
+ECE4044 Telecommunications protocols
+ECE4045 Network performance
+ECE4053 Electrical energy - generation and supply
+ECE4054 Electrical energy - power converters and motor control
+ECE4055 Electrical energy - power electronic applications
+ECE4058 Electrical energy - high voltage engineering
+ECE4063 Large scale digital design
+ECE4064 Electronic test technology
+ECE4074 Advanced computer architecture
+ECE4075 Real time embedded systems
+ECE4076 Computer vision
+ECE4077 Advanced computing techniques
+ECE4078 Intelligent robotics
+ECE4081 Medical instrumentation
+ECE4084 Biomechanics of human musculoskeletal systems
+ECE4086 Medical imaging technology
+ECE4087 Medical technology innovation
+ECE4094 Project A
+ECE4095 Project B
+ECE4099 Professional practice
+ECE4122 Advanced electromagnetics
+ECE4808 Organic electronics and micro devices
+ECE4809 Solid state lighting
+ECE5881 Real-time system design
+ECE5882 Advanced electronics design
+ECE5883 Advanced signal processing
+ECE5884 Wireless communications
+ECE5885 Energy efficient lighting
+ECE5886 Smart grids
+ECE6881 Real-time system design
+ECE6882 Advanced electronics design
+ECE6883 Advanced signal processing
+ECE6884 Wireless communications
+ECE6885 Energy efficient lighting
+ECE6886 Smart grids
+ENE1621 Environmental engineering
+ENE2503 Materials properties and recycling
+ENE3048 Energy and the environment
+ENE3606 The air environment
+ENE3608 Environmental impact assessment and management systems
+ENE4607 Environmental risk assessment
+ENG1001 Engineering design: lighter, faster, stronger
+ENG1002 Engineering design: cleaner, safer, smarter
+ENG1003 Engineering mobile apps
+ENG1005 Engineering mathematics
+ENG1021 Spatial communication in engineering
+ENG1051 Materials for energy and sustainability
+ENG1060 Computing for engineers
+ENG1081 Physics for engineering
+ENG1090 Foundation mathematics
+ENG1210 Introduction to structural engineering
+ENG1211 Introduction to engineering systems
+ENG2000 Engineering load - branch selection pending
+ENG2001 E3007 - Branch Selection
+ENG2005 Advanced engineering mathematics
+ENG2121 Diagnostics for cultural heritage
+ENG2202 Steel structures
+ENG2203 Concrete structures
+ENG2204 Water systems
+ENG2206 Introduction to geoengineering
+ENG2207 Waterway engineering
+ENG2801 Leadership and innovation
+ENG3201 Project management for engineers
+ENG3202 Geoengineering
+ENG3203 Environmental geoengineering
+ENG3204 Water and wastewater
+ENG3205 Traffic and transport
+ENG3206 Civil and environmental engineering design
+ENG4001 Special studies in engineering 1
+ENG4002 Special studies in engineering 2
+ENG4201 Project
+ENG4203 Management of water resources
+ENG4204 Road engineering
+ENG4205 Project B
+ENG4700 Engineering technology for biomedical imaging and sensing
+ENG5001 Advanced engineering data analysis
+ENG5002 Engineering entrepreneurship
+ENG5003 Advanced design project A
+ENG5004 Advanced design project B
+ENG5005 Engineering project A
+ENG5006 Engineering project B
+ENG5007 Translation and commercialisation of medical technologies
+ENG5881 Minor project
+ENG6001 Advanced engineering data analysis
+ENG6002 Engineering entrepreneurship
+ENG6007 Translation and commercialisation of medical technologies
+ENV2792 Mathematical models of the environment
+MAE2401 Aircraft structures 1
+MAE2402 Thermodynamics and heat transfer
+MAE2403 Aerospace computational mechanics
+MAE2404 Aerodynamics I
+MAE2405 Aircraft performance
+MAE3401 Aerodynamics II
+MAE3402 Aerospace design project
+MAE3404 Flight vehicle dynamics
+MAE3405 Flight vehicle propulsion
+MAE3406 Aerospace materials
+MAE3407 Aircraft structures II
+MAE3408 Aerospace control
+MAE4404 Aerospace practices
+MAE4407 Instrumentation and avionics
+MAE4408 Damage tolerance and airworthiness
+MAE4409 Wing design
+MAE4904 Minor research project
+MAE4965 Advanced aerodynamics and turbulence
+MAE4980 Aircraft engines
+MAE5401 Aerodynamics
+MAE5402 Aircraft structures
+MAE5403 Composite airframes
+MAE5404 Airworthiness
+MAE5405 Avionics
+MAE5406 Computational fluid mechanics
+MAE5407 Computer aided design of aerospace structures
+MAE5408 Spaceflight dynamics
+MAE5409 Master of aerospace engineering: project thesis A
+MAE5410 Master of aerospace engineering: project thesis B
+MAT2731 Multivariate analysis
+MAT2742 Mathematical modeling of the environment
+MEC2401 Dynamics I
+MEC2402 Engineering design I
+MEC2403 Mechanics of materials
+MEC2404 Mechanics of fluids
+MEC2405 Thermodynamics
+MEC2407 Electromechanics
+MEC2456 Engineering computational analysis
+MEC3416 Engineering design II
+MEC3451 Fluid mechanics II
+MEC3453 Dynamics II
+MEC3454 Thermodynamics and heat transfer
+MEC3455 Solid mechanics
+MEC3456 Engineering computational analysis
+MEC3457 Systems and control
+MEC3458 Experimental project
+MEC3459 Materials selection for engineering design
+MEC4401 Final year project
+MEC4402 Final year project - Thesis
+MEC4404 Professional practice
+MEC4407 Engineering design III
+MEC4416 Momentum, energy & mass transport in engineering systems
+MEC4417 Refrigeration and air conditioning
+MEC4418 Control systems
+MEC4425 Micro/nano solid and fluid mechanics
+MEC4426 Computer-aided design
+MEC4428 Advanced dynamics
+MEC4444 Industrial noise and control
+MEC4446 Composite structures
+MEC4447 Computers in fluids and energy
+MEC4456 Robotics
+MEC4459 Wind engineering
+MEC4801 Non-destructive testing and inspection
+MEC4802 Sustainable engineering and design with nanomaterials
+MEC4803 Internal combustion engines
+MEC5415 Research Seminar
+MEC5881 Engineering systems performance analysis
+MEC5882 Instrumentation, sensing and monitoring
+MEC5883 Mechanical systems design
+MEC5884 Sustainable engineering systems
+MEC5885 Energy efficiency and sustainability engineering
+MEC5886 Sustainable energy technologies
+MEC5887 Environmental and air pollution control
+MEC5888 Renewable energy systems
+MEC5889 Medical device technologies
+MEC6410 Research practices
+MEC6881 Engineering systems performance analysis
+MEC6882 Instrumentation, sensing and monitoring
+MEC6883 Mechanical systems design
+MEC6884 Sustainable engineering systems
+MEC6885 Energy efficiency and sustainability engineering
+MEC6886 Sustainable energy technologies
+MEC6887 Environmental and air pollution control
+MEC6888 Renewable energy systems
+MEC6889 Medical device technologies
+MNE1010 Natural resources engineering
+MNE2010 Fixed plant engineering
+MNE2030 Project, risk and safety management
+MNE3010 Rock mechanics
+MNE3020 Resource estimation
+MNE3030 Ventilation
+MNE3040 Surface mining systems
+MNE3050 Underground mining
+MNE3060 Blasting and fragmentation
+MNE4010 Mine planning and scheduling
+MNE4020 Design and feasibility project
+MNE4030 Mine management and economics
+MNE4040 Mineral processing
+MNE4070 Research project 3
+MNE4120 Instrumentation, automation and asset management
+MRE5001 Terotechnology and life cycle costs
+MRE5002 Maintenance management
+MRE5003 Industrial techniques in maintenance management
+MRE5004 Asset management techniques
+MRE5005 Quantitative techniques for asset management
+MRE5006 Machine condition monitoring and fault diagnosis
+MRE5007 Risk engineering
+MRE5008 Maintenance and reliability engineering project
+MRE5101 Basic quantitative skills for reliability engineering
+MRE5102 Understanding reliability
+MRE5103 Advanced reliability
+MRE5104 Reliability applications
+MTE2541 Crystal structures, thermodynamics and phase equilibria
+MTE2542 Microstructural development
+MTE2544 Functional materials
+MTE2545 Polymers and ceramics I
+MTE2546 Mechanics of materials
+MTE2547 Structure-property relationships in materials
+MTE2548 Biomaterials I
+MTE3541 Materials durability
+MTE3542 Microstructural design in structural materials
+MTE3543 Microstructure to applications: the mechanics of materials
+MTE3544 Management and practice in materials engineering
+MTE3545 Functional materials and devices
+MTE3546 Polymers and ceramics II
+MTE3547 Materials characterisation and modelling
+MTE4525 Project I
+MTE4526 Project II
+MTE4571 Materials engineering design and practice
+MTE4572 Polymer and composite processing and engineering
+MTE4573 Processing and engineering of metals and ceramics
+MTE4590 Modelling of materials
+MTE4592 Advanced ceramics and applications
+MTE4593 Materials and sustainability
+MTE4594 Engineering alloy design, processing and selection
+MTE4595 Corrosion mechanisms and protection methods
+MTE4596 Biomaterials II
+MTE4597 Engineering with nanomaterials
+MTE4598 Electron microscopy
+MTE5881 Advanced materials characterisation and applied crystallography
+MTE5882 Advanced polymeric materials
+MTE5883 Environmental durability and protection of metals and engineering materials
+MTE5884 Advanced photovoltaics and energy storage
+MTE5885 Biomaterials and biomechanics
+MTE5886 Additive manufacturing of metallic materials
+MTE5887 Additive manufacturing of polymeric and functional materials
+MTE6881 Advanced materials characterisation and applied crystallography
+MTE6882 Advanced polymeric materials
+MTE6883 Environmental durability and protection of metals and engineering materials
+MTE6884 Advanced photovoltaics and energy storage
+MTE6885 Biomaterials and biomechanics
+MTE6886 Additive manufacturing of metallic materials
+MTE6887 Additive manufacturing of polymeric and functional materials
+PHS1711 Applied physics
+RSE4111 Numerical modelling
+RSE4112 Advanced rock mechanics
+TRC2001 Introduction to systems engineering
+TRC2200 Thermo-fluids and power systems
+TRC2201 Mechanics
+TRC3000 Mechatronics project II
+TRC3200 Dynamical systems
+TRC3500 Sensors and artificial perception
+TRC3600 Modelling and control
+TRC3801 Mechatronics and manufacturing
+TRC4000 Mechatronics final year project I
+TRC4001 Mechatronics final year project II
+TRC4002 Professional practice
+TRC4100 Bio-interfacing devices
+TRC4800 Robotics
+TRC4900 Real time embedded systems
+TRC4901 Computation intelligence and AI

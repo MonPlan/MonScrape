@@ -1,0 +1,127 @@
+PAC1001 Introduction to Pharmacy
+PAC2151 Biochemistry and molecular biology
+PAC2161 Cell function, communication and pathology
+PAC2171 Basis of drug action I
+PAC2182 Basis of drug action II
+PAC2232 Drug delivery and disposition
+PAC2331 Pharmacists as communicators
+PAC2342 Pharmacy in a public health context
+PAC2412 Integrated therapeutics: Introduction and cardiovascular
+PAC3191 Microbiology and immunology
+PAC3241 Drug delivery, disposition and dynamics
+PAC3252 Drug delivery II
+PAC3351 Context for practice I
+PAC3362 Context for practice II
+PAC3421 Integrated therapeutics: Respiratory and gastrointestinal disease
+PAC3432 Integrated therapeutics: Infectious disease
+PAC3512 Current aspects of pharmaceutical research
+PAC3522 Applied research project
+PAC3542 Leadership
+PAC3552 Community engagement
+PAC4261 Drug delivery and development
+PAC4371 Professional experience placement program
+PAC4382 Context for practice III
+PAC4441 Integrated therapeutics: Endocrinology and renal
+PAC4451 Integrated therapeutics: Dermatology and pain
+PAC4462 Integrated therapeutics: Neurology and oncology
+PAC4472 Integrated therapeutics: Mental Health
+PAC4482 Preparation for practice
+PGC5005 Journal club
+PGC5006 Speciality clinical placement
+PGC5007 Introduction to clinical research
+PGC5009 Clinical research 3
+PGC5101 Evidence based practice
+PGC5102 Patient data and pharmacotherapy 1
+PGC5103 Patient data and pharmacotherapy 2
+PGC5104 Patient data and pharmacotherapy 3
+PGC5107 Introduction to clinical research
+PGC5108 Clinical research 2
+PGC5109 Clinical research 3
+PGC5110 Infectious diseases pharmacotherapy
+PGC5113 Dermatology
+PGC5115 Geriatric pharmacy practice
+PGC5116 Geriatric disease state management
+PGC5117 Mental health
+PGC5118 Palliative care
+PGC5119 Advanced practice portfolio
+PGP5011 Applied pharmacy practice 1
+PGP5012 Applied pharmacy practice 2
+PGP5014 Clinical educator preparation
+PGP5021 Foundation practice 1
+PGP5022 Foundation practice 2
+PGW5101 Biology of wound healing
+PGW5103 Wound dressings
+PGW5104 Management of acute wounds
+PGW5105 Management of chronic wounds
+PGW5106 Systemic medication and wound healing
+PGW5108 Nutrition in wound healing
+PGW5109 Dermatology
+PGW5111 Alternative therapies
+PGW5112 Scar management
+PGW5123 Management of burns
+PGW5127 Practical wound care training and assessment
+PGW5201 Principles of wound healing
+PGW5202 Wound assessment
+PGW5203 Wound management principles
+PGW5204 Acute and chronic wounds
+PGW5205 Integrated wound care practice
+PGW5206 The diabetes foot
+PGW5207 Pressure injury management
+PGW5208 Advanced clinical practice in wound care
+PGW5209 Clinical risk management and wound care
+PGW5210 Burns and scar management
+PGW5211 Non-healing wounds and pain management
+PHR1011 Professional Practice I
+PHR1012 Professional Practice II
+PHR1021 How Medicines Work I
+PHR1022 How Medicines Work II
+PHR1031 How the Body Works
+PSC1011 Physiology I
+PSC1012 Physiology II
+PSC1021 Bioorganic and medicinal chemistry I
+PSC1022 Bioorganic and medicinal chemistry II
+PSC1031 Physical chemistry I
+PSC1032 Physical chemistry II
+PSC1041 Scientific Inquiry
+PSC1042 Multi-disciplinary Pharmaceutical Science
+PSC2011 Biochemical pharmacology
+PSC2012 Molecular pharmacology
+PSC2021 Structural organic chemistry
+PSC2031 Analytical methods
+PSC2041 Biopharmaceutics
+PSC2122 Synthetic organic chemistry
+PSC2132 Introduction to spectroscopy
+PSC2142 Computational chemistry
+PSC2222 Formulation chemistry
+PSC2232 Colloid chemistry
+PSC2322 Molecular cell biology
+PSC2332 Diseased-focused pharmacology - Peripheral
+PSC3041 Applied analytical methods
+PSC3111 Molecular basis of drug action
+PSC3112 Drug discovery and development
+PSC3121 Advanced Synthetic organic chemistry
+PSC3122 Applied Medicinal Chemistry
+PSC3131 Analysis of drug-receptor interactions
+PSC3132 Medicinal Chemistry Research Placement
+PSC3142 Computational drug design
+PSC3211 Industrial Formulation
+PSC3212 Product Commercialisation
+PSC3221 Biomolecule formulation & modified release technologies
+PSC3222 Advanced formulation and nanotechnology
+PSC3231 Pharmaceutical Product Manufacture
+PSC3232 Formulation Science Placement
+PSC3311 Microbiology and immunology
+PSC3321 Disease-Focused Pharmacology CNS
+PSC3322 Current aspects of cancer biology
+PSC3332 Drug Discovery Biology research placement
+PSC3432 Medicinal Chemistry pre-honours research project
+PSC3532 Formulation Science pre-honours research project
+PSC3632 Drug Discovery Biology pre-honours research project
+PSC4111 Advanced medicinal chemistry
+PSC4112 Research in medicinal chemistry
+PSC4211 Advanced formulation science
+PSC4212 Research in formulation science
+PSC4311 Advanced drug discovery biology
+PSC4312 Research in drug discovery biology
+PSC4411 Advanced medicine use and safety
+PSC4412 Research in Medicine Use and Safety

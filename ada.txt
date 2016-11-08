@@ -1,0 +1,493 @@
+ADA1111 Design thinking
+ADA2001 Interdisciplinary studio 1
+ADA3001 Interdisciplinary studio 2
+ADA3111 Design thinking
+ADA4001 Interdisciplinary studio 3
+ADA4111 Design thinking advanced
+ADA4500 Design thinking approaches
+ADA5001 Interdisciplinary studio 4
+ADD5091 Research methods 1
+ADD5092 Research methods 2
+ADD6093 Research documentation
+ADM5001 Research methods
+ADM5002 Theory workshop
+AHT1101 Introduction to visual culture in Art Design & Architecture
+AHT1102 Modernism and the avant-garde
+AHT2001 Art writing and criticism
+AHT2011 Baroque to enlightenment: European art before modernism
+AHT2025 The body in contemporary art
+AHT2102 International art 1945-1990
+AHT2105 Contemporary international art
+AHT2120 Art and social change
+AHT2130 Renaissance to Baroque: Italian art and architecture in context
+AHT2136 Contemporary art fieldwork: context and site
+AHT2137 Art and the moving image
+AHT2138 Space, place and society
+AHT2207 Popular culture
+AHT2440 Photography: History and theory
+AHT2530 Neo-Baroque aesthetics: History and theory
+AHT2602 Art criticism and curatorship
+AHT2712 Curating: Histories and theories
+AHT2722 Curating: Practices
+AHT2740 Australian art
+AHT2801 The medium in contemporary art
+AHT3001 Art writing and criticism
+AHT3011 Baroque to enlightenment: European art before modernism
+AHT3025 The body in contemporary art
+AHT3102 International art 1945-1990
+AHT3105 Contemporary international art
+AHT3109 Constructing art in Australia: colonialism to postcolonialism
+AHT3120 Art and social change
+AHT3130 Renaissance to Baroque: Italian art and architecture in context
+AHT3137 Art and the moving image
+AHT3138 Space, place and society
+AHT3150 Project studies
+AHT3207 Popular culture
+AHT3440 Photography: History and theory
+AHT3530 Neo-Baroque aesthetics: History and theory
+AHT3602 Art Criticism and Curatorship
+AHT3712 Curating: Histories and theories
+AHT3722 Curating: Practices
+AHT3740 Australian art
+AHT3801 The medium in contemporary art
+AHT4002(A) Minor Thesis Part 1
+AHT4002(B) Minor Thesis Part 2
+AHT4012 Visual culture and its theories
+AHT4025 Visual culture internship
+AHT4076 Australian postmodernism
+AHT4100 Theory reading unit
+AHT4111 Project studies. Art history and theory honours
+AHT4112 Major project - Art history and theory honours
+AHT4200 Advanced art theory reading unit
+AHT4406 Curating internship
+AHT4503 Advanced art theory
+AHT4504 Art theory research seminar
+ARC1001 Foundation studio 1
+ARC1002 Foundation studio 2
+ARC1102 Technologies and environments 1
+ARC1301 Architecture communications 1
+ARC1401 Introduction to architectural and visual cultures
+ARC2001 Architecture Design Studio 3
+ARC2002 Architecture Design Studio 4
+ARC2101 Technologies and environments 2
+ARC2301 Architecture communications 2
+ARC2401 Contemporary architecture
+ARC2402 19th and 20th century architecture
+ARC3001 Architecture Design Studio 5
+ARC3002 Architecture Design Studio 6
+ARC3101 Technologies and environments 3
+ARC3102 Integrated technologies, environments and professional studies
+ARC3401 Architecture and the City
+ARC3501 Advanced studies in architecture A
+ARC3502 Advanced studies in architecture B
+ARC4001 Advanced architecture project 1
+ARC4002 Advanced architecture project 2
+ARC4101 Integrated project- technologies, environments and professional practices
+ARC4201 Professional studies 1
+ARC4501 Advanced architecture studies 1
+ARC4502 Advanced architecture studies 2
+ARC5001 Advanced architecture project 3
+ARC5002 Final architecture project
+ARC5201 Professional practices
+ARC5401 Architecture Research Methods
+ARC5501 Advanced architecture studies 3
+ARC5502 Advanced Studies in Architecture 4
+CDS1001 Communication Design Studio 1A
+CDS1002 Communication Design Studio 1B
+CDS1511 Photographic art direction
+CDS1531 Illustration for narrative
+CDS2001 Communication Design Studio 2A
+CDS2002 Communication Design Studio 2B
+CDS2511 Branding for designers
+CDS2512 Packaging design
+CDS2521 Creative coding
+CDS2522 Creative expression through physical computing
+CDS2523 Creative visualisation
+CDS2524 Unconventional publishing
+CDS2531 Illustration for animation
+CDS3001 Communication Design Studio 3A
+CDS3002 Communication Design Studio 3B
+CDS4001 Major project communication design part 1
+CDS4002 Major project communication design part 2
+CER1111 Ceramic practice and theory 1A
+CER1112 Ceramic practice and theory 2A
+CER2113 Ceramic practice and theory 3A
+CER2114 Ceramic practice and theory 4A
+CER2123 Ceramic practice and theory 3B
+CER2124 Ceramic practice and theory 4B
+CER3115 Ceramic practice and theory 5
+CER3116 Ceramic practice and theory 6
+DGN1001 Design studio 1
+DGN1104 Interdisciplinary design studio 2
+DGN2000 Interdisciplinary Design
+DGN2003 Interdisciplinary design studio 3
+DGN2004 Interdisciplinary design studio 4
+DGN3105 Interdisciplinary design studio 5
+DGN3106 Interdisciplinary design studio 6
+DGN4001 Major project (design) part 1
+DGN4002 Major project (design) part 2
+DIS1103 Digital processes for art and design 1
+DIS1704 Web design
+DIS1911 3D design and visualisation
+DIS1912 Virtual space A
+DIS2105 Digital imaging
+DIS2601 Digital audio/video
+DIS2904 3D modeling
+DIS2906 Design for multimedia
+DIS2907 3D animation
+DIS2909 Electronic design
+DIS2910 Virtual space B
+DIS3010 Digital Media Studio A
+DIS3020 Digital Media Studio B
+DIS3901 Interactive animation
+DIS3902 3D imaging studio
+DIS3903 Digital imaging - the moving image
+DIS3904 Digital imaging studio
+DIS3905 Digital audio video - advanced production
+DIS3906 Digital publication
+DIS4201 3D animation and virtual space
+DIS4604 Digital audio/video
+DIS5201 3D animation virtual space
+DIS5604 Digital audio/video
+DRW1201 Drawing 1A
+DRW1202 Drawing 2A
+DWG1103 Visual thinking and communication
+DWG1201 Drawing 1
+DWG1202 Drawing 2B (fine art/visual arts)
+DWG1301 Drawing 1C
+DWG2501 Drawing: Landscape, space and environment
+DWG2504 Drawing: Advanced studies 1
+DWG2506 Drawing: Social based strategies
+DWG2507 Drawing Conceptual studies 1
+DWG2508 Drawing Conceptual studies 2
+DWG2509 Drawing: The body 1
+DWG2510 Perceptual drawing A
+DWG2511 Drawing: Anatomy 1
+DWG2784 Visual investigation
+DWG3508 Drawing (concept and research) C
+DWG3511 Drawing: Contemporary practice
+DWG3516 Drawing: Anatomy 2
+DWG3518 Drawing: Advanced studies 2
+DWG3519 Drawing: The Body 2
+DWG3520 Perceptual drawing B
+DWG3529 Drawing: The body 3
+FNA1111 Introduction to Contemporary Practices 1
+FNA1112 Introduction to Contemporary Practices 2
+FNA2003 3D digital modelling for artists
+FNA2111 Contemporary Practices 3
+FNA2112 Contemporary Practices 4
+FNA2903 Art and Design in film
+FNA3111 Contemporary Practices 5
+FNA3112 Contemporary Practices 6
+FNA3903 Film practice
+FNA4001 Project studies (fine art honours)
+FNA4002 Major project (fine art honours)
+FNA4011 Studio methodology
+GLS1211 Contemporary glass practices
+GLS1212 Glass practice and theory 2A
+GLS1231 Contemporary glass blowing practices
+GLS1242 Glass practice and theory 2B
+GLS2213 Contemporary glass sculpture
+GLS2214 Glass practice and theory 4A
+GLS2223 Contemporary blown and sculpted glass
+GLS2224 Glass practice and theory 4B
+GLS3215 Glass practice and theory 5
+GLS3216 Glass practice and theory 6
+GVA1203 Photography 1
+GVA1611 Sculpture practice 1
+GVA1612 Sculpture practice 2
+GVA2207 Photography and Photomedia processes
+GVA2208 Photography and Photomedia fabrication
+GVA2223 Minor printmaking 3
+GVA2423 Minor sculpture/woodcraft 3
+GVA2723 Minor photography 3
+GVA3202 Professional practice
+GVA3207 Photography and Photomedia project 1A
+GVA3224 Minor printmaking 4
+GVA3424 Minor sculpture/woodcraft 4
+GVA3724 Minor photography 4
+IAR1112 Interior architecture studio 2
+IAR1113 Interior architecture studio 1
+IAR1114 Interior architecture studio 2
+IAR1211 Building construction and materials A
+IAR1401 Communication methods for interior architecture
+IAR1411 Communication and media
+IAR1602 Constructions and environments 1
+IAR2113 Interior architecture studio 3
+IAR2114 Interior architecture studio 4
+IAR2115 Interior architecture studio 3
+IAR2116 Interior architecture studio 4
+IAR2204 Building materials and construction B
+IAR2205 The production of space and place
+IAR2303 Structures and services A
+IAR2401 Interior architecture modelling
+IAR2411 Contemporary interior architecture
+IAR2501 Retail design 1
+IAR2601 Constructions and environments 2
+IAR2602 Constructions and environments 3
+IAR3115 Interior architecture studio 5
+IAR3116 Interior architecture studio 6
+IAR3117 Interior architecture studio 5
+IAR3118 Interior architecture studio 6
+IAR3205 Building construction and materials C
+IAR3303 Folio and reflection
+IAR3308 Structure and services B
+IAR3401 Interior architecture history and theory
+IAR3501 Studies in interior architecture
+IAR4117 Interior architecture studio 7
+IAR4118 Interior architecture studio 8
+IAR4119 Interior architecture studio 7
+IAR4120 Interior architecture design research project
+IAR4406 Industrial experience
+IAR4500 Research: questions and processes
+IAR4501 Interior architecture design research documentation
+IDE1112 Industrial design studio 2
+IDE1502 Modelmaking and workshop practice
+IDE1602 Product drawing
+IDE1802 Materials and manufacturing 1
+IDE2113 Industrial design studio 3
+IDE2114 Industrial design studio 4
+IDE2120 Designing for sustainability
+IDE2211 Engineering drawing
+IDE2303 Ergonomics
+IDE2701 Product interface design
+IDE2810 Furniture 1
+IDE2811 Mechanics and electronics for industrial design
+IDE3105 Industrial design studio 5
+IDE3106 Industrial design studio 6
+IDE3115 Industrial design studio 5
+IDE3116 Industrial design studio 6
+IDE3302 Ergonomics 2
+IDE3812 Mobility design 1
+IDE3813 Mobility design 2
+IDE3814 Materials and manufacturing 2
+IDE3815 Furniture design 2
+IDE4117 Industrial design studio 7 (major project 1)
+IDE4118 Industrial design studio 8 (major project 2)
+IDE4809 Mobility design 3
+IDN1001 Industrial design studio 1
+IDN1002 Industrial design studio 2
+IDN2001 Industrial design studio 3
+IDN2101 Concept art for design
+IDN2102 Service design studio
+IDN3001 Industrial design studio 4
+IDN3002 Industrial design studio 5
+IDN4406 Industry placement for design
+JWL1311 Contemporary jewellery practice 1
+JWL1312 Contemporary jewellery practice 2
+JWL1331 Metals and jewellery practice and theory 1B
+JWL1342 Metals and jewellery practice and theory 2B
+JWL2313 Contemporary jewellery practice 3
+JWL2314 Contemporary jewellery practice 4
+JWL2323 Metals and jewellery practice and theory 3B
+JWL2324 Metals and jewellery practice and theory 4B
+JWL3315 Metals and jewellery practice and theory 5
+JWL3316 Metals and jewellery practice and theory 6
+MDC4000 Design project (Part 1)
+MDC4001 Design project (part 1)
+MDC4002 Design project (part 2)
+MDC4010 Advanced design communication
+MDC4100 Design project (part 1)
+MDC4110 Interaction design studio 1
+MDC4120 Multimedia design studio 1
+MDC4130 Collaborative design studio 1
+MDC4201 Fundamental interaction design studio 1
+MDC4202 Fundamental interaction design studio 2
+MDC4215 Interaction design lab 1
+MDC4216 Interaction design lab 2
+MDC4500 Design fundamentals studio
+MDC4550 Design technologies and processes
+MDC5000 Major design project
+MDC5001 Design project (part three)
+MDC5100 Major design project
+MDC5201 Fundamental interaction design studio 3
+MDC5202 Interaction design research project
+MDC5210 Interaction design studio 2
+MDC5215 Interaction design lab 3
+MDC5220 Multimedia design studio 2
+MDC5230 Collaborative design studio 2
+MDC5310 Interaction design studio 3
+MDC5320 Multimedia design studio 3
+MDC5330 Collaborative design studio 3
+MDC5340 Advanced studies in design
+MDS5022 Design theory workshop
+MDS5031 Research methods in design
+MMD1302 Multimedia & digital arts studio A
+MMD2303 Multimedia and digital arts studio B
+MMD2304 Multimedia and digital arts studio C
+MMD2306 Graphic user interface design
+MMD3305 Multimedia studio 5A
+MMD3306 Multimedia studio 6A
+MMD3307 Digital arts studio 5A
+MMD3308 Digital arts studio 6A
+MMD3713 Game design
+MMD4001 Multimedia design studio 1
+MMD4107 Major Project (Multimedia & Digital Arts) Part 1
+MMD4108 Major Project (Multimedia & Digital Arts) Part 2
+MMD5002 Multimedia design studio 2
+MMD5003 Multimedia Design Studio 3
+MVA4001 Studio discipline A
+MVA4002 Studio discipline B
+MVA4021 Philosophies of the studio A
+MVA4022 Philosophies of the studio B
+MVA5001 Studio project
+OHS1000 Introduction to art and design health and safety
+OHS1001 Gippsland Centre of art and design health and safety
+PHO1203 Photography 1
+PHO1204 Digital Imaging for Contemporary Art
+PHO2202 Advanced photography
+PHO2204 Video art and the moving image 1
+PHO2207 Photographic processes
+PHO2208 Photographic lighting studio
+PHO3201 Photography and video dialogues
+PHO3202 Photomedia virtual studio
+PHO3207 Photomedia project 1A
+PHO3208 Photomedia project 2
+PHO3209 Photomedia Project 1B
+PPR3102 Professional practice for interior architecture
+PPR3103 Project planning and professional practice for design and multimedia
+PPR3202 Professional practice B
+PPR4002 Professional practice and business planning for design
+PPR4102 Professional practice and business planning for design
+PPR5500 Design management and entrepreneurship
+PRM1001 The contemporary print: Etching and relief printmaking
+PRM1411 Printmedia practice and theory 1A
+PRM1412 Printmedia practice and theory 2A
+PRM1431 Printmedia practice and theory 1B
+PRM1442 Printmedia practice and theory 2B
+PRM1511 Artists' Books
+PRM2401 Screenprinting and the contemporary poster
+PRM2413 Printmedia practice and theory 3A
+PRM2414 Printmedia practice and theory 4A
+PRM2423 Printmedia practice and theory 3B
+PRM2424 Printmedia practice and theory 4B
+PRM2512 Artists' books 2
+PRM3415 Printmedia practice and theory 5
+PRM3416 Printmedia practice and theory 6
+PTG1001 Painting introduction: materials and methods
+PTG1025 Painting as an interdisciplinary practice A
+PTG1026 Painting as an interdisciplinary practice B
+PTG1511 Painting practice and theory 1A
+PTG1512 Painting practice and theory 2A
+PTG1531 Painting practice and theory 1B
+PTG1542 Painting practice and theory 2B
+PTG2030 Painting as an interdisciplinary practice C
+PTG2031 Abstraction and non-objective painting
+PTG2032 Painting: Installation and the expanded field
+PTG2033 Representational painting: Narrative and figuration
+PTG2034 Sound and space: Dematerialised form
+PTG2035 Interventions: Feminist and conceptual practices
+PTG2513 Painting practice and theory 3A
+PTG2514 Painting practice and theory 4A
+PTG2523 Painting practice and theory 3B
+PTG2524 Painting practice and theory 4B
+PTG3515 Painting practice and theory 5
+PTG3516 Painting practice and theory 6
+SCU1021 Contemporary casting
+SCU1022 Sculptural construction: Woodworking and welding
+SCU1611 Sculpture practice and theory 1A
+SCU1612 Sculpture practice and theory 2A
+SCU1631 Sculpture practice and theory 1B
+SCU1642 Sculpture practice and theory 2B
+SCU2021 Advanced moulding and casting
+SCU2022 Site specificity: Sculptural and installation interventions
+SCU2613 Sculpture practice and theory 3A
+SCU2614 Sculpture practice and theory 4A
+SCU2623 Sculpture practice and theory 3B
+SCU2624 Sculpture practice and theory 4B
+SCU3615 Sculpture practice and theory 5
+SCU3616 Sculpture practice and theory 6
+TAD1101 Introduction to visual culture in art design and architecture
+TAD1102 Modernism and the avant-gardes
+TAD2102 Post-war practices 2A
+TAD2109 Constructing art in Australia: colonialism to postcolonialism 2
+TAD2138 Space, Place and Society
+TAD2203 History and criticism of interiors and furniture 2A
+TAD2206 Ornament, meaning and design 2A
+TAD2207 Popular culture and contemporary communication 2
+TAD2214 Critical issues in design
+TAD3102 Post-war practices 3A
+TAD3105 Contemporary International Art since 1989
+TAD3109 Constructing art in Australia: colonialism to postcolonialism 3A
+TAD3203 History and criticism of interiors and furniture 3A
+TAD3206 Ornament, meaning and design 3A
+TAD3214 Contemporary discourse in design
+TAD4503 Advanced art theory
+TAD4504 Art theory research seminar
+TAD4523 Design research methods and seminar
+TAD4542 Research seminar in design
+TAD4793 Issues for multimedia practice
+TAD4794 Multimedia and society
+TAD5500 Exegesis
+TDN1002 Design and the avant-garde
+TDN2001 Sociologies of design
+TDN2002 Communication design theory
+TDN3001 Research for design
+TDN3002 Design strategy and professional practice
+TDN3003 Design criticism
+TDN4001 Research methods in industrial design
+TDN4401 Human factors for interaction design
+VAM4010 Visual culture and its theories
+VAM4021 Beyond the museum: Institutions and insurrections
+VAM5010 Visual culture and its theories
+VAM5021 Beyond the Museum: Institutions and Insurrections
+VCM1001 Visual communication
+VCM1002 Multimedia imaging (moving image studies)
+VCM4029 Designing multimedia systems
+VCM4101 Introduction to multimedia imaging
+VCM4601 Design principles for multimedia 1
+VCM4602 Design principles for multimedia 2
+VCM4604 Information design for multimedia
+VCM5001 Multimedia Product Development
+VCO1104 Graphic design studio 2
+VCO1203 Introduction to contemporary illustration
+VCO1302 Typography 1
+VCO1303 The language of graphic design
+VCO2003 Graphic design studio 3
+VCO2004 Graphic design studio 4
+VCO2204 Illustration as design
+VCO2205 Illustration for editorial
+VCO2304 Typography 2
+VCO2402 Advertising design 1
+VCO2409 Methods of production
+VCO2904 Image, communication and location
+VCO3005 Graphic design studio 5
+VCO3006 Graphic design studio 6
+VCO3206 Conceptual illustration
+VCO3207 The business of illustration
+VCO3305 Digital font design
+VCO3307 Typography 3
+VCO3403 Advertising design 2
+VCO4107 Major project (visual communication) part 1
+VCO4108 Major project (visual communication) part 2
+VCO4204 Illustration
+VIS1111 Visual arts studio 1
+VIS1112 Visual arts studio 2
+VIS2103 Visual arts studio 3
+VIS2104 Visual arts studio 4
+VIS2113 Visual arts studio 3A
+VIS2114 Visual arts studio 4A
+VIS3101 Co-operative Work Experience
+VIS3105 Visual arts studio 5
+VIS3106 Visual arts studio 6
+VIS4001 Project studies (visual arts honours)
+VIS4002 Major project (visual arts honours)
+VPR1001 Visual Practices 1
+VPR1002 Visual Practices 2
+VPR1011 Visual practices 1
+VPR1012 Visual practices 2
+VPR1113 Research practices
+VPR2001 Visual Practices 3
+VPR2002 Visual Practices 4
+VPR2011 Research practices advanced
+VPR2012 Professional practice
+VPR3001 Visual Practices 5
+VPR3002 Visual Practices 6
+VPR3011 Professional practice advanced
+VPR3012 Visual practices 3
+VSA4002(A) Minor thesis part 1
+VSA4002(B) Minor thesis part 2
+VSA4012 Visual culture and its theories
+VSA4022 Beyond the museum
+VSA4025 Visual culture internship
+VSA4076 Australian postmodernism

@@ -1,0 +1,790 @@
+ASC5001 Addiction science: A biopsychosocial overview
+ASC5002 Socio-cultural perspectives of addiction
+ASC5003 Addiction policies, prevention and public health
+ASC5004 Addiction assessment and treatment: Practice and innovation
+ASC5007 Recovery principles
+ASC5008 Co-occurring disorders in mental health and addiction
+ASC5009 Developmental factors: Children and families, youth and early interventions
+ASC5010 Gambling and other process addictions
+BEH1032 Evidence based practice, research and population health in community based emergency health services
+BEH1041 Human development and health across the lifespan
+BEH1042 Law, ethics and professionalism
+BEH2012 Paramedic management of respiratory conditions
+BEH2032 Paramedic clinical practice 1
+BEH2131 Paramedic management of cardiovascular conditions
+BEH2141 The paramedic in the community
+BEH2152 Pharmacotherapy in community-based emergency health
+BEH2201 Paramedic management of mental health
+BEH3011 Paramedic management of medical conditions
+BEH3012 Clinical education, leadership and emergency preparedness
+BEH3022 Research and contemporary challenges in community based emergency health
+BEH3030 Integrated clinical practice
+BEH3032 Paramedic management of critical care specialty situations
+BEH3071 Extended care paramedic practice
+BEH3121 Paramedic management of toxicological and environmental conditions
+BEH3161 Paramedic management of maternal and neonatal health
+BEH4100 Honours literature review
+BEH4200 Honours research proposal
+BEH4300 Honours research report
+BMA1011 Foundations of anatomy and physiology for health practice 1
+BMA1012 Foundations of anatomy and physiology for health practice 2
+BMA1901 Human structure and function 1
+BMA1902 Human structure and function 2
+BMA1912 Human bioscience in nursing
+BMA2901 Processes of disease
+BMA2902 Communicable diseases
+BMA5011 Introduction to Anatomy and Physiology
+BME3032 Introduction to the health system
+BME3082 Fetal and neonatal development
+BMS1011 Biomedical chemistry
+BMS1021 Cells, tissues and organisms
+BMS1031 Medical biophysics
+BMS1042 Public health and preventive medicine
+BMS1052 Human neurobiology
+BMS1062 Molecular biology
+BMS2011 Structure of the human body: An evolutionary and functional perspective
+BMS2021 Human molecular cell biology
+BMS2031 Body systems
+BMS2042 Human genetics
+BMS2052 Microbes in health and disease
+BMS2062 Introduction to bioinformatics
+BMS3021 Molecular medicine and biotechnology
+BMS3031 Molecular mechanisms of disease
+BMS3052 Biomedical basis and epidemiology of human disease
+BMS3930 Action in biomedical science major research project
+BMS3990 Action in biomedical science minor research project
+BMS4100 Biomedical science research project
+BMS4200 Advanced studies in biomedical science
+BMS4301 Advanced studies in biomedical science
+BMS4302 Biomedical science research project
+BMS5001 Introduction to research and research methodology
+BMS5002 Research skills and techniques
+BMS5003 Infectious diseases and population health
+BMS5004 Advanced neuroscience
+BMS5005 Regenerative medicine and stem cells
+BMS5006 Cardiovascular biology and disease
+BMS5007 Biotechnology: Commercialising biomedical science
+BMS5008 Research project and thesis
+BMS5100 Research Project in Biomedical Sciences
+BMS5101 Research Project in Biomedical Sciences (Part-time)
+BMS5200 Advanced Studies in Biomedical Sciences
+BMS5201 Advanced Studies in Biomedical Sciences (Part-time)
+BND3101 Evidence based management
+BND3102 Introduction to dietetic practice
+BND3202 Food for dietetic practice
+BND3302 Dietetic practice 1
+BND4082 Improving the populations nutrition
+BND4092 Practice and research in public health nutrition
+BND4102 Practice and research in dietetics
+BND4402 Dietetic practice 2
+BNS3021 Neurochemistry and behaviour
+BNS3052 Drugs, brain and altered awareness
+BNS3062 Imaging and brain disorders
+BNS4100 Behavioural neuroscience honours: Research project
+BNS4200 Behavioural neuroscience honours: Research design and analysis
+CCS5100 Research Project in Medical Science
+CCS5101 Research Project in Medical Science (Part-time)
+CCS5200 Advanced Studies in Medical Science
+CCS5201 Advanced Studies in Medical Science (Part-time)
+CCS5300 Research Project in Health Sciences
+CCS5301 Research Project in Health Sciences (Part-time)
+CCS5400 Advanced Studies in Health Sciences
+CCS5401 Advanced Studies in Health Sciences (Part-time)
+CMH5001 Mental health practice essentials
+CMH5002 The context for mental health practice
+CMH5003 Concepts in mental health illness
+CMH5004 Recovery oriented mental health practice
+CMH5005 Mental health of the elderly
+CMH5006 Transcultural mental health
+CPS5001 Psychoanalytic and developmental theories 1
+CPS5002 Normal developmental observation
+CPS5003 Psychoanalytic and developmental theories 2
+CPS5004 Psychodynamic assessment of children and adolescents
+CPS5005 Principles of child psychotherapy
+CPS5006 Principles of adolescent psychotherapy
+CPS5007 Principles of short term therapy and crisis work
+CPS5008 Principles of working with parents
+DPH6005 Doctor of public health: Public health practice
+DPSY5101 Psychopathology part 1
+DPSY5102 Psychological assessment part 1
+DPSY5103 Research methods in professional psychology
+DPSY5104 Ethics and Professional Practice
+DPSY5105 Clinical developmental psychology
+DPSY5161 Ethics and Professional Practice in Neuropsychology
+DPSY5162 Neuroanatomy for the clinical neuropsychologist
+DPSY5201 Psychopathology part 2
+DPSY5203 Theories and techniques of intervention part 1
+DPSY5261 Neuropsychological models of cognition and behaviour part 1
+DPSY5262 Case analysis and professional practice in neuropsychology 1
+DPSY5263 Neuropsychological assessment
+DPSY5265 Neuropsychological syndromes
+DPSY5299 Introductory practicum
+DPSY6103 Theories and techniques of intervention part 2
+DPSY6105 Psychopharmacology
+DPSY6107 Health psychology and behavioural medicine
+DPSY6162 Case analysis and professional practice in neuropsychology 2
+DPSY6199 Intermediate practicum
+DPSY6204 Clinical neuropsychology
+DPSY6261 Developmental neuropsychology
+DPSY6262 Case analysis and professional practice in neuropsychology 3
+DPSY6263 Recovery of function and rehabilitation after brain injury
+DPSY6299 Advanced practicum
+DPSY6399 Specialised clinical practicum
+DPSY7131 Advanced Clinical Psychology: General
+DPSY7141 Advanced Clinical Psychology: Child, adolescent and family
+DPSY7199 Advanced specialised practicum
+EPM5001 Health indicators and health surveys
+EPM5002 Mathematical background for biostatistics
+EPM5003 Principles of statistical inference
+EPM5004 Linear models
+EPM5005 Data management and statistical computing
+EPM5006 Clinical biostatistics
+EPM5007 Design of randomised controlled trials
+EPM5008 Longitudinal and correlated data analysis
+EPM5009 Categorical data and generalised linear models
+EPM5010 Survival analysis
+EPM5011 Biostatistics practical project - double unit
+EPM5012 Bioinformatics
+EPM5013 Bayesian statistical methods
+EPM5014 Probability and distribution theory
+EPM5015 Biostatistics practical project - single unit
+EPM5023 Foundations of international health
+EPP1011 The contemporary paramedic
+EPP1012 Clinical concepts of paramedic practice 1
+EPP2011 Clinical concepts of paramedic practice 2
+EPP2032 Paramedic clinical practice
+EPP2042 Paramedic management of trauma conditions
+FBS5001 Fundamentals of forensic behavioural science
+FBS5002 The role of mental health in criminal offending
+FBS5004 Developmental aspects of forensic behavioural science
+FBS5005 The assessment and management of problem behaviours
+FOR4001 Medical evidence
+FOR4002 Injury interpretation
+FOR4003 Ethics, medicine and the law
+FOR4004 Elements of the forensic sciences
+FOR5005 Adult sexual assault
+FOR5006 Traffic medicine
+FOR5007 Elements of forensic toxicology
+FOR5008 Custodial medicine
+FOR5009 Advanced issues in sexual violence
+FOR5010 Project in forensic medicine
+FOR5011 Advanced issues in non-accidental injury of children
+FOR5012 Child and adolescent sexual abuse
+FOR5013 Non accidental injury in childhood
+FOR5014 Elements of forensic odontology
+FOR5015 Post mortem dental identification: Principles and methods
+FOR5016 Clinical forensic odontology
+FOR5017 Disaster victim identification (DVI): Principles and methods
+FOR5018 Elements of forensic anthropology
+FOR5020 Forensic cross sectional imaging
+FOR5021 Mortuary technical science
+FPA5004 Autopsy practice
+FPA5007 Death investigation
+GHS5841 Research and evidence for practice
+GHS5850 Nursing leadership and management
+GMA1010 Foundations of medical practice
+GMA2000 Year A final grade
+GRS4101 Introduction to reproductive endocrinology
+GRS4102 Gonadal development and function
+GRS4103 Pregnancy and parturition
+GRS4104 Reproductive health
+GRS4105 Fertility regulation
+GRS4201 Comparative reproduction and conservation
+GRS4202 Assisted reproductive and genetic technologies
+HPE5001 Teaching and learning in health professional education
+HPE5002 Clinical teaching
+HPE5003 Assessment in health professional education
+HPE5004 Course design and educational change management
+HPE5011 Educational research methods for the health professions
+HPE5012 Foundations of simulation in health professional education
+HPE5013 Independent project in health professional education
+HPE5014 Applied simulation
+HPE5015 Contemporary research and innovations in health professional education
+HSC1100 Introduction to research and evidence
+HSC1200 Introduction to public health
+HSC1300 Human health and disease
+HSC1400 The Australian healthcare system
+HSC2062 Communicating health
+HSC2092 Community development and partnership
+HSC2100 Emerging challenges in health
+HSC2102 Introduction to clinical research
+HSC2141 Analysing patterns of health and disease
+HSC2200 Health and the human lifespan
+HSC2300 Health promotion and disease prevention
+HSC3001 Health, law and ethics
+HSC3002 Health for all in a global world
+HSC3011 Contemporary health challenges
+HSC3041 Disease prevention and control
+HSC3052 Health promotion in community and organisational settings
+HSC3061 Health program evaluation
+HSC3072 Health policy and politics
+HSC3082 Health promotion practicum
+HSC3102 Environmental determinants of health and disease
+HSC3131 Quantitative research design and methodology
+HSC3132 Action in public health research
+HSC4001 Health science research project 1
+HSC4002 Health science research project 2
+HSC4011 Advanced studies in contemporary and global health research
+IPE1011 Foundations of health in primary clinical care
+IRD5000 Master of biomedical science (Part 1): Monash Institute of Medical Research
+MAP4200 Improving indigenous equity in professional practice
+MAP5000 Research in advanced health professional practice
+MAP5001 Preparatory minor thesis
+MAP5002 Minor thesis
+MAP5003 Essentials of advanced health care practice and research
+MAP5010 Advanced health practice research project
+MAP5101 Advanced critical care skills
+MAP5104 Emergency medicine skills
+MAP5105 Trauma skills
+MCE5100 Introduction to mammalian embryology
+MCE5101 Infertility and treatment strategies
+MCE5103 IVF processes: Embryo production and cryopreservation techniques (theory)
+MCE5112 IVF processes: Embryo production and cryopreservation techniques (practical)
+MCE5200 Total quality management in assisted reproductive technologies
+MCE5201 ICSI and research methods
+MCE5212 Preimplantation genetic diagnosis
+MCE5213 Regulation and ethics in assisted reproductive technologies
+MCM5501 Depressive and anxiety disorders in general practice
+MCM5504 Dermatology
+MCM5507 Child health
+MCM5601 Women's sexual and reproductive health in general practice
+MCM5602 Mindfulness-based stress management
+MCM5606 Issues in general practice prescribing
+MED1011 Medicine 1
+MED1022 Medicine 2
+MED2000 Year 1 and 2 final grade
+MED2031 Medicine 3
+MED2042 Medicine 4
+MED3051 Medicine and surgery 1
+MED3062 Medicine and surgery 2
+MED3200 Introductory clinical studies
+MED4000 Year 3B and 4C final grade
+MED4190 Specialty clinical practices
+MED4200 Integrated clinical studies
+MED4301 Medical science honours research skills
+MED4302 Medical science honours research project
+MED5091 Advanced clinical practice 1
+MED5092 Advanced clinical practice 2
+MED5100 Final MBBS grade
+MED5102 Contemporary developments in clinical practice: Patient safety
+MEH5050 Emergency health project
+MFM5000 Principles of general practice and primary care
+MFM5001 Masters thesis
+MFM5004 Chronic disease management
+MFM5008 Applied research in general practice
+MFM5009 Prevention in general practice and primary care
+MID1000 Introduction to Midwifery
+MID1002 Making practice connections
+MID1003 The childbearing journey
+MID2000 Foundations for midwifery practice
+MID2010 Working with birthing women
+MID2110 Complementary therapies: An evidence based approach
+MID3000 Theory and practice of complex midwifery
+MID3103 Childbearing obstacles
+MID3104 Navigating childbearing challenges
+MID3105 Women's health: Women's business
+MID3110 Professional midwifery practice
+MID3201 Midwifery practice elective
+MID3202 Supporting the newborn infant
+MID4001 Preparation for practice (midwifery)
+MID5001 Woman midwife partnerships and normal childbearing
+MID5002 Woman midwife partnerships and complex childbearing
+MID5003 Midwifery and maternity in context
+MID5004 Becoming a midwife
+MID5005 Advancing midwifery practice
+MID5006 Public and primary health care in midwifery
+MID5007 Contextual and professional issues in midwifery
+MIMR5001 Master of biomedical science (Part 1): Monash Institute of Medical Research PT
+MMT5002 Medicine minor thesis extension unit
+MMT5004 Medicine minor thesis extension unit
+MPH5020 Introduction to epidemiology and biostatistics
+MPH5040 Introductory epidemiology
+MPH5041 Introductory biostatistics
+MPH5042 Climate change and public health
+MPH5200 Regression methods for epidemiology
+MPH5202 Clinical epidemiology
+MPH5203 Environmental influences on health
+MPH5207 Chronic disease: Epidemiology and prevention
+MPH5213 Research methods
+MPH5218 Infectious diseases: Epidemiology and prevention
+MPH5222 Assessment and control of workplace hazards
+MPH5231 Research design and project proposal
+MPH5232 Research conduct, analysis, write-up and submission
+MPH5236 Clinical trials
+MPH5237 Clinical measurement
+MPH5239 Systematic reviews and meta-analysis
+MPH5241 Introduction to occupational health and safety
+MPH5242 Psychosocial work environment
+MPH5243 Chemical and biological hazards
+MPH5244 Ergonomic and physical hazards
+MPH5248 Primary health care and global health
+MPH5249 Field methods for global health planning and evaluation
+MPH5250 Women's and children's health: A global perspective
+MPH5251 Infectious diseases and global health
+MPH5253 Public health in refugee settings
+MPH5254 Nutrition in developing countries
+MPH5255 Health and human rights
+MPH5256 Injury epidemiology and prevention
+MPH5260 Health policy and prevention in a global world
+MPH5265 Law for health systems
+MPH5266 Clinical leadership and management
+MPH5267 Principles of health care quality improvement
+MPH5268 Financial issues in health care management
+MPH5269 Foundations of health policy
+MPH5270 Advanced statistical methods for clinical research
+MPH5272 Reform and development of health services
+MPH5273 Case study in health services management
+MPH5276 Safety management systems
+MPH5277 Practical data management
+MPH5282 Health communications and training
+MPH5283 Ethics, good research practice and practical research methods
+MPH5285 Human factors for patient safety
+MPH5286 Applying and practicing the principles of patient safety and quality improvement
+MPH5287 Alcohol and other drugs in society: A national and global perspective
+MPH5301 Health systems and policy
+MPH5302 Biostatistics: Concepts and applications
+MPH5303 Epidemiology of infectious diseases
+MPH5304 Leading and managing in public health and health care
+MPH5305 Epidemiology: Concepts and applications
+MPH5306 Evaluation in public health
+MPH5307 Introduction to health law principles
+MPH5308 Developing health systems
+MPH5309 Occupational health and safety
+MPH5310 Introduction to environmental health
+MPH5311 Safety and quality in health care
+MPH5312 Advances in managing patient care processes
+MPH5313 Challenges in public health
+MPH5314 Epidemiology of chronic disease
+MPH6040 Introductory epidemiology
+MPH6041 Introductory biostatistics
+MRS0001 Coursework core lectures
+MRS0002 Coursework semester 1 stream 1 lectures
+MRS0003 Coursework semester 1 stream 2 lectures
+MRS0004 Coursework semester 2 stream 1 lectures
+MRS0005 Coursework semester 2 stream 2 lectures
+MSM5100 Research Project - Master of Biomedical Science MUM
+MSM5101 Research Project - Master of Biomedical Science MUM (PART-TIME)
+MSM5200 Advanced Studies in Biomedical Sciences MUM
+MSM5201 Advanced Studies in Biomedical Sciences MUM (PART-TIME)
+NEH4001 Preparing for interprofessional practice
+NEH4012 Interprofessional practice in community and hospital settings
+NUR1001 Professional and scholarly communication
+NUR1010 Foundations of nursing and midwifery practice
+NUR1013 Indigenous health for nursing and midwifery practice
+NUR1102 Health assessment in clinical practice
+NUR1105 Foundations of leadership and professional practice
+NUR1111 Global health and cultural competence in nursing and midwifery practice
+NUR1112 Fundamental skills and knowledge for nursing and midwifery practice 1
+NUR1113 Law, ethics and leadership in nursing and midwifery
+NUR1114 Fundamental skills and knowledge for nursing and midwifery practice 2
+NUR1202 Legal issues and concepts
+NUR1205 Population and socio-cultural health research
+NUR2005 Introduction to maternity and paediatric nursing
+NUR2007 Introduction to palliative care
+NUR2106 Integrated nursing practice 1
+NUR2107 Person centered mental health care
+NUR2203 Health promotion
+NUR2204 Working with families across the lifespan
+NUR2206 Integrated nursing practice 2
+NUR2207 Mental health clinical practice
+NUR2445 Clinical assessment in nursing
+NUR2447 Clinical concepts
+NUR3001 Evidence based health care
+NUR3002 Integrated nursing practice 3
+NUR3003 Education for clinical practice
+NUR3004 Preparing for practice
+NUR3005 Chronic illness management in primary care
+NUR3006 Diversity in healthcare practice
+NUR3009 Transition to professional practice
+NUR3022 Integrated nursing practice 4
+NUR3106 Introduction to high acuity nursing
+NUR3204 Integrated community care
+NUR4401 Clinical honours thesis 1: Applied research methods and skills
+NUR4402 Clinical honours thesis 2: Framing a research proposal
+NUR4403 Clinical honours thesis 3: Conducting a research project
+NUR4404 Clinical honours thesis 4: Analysing and reporting research
+NUR5002 Contemporary nursing practice 2
+NUR5003 Contemporary nursing practice 3
+NUR5004 Contemporary nursing practice 4
+NUR5008 Cognitive behavioural therapy for mental health professionals
+NUR5011 Contemporary nursing in context 1
+NUR5022 Contemporary nursing in context 2
+NUR5033 Contemporary nursing in context 3
+NUR5100 Research Project in Nursing
+NUR5101 Research Project in Nursing (Part-time)
+NUR5111 Contemporary nursing practice 1
+NUR5112 Nursing practice in the Australian healthcare context
+NUR5113 Nursing in the Australian context
+NUR5200 Advanced Studies in Nursing
+NUR5201 Advanced Studies in Nursing (Part-time)
+NUR5202 Nursing informatics
+NUR5203 Palliative care practice
+NUR5204 Education in health care practice
+NUR5208 Therapeutic medication management
+NUR5209 Education program development
+NUR5210 Disaster and emergency nursing management
+NUR5214 Advanced therapeutic interaction in nursing
+NUR5215 Mental health nursing concepts and practice
+NUR5217 Advanced paediatric nursing
+NUR5218 Advanced clinical decision making
+NUR5219 Advanced clinical practice for nurse practitioner
+NUR5227 Integrated mental health care
+NUR5301 Nursing practice for older persons
+NUR5315 Advanced practice in context
+NUR5325 Clinical leadership in nursing
+NUR5326 Quality, safety and clinical governance in nursing and health care management
+NUR5327 Management and leadership of professional nursing practice
+NUR5405 Explorations in child and family nursing
+NUR5411 Advanced clinical assessment and diagnostic reasoning
+NUR5703 Advanced pathophysiology and health assessment 1
+NUR5704 Advanced pathophysiology and health assessment 2
+NUR5707 Applications of Intensive Care Nursing
+NUR5833 Refugee health and wellbeing
+NUR5844 Health promotion and education
+NUR5923 Critical care nursing 1
+NUR5924 Critical care nursing 2
+NUR5925 Emergency nursing 1
+NUR5926 Emergency nursing 2
+NUR5927 Advanced medical/surgical nursing practice 1
+NUR5928 Advanced medical/surgical nursing practice 2
+NUT1001 Personal and professional perspectives in nutrition
+NUT1002 Evaluating the evidence: Nutrition and population health
+NUT1010 Human nutrition: An introduction to nutrients
+NUT1011 Human nutrition: An introduction to nutrients
+NUT1101 Science foundations
+NUT1102 Food science
+NUT2001 Health across the lifespan
+NUT2002 Applied research methods in nutrition
+NUT2102 Food: Science, composition and skills
+NUT2103 Integrated science systems
+NUT3001 Evidence based nutrition
+NUT3002 Nutrition, activity and health in chronic diseases
+NUT3003 Sport and exercise nutrition
+NUT3004 Nutrition controversies
+NUT3005 Nutrition assessment
+NUT3006 Food and the environment
+NUT3007 Work placement
+NUT3082 Public health nutrition
+NUT4001 Foundations of dietetic practice
+NUT4111 Research skills
+NUT4121 Honours research project 1
+NUT4122 Honours research project 2
+NUT5001 Introduction to dietetic skills
+NUT5002 Practice and research in public health nutrition
+NUT5003 Dietetic practice 1
+NUT5004 Food for dietetic practice
+NUT5005 Dietetic practice 2
+NUT5006 Practice and research in dietetics
+OCC1011 Professional issues
+OCC1012 Occupational science
+OCC1021 Psychology for occupational therapy
+OCC1022 Foundations of occupational therapy practice
+OCC1032 Development across the lifespan
+OCC2011 Occupational performance, capabilities and components
+OCC2020 Enabling occupation: Performance challenges 1A
+OCC2022 Skills for evidence-based practice 1
+OCC3000 Enabling occupation: Fieldwork experience 1B
+OCC3031 Enabling occupation: Performance challenges 1B
+OCC3041 Skills for evidence-based practice 2
+OCC3052 Enabling occupation 2: Performance challenges in population health
+OCC3061 Health promotion in occupational therapy
+OCC3062 Participation community practice 1: Development
+OCC3072 Occupational therapy honours research project 1
+OCC4010 Foundations of occupational therapy
+OCC4020 Humans as occupational beings
+OCC4030 Occupational performance, capabilities and components
+OCC4040 Enabling occupation 1
+OCC4071 Participatory community practice 2: Implementation
+OCC4081 Transition to practice 1
+OCC4082 Advanced professional practice
+OCC4091 Occupational therapy honours research project 2
+OCC4092 Transition to practice 2
+OCC4111 Introduction to hand therapy theory, principles, and practice
+OCC4121 Adaptive and assistive technology
+OCC4131 Assessment of children: Methods, policy, ethics and issues
+OCC4141 Occupational therapy for children with a disability and their families
+OCC5050 Enabling occupation 2
+OCC5060 Enabling occupation 3
+OCC5070 Transition to practice
+OCC5080 Advanced professional practice
+OCC5111 Advanced hand therapy theory, principles, and practice
+OCC5121 Advanced adaptive and assistive technology
+OCC5131 Advanced assessment of children: Methods, policy, ethics and issues
+OCC5141 Occupational therapy for children with a disability and their families
+OCC5161 Human occupation and health
+PAR4450 Intensive care management of paediatric and obstetric patients
+PAR4470 Intensive care paramedicine clinical practicum
+PAR5200 Introduction to aeromedical and retrieval concepts
+PAR5210 Aeromedical and retrieval professional practice
+PAR5220 Aeromedical and retrieval clinical 1: Advanced life support/critical care
+PAR5230 Aeromedical and retrieval coordination
+PAR5240 Aeromedical retrieval rescue
+PAR5250 Aeromedical and retrieval clinical 2: Intensive care
+PAR5320 Extended care paramedicine 1
+PAR5330 Extended care paramedicine 2
+PAR5400 Principles of advanced care paramedic practice
+PAR5410 Pharmacotherapy and clinical toxicology in advanced care paramedic practice
+PAR5420 Intensive care management of cardiac conditions
+PAR5430 Intensive care management of respiratory conditions
+PAR5440 Intensive care management of trauma and environmental conditions
+PAR5450 Advanced care paramedic management of paediatric and obstetric patients
+PAR5460 Transition to practice in the intensive care simulated environment
+PAR5480 Intensive care management of medical conditions
+PBH1101 Introduction to qualitative research
+PBH1102 Introduction to communicating health
+PBH1103 Introduction to health policy and politics
+PBH1104 Global health: Opportunities and challenges
+PBH2001 Foundations of epidemiology
+PBH2002 Foundations of biostatistics
+PBH2003 Culture, society and health
+PBH2004 Health, law and ethics
+PBH2005 Health program planning
+PBH2006 Treatment and technologies
+PBH2107 Public health and ethics short international program
+PHC5012 Community based palliative care for health practitioners
+PHC5100 Research Project in Health Sciences
+PHC5101 Research Project in Health Sciences (Part-time)
+PHC5200 Advanced Studies in Health Sciences
+PHC5201 Advanced Studies in Health Sciences (Part-time)
+PHC5301 Preventative health and management of chronic disease
+PHC5302 Common problems in primary care
+PHC5303 Challenging issues in primary care
+PHC5304 Primary care across the lifespan
+PHH1052 Health care systems: Global and local
+PHH1061 Data, evidence and critical thinking in health
+PHH1081 Foundations of public health
+PHH1101 Biological bases of health and disease 1
+PHH1102 Biological bases of health and disease 2
+PHH1112 Global health: Opportunities and challenges
+PHH2022 Culture, society and health
+PHH2051 Health program planning
+PHH2101 Health promotion: Global and local
+PHH2111 Treatments and technologies
+PHH2141 Analysing patterns of health and disease
+PHH2142 Research methods in the health sciences
+PHH3001 Health, law and ethics
+PHH3002 Health for all in a global world
+PHH3011 Contemporary health challenges
+PHH3041 Disease prevention and control
+PHH3061 Health program evaluation
+PHH3072 Health policy and politics
+PHH3082 Health promotion practicum
+PHH4101 Public health research proposal
+PHH4102 Contemporary and global public health issues
+PHH4201 Public health research report
+PMH1011 Mental health in the community
+POM5001 Perioperative management of the cardiac patient
+POM5002 Acute perioperative medicine
+POM5003 Organ dysfunction 1
+POM5004 Organ dysfunction 2
+PSY1011 Psychology 1A
+PSY1022 Psychology 1B
+PSY2031 Developmental and biological psychology
+PSY2042 Personality and social psychology
+PSY2051 Research design and analysis
+PSY2061 Biological psychology
+PSY2071 Developmental psychology
+PSY2112 Organisational psychology
+PSY3032 Abnormal psychology
+PSY3041 Psychological testing, theories of ability and ethics
+PSY3051 Perception and cognitive psychology
+PSY3062 Research methods and theory
+PSY3120 Introduction to counselling
+PSY3130 Health psychology
+PSY3150 Contemporary social psychology
+PSY3180 Human neuropsychology: Developmental and neurodegenerative disorders
+PSY3190 Addiction studies
+PSY3250 Positive psychology
+PSY3270 Neuroscience of cognition and behaviour
+PSY3280 The neuronal basis of consciousness
+PSY3310 Introduction to computational neuroscience
+PSY3320 Sleep and circadian rhythms
+PSY4032 Abnormal psychology
+PSY4041 Psychological testing and ethics
+PSY4051 Research design and analysis
+PSY4062 Research methods and theory
+PSY4081 Perception and cognition
+PSY4100 Psychology honours: Research project
+PSY4110 Psychology in society
+PSY4111 Psychology 1A
+PSY4120 Mental health and illness
+PSY4122 Psychology 1B
+PSY4130 Developmental psychology and clinical neuroscience
+PSY4131 Developmental and biological psychology
+PSY4140 Introduction to counselling
+PSY4151 Personality and social psychology
+PSY4170 Neuroscience of cognition and behaviour
+PSY4210 Statistics and research design for professional psychology
+PSY4220 Ethical and professional issues in psychology
+PSY4270 Psychological assessment and intervention
+PSY4401 Psychology research project: Statistics and research design for professional psychology
+PSY4402 Psychology research project: Literature review
+PSY4403 Psychology research project: Methodology and data collection
+PSY4404 Psychology research project: results and discussion
+PSY4405 Ethical and professional issues in psychology
+PSY4406 Psychological assessment and intervention
+PSY4407 Psychology in industry: Pathways to employment
+PSY4408 Perspectives in clinical and developmental neuroscience
+PSY4409 21st century applications of psychology
+PSY5100 Research Project in Psychology
+PSY5101 Research Project in Psychology (Part-time)
+PSY5200 Advanced Studies in Psychology
+PSY5201 Advanced Studies in Psychology (Part-time)
+PTY1011 Physiotherapy 1
+PTY1022 Physiotherapy 2
+PTY2000 Honours systematic review
+PTY2031 Physiotherapy 3
+PTY2042 Physiotherapy 4
+PTY3000 Honours research proposal
+PTY3051 Physiotherapy 5
+PTY3162 Physiotherapy 6A: Clinical
+PTY3262 Physiotherapy 6B: Clinical
+PTY3362 Physiotherapy 6C: Clinical
+PTY3462 Clinical placement
+PTY4000 Honours thesis
+PTY4010 Honours systematic review
+PTY4020 Honours research proposal
+PTY4030 Honours thesis
+PTY4171 Physiotherapy 7A: Clinical
+PTY4172 Physiotherapy 7B: Clinical
+PTY4281 Physiotherapy 8A: Clinical
+PTY4282 Physiotherapy 8B: Clinical
+PTY4283 Physiotherapy 8C: Campus
+PTY5100 Enhancing skills in paediatric physiotherapy
+PTY5101 Advancing skills in paediatric physiotherapy: Cerebral palsy
+PTY5102 Advancing skills in paediatric physiotherapy: Neonates and infants
+PTY5103 Principles of paediatric physiotherapy
+PTY5104 Advancing skills in paediatric physiotherapy: Complex and chronic conditions
+PTY5105 Advanced physiotherapy clinical skills and project
+RAD1012 Radiographic science and practice 2
+RAD1021 Radiologic physics and radiation protection
+RAD1031 Radiologic biology 1
+RAD1061 Radiographic science and practice 1
+RAD1082 Radiologic biology 2
+RAD2001 Medical imaging science: Radiographic principles
+RAD2012 Radiographic science and practice 4
+RAD2051 Radiographic science and practice 3
+RAD2061 Radiologic biology 3
+RAD2092 Radiologic biology 4 and sectional anatomy
+RAD3002 Medical imaging science: Computed tomography
+RAD3004 Neuroimaging for neuroscience research
+RAD3042 Medical imaging science and practice 2
+RAD3051 Medical imaging science and practice 1
+RAD3061 Medical imaging science (ultrasound)
+RAD3092 Magnetic resonance imaging (physics and technology)
+RAD4000 Radiography and medical imaging work experience
+RAD4070 Research in medical imaging
+RAD4080 Selected topics in medical imaging
+RAD4160 Advanced medical imaging and clinical skills
+RAD4500 Multislice CT and evidence based practice
+RAD4501 MRI imaging and evidence based practice
+RAD4502 Principles of general radiography image interpretation
+RAD4503 Magnetic resonance imaging: Physics, instrumentation and safety
+RAD4504 Magnetic resonance imaging: Musculo-skeletal system
+RAD4505 Magnetic resonance imaging: Head, spine abdomen and pelvis
+RAD4506 Magnetic resonance imaging: Advanced imaging techniques
+RAD5105 Pathology for advanced medical imaging practice
+RAD5107 Hybrid and molecular imaging
+RAD5108 Advanced general radiography image interpretation 1
+RAD5109 Advanced general radiography image interpretation 2
+RAD5110 Advanced CT and clinical decision making 1
+RAD5111 Advanced CT and clinical decision making 2
+RAD5201 Emergency image interpretation 1
+RAD5202 Emergency image interpretation 2
+RTP4101 Professional issues in radiation therapy 1
+RTP4102 Professional issues in radiation therapy 2
+RTP4103 Specialised techniques in radiation therapy
+RTP5101 Patient care and assessment in radiation therapy
+RTP5102 Current issues in radiation therapy and oncology
+RTP5103 Contemporary approaches to radiation therapy of the breast
+RTP5104 Advanced imaging for radiation therapy
+RTS2001 Professional practice in radiation therapy
+RTS4101 Radiation therapy science 1
+RTS4102 Radiation therapy science 2
+RTS4103 Radiation therapy science 3
+RTS5101 Radiation therapy science 4
+RTS5102 Radiation therapy science 5
+RTS5103 Radiation therapy science 6
+RTS5104 Radiation therapy science 7
+RTS5105 Radiation therapy science 8
+RTS5110 Radiation therapy science and practice 1
+RTS5120 Radiation therapy science and practice 2
+RUR5100 Research Project in Rural Health
+RUR5101 Research Project in Rural Health (Part time)
+RUR5200 Advanced Studies in Rural Health
+RUR5201 Advanced Studies in Rural Health (Part time)
+SCS5100 Research Project in Medical Science
+SCS5101 Research Project in Medical Science (Part-time)
+SCS5200 Advanced Studies in Medical Science
+SCS5201 Advanced Project in Medical Science (Part-time)
+SCS5300 Research Project in Health Sciences
+SCS5301 Research Project in Health Sciences (Part-time)
+SCS5400 Advanced Studies in Health Sciences
+SCS5401 Advanced Studies in Health Sciences (Part-time)
+SON4000 Physics of medical ultrasound and instrumentation
+SON4010 Embryology, anatomy and pathophysiology
+SON5000 Ultrasound research
+SON5020 Sonographic professional skills and sonography of the breast and thyroid
+SON5021 Sonographic abdominal imaging
+SON5022 Sonographic imaging of the reproductive system
+SON5023 Obstetric sonography
+SON5024 Musculoskeletal, neonatal and paediatric sonography
+SON5025 Sonographic vascular and postoperative imaging
+SRH3001 Health and health care practices for communities
+SRH5000 Health and health care practices for communities
+SRH5001 Research methods for health
+SRH5003 Designing and conducting health research
+SRH5016 Interprofessional practice in communities
+SRH5032 Applied research for health practitioners
+SWK1011 Introduction to human services practice
+SWK2001 Introduction to the Australian welfare state
+SWK2110 Social welfare and the law
+SWK2140 Social welfare and practice with communities
+SWK3080 Planning for supervised professional practice placement 1
+SWK3180 Supervised professional practice 1
+SWK3220 Social work in a globalised world
+SWK3230 Social work research
+SWK3310 Social welfare practice and research
+SWK3400 Critical social work 1: Individuals and families (context and practice)
+SWK3410 Critical social work 2: Community work, context and practice
+SWK3440 Leadership in social work and human services
+SWK4001 Honours research methods
+SWK4002 Honours project seminar
+SWK4003 Social work honours dissertation
+SWK4030 Human rights, legal and ethics knowledge for social work practice
+SWK4031 Working with complexity
+SWK4032 Working with complexity: Honours
+SWK4060 Planning for supervised professional practice placement 2
+SWK4400 Critical social work 3: Group work and community engagement (context and practice)
+SWK4401 Critical social work 4: Individual, health and society (context and practice)
+SWK4450 Social policy and social justice
+SWK4451 Social policy and social justice: Honours
+SWK4560 Supervised professional practice 2
+SWM5003 Planning for supervised professional practice placement 1
+SWM5008 Planning for supervised professional practice placement 2
+SWM5100 Social work: Leading sustainable change
+SWM5101 Human rights, law and ethics contexts for social work practice
+SWM5102 Critical social work 1: Frameworks for practice with children and families
+SWM5103 Supervised professional practice 1
+SWM5104 Critical social work 2: Frameworks for practice in health and mental health
+SWM5105 Social work practice and research
+SWM5106 Critical social work 3: Community engagement group project
+SWM5108 Supervised professional practice 2
+SWM5109 Critical social work 4: Social policy, social change and community practice
+SWM5110 Advances in direct social work practice
+SWM5111 Leadership in social work and human services
+SWM5112 Research for social work practice
+SWM5120 Criminology and social work
+SWM5160 The child in society: Promoting children's wellbeing and responding to child maltreatment
+SWM5170 Applied research study
+SWM5180 Management of human resources in the social services
+SWM5190 Social work research
+SWM5200 Health and social work
+SWM5220 Longevity and social work
+SWM5241 Mental health practice
+SWM5250 Clinical supervision: Becoming a professional developer
+SWM5260 Gender, climate change and social sustainability
+TRM4001 Introduction to clinical trials
+TRM4002 Translational research
+TRM6001 Introduction to clinical trials
+TRM6002 Translational research
