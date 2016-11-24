@@ -1,4 +1,3 @@
-import csv
 from lxml import html
 import requests
 
@@ -60,48 +59,11 @@ class WebScraper:
             if item[0] == ' ':
                 item = item[1:]
             newarray.append(item)
-        finalarray.append(newarray[0].split()[0])
-        finalarray.append(newarray[1].split()[-1])
-        finalarray.append(newarray[2].split()[0]])
+        finalarray.append(['CreditPoints',newarray[0].split()[0]])
+        finalarray.append(['SCABand',newarray[1].split()[-1]])
+        finalarray.append(['EFTSL', newarray[2].split()[0]])
 
         return finalarray
 
 webScraper = WebScraper()
-
-def convsubtoarray(fileName,faculty):
-    file = open(fileName,'r')
-    array=[]
-    for line in file:
-        record=line.strip()
-        record = record.split(' ',1)
-        unitCode=str(record[0])
-        unitName=record[1]
-        print("Getting Record for " + unitCode + '(' +faculty +')')
-        syp = webScraper.getSypnosis(unitCode)
-        preq = webScraper.getPreq(unitCode)
-        proh = webScraper.getProhibitions(unitCode)
-        unitScoreData = webScraper.getProhibitions(unitCode)
-        pair=[unitCode,unitName,faculty,unitScoreData[0],unitScoreData[2],preq,proh,unitScoreData[1],syp]
-        array.append(pair)
-    return array
-
-import csv
-
-def toCSV(array):
-    CSVfileName = 'dbUpdated.csv'
-    fl = open(CSVfileName, 'w')
-
-    writer = csv.writer(fl)
-    writer.writerow(['UnitCode', 'UnitName','Faculty','CreditPoints','EFTSL',"Preqs","Proh",'SCABand',"Sypnosis"]) #if needed
-    for values in array:
-        writer.writerow(values)
-    fl.close()
-
-faculties = ['ada','arts','buseco','edu','eng','it','law','med','pha','sci']
-newarray = []
-for f in faculties:
-    fileName = f + '.txt'
-    array = convsubtoarray(fileName,f)
-    newarray += array
-newarray = sorted(newarray, key=lambda db: db[0])
-toCSV(newarray)
+print(webScraper.getUnitValue('FIT1047'))
