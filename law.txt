@@ -1,0 +1,407 @@
+LAW1101 Introduction to legal reasoning
+LAW1104 Research and writing
+LAW1111 Foundations of Law
+LAW1112 Public law and statutory interpretation
+LAW1113 Torts
+LAW1114 Criminal law 1
+LAW2001 Law in professional contexts
+LAW2101 Contract A
+LAW2102 Contract B
+LAW2111 Constitutional law
+LAW2112 Property A
+LAW2201 Torts A
+LAW2202 Torts B
+LAW3111 Equity
+LAW3112 Corporations law
+LAW3301 Criminal law and procedure A
+LAW3302 Criminal law B
+LAW3402 Property B
+LAW4101 Administration of criminal justice
+LAW4104 Australian banking law
+LAW4108 Constitutional law of Malaysia
+LAW4111 Crime and gender
+LAW4112 Advanced constitutional law
+LAW4113 Current problems in criminal law
+LAW4115 Environmental law
+LAW4119 Contemporary workplace relations law
+LAW4121 Insurance law
+LAW4122 International law
+LAW4123 International organisations
+LAW4125 Comparative antitrust law
+LAW4126 Asian legal systems
+LAW4127 Collective labour rights
+LAW4129 Law and discrimination
+LAW4130 Law and social theory
+LAW4132 Law of employment
+LAW4133 International law seminar: International public order
+LAW4137 Legal philosophy
+LAW4140 Media law 2
+LAW4151 Theoretical perspectives on law, gender and feminism
+LAW4153 Comparative European legal systems
+LAW4155 International human rights
+LAW4156 Conflict of laws - private international law
+LAW4158 Indigenous peoples and the law
+LAW4159 International business transactions
+LAW4160 Negotiation and conflict resolution
+LAW4161 Introduction to European Union law
+LAW4162 Family property and financial disputes
+LAW4163 Parents, children and the state
+LAW4164 International refugee law and practice
+LAW4165 Comparative constitutions and rights
+LAW4166 Citizenship and migration law
+LAW4170 Trusts
+LAW4172 Human rights in Australian law
+LAW4173 Research unit A
+LAW4174 Research unit B
+LAW4176 Applied legal research
+LAW4177 Introduction to family law
+LAW4178 Comparative civil procedure
+LAW4179 International commercial arbitration
+LAW4180 International law of the sea I: Marine resource management
+LAW4184 International criminal law
+LAW4188 International banking law
+LAW4189 Comparative criminal law
+LAW4190 Construction law: Principles and practice
+LAW4193 Biotechnology and the law
+LAW4196 Consumer law
+LAW4197 Current issues in Indigenous rights: International, comparative and regional perspectives
+LAW4198 Australian commercial law
+LAW4199 International laws of armed conflict
+LAW4214 Supervised research paper
+LAW4219 The law of financial transactions
+LAW4225 Non-adversarial justice
+LAW4227 Criminal investigation law and procedure
+LAW4228 Problem based learning seminar
+LAW4229 Comparative tax policy
+LAW4230 Animal law
+LAW4242 Introduction to transitional justice
+LAW4243 Tax policy
+LAW4244 Construction law (dispute resolution)
+LAW4247 Current issues in statutory interpretation
+LAW4249 Environmental activism, ecoterrorism and the law
+LAW4250 The global lawyer
+LAW4251 Advanced copyright: Global law and policy
+LAW4252 Chinese legal institutions and laws
+LAW4301 Advanced torts
+LAW4302 The law of public listed companies
+LAW4303 Litigation and dispute resolution
+LAW4304 Forensic evidence: Law, science, medicine and technology
+LAW4305 Federal criminal justice
+LAW4306 Sentencing and sanctions
+LAW4307 International law of the sea II
+LAW4308 Restitution
+LAW4309 Lawyers ethics in practice
+LAW4310 Trial practice and advocacy
+LAW4311 Succession law
+LAW4312 Legal issues in medicine
+LAW4313 International environmental law
+LAW4314 International space law
+LAW4316 Media law 1
+LAW4318 Competition law
+LAW4319 Superannuation law
+LAW4322 Advanced taxation law
+LAW4323 Evidence
+LAW4324 Corporate governance and shareholders remedies
+LAW4325 Advanced evidence
+LAW4326 Cyberlaw
+LAW4327 Honours thesis
+LAW4328 Professional practice
+LAW4329 Comparative cyberlaw
+LAW4330 Family law assistance program: Professional practice
+LAW4331 Administrative law
+LAW4332 Criminal law and procedure 2
+LAW4333 Corporate insolvency
+LAW4339 Personal insolvency
+LAW4340 Sport and the law
+LAW4341 Copyright and designs
+LAW4342 Patents, trade marks and unfair competition
+LAW4343 Sovereignty and globalisation
+LAW4484 Malaysian and Singaporean constitutional systems
+LAW4513 Capital markets regulation: A comparative perspective
+LAW4515 International criminology
+LAW4516 Comparative perspectives on crime and punishment
+LAW4522 Remedies
+LAW4523 The judiciary in comparative perspective
+LAW4526 World trade organisation dispute settlement
+LAW4528 Comparative consumer bankruptcy
+LAW4531 Product liability law from a comparative perspective
+LAW4532 Climate change and international law
+LAW4533 International and comparative taxation law
+LAW4534 Law and biology
+LAW4535 International and comparative trade mark law
+LAW4536 International and comparative family law
+LAW4537 Public policy, regulation and the law
+LAW4538 Lawyers, literature and cinema
+LAW4539 Modern constitutionalism: A comparative perspective
+LAW4641 Intellectual property: Theory, copyright and design
+LAW4642 Issues in medical ethics and law
+LAW4643 Corporate social responsibility
+LAW4644 Comparative remedies
+LAW4645 International perspectives on torts law
+LAW4646 Sexuality and the law
+LAW4647 Great books of the common law
+LAW4648 Ethics and criminal justice
+LAW4649 Mediation and law: From problem solving to narrative building
+LAW4651 Comparative evidence law
+LAW4652 Transnational litigation
+LAW4653 Privacy and surveillance in an information age: Comparative law perspectives
+LAW4654 Law and liberty
+LAW4655 Comparative issues in patent law
+LAW4656 Varieties of the secular: Law, religion, and social change
+LAW4658 International litigation and arbitration
+LAW4659 Game theory and the law
+LAW4660 Regulating relationships and families
+LAW4662 Air and space law
+LAW4663 International environmental governance
+LAW4664 Comparative dispute resolution
+LAW4665 Comparative cybercrime
+LAW4666 European human rights law
+LAW4667 Human dignity in comparative perspective
+LAW4668 International investment law
+LAW4669 Humans rights and the European Union
+LAW4670 Introduction to Islamic law
+LAW4671 Private investment law
+LAW4673 European and international monetary law
+LAW4674 Freedom of speech: Law, theory and policy
+LAW4675 International and comparative insolvency law
+LAW4676 Judgment and decision-making
+LAW4677 International information and media law
+LAW4678 International criminal justice
+LAW4679 The law of climate change
+LAW4680 Australian corporations law
+LAW4681 Global economic law
+LAW4701 Commercial transactions
+LAW4702 Competition and consumer law
+LAW4703 Introduction to intellectual property
+LAW4704 Taxation law
+LAW4801 Research project
+LAW4802 Research practicum
+LAW4803 Clinical externship
+LAW4804 Law reform and community development
+LAW4805 Mooting and advocacy competition
+LAW4806 Jessup moot competition
+LAW4807 Vis arbitration moot
+LAW4808 Law Review editorship 1
+LAW4809 Law Review editorship 2
+LAW5000 Australian legal reasoning and methods
+LAW5001 Principles of criminal law and procedure
+LAW5002 Principles of contract law A
+LAW5003 Principles of torts
+LAW5004 Principles of public law and statutory interpretation
+LAW5005 Principles of contract law B
+LAW5006 Principles of property law
+LAW5007 Principles of constitutional law
+LAW5008 Principles of equity
+LAW5009 Advanced property law B
+LAW5010 Principles of trusts
+LAW5011 Principles of company law
+LAW5012 Principles of evidence
+LAW5013 Principles of litigation and dispute resolution
+LAW5014 Principles of administrative law
+LAW5015 Ethics in legal practice
+LAW5016 Principles of corporations law
+LAW5017 Advanced corporations law
+LAW5018 Advanced property law
+LAW5050 Professional practice (JD)
+LAW5051 Research practicum
+LAW5052 Professional project
+LAW5053 Law Review editorship 1
+LAW5054 Law Review editorship 2
+LAW5055 Vis arbitration moot
+LAW5056 Jessup moot competition
+LAW5080 Australian legal system
+LAW5081 Australian legal process and research
+LAW5082 Masters research
+LAW5083 Extended research
+LAW5084 Minor thesis
+LAW5185 Graduate research paper
+LAW5300 Commercial tenancy law
+LAW5301 Copyright
+LAW5302 European Union law and policy
+LAW5303 Forensic family law
+LAW5304 Overview of international human rights law
+LAW5305 International trade law
+LAW5306 Corporate insolvency
+LAW5307 Occupational health and safety
+LAW5308 Current issues in evidence
+LAW5309 Public sector employment law
+LAW5310 Sentencing
+LAW5311 Takeovers
+LAW5312 Competition law
+LAW5313 Planning law
+LAW5314 International environmental law
+LAW5315 Commercial alternative dispute resolution
+LAW5316 Trade marks and commercial designations
+LAW5317 Principles of privacy and freedom of information
+LAW5318 International aspects of intellectual property
+LAW5319 Law of employee relations
+LAW5320 Local government law
+LAW5321 Protecting commercial innovation: Patents and trade secrets
+LAW5322 Superannuation law and practice
+LAW5323 Collective labour rights
+LAW5324 Discrimination law, theory and policy
+LAW5325 Defamation law
+LAW5326 Comparative European legal systems
+LAW5327 International human rights
+LAW5328 International business transactions
+LAW5329 Introduction to European Union law
+LAW5330 International refugee law and practice
+LAW5331 Comparative constitution and rights
+LAW5332 International commercial arbitration
+LAW5333 Comparative criminal law
+LAW5334 Psychiatry, psychology and law
+LAW5335 Contemporary problems in the administration of criminal justice
+LAW5336 Law of the internet
+LAW5337 Labour law for corporate lawyers
+LAW5338 International humanitarian law
+LAW5339 Technology contracts and licensing law
+LAW5340 Intellectual property
+LAW5341 Trade mark practice
+LAW5342 Current issues in electronic commerce law
+LAW5343 Privacy and surveillance: Law, policy and governance
+LAW5344 Negotiation: Essential skills for dispute resolution
+LAW5345 Human rights, business and the global economy
+LAW5346 Design law and practice
+LAW5347 Consumer policy and regulation
+LAW5348 Indigenous rights and international law
+LAW5350 Principles of taxation
+LAW5351 Comparative competition law
+LAW5352 Electronic workplace law
+LAW5353 Cybercrime
+LAW5354 International criminal justice
+LAW5355 Advocacy: Theory and practice
+LAW5356 Corporate and white collar crime
+LAW5357 Corporate governance and directors' duties
+LAW5358 Current issues in workplace law
+LAW5359 International human rights law and women
+LAW5360 Advanced conflict resolution skills
+LAW5361 Foundations of regulation: Policy, principles and practice
+LAW5362 Regulatory methods
+LAW5363 Regulatory performance: Evaluating what works
+LAW5364 Economic, social and cultural rights and international law
+LAW5365 Terrorism and human rights
+LAW5366 International banking and finance: Law and practice
+LAW5367 Energy law, regulation and policy
+LAW5368 Regulation of Australian water resources
+LAW5369 World Trade Organization (WTO) law
+LAW5370 Discrimination law and human rights at work
+LAW5371 Protecting the rights of minorities, marginalised and vulnerable people
+LAW5372 Principles of construction law
+LAW5373 Comparative bills of rights
+LAW5374 Federal labour law
+LAW5375 Arbitration of international commercial disputes
+LAW5376 International criminal law: Procedural and practical aspects
+LAW5377 The use of force in international law
+LAW5378 Comparative corporate governance
+LAW5379 Procurement law
+LAW5380 International human rights law and development
+LAW5381 Human rights advocacy: Australian law and practice
+LAW5382 Principles of environmental law
+LAW5383 International refugee law and human rights
+LAW5384 International investment law
+LAW5385 Corporate finance law
+LAW5386 Health law and human rights
+LAW5387 Non-adversarial family and children's law
+LAW5388 Patenting for commercialisation
+LAW5389 The law of climate change
+LAW5390 Workplace bargaining and agreements law
+LAW5392 Globalisation and international economic law
+LAW5393 Law of workforce management
+LAW5394 Banking law
+LAW5395 Arbitration of domestic commercial disputes
+LAW5396 Economics of regulation
+LAW5397 Issues in consumer policy
+LAW5398 International labour law
+LAW5399 Personal property securities
+LAW5400 International trade mark law
+LAW5402 Innovation: Labour, competition and intellectual property law perspectives
+LAW5403 International covenant on civil and political rights
+LAW5404 Genocide and international law
+LAW5407 Current issues in torts
+LAW5408 Remedies in commercial disputes
+LAW5409 Principles of family law
+LAW5410 Collaborative practice
+LAW5411 Advanced mediation: Skills and theory A
+LAW5412 Advanced mediation: Skills and theory B
+LAW5413 Legal process and professional conduct
+LAW5414 Public international law
+LAW5415 Domestic and international debt capital markets
+LAW5416 Children's rights in Australian law
+LAW5417 Children's rights in international law
+LAW5418 Transitional justice
+LAW5419 The law of financial transactions
+LAW5420 Malaysian and Singaporean constitutional systems
+LAW5421 Managing high conflict personalities in legal disputes
+LAW5422 Victorian charter of rights and responsibilities
+LAW5423 Private international law in commercial disputes
+LAW5424 Human trafficking and the law
+LAW5425 Current issues in copyright
+LAW5426 Regulating business: Enforcement and compliance
+LAW5427 Freedom of speech: Law theory and policy
+LAW5428 Health law
+LAW5429 Advanced commercial negotiation skills
+LAW5430 Advanced evidence and proof in litigation
+LAW5431 International entertainment law
+LAW5432 Workplace investigations and misconduct
+LAW5433 Victims, law and mass atrocity
+LAW5434 Principles of government law and administration
+LAW5435 Comparative perspectives on crime and punishment
+LAW5436 International and comparative family law
+LAW5437 China's legal system
+LAW5438 Current issues in sports law
+LAW5439 Sexual and gender minorities and human rights
+LAW5440 International commercial dispute resolution advocacy
+LAW5441 Australian tax policy
+LAW5442 Racial, ethnic and linguistic minorities and human rights
+LAW5443 Language, communication and legal process
+LAW5444 Advanced commercial contracts masterclass
+LAW5445 Commercial equity
+LAW5446 Comparative media law
+LAW5447 Intellectual property and the internet
+LAW5448 Copyright X: Monash
+LAW5449 Advanced administrative law
+LAW5450 Principles of succession law
+LAW5451 Indigenous people and the law
+LAW5452 Private investment law
+LAW5453 Comparative international litigation
+LAW5454 Climate governance and citizen justice
+LAW5455 Chinese law and innovation policies
+LAW5456 Science, technology and law
+LAW5457 Forensic evidence: Law, science, medicine and technology
+LAW5458 Animal law, regulation and policy
+LAW5600 Issues in medical ethics and law
+LAW5601 Comparative remedies
+LAW5602 International perspectives on torts law
+LAW5603 Comparative cyberlaw
+LAW5604 International environmental governance
+LAW5605 Comparative dispute resolution
+LAW5606 Restitution
+LAW5607 Comparative evidence law
+LAW5608 Transnational litigation
+LAW5609 Law and liberty
+LAW5610 Varieties of the secular: Law, religion, and social change
+LAW5611 Comparative issues in patent law
+LAW5612 International litigation and arbitration
+LAW5613 Game theory and the law
+LAW5614 Regulating relationships and families
+LAW5615 Environmental activism, ecoterrorism and the law
+LAW5616 Air and space law
+LAW5617 International and comparative taxation law
+LAW5618 Comparative cybercrime
+LAW5619 European human rights law
+LAW5620 Privacy and surveillance in an information age: Comparative law perspectives
+LAW5621 Mediation and law: From problem solving to narrative building
+LAW5622 Human dignity in comparative perspective
+LAW5623 Human rights and the European Union
+LAW5624 Introduction to Islamic law
+LAW5625 Freedom of speech: Law, theory and policy
+LAW5626 International and comparative insolvency law
+LAW5627 Judgment and decision-making
+LAW5628 International and comparative trademark law
+LAW5629 Comparative issues in patent law
+LAW5630 European and international monetary law
+LAW5631 Lawyers, literature and cinema
+LAW5632 International information and media law
+LAW5633 Contemporary workplace relations law
+LAW6300 Doctor of Juridical Science seminar
+MON2005 Law in professional contexts

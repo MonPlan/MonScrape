@@ -1,0 +1,1147 @@
+AMG5018 Celebrity, fashion, publicity
+AMG5382 Contemporary issues in Asia
+AMG5400 Global digital media: Issues in international and transnational communication
+AMG5409 Communication research
+AMG5721 Media practices in Southeast Asia
+AMG5742 Communications research project
+AMG5743 Communications research thesis
+AMG5751 Communications industry internship
+AMG5894 Communications theories and practices
+AMU1017 Academic literacies
+AMU1018 Learning in higher education
+AMU1277 Media studies
+AMU1278 Communication technologies and practices
+AMU1304 Television studies: Forms and approaches
+AMU1305 Film studies: Forms and approaches
+AMU1309 Introduction to sexuality studies
+AMU1310 Introduction to gender studies
+AMU1325 Introduction to world politics and history
+AMU1326 Transformation from above: Globalisation and the state
+AMU1328 Introduction to journalism
+AMU1329 Broadcast journalism
+AMU2140 States and markets
+AMU2439 Youth and mobile media
+AMU2448 Film genres
+AMU2450 Contemporary media theory
+AMU2453 Research methods in the social sciences
+AMU2498 Contemporary fiction
+AMU2625 Borders, people and identity: Migration in the 21st century
+AMU2685 Malaysian studies
+AMU2780 Radio news and current affairs
+AMU2785 Media, power and reporting in Southeast Asia
+AMU2787 Multimedia journalism
+AMU2789 Video news and current affairs
+AMU2814 Transforming community: Project design and public relations for social campaigns
+AMU2832 Postcolonial and diasporic literature
+AMU2906 Genders, sexualities and religions in Southeast Asia
+AMU2907 Sexual and reproductive health and rights in global contexts
+AMU2908 Critical methodologies for action research
+AMU2920 Transformation from below: Civil, society, social movements and political change
+AMU3127 Stardom: Celebrity, society and power
+AMU3449 Reading social media: Sociotechnological literacies
+AMU3451 Freedom and control in the media
+AMU3499 Authorship and writing
+AMU3560 Contemporary feminisms in Asia
+AMU3570 International relations
+AMU3575 Task force: Responding to global challenges
+AMU3630 Governing the global economy: Stability, efficiency, justice
+AMU3650 A world in crisis: Multilevel responses to global emergencies
+AMU3744 Workplace learning internship
+AMU3806 Business reporting
+AMU3810 Understanding trends in global media
+AMU3857 Writing techniques
+AMU3858 Writing experiments
+AMU4718 Arts honours dissertation 1
+AMU4719 Arts honours dissertation 2
+AMU4720 Research issues and methodology
+AMU4727 Readings in social, political and cultural theory
+APG4264 Criminal behaviours and enterprises: Individuals, groups and organisations
+APG4287 War and peace: Models of conflict resolution
+APG4314 Seeking justice: South Africa and Rwanda
+APG4416 Crime prevention: A global perspective
+APG4417 Policing, security and risk management
+APG4421 Dramatic theory, criticism and research methods
+APG4423 Performance investigation
+APG4553 Field studies in regional sustainability
+APG4554 Resource evaluation and management
+APG4556 Urbanisation and regional development in the Indo-Pacific rims
+APG4571 Human services management: Structure and context
+APG4572 Human services management: Principles and process
+APG4618 Researching histories
+APG4677 Theory and practice in sociology
+APG4681 Social research practice
+APG4761 Program planning and evaluation in the human services
+APG4762 Management and leadership in the human services
+APG4763 Human services research methods
+APG4789 Research methods in music
+APG4809 Advocacy for community rights
+APG4823 Water management project management
+APG4824 Science of water
+APG4825 Water, sustainability and development
+APG4826 Water governance and policy
+APG5018 Celebrity, fashion, publicity
+APG5042 Practices of teaching Englishes for intercultural communication
+APG5043 Language in society
+APG5044 Professional internship
+APG5045 Gender and development
+APG5046 General linguistics
+APG5047 Issues in teaching English as an international language
+APG5048 Translation for special purposes
+APG5049 Theory and practice of interpreting
+APG5050 Communication research methods
+APG5051 Special topics in bioethics
+APG5054 Research methods for development practice and change
+APG5064 Gender, security and conflict
+APG5065 Governing migration: Refugees, borders and development
+APG5066 Shanghai city lab
+APG5067 Cultural economy and sustainable development
+APG5068 Creative cities
+APG5072 Art worlds
+APG5080 Bioethics and the body
+APG5081 Public health ethics
+APG5087 Introduction to disaster preparedness and management
+APG5089 Responding to international disasters and humanitarian crises
+APG5092 Human rights in global politics
+APG5094 Global jihad?
+APG5095 Research and writing
+APG5099 Media innovation
+APG5135 Video journalism
+APG5180 Policy and political communication
+APG5181 Intergovernmental relations
+APG5182 Digital management and production
+APG5183 International tourism marketing research project
+APG5184 Video-making as research
+APG5189 Monitoring and evaluation
+APG5190 Global journalism: Hong Kong field school
+APG5201 Intensive intermediate Indonesian for fieldwork
+APG5202 Intensive introductory Indonesian for fieldwork
+APG5207 Intensive introductory Spanish for fieldwork
+APG5208 Intensive intermediate Spanish for fieldwork
+APG5210 Bioethics theory and practice
+APG5229 Prosperity, poverty and sustainability in a globalised world
+APG5230 Ecosystems and environmental management
+APG5264 Criminal behaviours and enterprises: Individuals, groups and organisations
+APG5267 Hermeneutics
+APG5272 Writers and the creative process
+APG5290 Holocaust memories: Landscape, mourning, identity
+APG5324 Advanced seminar in International political economy
+APG5327 Wars of recognition: Terrorism and political violence
+APG5332 Security and securitisation
+APG5337 Governance and democratisation
+APG5347 Research methods in applied linguistics
+APG5348 Second language acquisition
+APG5349 World Englishes
+APG5372 Community development in a globalising world
+APG5389 Tourism industry and marketing
+APG5390 Contemporary tourism and development in emerging economies
+APG5393 Ethics
+APG5394 Questions of life and death
+APG5397 Media, technologies and social change
+APG5398 Digital media technologies
+APG5400 Issues in international communications
+APG5401 Media empires and entrepreneurs
+APG5425 Perspectives on environment and sustainability
+APG5426 Environmental analysis
+APG5428 Environmental governance and citizenship
+APG5433 Corporate sustainability management
+APG5434 Sustainability measurement
+APG5547 Studio production
+APG5571 Human services management: Structure and context
+APG5572 Human services management: Principles and process
+APG5609 Sustainable tourism development and planning
+APG5616 Conference interpreting
+APG5617 Human research ethics
+APG5627 Research in political ecology
+APG5628 Doctrines of development
+APG5640 Journalism in society
+APG5642 Investigative journalism
+APG5652 Language and intercultural communication
+APG5653 Journalism futures: New York field school
+APG5662 Cultural and creative industries
+APG5666 Terrorism, counter-terrorism and intelligence
+APG5667 Terrorism, fringe politics and extremist violence
+APG5668 Advanced seminar in international relations
+APG5671 New publishing media
+APG5690 Applied translation
+APG5702 Bilingualism
+APG5703 Literacy
+APG5704 Discourse analysis
+APG5705 Language and identity
+APG5717 Applied industry research and practice
+APG5720 Cultural tourism and events management
+APG5729 Clinical ethics
+APG5730 Bioethics, public policy, and the law
+APG5732 Ethical issues in professional life
+APG5733 Health care ethics
+APG5736 Criminal justice research project
+APG5738 Criminal justice dissertation
+APG5739 Criminal justice dissertation - Part 1
+APG5740 Criminal justice dissertation - Part 2
+APG5741 Supervised reading in criminal justice and criminology
+APG5742 Communications research project
+APG5752 Field trip in media and communications
+APG5782 Film festival study tour
+APG5786 Human services research methods
+APG5804 Environmental revolutions
+APG5805 Project planning and management in international development
+APG5848 Research thesis
+APG5849 Research thesis A
+APG5850 Research thesis B
+APG5856 Research project
+APG5862 Publishing history, culture and commerce
+APG5867 Research practicum
+APG5868 Research practicum
+APG5874 Practice of conference interpreting and translation
+APG5875 Introduction to interpreting and translation studies
+APG5876 Theoretical issues in literary and cultural translation
+APG5881 Translation studies abroad 1
+APG5882 Translation studies abroad 2
+APG5883 Major translation project part 1
+APG5884 Major translation project part 2
+APG5885 Advanced interpreting
+APG5894 Communications theories and practices
+APG5900 Cultural economy
+APG5980 Monash-Warwick University joint project
+APG5990 Managing public sector organisations
+APG5991 Choices and challenges for government in a market economy
+APG5992 Delivering public value
+APG5993 Designing public policies and programs
+APG5994 Decision making under uncertainty
+APG5995 Governing by the rules
+APG5996 Leading public sector change
+APR4702 Classical languages for researchers
+APR6001 Bioethics theory and practice
+APR6035 Advanced Research Methodologies in Media, Film and Journalism
+APR6100 Film, Media and Communication Studies: The State of the Fields
+ATS1001 Chinese introductory 1
+ATS1002 Chinese introductory 2
+ATS1020 Leadership for social change 1
+ATS1040 Religions and the modern world
+ATS1041 World religions
+ATS1044 Performance 1
+ATS1045 Performance 2
+ATS1046 Composition 1
+ATS1047 Composition 2
+ATS1048 Creative music technology 1
+ATS1049 Creative music technology 2
+ATS1061 French introductory 1
+ATS1062 French introductory 2
+ATS1089 Fundamentals of journalism
+ATS1090 Practice of journalism
+ATS1091 German introductory 1
+ATS1092 German introductory 2
+ATS1111 Indonesian 1: Biographies
+ATS1112 Indonesian 2: Journeys and cultural encounters
+ATS1141 Japanese introductory 1
+ATS1142 Japanese introductory 2
+ATS1171 Korean introductory 1
+ATS1172 Korean introductory 2
+ATS1189 Acting 1: Theory and practice
+ATS1190 Acting 2: Theory and practice
+ATS1191 Spanish introductory 1
+ATS1192 Spanish introductory 2
+ATS1203 Magic, science and spirituality
+ATS1211 Ukrainian introductory 1
+ATS1212 Ukrainian introductory 2
+ATS1221 Italian introductory 1
+ATS1222 Italian introductory 2
+ATS1229 Intensive introductory Italian 1 (in country)
+ATS1230 Intensive introductory Italian 2 (in country)
+ATS1247 Ancient cultures 1
+ATS1248 Ancient cultures 2
+ATS1250 Social justice and Indigenous Australians
+ATS1254 Culture, power and difference: Indigeneity and Australian identity
+ATS1255 Encountering cultures: Introduction to anthropology 1
+ATS1259 Exploring contemporary Australia: People, events, ideas
+ATS1261 Understanding human behaviour
+ATS1262 Understanding social behaviour
+ATS1263 Bioethics: Current controversies
+ATS1264 Bioethics, justice and the law
+ATS1267 Latin language 1
+ATS1269 Latin language 2
+ATS1279 Media and culture
+ATS1280 Understanding the media
+ATS1281 Understanding crime: An introduction
+ATS1282 Criminal justice: An introduction
+ATS1287 Performance in context 1
+ATS1288 Performance in context 2
+ATS1291 Communication in international languages
+ATS1292 Englishes for global communication
+ATS1297 Academic writing
+ATS1298 Professional writing
+ATS1304 Introduction to television studies
+ATS1305 Introduction to film studies
+ATS1309 The Global challenge
+ATS1310 Extreme earth! Natural hazards and human vulnerability
+ATS1314 Human rights theory 1
+ATS1315 Human rights theory 2
+ATS1316 Medieval Europe
+ATS1317 Renaissance Europe
+ATS1319 Global Asia
+ATS1320 Nations at war: Revolution and empire
+ATS1321 Nations at war: The twentieth century
+ATS1322 Conflict and coexistence 1: Jews, Christians and Muslims from antiquity through the middle ages
+ATS1325 Contemporary worlds 1
+ATS1326 Contemporary worlds 2
+ATS1336 Yiddish language, culture and literature 1A
+ATS1337 Yiddish language, culture and literature 1B
+ATS1338 The language game: Why do we talk the way we do?
+ATS1339 Describing and analysing language and communication
+ATS1340 English for academic purposes
+ATS1343 Popular music in global perspective
+ATS1345 Music and history
+ATS1346 Music and culture
+ATS1347 Music ensemble 1
+ATS1348 Music ensemble 2
+ATS1353 Foundations of modern politics
+ATS1365 Introduction to sociology
+ATS1366 The individual and society
+ATS1371 Life, death and morality (Introduction to philosophy A)
+ATS1515 Reading across cultures
+ATS1701 Terrorism and political violence: An introduction
+ATS1835 Time, self and mind (Introduction to philosophy B)
+ATS1873 Introduction to international relations
+ATS1899 Music theory and ear training 1
+ATS1900 Music theory and ear training 2
+ATS1903 Introducing literature: Ways of reading
+ATS1904 Reading the city: Literary genres
+ATS1905 Chinese Introductory for background speakers 1
+ATS1906 Chinese Introductory for background speakers 2
+ATS1940 Chinese translation 2
+ATS1945 Australian government and politics
+ATS1959 Chinese translation 1
+ATS1960 Conflict and coexistence 2: Jews, Christians and Muslims in the modern world
+ATS2001 Chinese introductory 1
+ATS2002 Chinese introductory 2
+ATS2003 Chinese intermediate 1
+ATS2004 Chinese intermediate 2
+ATS2005 Chinese proficient 1
+ATS2006 Chinese proficient 2
+ATS2019 Perspectives on Indigenous Art: Production, meaning and symbolism
+ATS2020 Colonialism in comparison: Australia, New Zealand and the Pacific
+ATS2039 Understanding modern China
+ATS2040 Understanding contemporary China
+ATS2043 Chinese translation for professional purposes 1
+ATS2044 Chinese translation for professional purposes 2
+ATS2056 Race, crime and difference
+ATS2057 Genocide
+ATS2060 The art of teaching music performance
+ATS2063 French intermediate 1
+ATS2064 French intermediate 2
+ATS2065 French proficient 1
+ATS2066 French proficient 2
+ATS2075 Representing Paris: Literature and visual culture
+ATS2083 Bread and circuses: Performing identity in Greco-Roman cultures
+ATS2084 Ancient mythologies
+ATS2086 Leadership for social change 2
+ATS2087 Lifestyle journalism
+ATS2088 Russia and the US: Comparative politics
+ATS2093 German intermediate 1
+ATS2094 German intermediate 2
+ATS2095 German proficient 1
+ATS2096 German proficient 2
+ATS2104 The ethnographic endeavour: Capturing the Indigenous past to understand the Indigenous present
+ATS2105 Making performance 2
+ATS2106 A short history of the world: From the big bang to climate change
+ATS2107 Colonial America: From puritans to revolutionaries
+ATS2108 The modern family: A global history
+ATS2109 The commodities that changed the world: An introduction to globalisation and global history
+ATS2110 Slavery: A history
+ATS2113 Indonesian 3: Contemporary issues in Indonesia
+ATS2114 Indonesian 4: Stories and storytelling in the Indonesian archipelago
+ATS2122 Performance 3
+ATS2123 Performance 4
+ATS2127 Composition 3
+ATS2128 Composition 4
+ATS2129 Creative music technology 3
+ATS2130 Creative music technology 4
+ATS2138 The archaeology of world rock art
+ATS2139 Song writing: How to write a popular song
+ATS2141 Japanese introductory 1
+ATS2142 Japanese introductory 2
+ATS2143 Japanese intermediate 1
+ATS2144 Japanese intermediate 2
+ATS2145 Japanese proficient 1
+ATS2146 Japanese proficient 2
+ATS2159 Recording and computer music production
+ATS2161 Indonesia now: Culture, conflict and crisis management in the Asian century
+ATS2162 Literature and visual culture
+ATS2163 The writing self: Creative nonfiction
+ATS2164 Italian transformations: Reading and writing self-discovery
+ATS2169 Photojournalism
+ATS2170 Arts international experience
+ATS2171 Korean introductory 1
+ATS2172 Korean introductory 2
+ATS2173 Korean intermediate 1
+ATS2174 Korean intermediate 2
+ATS2185 Biblical texts and contexts
+ATS2193 Spanish intermediate 1
+ATS2194 Spanish intermediate 2
+ATS2195 Spanish proficient 1
+ATS2196 Spanish proficient 2
+ATS2214 Italy on film (In country)
+ATS2215 Ukrainian intermediate 1
+ATS2216 Ukrainian intermediate 2
+ATS2223 Italian intermediate 1
+ATS2224 Italian intermediate 2
+ATS2225 Italian proficient 1
+ATS2226 Italian proficient 2
+ATS2229 Intensive introductory Italian 1 (in country)
+ATS2230 Intensive introductory Italian 2 (in country)
+ATS2231 Intensive intermediate Italian 1 (in country)
+ATS2232 Intensive intermediate Italian 2 (in country)
+ATS2244 A history of American business
+ATS2247 Italian proficient 2 (in country)
+ATS2249 Sustainable development in South East Asia
+ATS2250 Communications and cultures in the global era
+ATS2251 Cuba study tour
+ATS2255 Smartphone journalism
+ATS2256 Political psychology
+ATS2257 Long-form television: "HBO" and beyond
+ATS2260 Developmental psychology: Behaviour across the lifespan
+ATS2271 Beowulf: An interdisciplinary approach
+ATS2275 The European Union from consensus to crisis
+ATS2280 Video games: Industry and culture
+ATS2290 Global leadership and advanced research program
+ATS2295 Screening contemporary Europe
+ATS2296 Musical theatre 1: History and form
+ATS2297 Musical theatre 2: Skills and performance
+ATS2315 Journalism and global change in Europe
+ATS2324 Climate change communication
+ATS2325 Cross-cultural literary encounters
+ATS2331 Music - Overseas study program 1
+ATS2332 Music - Overseas study program 2
+ATS2333 Jazz history
+ATS2335 War and memory: Resistance, massacre and representation in second world war Italy
+ATS2344 Archaeology in Italy
+ATS2349 The golden age of Athens
+ATS2351 The archaeology of death in ancient Egypt: The early dynastic period to middle kingdom
+ATS2352 Egypt's golden age
+ATS2354 Interrogating racism: Indigenous Australians and the state
+ATS2355 Race and power: Imagining Indigenous Australia
+ATS2358 Contesting laws: Heritage, culture and land
+ATS2359 Hearing the country: Studies in Indigenous Australian ethnoecology
+ATS2364 Indigenous Australian politics and activism
+ATS2365 Australian Indigenous literature
+ATS2366 Australian Indigenous art and design
+ATS2367 Australian Indigenous women
+ATS2369 Indigenous Australian human rights
+ATS2373 Visualising cultures: Film and ethnography
+ATS2378 The anthropology of international development
+ATS2379 Fairy tale in Italy
+ATS2380 Global migrations: Making the modern world
+ATS2382 War and memory in the Asia Pacific: Legacies of World War II
+ATS2385 Anzac legends: Australians at war
+ATS2386 Paradise lost? Sustainability and Australia
+ATS2387 Beyond Gallipoli: Australians in the Great War
+ATS2394 Australia and Asia
+ATS2395 Australia in a globalising world
+ATS2400 Personality: Beyond the persona
+ATS2410 Narrative
+ATS2422 Romanticism and its literary legacy
+ATS2427 Earthworks: Literature and environment
+ATS2436 New media: From the telegraph to Twitter
+ATS2439 Youth media: Understanding media research
+ATS2440 The public sphere
+ATS2442 Print cultures: Books as media
+ATS2443 On the road: Travel and representation
+ATS2444 Inscribing Italy: Travels and imaginings
+ATS2448 Screen theories and techniques
+ATS2449 Media texts
+ATS2450 Contemporary media theory
+ATS2454 Media audiences
+ATS2456 Cybercrime
+ATS2457 Crime, media and culture
+ATS2458 Crime, control and policing
+ATS2465 Human rights in the criminal justice sphere
+ATS2469 Victims, justice and the law
+ATS2471 Comparative criminal justice: An international perspective
+ATS2473 Offender profiling
+ATS2485 Reading the past
+ATS2490 Advanced Professional Writing
+ATS2492 Shakespeare and Renaissance literature
+ATS2497 Popular writing and criticism
+ATS2498 Contemporary fiction
+ATS2500 The "Great" American Novel
+ATS2508 Introduction to poetry writing
+ATS2513 Short fiction classic and contemporary
+ATS2516 Adaptation into film
+ATS2517 Introduction to fiction writing
+ATS2519 Children's literature: A comparative study
+ATS2520 Eurovisions: Europe since World War II
+ATS2530 Film and Television Genres
+ATS2535 Storytelling in film and television: From classical narrative to art cinema
+ATS2538 Film and Television Institutions
+ATS2547 Cities and sustainability
+ATS2548 Environmental policy and management
+ATS2551 Writing resistance: Understanding the power of Indigenous story-telling through literature
+ATS2560 Gender, theory and society
+ATS2561 Sex and the media
+ATS2563 Global consumption
+ATS2566 Researching the Past: (Re)discovering the voiceless
+ATS2569 Australian history: Professional and political contexts
+ATS2579 Witches and depravity in the medieval and early modern world
+ATS2584 Australia's black history
+ATS2586 Islam: Principles, civilisations, influences
+ATS2588 Australian stories: People, place and histories
+ATS2590 Twentieth-century Britain: Rule Britannia to cool Britannia
+ATS2595 The rise and fall of Nazi Germany
+ATS2596 The Vietnam War
+ATS2597 Qualitative social research
+ATS2600 The Holocaust
+ATS2602 Renaissance Italy
+ATS2603 The age of crusades: Cultures and societies
+ATS2610 Ancient religions
+ATS2612 The Renaissance in Florence
+ATS2617 The American civil war
+ATS2619 Cultural diversity in contemporary Europe
+ATS2620 The age of the Samurai
+ATS2624 Global governance
+ATS2625 Mobile worlds: Borders, displacement and belonging
+ATS2628 Power and poverty: International development in a globalised world
+ATS2629 Religion and spirituality in a globalising world
+ATS2633 Global cities: Past, present and future
+ATS2637 Global bioethics
+ATS2640 The ethics of global conflict
+ATS2647 Journalism: War, crime and trauma
+ATS2648 Contemporary Japan
+ATS2653 Studies in Japanese interaction and language use
+ATS2656 e-journalism
+ATS2658 Journalism ethics
+ATS2665 Language endangerment
+ATS2667 Language across time
+ATS2668 Descriptive syntax: Grammatical structure, typology and universals
+ATS2669 Phonetics and phonology
+ATS2671 Managing intercultural communication
+ATS2672 Computational linguistics: An introduction
+ATS2673 History and sociolinguistics of English
+ATS2674 Semantics and pragmatics: The study of meaning in human languages
+ATS2676 Sociolinguistics
+ATS2678 Language and identity
+ATS2679 Psycholinguistics and child language acquisition
+ATS2680 Literacies and communication: Education, media and cyberspace
+ATS2681 Structure of English
+ATS2682 Second language acquisition and attrition
+ATS2683 The analysis of discourse: Texts, narrative and society
+ATS2687 The ethnomusicology of improvisation
+ATS2691 Politics, violence and memory
+ATS2693 Politics and the media
+ATS2698 Middle East politics
+ATS2699 Parties and power
+ATS2706 Foreign policy analysis
+ATS2716 Cultural diversity and identity
+ATS2718 Families, relationships and society
+ATS2720 Youth, culture and social change
+ATS2723 Social research methods
+ATS2727 Men, masculinity and society
+ATS2731 Regional and rural societies: People, place and nature
+ATS2732 Writing the world, the other and the self
+ATS2733 Work and technology
+ATS2734 Sociology of deviance
+ATS2736 Environmental sociology
+ATS2737 Social justice
+ATS2739 Sex and gender in society
+ATS2743 Build your career: Planning and strategies for employability
+ATS2748 Ancient Greek A/2
+ATS2750 Ancient Greek B/2
+ATS2769 English as an international language
+ATS2770 English as an international language: Language and globalisation
+ATS2772 English language and text
+ATS2773 Literature and history
+ATS2778 Public spaces and city life
+ATS2782 Alternative and mainstream communities
+ATS2784 News and power
+ATS2787 Digital storytelling
+ATS2788 Audio storytelling
+ATS2790 Feature writing
+ATS2791 Editing and design
+ATS2795 Yiddish language, culture and literature 2A
+ATS2796 Yiddish language, culture and literature 2B
+ATS2799 Audio culture: From Cage to Gaga
+ATS2800 Music ensemble 3
+ATS2801 Music ensemble 4
+ATS2804 From the erotic to the exotic: Music in the nineteenth century
+ATS2805 Music, identity and place
+ATS2811 Making performance 1
+ATS2814 Engagement, publicity and promotion
+ATS2815 Crisis and risk communication
+ATS2820 Abnormal psychology & behavioural disorders
+ATS2821 Social psychology
+ATS2822 Advanced counselling and case management
+ATS2823 Community development
+ATS2825 Social issues and personal values
+ATS2831 Research in the social sciences
+ATS2837 Plato and Platonism
+ATS2839 Ethics
+ATS2840 Philosophy of mind
+ATS2860 After the death of God: Continental philosophy of religion from Nietzsche to today
+ATS2861 God, freedom and evil
+ATS2863 Foundations of modern philosophy: Descartes and the thinking self
+ATS2865 Language, truth and power
+ATS2866 Symbolic logic
+ATS2867 Thinking about science
+ATS2868 Issues in political theory
+ATS2871 Environmental ethics
+ATS2872 Topics in Indian philosophy
+ATS2875 The moral psychology of evil
+ATS2890 Script development 1
+ATS2894 Accommodating minorities in Australia?
+ATS2895 Gender, race and journalism
+ATS2896 Photojournalism
+ATS2898 The Italian city: Historical and literary perspectives
+ATS2900 Writing about music: Headlines and hashtags
+ATS2901 Music theory and ear training 3
+ATS2902 Music theory and ear training 4
+ATS2907 Islamic responses to the post-colonial age
+ATS2909 Gangsters: A global story
+ATS2910 Professional and academic presentation skills
+ATS2912 Performance studies 1 - Concepts
+ATS2913 Playtext study 1 - Traditions
+ATS2914 The dark hero
+ATS2915 The roots of fantasy
+ATS2916 Theories of theatre 1
+ATS2918 Social media and online public relations
+ATS2924 Ancient Egyptian language: The basics
+ATS2925 Ancient Egyptian language: Intermediary stage
+ATS2929 Sociology of race and ethnic relations
+ATS2932 Struggles for justice: The history of rebellion, resistance and revolt
+ATS2934 Global indigeneity: Performance and spectacle from the eighteenth to the twenty-first century
+ATS2937 Contemporary issues in European criminal justice
+ATS2941 Asia's underside: Violence, crime and protest
+ATS2946 Critical thinking: How to analyse arguments and improve your reasoning skills
+ATS2957 Medieval Italy: Sites of encounter
+ATS2961 Political ideas
+ATS2962 Now showing: Contemporary approaches to film and television
+ATS2971 Fields of play: Entertainment, politics and popular cultures
+ATS2983 Screen project: From film theory to digital video practice
+ATS3002 Documentary
+ATS3004 Crime, risk and security
+ATS3005 Chinese proficient 1
+ATS3006 Chinese proficient 2
+ATS3007 Chinese studies advanced 1
+ATS3008 Chinese studies advanced 2
+ATS3009 Chinese studies advanced 3: Readings in modern literature
+ATS3010 Chinese studies advanced 4: Readings in modern literature
+ATS3011 Chinese studies advanced 5: Contemporary literature
+ATS3012 Chinese studies advanced 6: Contemporary literature
+ATS3013 Chinese Business Translation 1
+ATS3014 Chinese Business Translation 2
+ATS3020 Colonialism in comparison: Australia, New Zealand and the Pacific
+ATS3021 Chamber Music 1
+ATS3022 Chamber Music 2
+ATS3037 Chinese online media: Contemporary issues and perspectives
+ATS3038 Chinese online media: Current issues and perspectives
+ATS3040 Cultures of remembrance
+ATS3041 Chinese media analysis 1
+ATS3042 Chinese media analysis 2
+ATS3045 From translation to interpreting in Chinese 1
+ATS3046 From translation to interpreting in Chinese 2
+ATS3058 New writing in Italy
+ATS3059 Applied media and social sciences internship
+ATS3060 Uni-Capitol Washington internship programme
+ATS3061 Music in Australia
+ATS3062 Digital production
+ATS3064 Cultural intelligence: Building competencies for global leadership
+ATS3065 French proficient 1
+ATS3066 French proficient 2
+ATS3067 French studies advanced 1
+ATS3068 French studies advanced 2
+ATS3069 French studies advanced 3
+ATS3070 French studies advanced 4
+ATS3071 France on film
+ATS3076 Contemporary French fiction: Rewriting identity
+ATS3077 Whatever happened to truth?: French Literature, thought and visual culture
+ATS3078 From the fall of Rome to the millennium: The world of the early Middle Ages
+ATS3079 The fall and rise of modern China: From opium war to opening up
+ATS3080 Remembering the past
+ATS3083 Translating across cultures
+ATS3089 Social institutions and power in Asia
+ATS3091 Digital literatures
+ATS3092 Reading and researching history
+ATS3093 Specialist topic in media, film and journalism
+ATS3094 The music business: How to be successful in the music industry
+ATS3095 German proficient 1
+ATS3096 German proficient 2
+ATS3097 German advanced 1
+ATS3098 German advanced 2
+ATS3099 German advanced 3
+ATS3100 German advanced 4
+ATS3102 German dialects and dialectology
+ATS3104 German literature in the age of Goethe
+ATS3105 On the brink of modernity (Germany and Europe 1890-1920)
+ATS3108 Introduction to the study of media culture from a German studies perspective
+ATS3111 Leadership for social change 3
+ATS3113 Reporting the arts circuit
+ATS3114 The camera at war: Combat photography and the visual language of conflict
+ATS3115 Indonesian 5: Indonesian political culture
+ATS3116 Indonesian 6: Indonesian writing
+ATS3117 Journalism through cultural interaction: Indonesia and its neighbours
+ATS3118 Soft power and Indonesia's performing arts
+ATS3124 Everyday life in the Soviet Union
+ATS3129 Arts internship
+ATS3130 Arts international internship
+ATS3135 War and memory: Resistance, massacre and representation in second world war Italy
+ATS3136 Performance 5
+ATS3137 Performance 6
+ATS3139 Extended major research unit
+ATS3140 Composition 5
+ATS3141 Composition 6
+ATS3142 Creative music technology 5
+ATS3143 Creative music technology 6
+ATS3144 Music research in the digital age
+ATS3145 Japanese proficient 1
+ATS3146 Japanese proficient 2
+ATS3147 Japanese studies advanced 1
+ATS3148 Japanese studies advanced 2
+ATS3151 Japanese studies advanced: Current issues
+ATS3152 Japanese studies advanced: Literature and film
+ATS3153 Music research project
+ATS3157 Sources of religious violence: Texts and contexts
+ATS3164 Italian transformations: Reading and writing self-discovery
+ATS3170 Arts international experience
+ATS3175 Korean proficient 1
+ATS3176 Korean proficient 2
+ATS3177 Korean translation
+ATS3194 Sacred cities: Between co-existence and persecution
+ATS3195 Spanish proficient 1
+ATS3196 Spanish proficient 2
+ATS3197 Spanish studies advanced 1
+ATS3198 Spanish studies advanced 2
+ATS3207 Film and society in Spain and Latin America
+ATS3208 In the footsteps of refugees
+ATS3210 Study tour: Crime and criminal justice in Asia
+ATS3214 Italy on film (In country)
+ATS3215 Global creative cities
+ATS3217 Ukrainian proficient 1
+ATS3218 Ukrainian proficient 2
+ATS3219 Ukrainian studies advanced 1
+ATS3220 Ukrainian studies advanced 2
+ATS3221 Music, media, culture
+ATS3225 Italian proficient 1
+ATS3226 Italian proficient 2
+ATS3227 Italian studies advanced 1
+ATS3228 Italian studies advanced 2
+ATS3237 Italy on film
+ATS3240 The fiction of Italy
+ATS3241 Italian theatre from Goldoni to Fo
+ATS3244 Dante
+ATS3247 Italian proficient 2 (in country)
+ATS3248 Field methods in anthropology and international development
+ATS3251 Cuba study tour
+ATS3265 Broadcast studio journalism
+ATS3266 Washington and the world: Washington D.C study tour
+ATS3275 The European Union from consensus to crisis
+ATS3277 Making sense of archaeological sites through their cultural objects
+ATS3278 Advanced writing and interviewing
+ATS3284 Final journey: Remembering the Holocaust
+ATS3287 War and peace: Models of conflict resolution
+ATS3288 Renaissance Rome: The papacy and the world
+ATS3290 Global leadership and advanced research program
+ATS3295 Screening contemporary Europe
+ATS3296 Musical theatre 1: History and form
+ATS3297 Musical theatre 2: Skills and performance
+ATS3302 Global connections: Understanding cultural literacy
+ATS3304 Forms of identity
+ATS3305 Digital humanities: Expanding research paradigms
+ATS3310 Writing in Australia
+ATS3311 Text and community in Medieval and Renaissance Italy
+ATS3312 Foreign bodies: Reading world crime fiction
+ATS3314 Seeking justice: South Africa and Rwanda
+ATS3315 Journalism and global change in Europe
+ATS3319 Cultural diversity in contemporary Europe
+ATS3331 Music - Overseas study program 1
+ATS3332 Music - Overseas study program 2
+ATS3335 International political economy
+ATS3338 Understanding ancient cultures
+ATS3339 Egypt: The broken reed?
+ATS3340 International security studies
+ATS3344 Archaeology in Italy
+ATS3346 Imperial Rome: A study in power and perversion in the early empire
+ATS3347 Minoans, Mycenaeans and Egypt
+ATS3350 From Alexander to Kleopatra: The Hellenistic world and the rise of Rome
+ATS3354 Interrogating racism: Indigenous Australians and the state
+ATS3359 Hearing the country: Studies in Indigenous Australian ethnoecology
+ATS3364 Indigenous Australian politics and activism
+ATS3366 Australian Indigenous art and design
+ATS3367 Australian Indigenous women
+ATS3369 Indigenous Australian human rights
+ATS3376 Anthropology of human rights
+ATS3379 Fairy tale in Italy
+ATS3386 Paradise lost? Sustainability and Australia
+ATS3387 Beyond Gallipoli: Australians in the Great War
+ATS3391 A world of sport: Business, politics and media
+ATS3392 A Lonely Planet? travel, culture, power
+ATS3394 Australia and Asia
+ATS3399 The politics of identity
+ATS3404 Eros and the body: Sexuality and body politics in the classical world
+ATS3405 Critical theory and poststructuralism: Recent European philosophy
+ATS3407 Psychoanalytic readings - Freud, Jung, Lacan
+ATS3419 Aesthetics and European Philosophy
+ATS3421 Literature and modernism
+ATS3437 Communication and creativity
+ATS3444 Inscribing Italy: Travels and imaginings
+ATS3445 Communications ethics, policy and law
+ATS3448 Screen theories and techniques
+ATS3449 Media texts
+ATS3450 Contemporary media theory
+ATS3451 Freedom and control in the media
+ATS3459 Prisons, power and punishment
+ATS3462 Global crime and justice
+ATS3464 Study tour: Comparative criminology USA
+ATS3465 Human rights in the criminal justice sphere
+ATS3466 Sex, gender and crime
+ATS3472 Crime and violence: Town and country
+ATS3473 Offender profiling
+ATS3486 Renaissance literature: Power and desire
+ATS3487 The Shadow of reason: Irrational literature in the eighteenth century
+ATS3495 Interwar literature
+ATS3496 Fairy-tale traditions
+ATS3497 Popular writing and criticism
+ATS3498 Contemporary fiction
+ATS3499 Authorship and writing
+ATS3502 Contemporary literature
+ATS3503 Writing women
+ATS3506 Poetry: Text and performance
+ATS3509 Advanced poetry writing
+ATS3518 Advanced fiction writing
+ATS3529 Australian film and television: Nation, culture and identity
+ATS3531 Gender and sexuality in film and television
+ATS3536 Alternatives in film and television
+ATS3539 Asian cinema and television
+ATS3540 Documentary and realism in film and television
+ATS3543 Australia's ancient Indigenous past: A 50,000 year archaeological odyssey
+ATS3544 On a dig: Practical archaeology in the field
+ATS3546 Environmental assessment and decision making
+ATS3553 Field studies in regional sustainability
+ATS3554 Resource evaluation and management
+ATS3566 Researching the Past: (Re)discovering the voiceless
+ATS3569 Australian history: Professional and political contexts
+ATS3570 International relations
+ATS3573 The Renaissance Codes: Art, magic and belief
+ATS3574 Fears and fantasies: Deviance and criminality in the modern world
+ATS3580 The modern Middle East
+ATS3582 Arab-Israeli conflict
+ATS3583 History and film: Nazi Germany and the Jewish Holocaust
+ATS3584 Australia's black history
+ATS3589 Medieval and early modern Britain
+ATS3593 History of sexuality 1800 - to the present
+ATS3597 Qualitative social research
+ATS3599 Modern Israel: History, politics and society
+ATS3608 Myth and meaning in ancient worlds
+ATS3611 Imagining God: The mystic quest in Judaism, Christianity and Islam
+ATS3612 The Renaissance in Florence
+ATS3616 Making America modern: Race, power and belonging in the twentieth-century
+ATS3623 Nationality, ethnicity and conflict
+ATS3626 Global disasters: Catastrophe and social change
+ATS3627 Global cultures, media flows: creating and consuming (popular) culture
+ATS3631 The idea of travel: Global perspectives
+ATS3632 Post-conflict: Justice, memory, reconciliation
+ATS3634 Indigenous peoples globally
+ATS3636 Sacred and profane: Religion, the secular and the state
+ATS3639 Poverty, climate change and international justice
+ATS3645 Journalism and global change
+ATS3649 Japanese: Language and society
+ATS3652 Japan as empire: From Meiji to 1945
+ATS3656 e-journalism
+ATS3658 Journalism ethics
+ATS3665 Language endangerment
+ATS3666 Eastern Austronesian languages of Indonesia, East Timor and Oceania
+ATS3667 Language across time
+ATS3668 Descriptive syntax: Grammatical structure, typology and universals
+ATS3669 Phonetics and phonology
+ATS3671 Managing intercultural communication
+ATS3672 Computational linguistics: An introduction
+ATS3673 History and sociolinguistics of English
+ATS3674 Semantics and pragmatics: The study of meaning in human languages
+ATS3677 Aboriginal languages of Australia
+ATS3678 Language and identity
+ATS3679 Psycholinguistics and child language acquisition
+ATS3680 Literacies and communication: Education, media and cyberspace
+ATS3682 Second language acquisition and attrition
+ATS3690 Reflections on humanity: Truth, freedom and power
+ATS3695 Public policy
+ATS3697 Gender and international relations
+ATS3705 Knowledge and power in world politics
+ATS3713 Field education and practice
+ATS3715 Sexuality and society
+ATS3717 Health, culture and society
+ATS3719 Modern political thought
+ATS3725 Population and society
+ATS3726 Critical social psychology
+ATS3730 Sustainability and society
+ATS3731 Regional and rural societies: People, place and nature
+ATS3732 Communications and media studies: Contemporary debates
+ATS3733 Work and technology
+ATS3734 Sociology of deviance
+ATS3736 Environmental sociology
+ATS3737 Social justice
+ATS3739 Sex and gender in society
+ATS3743 Build your career: Planning and strategies for employability
+ATS3745 Global indigenous studies
+ATS3760 Global communications
+ATS3774 Directing workshop
+ATS3775 Theatre internship unit
+ATS3776 Script development 2
+ATS3778 Englishes in the global context
+ATS3779 Cultural linguistics
+ATS3780 English as an international language: Language and education
+ATS3781 English as an international language: Writing across cultures
+ATS3782 Bodies of work
+ATS3786 Journalism, law and ethics
+ATS3789 Video journalism
+ATS3793 Global research
+ATS3795 Global correspondent
+ATS3796 Industry placement
+ATS3797 Truth, power and structure: Understanding history and politics
+ATS3798 Global Shakespeares
+ATS3802 Journalism practice and discourse
+ATS3808 Investigative reporting
+ATS3811 Journalism professional placement
+ATS3814 Yiddish Language, culture and literature 3A
+ATS3815 Yiddish Language, culture and literature 3B
+ATS3816 The social context of language learning
+ATS3818 Drumming traditions of West Africa
+ATS3819 Orchestration
+ATS3820 Conducting
+ATS3821 Critical perspectives on new musical works
+ATS3823 Improvising musical traditions of South Asia
+ATS3824 Popular music and society
+ATS3825 Western art music in the 20th and 21st century
+ATS3828 Film music
+ATS3829 East Asia and its music: Silk road histories and popular contexts
+ATS3833 Writing/Performance
+ATS3834 Production investigation III
+ATS3836 Victorian parliamentary internship
+ATS3837 Internal-external communication and reputation management
+ATS3838 Public relations campaigns
+ATS3842 Sport psychology
+ATS3843 Psychology and the workplace
+ATS3844 Forensic psychology
+ATS3846 People and other animals: A social science perspective
+ATS3848 Insights into practice
+ATS3850 Human services management and practice
+ATS3851 Social policy
+ATS3852 Contemporary issues in social science research
+ATS3855 Making sense of the social world
+ATS3857 Writing techniques
+ATS3858 Writing experiments
+ATS3862 Thinking about religion
+ATS3867 Crime fiction and film in Hispanic cultures
+ATS3869 Political philosophy
+ATS3870 Philosophy of religion
+ATS3873 Philosophical issues in applied ethics
+ATS3876 Theory of knowledge
+ATS3877 Philosophy of Jean-Paul Sartre and Simone de Beauvoir
+ATS3878 Recent logic
+ATS3879 Philosophy of language
+ATS3882 Metaphysics
+ATS3883 Issues in logical theory
+ATS3884 Foundations of modern philosophy: Love and other passions
+ATS3885 Stoic and epicurean philosophy
+ATS3888 Race and class in American Literature
+ATS3892 Dramaturgy 3: Contexts
+ATS3894 Accommodating minorities in Australia?
+ATS3895 Gender, race and journalism
+ATS3896 Photojournalism
+ATS3897 Borderless media in East Asia
+ATS3898 The Italian city: Historical and literary perspectives
+ATS3899 Jazz arranging: Contemporary arranging techniques for small groups to large ensembles
+ATS3900 Jazz composition: From Tin Pan Alley to today
+ATS3903 Leaders, power and politics
+ATS3905 Democratic theory
+ATS3908 American empire: The United States from colonies to superpower
+ATS3912 Performance studies 2 - Cultures
+ATS3913 Playtext study 2 - Shakespearean stages
+ATS3917 Representing war: Censorship, propaganda and art
+ATS3918 International journalism professional project
+ATS3919 Journalism professional placement
+ATS3926 Gongs, punks and shadow plays
+ATS3929 Sociology of race and ethnic relations
+ATS3930 Encounters and empire: Europe and the world
+ATS3931 Making digital history
+ATS3933 The meaning of things: Writing cultural history
+ATS3934 Global indigeneity: Performance and spectacle from the eighteenth to the twenty-first century
+ATS3937 Contemporary issues in European criminal justice
+ATS3948 Internship (undergraduate)
+ATS3951 Japanese popular culture and identity
+ATS3952 The world of textiles
+ATS3954 Media industry project
+ATS3955 Writing destruction: Literature of war
+ATS3956 Trauma and memory in the modern world
+ATS3957 Medieval Italy: Sites of encounter
+ATS3958 Designing and debating research practice in contemporary Indigenous studies
+ATS3969 Film and television studies in the digital era
+ATS3970 Performing film and television criticism with new technologies
+ATS3972 Imagining Ibero-America: Travels, texts and transnational encounters
+ATS3974 European integration and security
+ATS3976 Histoire(s) de rire: The stakes of literary laughter in France
+ATS3978 Japanese communication in professional settings
+ATS3987 Theories of theatre 2
+ATS4002 Honours research methods seminar
+ATS4006 Political theology
+ATS4137 Special reading unit 1 (Honours)
+ATS4171 Advanced readings in media and communications studies
+ATS4215 History archives workshop
+ATS4216 History: Beyond the nation
+ATS4217 Histories of place and space
+ATS4218 Ideas in history
+ATS4230 Arts honours thesis
+ATS4231 Arts honours thesis A
+ATS4232 Arts honours thesis B
+ATS4235 Selected topics in theory and practice
+ATS4256 Predynastic and early dynastic Egypt
+ATS4257 Reading the ancient past
+ATS4269 Rethinking theatre history
+ATS4279 Historical film theory and criticism
+ATS4280 Contemporary film theory and criticism
+ATS4286 Final journey: Remembering the Holocaust
+ATS4287 War and peace: Models of conflict resolution
+ATS4289 Medieval dialogues: Reason, mysticism and society
+ATS4290 Holocaust memories: Landscape, mourning, identity
+ATS4296 Imagining Europe: Representations and images of a continent
+ATS4297 Recording oral history: Theory and practice
+ATS4301 Reading and writing history
+ATS4311 Text and community in Medieval and Renaissance Italy
+ATS4328 Grand theories of politics and international relations
+ATS4333 Issues in politics, governance and research
+ATS4345 Research methods in classical antiquity
+ATS4348 Theme and genre in literary studies
+ATS4367 Placement research project for honours in international studies
+ATS4373 Honours professional project
+ATS4374 Honours specialist seminar
+ATS4375 Honours research seminar
+ATS4388 Special topic in literary studies
+ATS4451 Music honours thesis A
+ATS4452 Music honours thesis B
+ATS4653 Honours workshop
+ATS4699 Criminology honours coursework: Research, practice and policy
+ATS4702 Classical languages for researchers
+ATS4810 Global justice: Civil and human rights after 1945
+ATS4831 Special project: Performance part 1
+ATS4832 Special project: Performance part 2
+ATS4834 Music honours project
+ATS4838 Special project: Composition part 1
+ATS4839 Special project: Composition part 2
+ATS4868 Philosophy honours A
+ATS4869 Philosophy honours B
+ATS4924 Honours: Social sciences research methods
+ATS4938 Special project: Creative music technology part 1
+ATS4939 Special project: Creative music technology part 2
+AZA1001 Introduction to development studies
+AZA1010 Fundamentals of political science
+AZA1011 Fundamentals of international relations
+AZA1019 Psychology: Introduction 1A
+AZA1020 Psychology: Introduction 1B
+AZA1035 Principles of public relations practice
+AZA1061 French and francophone studies 1
+AZA1062 French and francophone studies 2
+AZA1264 Ethics and biotechnology
+AZA1279 Media and society
+AZA1281 Explaining crime: Theory and practice
+AZA1282 Introduction to Criminal Justice
+AZA1285 Child and youth development in South Africa: A person-in-environment perspective
+AZA1286 Child and youth development: A five-level developmental model
+AZA1294 Reading Africa: An introduction
+AZA1306 Introduction to human geography
+AZA1308 Introduction to Physical Geography
+AZA1325 International studies 1
+AZA1326 International studies 2
+AZA1328 Journalism 1: Introduction
+AZA1329 Journalism 2: Introduction
+AZA1365 Everyday life in sociological perspectives
+AZA1366 Families, relationships, health and the media
+AZA1371 Introduction to philosophy: Moral dilemmas and philosophy
+AZA1433 Interpersonal communication
+AZA2010 Political ideologies
+AZA2012 Comparative politics
+AZA2015 Biological and cognitive psychology
+AZA2016 Public policy-making
+AZA2030 Corporate Communication
+AZA2035 Development communication
+AZA2040 Issues, crises and social responsibility management
+AZA2045 Public relations and the media
+AZA2378 Development and the developing world
+AZA2436 New media and cyber cultures
+AZA2455 Child and adult development
+AZA2460 Industrial and organisational psychology
+AZA2461 Crime and punishment
+AZA2470 Victimology in South Africa
+AZA2490 Research assessment
+AZA2495 Social and community psychology
+AZA2549 Poverty and power: The uneven world
+AZA2625 Places and spaces: International migration in the global age
+AZA2627 Global and local cultures: Creating and consuming
+AZA2633 World cities: A historical and comparative analysis
+AZA2717 Medical sociology
+AZA2719 Theoretical perspectives in political and social thought
+AZA2723 Methodological issues in the social sciences
+AZA2762 Health and safety guidelines for children and youth
+AZA2763 Child and youth assessment: Risk and protective factors, signs and symptoms
+AZA2764 Building support networks for children and families
+AZA2765 Child and youth interventions: Individual, group and community interventions
+AZA2785 Legal aspects of journalism
+AZA2787 Journalism: An online perspective
+AZA2789 Journalism: Video perspectives
+AZA2939 Ethics and the modern world
+AZA3010 Competing models of political economy
+AZA3015 War, peace and international security
+AZA3018 Research design and quantitative methods
+AZA3031 Public relations campaigns and events
+AZA3135 Abnormal behaviour
+AZA3184 Public relations work integrated learning
+AZA3259 Geographical information systems (GIS): Planning and decision making
+AZA3301 Social inclusion internship: Working on migrant and refugee settlement in multicultural communities
+AZA3360 Psychotherapy and Counselling
+AZA3380 Sociology of development
+AZA3417 Africa and its others
+AZA3432 Managing communication in multicultural organisations
+AZA3453 Research fundamentals
+AZA3462 Psychological assessment
+AZA3463 Criminal behaviour in South Africa: A psychosocial approach
+AZA3465 Personality
+AZA3466 Women and crime: Damsels in distress
+AZA3467 Child justice: Human rights, law reform and socio-criminology of deviance
+AZA3468 Forensic criminology: Victim and offender profiling
+AZA3542 Geographical Information Systems: FOSS Geo-informatics
+AZA3546 Environmental impact assessment
+AZA3547 Urban planning, development and sustainability
+AZA3548 Environmental policy and resource management
+AZA3550 Climatology
+AZA3629 Beliefs, religion and spirituality: A global perspective
+AZA3640 Philosophy of war and global conflict
+AZA3641 Diplomacy in contemporary international relations
+AZA3643 Africa in the modern world
+AZA3644 South Africa: Democracy and development
+AZA3688 Foreign policy: Introduction
+AZA3703 The global politics of arms control and disarmament
+AZA3717 Medical sociology
+AZA3720 Sociological perspectives on youth culture and social change
+AZA3737 South Africa and African social justice
+AZA3744 School of Social Science workplace internship
+AZA3764 Consulting
+AZA3769 Family functioning and child abuse: The child and youth care worker's role
+AZA3770 Intermediary services in courts: Protecting the rights of the child and youth victim
+AZA3771 Management of community projects: Working preventatively with children, youth and families
+AZA3772 Field placements in child and youth care settings
+AZA3806 Reporting economic and business issues
+AZA3808 Investigative journalism in the South African and African context
+AZA3810 Reporting sport and sport cultures
+AZA3869 Political philosophy and justice
+AZA3871 Environmentalism: A philosophical perspective
+AZA3919 Professional placement in Journalism: South Africa
+AZA4010 Selected topics in philosophy
+AZA4020 Selected topics in journalism
+AZA4110 Sociology selected topics
+AZA4310 Child and youth care policy and leadership: Advocating for the rights of children and youth
+AZA4420 Adult psychopathology
+AZA4430 Counselling
+AZA4440 Psychology research project
+AZA4445 Social issues in psychology
+AZA4450 Researching for social sciences and humanities
+AZA4480 Psychological testing and assessment
+AZA4721 Communication and media practice applied
+AZA4743 Theoretical perspectives of conflict, crime, victimisation and criminal justice
+AZA4778 Social science honours dissertation A
+AZA4779 Social science honours dissertation B
+AZA4810 The globalisation of civil and human rights
+AZA4889 Advanced concepts in geography and environmental science
