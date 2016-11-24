@@ -78,11 +78,13 @@ def convsubtoarray(fileName,faculty):
         unitName=record[1]
         print("Getting Record for " + unitCode + '(' +faculty +')')
         syp = webScraper.getSypnosis(unitCode)
-        preq = webScraper.getPreq(unitCode)
-        proh = webScraper.getProhibitions(unitCode)
-        unitScoreData = webScraper.getUnitValue(unitCode)
-        pair=[unitCode,unitName,faculty,unitScoreData[0],unitScoreData[2],preq,proh,unitScoreData[1],syp]
-        array.append(pair)
+        if syp != '':
+            #assume its an empty page
+            preq = webScraper.getPreq(unitCode)
+            proh = webScraper.getProhibitions(unitCode)
+            unitScoreData = webScraper.getUnitValue(unitCode)
+            pair=[unitCode,unitName,faculty,unitScoreData[0],unitScoreData[2],preq,proh,unitScoreData[1],syp]
+            array.append(pair)
     return array
 
 import csv
