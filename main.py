@@ -50,6 +50,7 @@ class WebScraper:
         page = requests.get(targetURL)
         tree = html.fromstring(page.content)
         unitVal = tree.xpath('//h2//text()')
+        print(unitVal)
         string = self.interpreter(unitVal)
         score = unitVal[0]
         score = score.split(',')
@@ -59,11 +60,11 @@ class WebScraper:
             if item[0] == ' ':
                 item = item[1:]
             newarray.append(item)
-        finalarray.append(['CreditPoints',newarray[0].split()[0]])
-        finalarray.append(['SCABand',newarray[1].split()[-1]])
-        finalarray.append(['EFTSL', newarray[2].split()[0]])
+        finalarray.append(newarray[0].split()[0])
+        finalarray.append(newarray[1].split()[-1])
+        finalarray.append(newarray[2].split()[0])
 
         return finalarray
 
 webScraper = WebScraper()
-print(webScraper.getUnitValue('FIT1047'))
+print(webScraper.getUnitValue('AHT2530'))

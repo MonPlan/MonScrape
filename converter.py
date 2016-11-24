@@ -62,7 +62,7 @@ class WebScraper:
             newarray.append(item)
         finalarray.append(newarray[0].split()[0])
         finalarray.append(newarray[1].split()[-1])
-        finalarray.append(newarray[2].split()[0]])
+        finalarray.append(newarray[2].split()[0])
 
         return finalarray
 
@@ -80,7 +80,7 @@ def convsubtoarray(fileName,faculty):
         syp = webScraper.getSypnosis(unitCode)
         preq = webScraper.getPreq(unitCode)
         proh = webScraper.getProhibitions(unitCode)
-        unitScoreData = webScraper.getProhibitions(unitCode)
+        unitScoreData = webScraper.getUnitValue(unitCode)
         pair=[unitCode,unitName,faculty,unitScoreData[0],unitScoreData[2],preq,proh,unitScoreData[1],syp]
         array.append(pair)
     return array
