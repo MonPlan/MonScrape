@@ -69,6 +69,28 @@ class WebScraper:
 webScraper = WebScraper()
 
 def convsubtoarray(fileName,faculty):
+    if(faculty == "ada"):
+        fac = "Faculty of Arts, Design and Architecture"
+    elif (faculty == "arts"):
+        fac = "Faculty of Arts"
+    elif (faculty == "buseco"):
+        fac = "Faculty of Business and Economics"
+    elif (faculty == "edu"):
+        fac = "Faculty of Education"
+    elif (faculty == "eng"):
+        fac = "Faculty of Engineering"
+    elif (faculty == "it"):
+        fac = "Faculty of Information Techonology"
+    elif (faculty == "law"):
+        fac = "Faculty of Law"
+    elif(faculty == "med"):
+        fac = "Faculty of Medicine, Nursing and Health Sciences"
+    elif (faculty == "pha"):
+        fac = "Faculty of Pharmacy and Pharmaceutical Sciences"
+    elif (faculty == "sci"):
+        fac = "Faculty of Sciences"
+    else:
+        fac =faculty #return faculty if it doesnt satisfy anythin
     file = open(fileName,'r')
     array=[]
     for line in file:
@@ -83,7 +105,7 @@ def convsubtoarray(fileName,faculty):
             preq = webScraper.getPreq(unitCode)
             proh = webScraper.getProhibitions(unitCode)
             unitScoreData = webScraper.getUnitValue(unitCode)
-            pair=[unitCode,unitName,faculty,unitScoreData[0],unitScoreData[2],preq,proh,unitScoreData[1],syp]
+            pair=[unitCode,unitName,fac,unitScoreData[0],unitScoreData[2],preq,proh,unitScoreData[1],syp]
             array.append(pair)
     return array
 
