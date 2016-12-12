@@ -50,7 +50,6 @@ class WebScraper:
         page = requests.get(targetURL)
         tree = html.fromstring(page.content)
         unitVal = tree.xpath('//h2//text()')
-        print(unitVal)
         string = self.interpreter(unitVal)
         score = unitVal[0]
         score = score.split(',')

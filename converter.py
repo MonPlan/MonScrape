@@ -1,6 +1,7 @@
 import csv
 from lxml import html
 import requests
+import time
 
 class WebScraper:
     def __init__(self):
@@ -99,6 +100,9 @@ def convsubtoarray(fileName,faculty):
         unitCode=str(record[0])
         unitName=record[1]
         print("Getting Record for " + unitCode + '(' +faculty +')')
+        print('waiting')
+        time.sleep(5)
+
         syp = webScraper.getSypnosis(unitCode)
         if syp != '':
             #assume its an empty page
@@ -121,7 +125,7 @@ def toCSV(array):
         writer.writerow(values)
     fl.close()
 
-faculties = ['ada','arts','buseco','edu','eng','it','law','med','pha','sci']
+faculties = ['arts']
 newarray = []
 for f in faculties:
     fileName = f + '.txt'
