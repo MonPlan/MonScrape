@@ -67,6 +67,27 @@ class WebScraper:
 
         return finalarray
 
+
+    def getLocations(self,unit):
+        targetURL = 'http://www.monash.edu.au/pubs/handbooks/units/' + unit + '.html'
+        page = requests.get(targetURL)
+        tree = html.fromstring(page.content)
+        lengthofIterations = len(tree.xpath('//div[@class="preamble_entry"]//div[@class="pub_preamble_value"]/*'))//2
+        array = []
+        print(lengthofIterations)
+        for i in range(1, lengthofIterations+1):
+            base = '//div[@class="preamble_entry"]//div[@class="pub_preamble_value"]'
+            locStrig = base + '/p[' + str(i) + ']/a//text()'
+            semester = base + '/ul[' + str(i) + ']/li//text()'
+
+            locResult = tree.xpath(locStrig)
+            semResult = tree.xpath(semester)
+            pushEle = [locResult, semResult]
+            array.append(pushEle)
+        #location = tree.xpath('//div[@class="preamble_entry"]//div[@class="pub_preamble_value"]/p[2]/a//text()')
+        #date = tree.xpath('//div[@class="preamble_entry"]//div[@class="pub_preamble_value"]/ul[2]/li//text()')
+        return array
+
 webScraper = WebScraper()
 
 def convsubtoarray(fileName,faculty):
@@ -109,7 +130,8 @@ def convsubtoarray(fileName,faculty):
             preq = webScraper.getPreq(unitCode)
             proh = webScraper.getProhibitions(unitCode)
             unitScoreData = webScraper.getUnitValue(unitCode)
-            pair=[unitCode,unitName,fac,unitScoreData[0],unitScoreData[2],preq,proh,unitScoreData[1],syp]
+            locAndTime = webScraper.getLocations(unitCode)
+            pair=[unitCode,unitName,fac,locAndTime,unitScoreData[0],unitScoreData[2],preq,proh,unitScoreData[1],syp]
             array.append(pair)
     return array
 
@@ -120,7 +142,7 @@ def toCSV(array):
     fl = open(CSVfileName, 'w')
 
     writer = csv.writer(fl)
-    writer.writerow(['UnitCode', 'UnitName','Faculty','CreditPoints','EFTSL',"Preqs","Proh",'SCABand',"Sypnosis"]) #if needed
+    writer.writerow(['UnitCode', 'UnitName','Faculty','LocationAndTime','CreditPoints','EFTSL',"Preqs","Proh",'SCABand',"Sypnosis"]) #if needed
     for values in array:
         writer.writerow(values)
     fl.close()

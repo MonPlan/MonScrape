@@ -65,5 +65,26 @@ class WebScraper:
 
         return finalarray
 
+    def getLocations(self,unit):
+        targetURL = 'http://www.monash.edu.au/pubs/handbooks/units/' + unit + '.html'
+        page = requests.get(targetURL)
+        tree = html.fromstring(page.content)
+        lengthofIterations = len(tree.xpath('//div[@class="preamble_entry"]//div[@class="pub_preamble_value"]/*'))//2
+        array = []
+        print(lengthofIterations)
+        for i in range(1, lengthofIterations+1):
+            base = '//div[@class="preamble_entry"]//div[@class="pub_preamble_value"]'
+            locStrig = base + '/p[' + str(i) + ']/a//text()'
+            semester = base + '/ul[' + str(i) + ']/li//text()'
+
+            locResult = tree.xpath(locStrig)
+            semResult = tree.xpath(semester)
+            pushEle = [locResult, semResult]
+            array.append(pushEle)
+        #location = tree.xpath('//div[@class="preamble_entry"]//div[@class="pub_preamble_value"]/p[2]/a//text()')
+        #date = tree.xpath('//div[@class="preamble_entry"]//div[@class="pub_preamble_value"]/ul[2]/li//text()')
+        return array
+
+
 webScraper = WebScraper()
-print(webScraper.getUnitValue('AHT2530'))
+print(webScraper.getLocations('ENG1003'))
