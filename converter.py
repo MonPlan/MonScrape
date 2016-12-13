@@ -125,7 +125,7 @@ def toCSV(array):
         writer.writerow(values)
     fl.close()
 
-faculties = ['arts']
+faculties = ['ada','arts','buseco','edu','eng','it','law','med','pha','sci']
 newarray = []
 for f in faculties:
     fileName = f + '.txt'
