@@ -7,6 +7,14 @@ class WebScraper:
     def __init__(self):
         pass
 
+    def getCode(self, unit):
+        targetURL = 'http://www.monash.edu.au/pubs/handbooks/units/' + unit + '.html'
+        page = requests.get(targetURL)
+        tree = html.fromstring(page.content)
+        offers = tree.xpath('//span[@class="unitcode"]//text()')
+        string = self.interpreter(offers)
+        return string
+
     def interpreter(self,array):
         string = ""
         for i in range(len(array)):
@@ -30,6 +38,7 @@ class WebScraper:
         sypnosis = tree.xpath('//div[@class=" uge-synopsis-content"]//text()')
         string = self.interpreter(sypnosis)
         return string
+
 
     def getPreq(self,unit):
         targetURL = 'http://www.monash.edu.au/pubs/handbooks/units/' + unit + '.html'
@@ -116,29 +125,35 @@ def convsubtoarray(fileName,faculty):
     file = open(fileName,'r')
     array=[]
     for line in file:
-        record=line.strip()
-        record = record.split(' ',1)
-        unitCode=str(record[0])
-        unitName=record[1]
-        print("Getting Record for " + unitCode + '(' +faculty +')')
-        print('waiting')
-        time.sleep(5)
+        try:
+            record=line.strip()
+            record = record.split(' ',1)
+            unitCode=str(record[0])
+            unitName=record[1]
+            print("Getting Record for " + unitCode + '(' +faculty +')')
+            print('waiting')
+            time.sleep(3)
 
-        syp = webScraper.getSypnosis(unitCode)
-        if syp != '':
-            #assume its an empty page
-            preq = webScraper.getPreq(unitCode)
-            proh = webScraper.getProhibitions(unitCode)
-            unitScoreData = webScraper.getUnitValue(unitCode)
-            locAndTime = webScraper.getLocations(unitCode)
-            pair=[unitCode,unitName,fac,locAndTime,unitScoreData[0],unitScoreData[2],preq,proh,unitScoreData[1],syp]
-            array.append(pair)
+
+            if webScraper.getCode(unitCode) != '':
+                #assume its an empty page
+                preq = webScraper.getPreq(unitCode)
+                proh = webScraper.getProhibitions(unitCode)
+                unitScoreData = webScraper.getUnitValue(unitCode)
+                locAndTime = webScraper.getLocations(unitCode)
+                syp = webScraper.getSypnosis(unitCode)
+
+                pair=[unitCode,unitName,fac,locAndTime,unitScoreData[0],unitScoreData[2],preq,proh,unitScoreData[1],syp]
+                array.append(pair)
+        except:
+            print(line)
+            continue
     return array
 
 import csv
 
 def toCSV(array):
-    CSVfileName = 'dbUpdated.csv'
+    CSVfileName = 'output.csv'
     fl = open(CSVfileName, 'w')
 
     writer = csv.writer(fl)

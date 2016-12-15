@@ -87,4 +87,4 @@ class WebScraper:
 
 
 webScraper = WebScraper()
-print(webScraper.getLocations('ENG1003'))
+print(webScraper.getPreq('PAC4441'))
