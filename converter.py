@@ -131,8 +131,8 @@ def convsubtoarray(fileName,faculty):
             unitCode=str(record[0])
             unitName=record[1]
             print("Getting Record for " + unitCode + '(' +faculty +')')
-            print('waiting')
-            time.sleep(3)
+            print('waiting 5 secs')
+            time.sleep(5)
 
 
             if webScraper.getCode(unitCode) != '':
