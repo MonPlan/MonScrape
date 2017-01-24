@@ -1,0 +1,125 @@
+{
+    "courseAOS": "Bachelor of Electrical and Computer Systems Engineering (Honours)",
+    "courseCode": "E3001",
+    "courseName": "Engineering",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ENG1001",
+                "ENG1005",
+                {
+                    "faculty": "",
+                    "type": "ENG1090 (if required) or PHS1080 (if required) or 1 st year engineering elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Elective If two foundation units are required then this elective is used to complete the second of ENG1090 and PHS1080 ,"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ENG1002",
+                "ENG1003",
+                "ENG1060",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ECE2071",
+                {
+                    "faculty": "",
+                    "type": "ECE2xxx Electrical circuits"
+                },
+                "ENG2005",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ECE2072",
+                {
+                    "faculty": "",
+                    "type": "ECE2xxx Signals and systems"
+                },
+                {
+                    "faculty": "",
+                    "type": "ECE2xxx Probability models in engineering"
+                },
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ECE3073",
+                {
+                    "faculty": "",
+                    "type": "ECE3xxx Information and networks"
+                },
+                {
+                    "faculty": "",
+                    "type": "ECE3xxx Control system design"
+                },
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "ECE3xxx Analogue electronics"
+                },
+                "ECE3091",
+                {
+                    "faculty": "",
+                    "type": "ECE3xxx Engineering electromagnetics"
+                },
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ECE4094",
+                "ECE4099",
+                {
+                    "faculty": "",
+                    "type": "ECSE technical elective"
+                },
+                "Elective"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ECE4095",
+                {
+                    "faculty": "",
+                    "type": "ECE4xxx Electrical energy systems"
+                },
+                {
+                    "faculty": "",
+                    "type": "ECSE technical elective"
+                },
+                "Elective"
+            ],
+            "year": 3
+        }
+    ]
+}

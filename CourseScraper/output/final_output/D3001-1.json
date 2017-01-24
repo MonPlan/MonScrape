@@ -1,0 +1,1798 @@
+{
+    "courseAOS": "Bachelor of Education (Honours) in Early Years Education",
+    "courseCode": "D3001",
+    "courseName": "Education",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Education",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Enrolment in a Faculty of Education course",
+                    "Proh": "EDF1301",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit introduces contemporary learning theories that enable students to reflect on their own learning experiences in order to understand how others learn. From the perspective of broader educational settings (school, community, early childhood settings, home), the important questions of what learning is, how and why learning occurs, what quality learning might be and what influences learning, are discussed and reflected upon. Through examination of different theoretical perspectives and contexts, this unit focuses on building an understanding of what can influence learning and offers skill building in academic learning. Ideas closely associated with learning, including motivation, engagement and ability are also considered. The unit encourages students to begin constructing deep knowledge about the relationship between learning and educational inquiry.",
+                    "UnitCode": "EDF1303",
+                    "UnitName": "Understanding learning and learners",
+                    "_id": "587801bd30213215439e8d3e",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit builds students' understanding of the discipline of English and introduces them to the multifaceted, diverse worlds of children's literacy learning spanning home and communities, including early childhood settings and the first years of schooling. Engagement with contemporary research literature assists students in their exploration of English language and literacy concepts and theories, leading to their development of pedagogical practices that support children's literacy learning in multiple contexts. A strong emphasis is given to understanding the four elements of English language development required by the literate person in relation to speaking, reading, writing and listening. Students learn to appreciate the importance of respecting the impact of cultural and linguistic background on students and their literacy learning.",
+                    "UnitCode": "EDF1030",
+                    "UnitName": "English and literacy learning",
+                    "_id": "587801b530213215439e8d22",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors early years professional experience in the Bachelor of Education in Early Childhood and the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF1051",
+                    "UnitName": "Early years professional experience 1A",
+                    "_id": "587801b730213215439e8d28",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit introduces students to teaching and learning in, about and through the arts in early childhood. Students engage with creativity theories and creative pedagogies by being immersed in music, visual art, dance, drama and multi-media. A focus of the unit is on students developing their competencies as teachers, artists and researchers in the arts. By exploring both discipline-specific concepts and knowledge and integrated curriculum approaches, students gain an understanding of how to plan and implement creative arts experiences in educational programs.",
+                    "UnitCode": "EDF1031",
+                    "UnitName": "Creative learning in childhood through music and the arts",
+                    "_id": "587801b630213215439e8d23",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit introduces students to the field of early years education through the exploration of historical and contemporary approaches to the education of young children. Foundational philosophies such as those developed by Dewey, Steiner, Montessori and Petalozzi are critically discussed in relation to their influence on contemporary approaches that inform early childhood education in local and global contexts. Students develop insights into a range of contemporary programs including but not limited to the Reggio Emilia and Forest Schools approaches. In addition students are introduced to practice guidelines and principles relevant to their specific contexts such as the professional code of ethics, curriculum frameworks and policy documents.  Understandings of daily practice are informed by the United Nations Conventions on the Rights of the Child to uphold the rights of the child and by ethical considerations for respectful, meaningful and quality education and care for children. Through critique and analysis of historical and contemporary practices, students develop their own emerging personal philosophy of early years education.",
+                    "UnitCode": "EDF1038",
+                    "UnitName": "Introduction to the early childhood education field",
+                    "_id": "587801b630213215439e8d26",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF1303",
+                    "Proh": "EDF1302",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit builds on the focus in EDF1303 (Understanding learning and learners) to introduce contemporary approaches to teaching and their impact on learning. It enables students to demonstrate an understanding of curriculum and its role in teaching and learning in educational settings. Students are facilitated to demonstrate knowledge and skills in a range of teaching strategies including effective teaching models and assessment strategies that promote learning. Students develop knowledge and skills to engage in meaningful and respectful relationships with learners, their families and communities, in order to support learning.",
+                    "UnitCode": "EDF1304",
+                    "UnitName": "Understanding teaching for learning",
+                    "_id": "587801bd30213215439e8d3f",
+                    "enjoyRating": 4.185714286,
+                    "enjoyResponse": 317,
+                    "learnRating": 4.09097277,
+                    "learnResponse": 106,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit develops students' understanding on the ways young children's mathematical thinking develops from a very early age. It introduces conceptual frameworks for understanding children's mathematical growth and explores experiences which give young children opportunities to learn mathematics from infancy through to the early years of school. The content addresses the transition from informal to formal mathematical concepts in young children. Students critically engage with current research, practice and policy in mathematics in multiple contexts. They begin to develop pedagogical tools that enable them to successfully support children's learning of mathematics.",
+                    "UnitCode": "EDF1032",
+                    "UnitName": "Thinking mathematically from an early age",
+                    "_id": "587801b630213215439e8d24",
+                    "enjoyRating": 3.897342995,
+                    "enjoyResponse": 57,
+                    "learnRating": 4.038401559,
+                    "learnResponse": 29,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF1051",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors early years professional experience in the Bachelor of Education in Early Childhood and the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF1052",
+                    "UnitName": "Early years professional experience 1B",
+                    "_id": "587801b730213215439e8d29",
+                    "enjoyRating": 4.032142857,
+                    "enjoyResponse": 46,
+                    "learnRating": 3.987103175,
+                    "learnResponse": 23,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "In this unit students are introduced to place-based and experiential opportunities to begin developing their own practices for teaching about environment and sustainability. Students investigate how environment and sustainability concepts and practices are facilitated in early years education. They develop an appreciation for their local environments and explore how these can be integrated into teaching and learning through extensive fieldwork both on- and off-campus. They investigate and understand the cultural, social, economic, ecological and political factors that influence attitudes and action towards environment and sustainability. Students develop theoretical and pedagogical knowledge of how to develop holistic learning experiences for environment and sustainability throughout the early years of education.",
+                    "UnitCode": "EDF1033",
+                    "UnitName": "Education for environment and sustainability",
+                    "_id": "587801b630213215439e8d25",
+                    "enjoyRating": 3.263636364,
+                    "enjoyResponse": 50,
+                    "learnRating": 3.626240079,
+                    "learnResponse": 25,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit introduces students to the concepts of inclusivity and the ways that family and professional partnerships are an essential element of early years education. It explores the rationales and practices in the early years setting and profession to achieve inclusion for all learners. Students engage in critical analysis of current inclusion and professional partnership practices locally and globally. Within this framework of analysis, the evaluation and application of evidence-based practice in relation to inclusivity and partnership is established. Major theoretical perspectives and current debates related to development are explored and students learn how to interpret and implement curriculum and legislative requirements that impact on professional practice and planning to meet diverse learner needs.",
+                    "UnitCode": "EDF1039",
+                    "UnitName": "Inclusivity and partnerships in early childhood education",
+                    "_id": "587801b730213215439e8d27",
+                    "enjoyRating": 4.075,
+                    "enjoyResponse": 47,
+                    "learnRating": 4.112626263,
+                    "learnResponse": 24,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 1 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "In this unit students develop understandings of a range of contemporary theories of child development and discuss development as a cultural and social process whereby development is always positioned in relation to what the child can do collaboratively. A diverse range of theoretical perspectives and theories, including developmental, sociocultural and post-structural, are explored in relation to how they are applied to the provision of education and care for children from birth to twelve years in their specific contexts. The unit explores new research in this field and students critically reflect on current practices in the light of this research to begin to develop their pedagogical leadership. Students apply their understanding of contemporary child development in early childhood settings to plan learning experiences showing the nexus between theory, teaching and development strategies that reflect contemporary curriculum frameworks.",
+                    "UnitCode": "EDF2030",
+                    "UnitName": "Contemporary child development theories and practices",
+                    "_id": "587801c130213215439e8d4a",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit explores local and global Indigenous perspectives on teaching and learning. It develops students' knowledge and understanding of Indigenous cultures with a particular focus on Aboriginal and Torres Strait Islander peoples. The unit considers Indigenous and other forms of education alongside the provision of mainstream schooling by nation states. Students develop their understanding of the impact of culture, cultural identity and linguistic background on the education of students from Aboriginal and Torres Strait Islander backgrounds. They explore and utilise education programs which have successfully engaged with learners from Indigenous and traditionally oriented societies and achieved improvements in their education outcomes. Students also develop broad knowledge, understanding and respect for Aboriginal and Torres Strait Islander peoples and their histories, cultures and languages, to meet expectations in the Australian Curriculum and the Australian Professional Standards for Teachers. They develop skills and insights into how to engage learners from Indigenous and traditional communities and create successful partnerships that improve academic outcomes and foster reconciliation.",
+                    "UnitCode": "EDF2031",
+                    "UnitName": "Indigenous perspectives on teaching and learning",
+                    "_id": "587801c230213215439e8d4b",
+                    "enjoyRating": 2.216666667,
+                    "enjoyResponse": 88,
+                    "learnRating": 2.875984047,
+                    "learnResponse": 29,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For BEd(Hons) in Early Years Education: EDF1052For BEd(Hons) in Primary Education (single and double degrees): EDF1054For BEd(Hons) in Primary and Secondary Health and Physical Education: EDF1056",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors primary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF2053",
+                    "UnitName": "Primary professional experience 2A",
+                    "_id": "587801c530213215439e8d54",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 1 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "In this unit students examine research which explores contemporary theories about play and how play supports children's learning. Students learn how to interpret play-based curriculum that encourages children to explore, solve problems, create and construct new knowledge and explore how play is re-defined and theorised. In addition, students explore the diverse culturally informed ways in which children in contemporary society play and learn in early childhood settings, primary schools, families and communities. Importantly, students undertake an analysis of the contemporary theories of play and, noting the research upon which a variety of theories are based, examine multicultural variations, popular culture and gendered interactions. They become familiar with a range of children's play contexts. Students further develop their understanding through observing children at play and undertaking analyses of re-theorising play as a pedagogical construct to support students' ability for leading pedagogical practice change.",
+                    "UnitCode": "EDF2032",
+                    "UnitName": "Learning through play pedagogies",
+                    "_id": "587801c230213215439e8d4c",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (On-campus block of classes)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (Off-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit develops students' understanding of the curriculum guidelines, documentation, assessment and evaluation policies that are pertinent to early childhood education at local and national levels. Students are involved in analyses of pedagogical, social, cultural, political and economic dimensions of curriculum theory, practice, design and assessment that meet diverse learners' needs. They develop in-depth knowledge of the key elements and requirements of current policy relevant to their local, regional and national contexts. They explore exemplars of early years programs and planning and how children's activities are assessed, so they can competently and professionally develop practices expected in early childhood learning and care nationally and internationally.",
+                    "UnitCode": "EDF2038",
+                    "UnitName": "Curriculum, assessment and documentation in education",
+                    "_id": "587801c430213215439e8d50",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 3 2017 (On-campus block of classes)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 3 2017 (Off-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit explores children's learning development within the context of their family and communities. The theoretical and practical context of how children learn from birth to eight years of age is explored to support students' capacity for building effective relationships. The focus is on the implications of development for learning and teaching in relation to contemporary issues impacting on children's learning with their family and communities. All aspects of learning and teaching in these early years is examined through participation in problem-based learning scenarios and observed case studies where students analyse and apply knowledge of children, family and communities. Students learn to understand how theoretical and contemporary real-life issues relate to the development of children's learning, and they develop their ability to design innovative learning with children, their families and communities.",
+                    "UnitCode": "EDF2033",
+                    "UnitName": "Learning with children, their families and communities",
+                    "_id": "587801c330213215439e8d4d",
+                    "enjoyRating": 4.358730159,
+                    "enjoyResponse": 48,
+                    "learnRating": 4.433922993,
+                    "learnResponse": 16,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 3 2017 (On-campus block of classes)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 3 2017 (Off-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit focuses on students' developing understanding of what young children do to learn mathematically and build the skills of numeracy through play, games, shapes, numbers and varied resources for young learners. Students further build their conceptual frameworks for understanding children's mathematical growth. Students critically engage with current research, practice and policy in mathematics with a special focus on mathematics and play. They are introduced to pedagogical approaches that enable them to successfully support children's learning of mathematics, including a focus on the use of information and communication technologies (ICTs) and the use of real or imaginary technologies as props in their play, or as tools for designing and making meaning.",
+                    "UnitCode": "EDF2034",
+                    "UnitName": "Learning about patterns, shapes and numbers through play",
+                    "_id": "587801c330213215439e8d4e",
+                    "enjoyRating": 4.248989899,
+                    "enjoyResponse": 39,
+                    "learnRating": 4.164351852,
+                    "learnResponse": 13,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 3 2017 (Off-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For Bachelor of Education in Early Childhood: EDF2051For BEd(Hons) in Early Years Education: EDF2053",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors early years professional experience in the Bachelor of Education in Early Childhood and the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF2052",
+                    "UnitName": "Early years professional experience 2B",
+                    "_id": "587801c530213215439e8d53",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 2,
+                    "learnRating": 3.333333333,
+                    "learnResponse": 2,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 4 2017 (On-campus block of classes)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 4 2017 (Off-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit develops students' understanding of how early childhood education can help to develop health and physical wellbeing in the young child with reference to the expectations in relevant curriculum and policy documents. Wellbeing is discussed in terms of holistic approaches to health with children, their families and communities with particular emphasis on diversity and inclusion. There are emphases on physical wellbeing with attention paid to movement, the body, diet and nutrition, outdoor activity and risk taking, as well as children's socio-emotional wellbeing. Local and international perspectives on health and wellbeing are explored and how different cultural values disrupt the idea that there is a universal standard for health and physical wellbeing. The United Nations Convention on the Rights of the Child (UNCRC) document underpins the learning in this unit. Students learn how they can develop and apply strategies to ensure the rights of children to a healthy and active lifestyle can be achieved.",
+                    "UnitCode": "EDF2035",
+                    "UnitName": "Health and physical wellbeing in the young child",
+                    "_id": "587801c430213215439e8d4f",
+                    "enjoyRating": 4.083333333,
+                    "enjoyResponse": 39,
+                    "learnRating": 4.127314815,
+                    "learnResponse": 13,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 4 2017 (On-campus block of classes)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 4 2017 (Off-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit examines critically how childhood has been theorised over time, and investigates how different concepts of childhood have shaped children's lives and educational opportunities. Students engage with a range of educational philosophical perspectives that have contributed to understandings of childhood across time and place. Students also develop an understanding of the complex socio-economic, cultural and political contexts that have shaped childhoods locally and globally and they investigate how concepts generate possibilities and challenges for young children's learning in the present and future. Particular emphasis is given to the implications for students' work as emerging leaders in their professional field.",
+                    "UnitCode": "EDF2039",
+                    "UnitName": "Children and childhood across time: Policies and practices",
+                    "_id": "587801c530213215439e8d51",
+                    "enjoyRating": 4.2,
+                    "enjoyResponse": 34,
+                    "learnRating": 4.114285714,
+                    "learnResponse": 11,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 6,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 1 2017 (On-campus block of classes)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 1 2017 (Off-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit develops students' understanding of the factors involved in diverse learners' experiences in childhood development. It focuses on individuals with physical, cognitive or emotional differences and abilities, as well as differences created by social structures such as family, class, gender, and culture. Approaches to designing learning for children with delayed development, exceptional ability, emotional or behavioural problems are provided for critical reflection and discussion to develop students' ability to respond to varied children's needs. Major theoretical perspectives and current debates related to development are explored and students learn how to interpret and implement curriculum and legislative requirements that impact on professional practice and planning to meet diverse learner needs.",
+                    "UnitCode": "EDF3030",
+                    "UnitName": "Diversity in child development",
+                    "_id": "587801d030213215439e8d77",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (On-campus block of classes)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (Off-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit critically examines trends in education policy across local, regional, national and global scales. Students engage with concepts of neoliberalism and globalisation in education policy and investigate how policy influences early years education through a range of perspectives. Students develop an understanding of national and regional policy relevant to early years education and research the implications of global and national policy for their work as professional educators and leaders in their field.",
+                    "UnitCode": "EDF3031",
+                    "UnitName": "Local and global perspectives in education policy",
+                    "_id": "587801d030213215439e8d78",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF2052",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors early years professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF3050",
+                    "UnitName": "Early years professional experience 3A",
+                    "_id": "587801d430213215439e8d80",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 1 2017 (On-campus block of classes)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 1 2017 (Off-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit uses creative approaches to develop students' knowledge and understanding of English discipline specific content. Students learn how to develop personal literacy through integrated approaches and an explicit focus on reading recovery and language development across reading, writing, speaking and listening. Students explore a wide range of literature suitable for children and engage with various approaches to storytelling and language arts, including digital and cross-arts storytelling. Students develop their skills in English and literacy including how to critically analyse texts, how to select and present literature for children and methods of integrating language arts across the curriculum. By developing their own English communication skills as story makers and tellers, students gain the ability to design pedagogies for engaging children in literature and developing literacies through storytelling and to develop literacy leadership.",
+                    "UnitCode": "EDF3032",
+                    "UnitName": "Children's literature, storytelling and the arts",
+                    "_id": "587801d130213215439e8d79",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (On-campus block of classes)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (Off-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "In this unit students develop understanding of the professional and ethical standards expected of educators working with children in the early years, in policy and practice. Students explore possibilities for interdisciplinary work with professionals in related fields to support children and their families in diverse contexts. They develop knowledge of reports and policies, including a review of legislative requirements informing educators' work and understanding of how to implement strategies to support the safe, responsible and ethical use of information and communication technologies (ICTs) in learning and teaching. They learn from professionals including social workers, health professionals and others to understand the day to day issues educators deal with in their work, and the importance of networking with, and leading interdisciplinary teams. Students develop communication skills that enable them to become future leaders who work professionally and ethically with a variety of professionals in early years and primary settings.",
+                    "UnitCode": "EDF3038",
+                    "UnitName": "Professionalism, ethics and interdisciplinary work in education",
+                    "_id": "587801d330213215439e8d7e",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 1 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "In this unit students critically reflect on their emerging understanding of the range and depth of educators' work and their professional identity as teachers. They build their capacity to capture, articulate and demonstrate their developing practice in a professional portfolio of evidence of their learning across the dimensions of the Australian Professional Standards for Teachers. This includes the three domains of teaching: professional knowledge, professional practice and professional engagement. Drawing on their learning in university coursework and through professional experience in varied education settings, students explore what it means to be engaged in the education profession through consideration of the nature of teachers' and educators' work and of leadership in education. They explore policy and practice involved in the ethical, professional, industrial, legal, emotional, intellectual and physical dimensions of the work of teachers and educators in multiple contexts.",
+                    "UnitCode": "EDF3036",
+                    "UnitName": "Professional studies",
+                    "_id": "587801d230213215439e8d7d",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 6,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 3 2017 (On-campus block of classes)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 3 2017 (Off-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit further develops students' understanding of supporting children through periods of change and transition in their lives so they can be confident, creative and involved learners. Students research and critically analyse a variety of theoretical perspectives around social, cultural, emotional and language development, and other factors that mediate and influence the child's ability to participate and contribute in diverse contexts. The focus of this unit is on the development of skills that facilitate processes of researching and critically analysing, theoretically informed pedagogical strategies to support children through change and transition. By researching the traditions, routines and practices of children's life worlds, students are given the opportunity to develop a deep understanding of children's learning and development in diverse and complex contexts. Students explore possibilities for ethical, innovative and collaborative work with families and other professionals to enable children's mobility and agency across experiences of change and transition.",
+                    "UnitCode": "EDF3033",
+                    "UnitName": "Change and transition in children's education",
+                    "_id": "587801d130213215439e8d7a",
+                    "enjoyRating": 4.263888889,
+                    "enjoyResponse": 41,
+                    "learnRating": 4.147222222,
+                    "learnResponse": 14,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 3 2017 (On-campus block of classes)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 3 2017 (Off-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit is an advanced study of students' understandings and pedagogical knowledge of children's literacy learning within the home, community, early childhood and school contexts. It builds on knowledge from earlier units and learning from professional experience across a range of early years educational settings. Exploration of current research literature illuminates the various ways diverse learners can fully and effectively participate within multiple contexts in a contemporary literate society. Emphasis is given to developing further understanding of language pedagogies, theories and strategies related to children's literacy learning including, for example, coding competence, semantic practices, pragmatic competence and critical thinking practices. Students develop the skills and confidence to plan, implement, evaluate and lead literacy initiatives intended to improve children's literacy outcomes across contexts and cultures.",
+                    "UnitCode": "EDF3034",
+                    "UnitName": "Children's literacy development",
+                    "_id": "587801d230213215439e8d7b",
+                    "enjoyRating": 4.156084656,
+                    "enjoyResponse": 39,
+                    "learnRating": 4.123931624,
+                    "learnResponse": 13,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 4 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For Early Years Education: EDF3050For Early Years and Primary Education: EDF3052For Primary Education (single and double degrees): EDF3053For Primary and Secondary Health and Physical Education: EDF3057",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors primary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF3054",
+                    "UnitName": "Primary professional experience 3B",
+                    "_id": "587801d530213215439e8d84",
+                    "enjoyRating": 3.697916667,
+                    "enjoyResponse": 45,
+                    "learnRating": 3.399914322,
+                    "learnResponse": 11,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 4 2017 (On-campus block of classes)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 4 2017 (Off-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit focuses on how young children develop understandings in science, technology and environmental education in a variety of cultural contexts. Students research everyday environments at home and in the community to determine science and technology affordances and apply well-developed judgements for turning everyday concepts into scientific concepts. The teaching of these areas is examined from a range of theoretical perspectives and in relation to relevant regional/national curricula. Attention is paid to learning across the institutional contexts of home, early childhood setting and classrooms and students are expected to research and conceptualise both pedagogies and programs in ways that promote and meaningfully engage young children's learning of science, technology and environment.",
+                    "UnitCode": "EDF3035",
+                    "UnitName": "Investigating our world: Science, technology and the environment",
+                    "_id": "587801d230213215439e8d7c",
+                    "enjoyRating": 2.814285714,
+                    "enjoyResponse": 100,
+                    "learnRating": 3.230282738,
+                    "learnResponse": 25,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 4 2017 (On-campus block of classes)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 4 2017 (Off-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit develops students' understanding of the requirements placed upon education services and early years professionals working in a range of settings to meet legislative and policy requirements in their field. The unit develops students' knowledge of pedagogical practice and pedagogical leadership, administration, management and general leadership skills. During students involvement in a learning community they engage in a small research inquiry to examine the pedagogical practices within it. They develop understanding of how effective pedagogical and administrative leadership provides the intellectual tools to support the development of inclusive, culturally safe and secure places for all learners and professionals who participate in educational services.",
+                    "UnitCode": "EDF3039",
+                    "UnitName": "Leadership and management in education contexts",
+                    "_id": "587801d330213215439e8d7f",
+                    "enjoyRating": 4.192708333,
+                    "enjoyResponse": 44,
+                    "learnRating": 4.196577381,
+                    "learnResponse": 11,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (On-campus block of classes)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (Off-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit explores the intersections of art, environment and sustainability education and implementation by utilising the local campus environs and surrounds for creative expression. Students engage with culturally diverse ways of knowing by creating a range of place-related artworks that critically inform notions of art, place, identity and sustainability. Students' own art experiences, e.g. drawing studies, site specific installations, nature prints, castings and photo-media works, serve as a catalyst for the planning and implementation of an art, environment and sustainability project for a local community, e.g. kindergarten or early childcare setting, school, community or outdoor activities.",
+                    "UnitCode": "EDF3181",
+                    "UnitName": "Art, environment and community",
+                    "_id": "587801db30213215439e8d97",
+                    "enjoyRating": 3.536111111,
+                    "enjoyResponse": 48,
+                    "learnRating": 4.099080549,
+                    "learnResponse": 16,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 1 2017 (On-campus block of classes)",
+                                "Term 3 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit introduces students to the sociology of childhood and critical childhood studies as important disciplinary fields of their work. Particular emphasis is given to children's participation and contribution as a socio-political issue. Students engage with critical ethnography as a method for research to investigate a range of issues in relation to contemporary childhood. Sociological research questions are raised including questions about children's identity, belonging to and participation in communities, gender, environmental issues and diversity. Students engage with notions of local and global citizenship from sociological perspectives to critically reflect on children's role in society. With a focus on the present and future, students are encouraged to investigate how early years education providers are responding to the critical issues raised in the unit.",
+                    "UnitCode": "EDF4031",
+                    "UnitName": "Sociology of early childhood",
+                    "_id": "587801e330213215439e8db3",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (On-campus block of classes)",
+                                "Term 4 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit further develops students' ability to teach diverse learners mathematics content, skills and thinking from an early age in effective and creative ways. Developing pedagogical content knowledge for the emerging professional is interwoven with the development of theoretical and research perspectives and approaches that assist in the understanding of diverse learners and how their learning can be maximised.",
+                    "UnitCode": "EDF4034",
+                    "UnitName": "Educating the young mathematician",
+                    "_id": "587801e530213215439e8db6",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 1 2017 (On-campus block of classes)",
+                                "Term 2 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF3054",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors early years professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF4051",
+                    "UnitName": "Early years professional experience 4A",
+                    "_id": "587801e630213215439e8dbc",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 1 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit develops students to engage critically with the concepts of space and place, and research the relevance of the spatial in early years' educational theory and practice. Emphasis is given to critical engagement with place-based pedagogies, and post-human and post-colonial perspectives as pathways into research with a focus on places and spaces. The relationships between places, spaces and identities are examined, including place as a significant concept in Indigenous knowledges. Students have the opportunity to undertake a small research project to investigate new perspectives of place in early years' education.",
+                    "UnitCode": "EDF4028",
+                    "UnitName": "Understanding place, space and education",
+                    "_id": "587801e330213215439e8db1",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (On-campus block of classes)",
+                                "Term 4 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit builds students' capacity to demonstrate knowledge and understanding of research into how students learn, teaching and learning theory and practice and the implications in varied education contexts. Students explore principles, approaches and methods for conducting and applying educational research. They investigate issues such as what 'counts' as research, where research can occur, what is to be researched, how research can be undertaken, why research is important and what constitutes a research community in the context of their particular discipline and specialisation. They learn how to generate and use data ethically to inform their educational work and develop an evidence base for this work.",
+                    "UnitCode": "EDF4100",
+                    "UnitName": "Researching teaching and learning",
+                    "_id": "587801e830213215439e8dc3",
+                    "enjoyRating": 4.5,
+                    "enjoyResponse": 2,
+                    "learnRating": 4.166666667,
+                    "learnResponse": 2,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 3 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit provides opportunities for students to further explore innovative curriculum, pedagogy and practice in schools that engages diverse student populations. The unit explores how teachers in schools implement innovation and bring curriculum 'to life' for their students though diverse pedagogies including inquiry learning and the use of information and communication technologies (ICTs). They also draw on research literature to investigate a range of issues including maximising student motivation in schools, engagement through curriculum development and innovative practice, and developing community-based curriculum and practices. Students understand how teachers are 'curriculum workers' constantly responding to change and the implications of this for their professional identity. Students then develop and demonstrate their use of practices that are inclusive, exciting and educational during their course and in their practicum experience.",
+                    "UnitCode": "EDF4033",
+                    "UnitName": "Innovation in curriculum and pedagogy in schools",
+                    "_id": "587801e430213215439e8db5",
+                    "enjoyRating": 3.486111111,
+                    "enjoyResponse": 18,
+                    "learnRating": 3.700925926,
+                    "learnResponse": 6,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 4 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit provides opportunities for students to review, analyse, consolidate and synthesise knowledge related to current issues and innovative pedagogies for the use of new media and technologies in early years education. Students critically engage with various forms of new media and technology, including digital and analogue media. A focus of the unit is on students developing their expertise in using new media by creating artworks using a range of applications and technologies. Students critically analyse current research and innovative uses of communication technologies and digital tools as well as the impact and expansion of new media on early years education. They demonstrate that they can plan and implement experiences to foster media literacy and intercultural communication for children in the early years in a broad range of educational contexts.",
+                    "UnitCode": "EDF4035",
+                    "UnitName": "Early childhood learning through new media and technologies",
+                    "_id": "587801e530213215439e8db7",
+                    "enjoyRating": 3.916666667,
+                    "enjoyResponse": 5,
+                    "learnRating": 4.027777778,
+                    "learnResponse": 3,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 3 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF4051",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors early years professional experience in the Bachelor of Education (Honours) course. Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF4052",
+                    "UnitName": "Early years professional experience 4B",
+                    "_id": "587801e630213215439e8dbd",
+                    "enjoyRating": 3.625,
+                    "enjoyResponse": 10,
+                    "learnRating": 3.791666667,
+                    "learnResponse": 3,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 3 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit focuses on the potential of playful activity to enhance the learning process and contribute to development throughout our lifetime. Playfulness allows 'possibility thinking', creative freedom, and intellectual curiosity, all vital characteristics of learning and development at all ages. Throughout this unit, students explore their own playfulness in order to increase confidence and develop their own skills in creating and leading playful learning environments. Students investigate a range of learning contexts to examine the presence and absence of playful activity, critically challenging common assumptions of who, how, where and when people play and how this affects their learning and development. Students draw upon insights from their own research, along with critical analysis of contemporary theoretical perspectives of play, to formulate personal theorisations of the role of play in both teaching and learning. They investigate and design new pedagogical and research-based approaches to playful learning with an emphasis on diverse learning contexts.",
+                    "UnitCode": "EDF4029",
+                    "UnitName": "Play in lifelong learning",
+                    "_id": "587801e330213215439e8db2",
+                    "enjoyRating": 4.916666667,
+                    "enjoyResponse": 7,
+                    "learnRating": 4.833333333,
+                    "learnResponse": 7,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 1 2017 (On-campus block of classes)",
+                                "Term 3 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit builds students' capacity to research teaching and learning in particular educational contexts. Students apply some of the principles and methods of educational research they have learned about by developing a short literature review related to the proposal developed in EDF4100. They then demonstrate their capacity to generate and use data ethically via a research project related to their particular discipline and specialisation. This is focused on examining practice in an education setting, school or classroom, using methods that may include focus groups, interviews, self-study, action research or participant observation. Finally, students demonstrate a clear and coherent exposition of the knowledge they have gained through the presentation of their findings to their peers and in a written report.",
+                    "UnitCode": "EDF4101",
+                    "UnitName": "Research project in education",
+                    "_id": "587801e830213215439e8dc4",
+                    "enjoyRating": 3.916666667,
+                    "enjoyResponse": 12,
+                    "learnRating": 4.236111111,
+                    "learnResponse": 6,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "courseCode": "M6023",
+    "courseName": "Master of Clinical Medicine",
+    "courseAOS": "Clinical Trauma Medicine",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "FY-01",
+            "year": 0,
+            "units": [
+              {"type": "MAPXXXX Trauma Skills", "faculty": "Faculty of Medicine, Nursing and Health Sciences"}
+            ]
+        },{
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+              {"type": "Part B - Elective", "faculty": "Faculty of Medicine, Nursing and Health Sciences"},
+              {"type": "Part B - Elective", "faculty": "Faculty of Medicine, Nursing and Health Sciences"}
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+              {"type": "Part B - Elective", "faculty": "Faculty of Medicine, Nursing and Health Sciences"},
+              {"type": "Part B - Elective", "faculty": "Faculty of Medicine, Nursing and Health Sciences"}              
+          ]
+        }
+    ]
+}

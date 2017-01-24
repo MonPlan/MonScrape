@@ -1,0 +1,685 @@
+{
+    "courseAOS": "Software Engineering/Economics and Economic Policy",
+    "courseCode": "E3003",
+    "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist",
+    "courseType": "Double Undergraduate",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1001,ENG1002"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1003,ENG1005"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "General rules for software development and design. Errors. Data types, variables, expressions, control statements M-files. Numerical techniques: Gauss elimination, solution of non-linear equations, optimisation, curve fitting, numerical calculus, ordinary differential equations.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "Mathematical methods (CAS) recommended.",
+                    "Prohibitions": "ENG1602",
+                    "SCABand": 2,
+                    "UnitCode": "ENG1060",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Computing for engineers"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Presentation and analysis of grouped and ungrouped data using tables, charts and measures of location and dispersion; standardisation techniques, including index numbers, with application to share price indices and the CPI; analysis of relationships between variables using simple and multiple regression; extensions to multiple regression, including nonlinear and categorical explanatory variables and time series data with applications to forecasting; main ideas of probability theory as a foundation for statistical inference; concept of sampling as a way of capturing uncertainty about data; estimators and their properties; constructing and interpreting confidence intervals; fundamentals of hypothesis testing, testing hypotheses about the mean, difference between means and the slope, including analysis of variance.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "ETG1102, ETW1000, ETW1102, ETX1100, ETX9000, FIT1006, STA1010",
+                    "SCABand": 2,
+                    "UnitCode": "ETC1000",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Business and economic statistics"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1002,ENG1001"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1003,ENG1005"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Faculty Elective",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The nature and scope of economics; different economic systems; economic policy analysis and evaluation; main bodies of economic thought; examples of household, business and government economic decision problems; consumer choice, product demand and factor supply; enterprise choice, product supply and factor demand; market analyses of contemporary issues; competitive market long run equilibrium; market power; market failure and concerns for efficiency and equity; government involvement in the Australian economy.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "ECC1000",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Principles of microeconomics"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit introduces students to core problem-solving, analytical skills, and methodologies useful for developing flexible, robust, and maintainable software. In doing this it covers a range of conceptual levels, from high level algorithms and data-structures, down to the machine models and simple assembly language programming. Topics include data types; data structures; algorithms; algorithmic complexity; recursion; and translation to assembly language.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "Prerequisites": "ENG1003 and ENG1060",
+                    "Prohibitions": "FIT1015, FIT1008",
+                    "SCABand": 2,
+                    "UnitCode": "FIT2085",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introduction to computer science for engineers"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "MAT1840",
+                    "UnitName": "Cannot Fetch Data"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Theory of consumer choice, including applications to income-leisure choice and intertemporal consumption; isoquant theory of production; allocative efficiency and competition and monopoly; models of monopolistic competition and oligopoly; input pricing; microeconomic policies to address problems of market failure.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "ECC1000 or permission",
+                    "Prohibitions": "ECC5900, ECX9000",
+                    "SCABand": 3,
+                    "UnitCode": "ECC2000",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Intermediate microeconomics"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The scope of macroeconomics and its microeconomic underpinnings; aggregation problems; partial equilibrium and general equilibrium analysis; the circular flow of income as a general equilibrium model; the mutual dependence of financial flows and flows of goods and services; sectoral composition of aggregate demand; business and investment behaviour; government spending and taxation; external balance and determination of current and capital accounts; labour market and aggregate supply; money, credit, and the conduct of monetary policy; inflation and unemployment; macroeconomic effects of deregulation in Australia.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "ECC1000 is recommended",
+                    "Prohibitions": "ECF1200, ECG1102, ECS1102, ECW1102",
+                    "SCABand": 3,
+                    "UnitCode": "ECC1100",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Principles of macroeconomics"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit introduces students to problem solving concepts and techniques fundamental to the science of programming. In doing this it covers problem specification, algorithmic design, analysis and implementation. Detailed topics include analysis of best, average and worst-case time and space complexity; introduction to numerical algorithms; recursion; advanced data structures such as heaps and B-trees; hashing; sorting algorithms; searching algorithms; graph algorithms; and numerical computing.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "Prerequisites": "One of FIT1008, FIT1015, FIT2085 or CSE1303 and 6 points of Level 1 mathematics.",
+                    "Prohibitions": "CSE2304, FIT2009",
+                    "SCABand": 2,
+                    "UnitCode": "FIT2004",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Algorithms and data structures"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "A disciplined process is vital to the success of any major software development project. In this unit, students learn essential skills for managing software development efforts and for working within coordinated teams. Students will learn how to decide upon and document their team's structure and their process model. They will be expected to follow the process model they have documented, and to evaluate its effectiveness.There are many factors that can potentially cause a software project to fail. This unit will equip students with techniques to identify and manage these risks, and will take a risk-focused approach to project organisation.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "Prerequisites": "(ENG1003 and ENG1060) or one of FIT1045, FIT1048 or FIT1051",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "FIT2101",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Software engineering process and management"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Keynesian macroeconomics; the open-economy, IS-LM framework and the aggregate demand-aggregate supply framework as a basis for more advanced macroeconomic analysis; principles of monetary and fiscal policy and problems of implementation; alternative theories of aggregate supply; new classical macroeconomics and the implications of imperfect information; new Keynesian macroeconomics and the implications of labour market rigidities; explaining and correcting inflation and unemployment.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "ECC1100",
+                    "Prohibitions": "ECC9010, ECC5901, ECX9010, ETC2110",
+                    "SCABand": 3,
+                    "UnitCode": "ECC2010",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Intermediate macroeconomics"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ECC2300,ECC2360,ECC2450,ECC2600,ECC2610,ECC2800"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit covers the internal mechanism of computers and how they are organised and programmed. Topics include combinatorial and sequential logic, Boolean Algebra, counters, ripple adders, tree adders, memory/addressing, busses, speed, DMA, data representation, machine arithmetic, microprogramming, caches and cache architectures, virtual memory and translation look-aside buffers, vectored interrupts, polled interrupts, pipelined architecture, superscalar architecture, data dependency, hazards, CISC, RISC, VLIW machine architectures.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "Prerequisites": "One of FIT1031, FIT1047, FIT1008 or FIT2085",
+                    "Prohibitions": "FIT2069",
+                    "SCABand": 2,
+                    "UnitCode": "FIT3159",
+                    "UnitLocationTP": "Not Offered in 2017",
+                    "UnitName": "Computer architecture"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit introduces students to object-oriented design principles and their application to the construction of quality software. Students will learn the fundamental concepts that underlie modern object-oriented languages, and will learn how to implement their designs using at least one. Students will also learn how to use standard notation to illustrate their designs.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "Prerequisites": "(ENG1003 and ENG1060) or one of FIT1045, FIT1048, FIT1051, FIT1008 or FIT2071",
+                    "Prohibitions": "FIT2024",
+                    "SCABand": 2,
+                    "UnitCode": "FIT2099",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Object oriented design and implementation"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ECC3660,ECC3670,ECC3710,ECC3810,ECC3830,ECC3840"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Faculty Elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit will provide students with the knowledge of how a multi-programming, multi-user operating systems operates and it manages and allocate resources to different applications. Students will be able to compare and contrast various resource management allocation strategies. Students will develop and implement new resource management strategy and study its properties.The topics covered will include an introduction to C Programming which is heavily used in development of operating systems, operating system structure and services, multi-programming processes, CPU scheduling, memory management, device management, synchronisation, deadlocks, virtual memory and file systems.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "Prerequisites": "One of FIT1047, FIT1031 or ENG1003",
+                    "Prohibitions": "FIT2070",
+                    "SCABand": 2,
+                    "UnitCode": "FIT2100",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Operating systems"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit builds on introductory units to analysis and design. It provides the professional software engineer with advanced knowledge and skills in high-level architectural design, its theoretical foundations, industrial best practice, and relevant application context. In the software life-cycle, software architecture sits between analysis/specification and design/implementation. The field of software architecture has come of age with a thriving research community and numerous high-level models, methods, tools and practices widely used in industry.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "Prerequisites": "FIT2099 or (FIT2001 and (FIT2004 or FIT2024 or CSE2304)) or (FIT2001 and FIT2081)",
+                    "Prohibitions": "CSE3308",
+                    "SCABand": 2,
+                    "UnitCode": "FIT3077",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Software engineering: architecture and design"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ECC3660,ECC3670,ECC3710,ECC3810,ECC3830,ECC3840"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit introduces students to the empirical analysis of relationships between economic variables. The approach is based on linear regression theory, and emphasises 'hands on' data analysis. Topics studied will include properties of least squares estimators, hypothesis testing, the choice of appropriate functional form, the use of dummy variables, issues around modelling survey data and the problems of serial correlation, heteroscedasticity and multicollinearity.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "ETC1000 or must be enrolled in course 3822 or 4412 or 4439",
+                    "Prohibitions": "ETC2400, ETC3440, ECC2410",
+                    "SCABand": 3,
+                    "UnitCode": "ETC2410",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introductory econometrics"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit builds on introductory units to analysis and design. It provides the professional software engineer with advanced knowledge and skills in high-level architectural design, its theoretical foundations, industrial best practice, and relevant application context. In the software life-cycle, software architecture sits between analysis/specification and design/implementation. The field of software architecture has come of age with a thriving research community and numerous high-level models, methods, tools and practices widely used in industry.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "Prerequisites": "FIT2099 or (FIT2001 and (FIT2004 or FIT2024 or CSE2304)) or (FIT2001 and FIT2081)",
+                    "Prohibitions": "CSE3308",
+                    "SCABand": 2,
+                    "UnitCode": "FIT3077",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Software engineering: architecture and design"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ECC3660,ECC3670,ECC3710,ECC3810,ECC3830,ECC3840"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Faculty Elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit will provide an introduction to the concepts of database design and usage and the related issues of data management. Students will develop skills in planning, designing, and implementing a data model using an enterprise-scale relational database system (Oracle). Methods and techniques will also be presented to populate, retrieve, update and implement integrity features on data in the implemented database system.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "Prerequisites": "FIT2099",
+                    "Prohibitions": "FIT1004, FIT2094",
+                    "SCABand": 2,
+                    "UnitCode": "FIT3171",
+                    "UnitLocationTP": "Not Offered in 2017",
+                    "UnitName": "Databases"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Investigation of economic interaction between countries in the context of international exchanges of commodities and assets. Topics include the balance of payments, nominal and real exchange rate determination, international capital movements, foreign debt, structural reform and adjustment policies in the open economy, the gains from international trade, inter-industry trade, tariff policies.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "ECC2000 and ECC2010 or equivalent",
+                    "Prohibitions": "ECC4369, ECF3121",
+                    "SCABand": 3,
+                    "UnitCode": "ECC3690",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "International economics"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Faculty Elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "FY-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "In this unit, students will undertake a full-year software development project in a self-managing team. Students will apply the skills they learned in prerequisite and co-requisite units to a larger project than any they have encountered to date. Through attempting larger-scale software development they will learn how the techniques they have encountered in isolation work together as an integrated methodology to make such complex projects feasible.The project will be managed through a heavyweight process model such as the Spiral Model, to ensure students are exposed to a representative example of both heavyweight and lightweight processes (which are covered in FIT2101) through the BSE core.For the first time in their degrees, students will solicit and document requirements from client proxies who are not IT professionals. This builds their communication skills with other stakeholders in preparation for the industry-based project or IBL.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Information Technology",
+                    "Prerequisites": "FIT2101 and FIT2107",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "FIT3170",
+                    "UnitLocationTP": "Not Offered in 2017",
+                    "UnitName": "Software engineering practice"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "FY-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "Students will undertake a large project and work in groups on a software project for a client. The client may be internal to Monash or from the industry or research organisation. In general, projects involve all aspects of the system development lifecycle. Groups are responsible for their own project management, with guidance from a supervisor. Some projects will warrant students working in pairs or individually.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Information Technology",
+                    "Prerequisites": "(FIT3170 and FIT3171) or (FIT2002 and FIT3077)",
+                    "Prohibitions": "CSE4002",
+                    "SCABand": 2,
+                    "UnitCode": "FIT4002",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Full year 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Software engineering industry experience studio project"
+                },
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit introduces students to independent research. It is a core requirement for the Bachelor of Software Engineering (Honours) degree. Due to the nature of IT and Software Engineering, a wide range of project types can be offered to students. Some project components are of a practical nature and may involve some software development and/or experimentation, while other components are of a more theoretical nature.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Information Technology",
+                    "Prerequisites": "Must have completed 144 credit points of study in the Bachelor of Software Engineering (Honours) degree.",
+                    "Prohibitions": "FIT4013, FIT4126, FIT4186, FIT4246, FIT4606",
+                    "SCABand": 2,
+                    "UnitCode": "FIT4003",
+                    "UnitLocationTP": "Not Offered in 2017",
+                    "UnitName": "Software engineering research project"
+                }
+            ],
+            "year": 4
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The unit introduces computer networks with an explicit software and system-centric focus. It provides foundation skills in data communications, networks, and associated software interfaces, and introduces basic principles in network design, configuration, management and security.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "Prerequisites": "FIT2100",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "FIT3165",
+                    "UnitLocationTP": "Not Offered in 2017",
+                    "UnitName": "Computer networks"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Faculty Elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Software Engineering Elective",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Faculty Elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 4
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "courseAOS": "Finance specialisation ",
+    "courseCode": "B2024",
+    "courseName": "Commerce Specialist and Arts",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                [
+                    "ACC1200",
+                    "ACC1100"
+                ],
+                "BFC1001",
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Minor"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ECC1000",
+                "ETC1000",
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Minor"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "BFC2340",
+                "BFC2140",
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Minor"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BFC2240",
+                "ECC1100",
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Minor"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ETC3460",
+                "ETC2410",
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts elective"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BFC3240",
+                "BFC2751",
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts elective"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "BFC3140",
+                "BFC3540",
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts elective"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BFC3999",
+                "BFC3340",
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts elective"
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

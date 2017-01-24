@@ -1,0 +1,90 @@
+{
+    "courseAOS": "Bachelor of Psychology (Honours)",
+    "courseCode": "M3005",
+    "courseName": "Psychology",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "PSY1011",
+                "BIO1011",
+                "PMH1011",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "PSY1022",
+                "BIO1022",
+                "BMS1042",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "PSY2061",
+                "PSY2071",
+                "MCB2011",
+                "PHY2011"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "PSY2042",
+                "PHA2022",
+                "BMS2042",
+                "PSY3190"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "PSY3051",
+                "PSY3041",
+                "PSY3120",
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "PSY3032",
+                "PHY3012",
+                "PSY3180",
+                "PSY3062"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "PSY4220",
+                "PSY4210",
+                "PSY4100"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "PSY4270",
+                [
+                    "PSY4110",
+                    "PSY4120",
+                    "PSY4130"
+                ]
+            ],
+            "year": 3
+        }
+    ]
+}

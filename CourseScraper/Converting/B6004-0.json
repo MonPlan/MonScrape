@@ -1,0 +1,49 @@
+{
+    "courseCode": "B6004",
+    "courseName": "Master of Banking and Finance",
+    "courseAOS": "",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+              "ACC5903",
+              "ECC5953",
+              "ETC5900",
+              "BFC5925"
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+              {"type": "Advanced Preparatory Knowledge Unit ", "faculty": "Faculty of Business and Economics"},
+              "BFC5935",
+              "BFC5916",
+              "BFC5280"
+
+
+          ]
+        }, {
+          "code": "S1-01",
+          "year": 1,
+          "units": [
+              "BFC5926",
+              "BFC5260",
+              "BFC5915",
+              {"type": "Application Studies Unit ", "faculty": "Faculty of Business and Economics"}
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 1,
+          "units": [
+              "BFC5130",
+              {"type": "Application Studies Unit ", "faculty": "Faculty of Business and Economics"},
+              {"type": "Application Studies Unit ", "faculty": "Faculty of Business and Economics"},
+              {"type": "Application Studies Unit ", "faculty": "Faculty of Business and Economics"}
+
+          ]
+        }
+    ]
+}

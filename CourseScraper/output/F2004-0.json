@@ -1,0 +1,133 @@
+{
+    "courseAOS": "Industrial Design and Communication Design specialisations",
+    "courseCode": "F2004",
+    "courseName": "Design and Business",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Art, Design and Architecture",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                [
+                    "CDS1001",
+                    "IDN1001"
+                ],
+                "AHT1101",
+                "DWG1201",
+                "OHS1000"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                [
+                    "CDS1002",
+                    "IDN1002"
+                ],
+                "TDN1002",
+                "MKF1120"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                [
+                    "CDS2001",
+                    "IDN2001"
+                ],
+                "TDN2001",
+                "ECF1100"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                [
+                    "ACF1200",
+                    "ACF1100"
+                ],
+                "BFF1001",
+                "BTF1010",
+                "MGF1010"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                [
+                    "CDS3001",
+                    "IDN3001"
+                ],
+                "TDN3001",
+                "ETF1100"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                [
+                    "CDS3002",
+                    "IDN3002"
+                ],
+                [
+                    "TDN3002",
+                    "TDN3003"
+                ],
+                {
+                    "faculty": "",
+                    "type": "Business Major 1"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business Major 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business Major 4"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business Major 5"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 6"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business Major 7"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business Major 8 or Business elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Capstone unit"
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

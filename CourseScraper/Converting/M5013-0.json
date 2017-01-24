@@ -1,0 +1,70 @@
+{
+    "courseCode": "M5013",
+    "courseName": "Graduate Diploma in Psychology",
+    "courseAOS": "",
+    "courseType": "Graduate Diploma",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "MO-TP1-01",
+            "year": 0,
+            "units": [
+              ["PSY4111", "PSY4122"]
+          ]
+        }, {
+            "code": "MO-TP2-01",
+            "year": 0,
+            "units": [
+              ["PSY4111", "PSY4122"]
+          ]
+        }, {
+            "code": "MO-TP3-01",
+            "year": 0,
+            "units": [
+                ["PSY4051", "PSY4131"]
+            ]
+        }, {
+            "code": "MO-TP4-01",
+            "year": 0,
+            "units": [
+                ["PSY4051", "PSY4131"]
+            ]
+        }, {
+            "code": "MO-TP5-01",
+            "year": 0,
+            "units": [
+                ["PSY4032", "PSY4041", "PSY4062", "PSY4140", "PSY4170", "PSY4081", "PSY4151"]
+            ]
+        }, {
+            "code": "MO-TP6-01",
+            "year": 0,
+            "units": [
+                ["PSY4032", "PSY4041", "PSY4062", "PSY4140", "PSY4170", "PSY4081", "PSY4151"]
+            ]
+        }, {
+            "code": "MO-TP1-01",
+            "year": 1,
+            "units": [
+                ["PSY4032", "PSY4041", "PSY4062", "PSY4140", "PSY4170", "PSY4081", "PSY4151"]
+            ]
+        }, {
+            "code": "MO-TP2-01",
+            "year": 1,
+            "units": [
+                ["PSY4032", "PSY4041", "PSY4062", "PSY4140", "PSY4170", "PSY4081", "PSY4151"]
+            ]
+        }, {
+            "code": "MO-TP3-01",
+            "year": 1,
+            "units": [
+                ["PSY4032", "PSY4041", "PSY4062", "PSY4140", "PSY4170", "PSY4081", "PSY4151"]
+            ]
+        }, {
+            "code": "MO-TP4-01",
+            "year": 1,
+            "units": [
+                ["PSY4032", "PSY4041", "PSY4062", "PSY4140", "PSY4170", "PSY4081", "PSY4151"]
+            ]
+        }
+    ]
+}

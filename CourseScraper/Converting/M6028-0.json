@@ -1,0 +1,37 @@
+{
+    "courseCode": "M6028",
+    "courseName": "Master of Clinical Research Methods",
+    "courseAOS": "",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+              "MPH5040",
+              "MPH5041",
+              {"type": "Elective", "faculty":"Faculty of Medicine, Nursing and Health Sciences"},
+              "MPH5237"              
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+              "MPH5213",
+              "MPH5283",
+              "MPH5239",
+              "MPH5236"             
+          ]
+        }, {
+          "code": "S1-01",
+          "year": 1,
+          "units": [
+              "MPH5202",
+              "MPH5231",
+              "MPH5232",
+              {"type": "Elective", "faculty":"Faculty of Medicine, Nursing and Health Sciences"}              
+          ]
+        }
+    ]
+}

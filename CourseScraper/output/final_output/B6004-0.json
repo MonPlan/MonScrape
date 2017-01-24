@@ -1,0 +1,386 @@
+{
+    "courseAOS": "Master of Banking and Finance",
+    "courseCode": "B6004",
+    "courseName": "Banking and Finance",
+    "courseType": "Expert master degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "AFX9003, GSB9004, MBA9004 AND students enrolled in any of the following courses are prohibited: 0790, 0826, 3843, 4402, 0503, 3850, 4401.",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit examines accounting as an information system.  It will introduce students to accounting principles and reporting practices from a users perspective. The information requirements of two main groups are examined - external users such as owners, shareholders, investors, potential investors, and internal users such as managers. This unit provides students with an introduction to accounting and an understanding of the preparation, presentation and interpretation of financial statements.  In particular, emphasis is placed on an understanding of various business structures including control and reporting aspects of new businesses, processes, practices and policies that enable the financial performance and financial position of an entity, as displayed by the balance sheet, income statement and statement of cash flows, to be measured, analysed and interpreted.  Managerial accounting issues are also presented, with particular emphasis on cost management, cost behaviour, budgeting and performance measurement.",
+                    "UnitCode": "ACF5903",
+                    "UnitName": "Accounting for business",
+                    "_id": "5877ff8a30213215439e8466",
+                    "enjoyRating": 4.187389771,
+                    "enjoyResponse": 243,
+                    "learnRating": 4.149541541,
+                    "learnResponse": 122,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ECG9101, ECG5901, ECF9530",
+                    "SCABand": 3,
+                    "Sypnosis": "Microeconomics: scarcity; economic choice; economic systems; economic ideology; demand and supply analysis; consumer behaviour and elasticity; costs of production and profit maximisation; perfect competition and monopoly. Macroeconomics: aggregate demand and aggregate supply; Keynesian versus Neoclassical approaches; the money market and monetary policy; the government budget deficit and fiscal policy; the foreign exchange market and exchange rate policy; unemployment and inflation; the current and capital accounts.",
+                    "UnitCode": "ECF5953",
+                    "UnitName": "Economics",
+                    "_id": "587801aa30213215439e8cef",
+                    "enjoyRating": 4.264367816,
+                    "enjoyResponse": 379,
+                    "learnRating": 4.229244131,
+                    "learnResponse": 379,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "AFX9510, ETC1000, ETG1102, ETW1000, ETW1102, ETX1100 and ETC9000.",
+                    "SCABand": 3,
+                    "Sypnosis": "Students will learn to use basic statistical techniques and apply them to problems in accounting, finance, management, marketing, and business in general. Students should also be able to effectively communicate the results of their analyses. This unit covers descriptive statistics for revealing the information contained in data; probability as a tool for dealing with uncertainty; probability distributions to model business behaviour; confidence interval estimation and hypothesis testing techniques for single populations; analysis of relationships between variables using simple linear regression; and simple tools for forecasting time series data. Applications to critical analysis of business and economic data will be emphasised. Excel software will be used.",
+                    "UnitCode": "ETF5900",
+                    "UnitName": "Business statistics",
+                    "_id": "5878026630213215439e8f74",
+                    "enjoyRating": 4.583333333,
+                    "enjoyResponse": 409,
+                    "learnRating": 4.536632822,
+                    "learnResponse": 409,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "AFG9070, BFG5970, AFX9540, BFF5954, AFX9590, BFM5959, BFS5959, BFZ5959, AFF9250",
+                    "SCABand": 3,
+                    "Sypnosis": "Topics include review of foundations of finance; financial mathematics and pricing of financial instruments; valuation and the management of long term investment and financial leverage; and theory of capital structure and dividend policy.",
+                    "UnitCode": "BFF5925",
+                    "UnitName": "Financial management theory",
+                    "_id": "587800ff30213215439e8a36",
+                    "enjoyRating": 4.375,
+                    "enjoyResponse": 158,
+                    "learnRating": 4.066304336,
+                    "learnResponse": 59,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Preparatory studies unit selected from list",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "AFF9350",
+                    "SCABand": 3,
+                    "Sypnosis": "Topics include investment markets and investment strategies; measuring investment return and risk; capital asset pricing model; arbitrage pricing theory; taxation; shares and share analysis; valuation; financial futures markets; real estate; portfolio management; asset allocation; monitoring.",
+                    "UnitCode": "BFF5935",
+                    "UnitName": "Portfolio management and theory",
+                    "_id": "5878010030213215439e8a38",
+                    "enjoyRating": 4.212009804,
+                    "enjoyResponse": 127,
+                    "learnRating": 4.202010234,
+                    "learnResponse": 47,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "AFF9160",
+                    "SCABand": 3,
+                    "Sypnosis": "Topics include the latest international banking regulatory concerns, geographic focus of banking in Europe, Asia and less developed economies; the European monetary system; Euromarkets; trade finance and trade facilitation agencies; country risk analysis.",
+                    "UnitCode": "BFF5916",
+                    "UnitName": "International banking",
+                    "_id": "587800ff30213215439e8a35",
+                    "enjoyRating": 4.157407407,
+                    "enjoyResponse": 118,
+                    "learnRating": 4.176358225,
+                    "learnResponse": 57,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "AFF5280",
+                    "SCABand": 3,
+                    "Sypnosis": "Topics include managing interest rate risk; foreign exchange risk; liquidity risk and the cash flow cycle; credit risk; capital risk; debt and investment risk and managing the risk of derivative products.",
+                    "UnitCode": "BFF5280",
+                    "UnitName": "Institutional asset and liability management",
+                    "_id": "587800fc30213215439e8a29",
+                    "enjoyRating": 4.76146789,
+                    "enjoyResponse": 162,
+                    "learnRating": 4.210144928,
+                    "learnResponse": 47,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "AFF9260",
+                    "SCABand": 3,
+                    "Sypnosis": "Topics include development of money and financial markets and financial flows analysis; intermediation; economic role of the different financial institutions; determination of interest rates and yield curve analysis in financial markets; exchange rates and money supply; sources of short-term, medium-term and long-term finance; sources of overseas borrowing; an introduction to interest rate and exchange rate management; performance of the financial system.",
+                    "UnitCode": "BFF5926",
+                    "UnitName": "Australian capital markets",
+                    "_id": "587800ff30213215439e8a37",
+                    "enjoyRating": 4.15,
+                    "enjoyResponse": 93,
+                    "learnRating": 4.354487698,
+                    "learnResponse": 158,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "BFF5914,BFF5260",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "AFF5290, AFF3751, BFF3751, AFF9150",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit examines how options and futures can be used for hedging risk in the process of risk management. Several aspects of risk management are examined, including the reasons why investors indulge in this activity, how value is created via risk management, and the firm-wide approach to risk management (given that any firm is exposed to a wide variety of risks). Once the importance of risk management has been established, emphasis turns to the use of derivatives (futures and options) to manage risk. To understand how they are used to manage risk, the unit also considers the characteristics and pricing of these instruments, including some exotic versions.",
+                    "UnitCode": "BFF5915",
+                    "UnitName": "Options, futures and risk management",
+                    "_id": "587800ff30213215439e8a34",
+                    "enjoyRating": 4.184821429,
+                    "enjoyResponse": 114,
+                    "learnRating": 3.839811066,
+                    "learnResponse": 80,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Application studies unit 1",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have completed 72 credit points.",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit aims to combine the knowledge students have achieved in their Master of Banking and Finance studies. In addition, the unit introduces a significant research component and assignment to ensure students are familiar with the scientific research method, are able to analyse research papers and understand the aim of research in contributing to theoretical concepts in finance and banking.",
+                    "UnitCode": "BFF5130",
+                    "UnitName": "Case studies and research in banking and finance",
+                    "_id": "587800fa30213215439e8a23",
+                    "enjoyRating": 4.427777778,
+                    "enjoyResponse": 49,
+                    "learnRating": 4.152970788,
+                    "learnResponse": 95,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Application studies unit 2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Application studies unit 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Application studies unit 4",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

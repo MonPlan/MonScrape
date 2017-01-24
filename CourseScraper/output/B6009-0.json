@@ -1,0 +1,57 @@
+{
+    "courseAOS": "Master of Management",
+    "courseCode": "B6009",
+    "courseName": "Management",
+    "courseType": "Expert master degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "MGF5960",
+                "MGF5680",
+                {
+                    "faculty": "",
+                    "type": "Mastery knowledge unit selected from specified list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 1"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "MGF5690",
+                "MGF5972",
+                {
+                    "faculty": "",
+                    "type": "Mastery knowledge unit selected from specified list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 2"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "MGF5670",
+                "MGF5976",
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 4"
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

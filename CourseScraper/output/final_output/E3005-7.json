@@ -1,0 +1,955 @@
+{
+    "courseAOS": "Mechatronics Engineering specialisation",
+    "courseCode": "E3005",
+    "courseName": "Engineering and Commerce",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ENG1001 Engineering Design: lighter, faster, stronger OR ENG1002",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1090,PHS1080,ENG1005",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ACC1200,ACC1100",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "The nature and scope of economics; different economic systems; economic policy analysis and evaluation; main bodies of economic thought; examples of household, business and government economic decision problems; consumer choice, product demand and factor supply; enterprise choice, product supply and factor demand; market analyses of contemporary issues; competitive market long run equilibrium; market power; market failure and concerns for efficiency and equity; government involvement in the Australian economy.",
+                    "UnitCode": "ECC1000",
+                    "UnitName": "Principles of microeconomics",
+                    "_id": "5878018530213215439e8c58",
+                    "enjoyRating": 3.954545455,
+                    "enjoyResponse": 177,
+                    "learnRating": 3.966738983,
+                    "learnResponse": 177,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1090,PHS1080",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ENG1002 Engineering design: cleaner, safer, smarter OR ENG1001",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "VCE Specialist Mathematics or ENG1090 (or equivalent)",
+                    "Proh": "ENG1091, MTH1030, MTH1035",
+                    "SCABand": 2,
+                    "Sypnosis": "Vector algebra and geometry: equations of lines and planes. Linear algebra: matrix operations, up to 3x3 systems of linear equations, eigenvalues and eigenvectors. Calculus: improper integrals, integration by parts. Sequences and series: fundamentals of convergence, Taylor series, use in error analysis. Ordinary differential equations: first order, second order with constant coefficients, repeated roots, simple non-homogeneous cases. Laplace transforms: elementary functions, inversion by tables; shifting; derivatives, applications to ODEs. Multivariable calculus: partial derivatives, gradient and directional derivatives, maxima and minima.",
+                    "UnitCode": "ENG1005",
+                    "UnitName": "Engineering mathematics",
+                    "_id": "5878023630213215439e8eb6",
+                    "enjoyRating": 3.728916952,
+                    "enjoyResponse": 225,
+                    "learnRating": 3.708615101,
+                    "learnResponse": 113,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MKB1200, MKF1120, MKG1120, MKW1120",
+                    "SCABand": 3,
+                    "Sypnosis": "Have you ever wondered what marketing is all about? This unit is designed to introduce students to the essential elements of marketing. It encompasses marketing's role in a dynamic business environment and leads students to understand how organisations use the principles of marketing to meet the needs of their customers and achieve their objectives. This unit provides a foundation for those students seeking to pursue further study of specialist marketing units; however it covers the broad scope of marketing sufficient for those students undertaking only one marketing unit.",
+                    "UnitCode": "MKC1200",
+                    "UnitName": "Principles of marketing",
+                    "_id": "587803cb30213215439e949f",
+                    "enjoyRating": 3.962962963,
+                    "enjoyResponse": 163,
+                    "learnRating": 3.450036075,
+                    "learnResponse": 47,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ETG1102, ETW1000, ETW1102, ETX1100, ETX9000, FIT1006, STA1010",
+                    "SCABand": 2,
+                    "Sypnosis": "Presentation and analysis of grouped and ungrouped data using tables, charts and measures of location and dispersion; standardisation techniques, including index numbers, with application to share price indices and the CPI; analysis of relationships between variables using simple and multiple regression; extensions to multiple regression, including nonlinear and categorical explanatory variables and time series data with applications to forecasting; main ideas of probability theory as a foundation for statistical inference; concept of sampling as a way of capturing uncertainty about data; estimators and their properties; constructing and interpreting confidence intervals; fundamentals of hypothesis testing, testing hypotheses about the mean, difference between means and the slope, including analysis of variance.",
+                    "UnitCode": "ETC1000",
+                    "UnitName": "Business and economic statistics",
+                    "_id": "5878025130213215439e8f1e",
+                    "enjoyRating": 4.122807018,
+                    "enjoyResponse": 121,
+                    "learnRating": 4.018583856,
+                    "learnResponse": 121,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to the use of Information Technology (IT) in modern engineering practice. Students will learn an object-oriented approach to both computer systems and software engineering for solving engineering problems.Students will work in small teams to develop a mobile application that meets a contemporary need in engineering. The fundamental stages in the software development lifecycle will be introduced, including requirements analysis, design, implementation and verification. Students will use IT tools to support the engineering process.",
+                    "UnitCode": "ENG1003",
+                    "UnitName": "Engineering mobile apps",
+                    "_id": "5878023630213215439e8eb5",
+                    "enjoyRating": 3.662162162,
+                    "enjoyResponse": 306,
+                    "learnRating": 3.75307989,
+                    "learnResponse": 153,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Must have passed 42 credit points",
+                    "Proh": "MEC2401",
+                    "SCABand": 2,
+                    "Sypnosis": "Kinematics: position, velocity and acceleration; relative motion analysis and applications for particles and rigid bodies; Dynamics: translational and rotational motion of free and constrained forces, their origin and significance; equation of motion, principle of impulse and momentum, principles of work and energy; Analysis of planar motion. Fundamentals of mechanical vibrations. Strength of materials: stress and strain in 2D and 3D space; Hookes law; Shear force and bending moments, moments of area, deflection of beams; Equilibrium and compatibility equations; Stress and strain transformation; Mohr circle; Simple failure criteria; Elastic instability --- buckling.",
+                    "UnitCode": "TRC2201",
+                    "UnitName": "Mechanics",
+                    "_id": "587804e730213215439e98d0",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MGB1010, MGF1010, MGG1010, MGP1010, MGW1010",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit offers a critical introduction to fundamental questions in the discipline of management. What is management? What do managers do, and how do I become a good manager? What are the effects of management practice on employees and their experience of being managed? Key contemporary issues of globalisation and cultural diversity, ethics and social responsibility affect the answers to these questions and are therefore woven throughout the curriculum. The unit draws upon a range of sources - academic, practical, popular cultural - to engage students in multiple ways of knowing about management.",
+                    "UnitCode": "MGC1010",
+                    "UnitName": "Introduction to management",
+                    "_id": "5878039b30213215439e93ce",
+                    "enjoyRating": 3.754716981,
+                    "enjoyResponse": 137,
+                    "learnRating": 3.94212963,
+                    "learnResponse": 18,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "BTB1010, BTF1010, BTG1200, BTP1010, BTW1200, LAW2100, LAW2102",
+                    "SCABand": 3,
+                    "Sypnosis": "An introduction to legal studies and to the legal system of Australia with special emphasis on commercial aspects. The laws of negligence as it affects business and the professional is introduced, and aspects of the law of contract, consumer law, agency, partnership, trusts and an introduction to companies of relevance to commerce.",
+                    "UnitCode": "BTC1110",
+                    "UnitName": "Commercial law",
+                    "_id": "5878012130213215439e8abf",
+                    "enjoyRating": 3.631578947,
+                    "enjoyResponse": 172,
+                    "learnRating": 4.3,
+                    "learnResponse": 31,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Mathematical methods (CAS) recommended.",
+                    "Proh": "ENG1602",
+                    "SCABand": 2,
+                    "Sypnosis": "General rules for software development and design. Errors. Data types, variables, expressions, control statements M-files. Numerical techniques: Gauss elimination, solution of non-linear equations, optimisation, curve fitting, numerical calculus, ordinary differential equations.",
+                    "UnitCode": "ENG1060",
+                    "UnitName": "Computing for engineers",
+                    "_id": "5878023730213215439e8eb9",
+                    "enjoyRating": 4.05248538,
+                    "enjoyResponse": 274,
+                    "learnRating": 3.934633702,
+                    "learnResponse": 137,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE2xxx Electrical circuits",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 1",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Business and Economics elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "CSE1301, TEC2041, TEC2042, TEC2171, TRC2400",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides an introduction to computers and CPU organisation, assemblers and compilers, and algorithm design for engineering problems. It covers the language C and its implementation on a typical computer, including standard data types, arrays, control statements, functions, including ways of parameter passing, C library functions, pointers, strings, arrays of pointers, structures, linked lists and binary tree data structures, dynamic memory allocations, and calls to assembly language programs. Object-oriented programming is introduced. Software engineering is covered as the methodology of software development and lifecycle models. Operating system concepts are introduced. The unit also includes an introduction to programmable logic controllers (PLCs).",
+                    "UnitCode": "ECE2071",
+                    "UnitName": "Computer organisation and programming",
+                    "_id": "5878019630213215439e8ca0",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "12 engineering credit points at level 1",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "A systematic method of capturing design requirements, tools for ideation, estimation and decision-making. Primary and secondary manufacturing processes, assembly techniques. Engineering graphics for problem-solving, manufacturing communication and ideation. Report writing, teamwork in solving design problems involving the integration of mechanical elements in prototype conception, construction and testing.",
+                    "UnitCode": "MEC2402",
+                    "UnitName": "Engineering design I",
+                    "_id": "5878038730213215439e937e",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 3",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ENG1005 or ENG1091 or equivalent",
+                    "Proh": "ENG2091, MTH2010, MTH2015",
+                    "SCABand": 2,
+                    "Sypnosis": "Advanced matrix algebra: mxn systems, linear independence, sparse matrices, simple tensors. Further ordinary differential equations: systems of ODEs, variation of parameters; boundary-value problems. Fourier series: Euler formulae, convergence, half-range series, solution of ODEs, spectra. Further multivariable calculus: change of variables and chain rule, polar coordinates, line integrals; vector fields; del, divergence, curl and Laplacian; surface and volume integrals; Gauss and Stokes theorems. Partial differential equations: simple PDEs, Laplace, heat and wave equations, superposition, separation of variables, polar coordinates. Advanced numerical methods: solution of linear systems, numerical solution of ODEs and simple PDEs, accuracy, efficiency and stability; discrete Fourier transforms, introduction to PS and FE methods.",
+                    "UnitCode": "ENG2005",
+                    "UnitName": "Advanced engineering mathematics",
+                    "_id": "5878023830213215439e8ec0",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "24 Credit points",
+                    "Proh": "TRC2000",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to the fundamental principles of some basic systems comprising of - Mechanical, Electrical, Electronic, Computing and Electro-mechanical sub-systems, with an intention to introduce cross-links between them for an integrated design approach towards their application to the development of complex systems.Special emphasis will be made on introducing sub-systems required for - 'inception to completion' of mechatronic systems with practical design examples. The enabling sub-systems for integrated approach such as sensors and actuators, hardware interfacing, data acquisition for control and feedback of such systems, as well as strategies for risk assessment, interface definition, system integration, human integration, measurement and analysis as required in mechatronics product design & development will also be introduced.This unit would outline the breadth of the knowledge that the mechatronics systems engineer must acquire regarding the features of diverse sub-systems and components that constitute the total system.",
+                    "UnitCode": "TRC2001",
+                    "UnitName": "Introduction to systems engineering",
+                    "_id": "587804e630213215439e98ce",
+                    "enjoyRating": 3.057692308,
+                    "enjoyResponse": 66,
+                    "learnRating": 4.247680098,
+                    "learnResponse": 25,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 4",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 5",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "TRC3xxx Thermo-fluids and power systems",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "TRC2201 and (ENG2092 or ENG2005)",
+                    "Proh": "MEC3453",
+                    "SCABand": 2,
+                    "Sypnosis": "Instruction on the basics of dynamics of mechatronic systems, incorporating electromagnetics into advanced dynamics analysis via D'Lambert's principle, Hamiton's equations and the virtual power (Jourdain/Kane) method. Focus on applications of dynamics in mechatronics, with kinematics and dynamics of robotic structures, magnetoelectromechanical transducers (motors, speakers, vibration sensors, and so on). Consideration of the inevitable and critical consequences of nonlinearities in dynamic response, including limit cycles and Poincar maps and flows. Reinforcement of concepts using computer analysis on simple mechatronic systems.",
+                    "UnitCode": "TRC3200",
+                    "UnitName": "Dynamical systems",
+                    "_id": "587804e730213215439e98d2",
+                    "enjoyRating": 4.125,
+                    "enjoyResponse": 9,
+                    "learnRating": 4.599915362,
+                    "learnResponse": 20,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 6",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 7",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MAE3408, MEC3457",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit commences with the modeling of various dynamic engineering systems, followed by the analysis of their transient and steady-state responses. More sophisticated analytical methods such as root locus and frequency response will be explored and will build the foundation for controller design in the future. Modeling via state-space methods will also be briefly covered.",
+                    "UnitCode": "TRC3600",
+                    "UnitName": "Modelling and control",
+                    "_id": "587804e830213215439e98d4",
+                    "enjoyRating": 4.629166667,
+                    "enjoyResponse": 39,
+                    "learnRating": 4.536297499,
+                    "learnResponse": 31,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ECE3905",
+                    "SCABand": 2,
+                    "Sypnosis": "Students will learn the planning and communication skills required to undertake a group project. An introduction will be given to the evolution of mechatronic technologies, design tools and methodologies, concurrent engineering design support tools, mechatronic design process and requirement interpretation. The acquisition of these skills will be motivated and tested by applying them in a group project to design and build a mechatronic system. The mechatronic system will be based on a microcontroller together with appropriate mechanical structure, sensors and actuators.",
+                    "UnitCode": "TRC3000",
+                    "UnitName": "Mechatronics project II",
+                    "_id": "587804e730213215439e98d1",
+                    "enjoyRating": 3.75,
+                    "enjoyResponse": 28,
+                    "learnRating": 4.227777778,
+                    "learnResponse": 9,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 8 or Commerce elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Capstone unit",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "132 credit points completed including TRC3000.",
+                    "Proh": "ECE4911, ECE4912, ECE5911, ECE5912, MEC4401, MEC4402",
+                    "SCABand": 2,
+                    "Sypnosis": "The aim of this capstone unit is to provide an opportunity for students to undertake a substantial individual or small group project. In order complete the project studies from earlier stages of the course will be integrated into a complete design/build/test task, a computer modelling or simulation task or a combination of both. It is envisaged that the project may involve design of mechanical components, sensing, actuation and computing elements, a simulated model or similar.  Before work is started on the project a safety induction and/or risk assessment process will be completed. The student will also complete a research proposal or requirements analysis to ensure that the scope and expected outcomes of the project are agreed between student and supervisor. A progress report and a progress presentation at the end of the semester will give a detailed account of progress and a research plan for the next semester.",
+                    "UnitCode": "TRC4000",
+                    "UnitName": "Mechatronics final year project I",
+                    "_id": "587804e830213215439e98d6",
+                    "enjoyRating": 4.208333333,
+                    "enjoyResponse": 13,
+                    "learnRating": 3.872222222,
+                    "learnResponse": 8,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "TRC3600",
+                    "Proh": "MEC4456",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit will cover fundamentals of robotics and robotic automation. The contents include: Spatial descriptions and transformations, manipulator forward and inverse kinematics, differential relationships and the Jacobian. Manipulator dynamics. Problem specification and solution preparation. Manipulator and end-effector configuration and design. Manipulator position control, involving sensing and actuation. Robotics in manufacturing and automation. Task Planning and techniques for modelling, simulation and programming of robotic tasks. Computational geometry for design and manufacture.  Introduction to autonomous systems.",
+                    "UnitCode": "TRC4800",
+                    "UnitName": "Robotics",
+                    "_id": "587804e930213215439e98d9",
+                    "enjoyRating": 3.875,
+                    "enjoyResponse": 60,
+                    "learnRating": 4.416666667,
+                    "learnResponse": 3,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "(ECE2031 or ECE2131 or ECE2061) and ECE2071",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit provides an introduction to transducer principles and the background to classify them in terms of performance and characteristics. A range of commonly available sensors are considered. Electronic components and data acquisition/digital signal processing software used in sensor systems are examined. Advanced sensory systems and associated programming techniques are introduced using robotic systems as an example domain.",
+                    "UnitCode": "TRC3500",
+                    "UnitName": "Sensors and artificial perception",
+                    "_id": "587804e830213215439e98d3",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MEC3457 or MAE3408 or TRC3600",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Instruction on the basics of automatic control design, including analysis and design techniques (with MATLAB/SIMULINK). Assumes students have the ability to form and use classical and state-space models of linear systems, can calculate their responses in time and frequency domain, and have experience in using MATLAB. Control system design through root-locus, frequency response, direct pole-placement, and state estimation, with concepts of linear systems, controllability, and observability. Introductions to robust stability, PID control design, digital systems, and optimal control design methods will also be provided.",
+                    "UnitCode": "MEC4418",
+                    "UnitName": "Control systems",
+                    "_id": "5878038c30213215439e9393",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "TRC4000 in the previous semester",
+                    "Proh": "ECE4911, ECE4912, ECE5911, ECE5912, MEC4401, MEC4402",
+                    "SCABand": 2,
+                    "Sypnosis": "The aim of this capstone unit is to provide an opportunity for students to undertake a substantial individual or small group project with a strong mechatronics content. In order complete the project studies from earlier stages of the course will be integrated into a complete design/build/test task. It is envisaged that the project will involve design of mechanical components, sensing, actuation and computing elements.",
+                    "UnitCode": "TRC4001",
+                    "UnitName": "Mechatronics final year project II",
+                    "_id": "587804e930213215439e98d7",
+                    "enjoyRating": 3.979166667,
+                    "enjoyResponse": 16,
+                    "learnRating": 4.706349206,
+                    "learnResponse": 10,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "TRAC4xxx Mechatronics and manufacturing",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE3xxx Analogue electronics",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Mechatronics elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 4
+        }
+    ]
+}

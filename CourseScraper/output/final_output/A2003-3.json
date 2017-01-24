@@ -1,0 +1,515 @@
+{
+    "courseAOS": "Performance specialisation",
+    "courseCode": "A2003",
+    "courseName": "Music",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Arts",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "This unit is only available to students enrolled in a Bachelor of Music single or double degree - Music performance or Ethnomusicology and musicology specialisations.",
+                    "Proh": "ATS1349",
+                    "SCABand": 1,
+                    "Sypnosis": "The unit draws together students from various levels of musical experience at pre-tertiary level and consolidates fundamental skills in music performance. Students develop instrumental/vocal technical and performance skills that prepare them for the repertoire-based focus of the next unit in the sequence, ATS1045 Performance 2.",
+                    "UnitCode": "ATS1044",
+                    "UnitName": "Performance 1",
+                    "_id": "5877ffee30213215439e85eb",
+                    "enjoyRating": 4.833333333,
+                    "enjoyResponse": 4,
+                    "learnRating": 4.611111111,
+                    "learnResponse": 4,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit is the first of a sequence of four units that integrates the development of aural skills with the theoretical understanding of music through listening, analysis, performance, notation and composition. It introduces students to the study and practical application of fundamental theoretical concepts in either the Western art music or jazz tradition. Areas of study include identifying and understanding timbre, intervals, chords, metre, rhythm, tonality, scales, melodies, chord function and part writing.",
+                    "UnitCode": "ATS1899",
+                    "UnitName": "Music theory and ear training 1",
+                    "_id": "5878000030213215439e863e",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "Through the study of selected representative musical works from the Western art music canon, this unit explores the historical conditions under which music was produced and the purposes it served for composers, performers, patrons and the public. Musical works are studied in terms of their historical, structural and stylistic characteristics.",
+                    "UnitCode": "ATS1345",
+                    "UnitName": "Music and history",
+                    "_id": "5877fffe30213215439e8632",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ATS1044 OR ATS1349This unit is only available to students enrolled in a Bachelor of Music single or double degree - Music performance or Ethnomusicology and musicology specialisations.",
+                    "Proh": "ATS1350",
+                    "SCABand": 1,
+                    "Sypnosis": "The unit consolidates and extends fundamental skills in music performance developed in ATS1044(Performance 1). Students further develop technical and performance skills by presenting for examination repertoire appropriate to this foundational level of tertiary study. The choice of repertoire should consolidate and go beyond the level of skills attained in ATS1044(Performance 1). This prepares students for the intermediate level of instrumental/vocal technical development required for the next unit in the sequence, ATS2122(Performance 3).",
+                    "UnitCode": "ATS1045",
+                    "UnitName": "Performance 2",
+                    "_id": "5877ffee30213215439e85ec",
+                    "enjoyRating": 4.647058824,
+                    "enjoyResponse": 30,
+                    "learnRating": 4.486519608,
+                    "learnResponse": 30,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ATS1899",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit is the second of a sequence of four units that integrates the development of aural skills with the theoretical understanding of music through listening, analysis, performance, notation and composition. It expands on the skills and knowledge developed in ATS1899 Music theory and ear training 1 through the study and practical application of fundamental theoretical concepts in either the Western art music or jazz tradition. Areas of study include identifying and understanding chords and their function, voice leading, melody harmonisation and phrase structure.",
+                    "UnitCode": "ATS1900",
+                    "UnitName": "Music theory and ear training 2",
+                    "_id": "5878000130213215439e863f",
+                    "enjoyRating": 3.666666667,
+                    "enjoyResponse": 41,
+                    "learnRating": 3.552083333,
+                    "learnResponse": 41,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "Through the study of selected musics from around the world, this unit explores the ways in which culture shapes the philosophies, techniques, organising principles and concepts of musical performance. By analysing performers, audiences, texts and technologies, the unit also investigates specific musical practices in order to generate broader questions about music. How do musicians learn? What does music tell us about culture? What is the musical event? These are some of the questions that will be examined in the unit. The unit is open to all students with an interest in music. No prior musical experience required.",
+                    "UnitCode": "ATS1346",
+                    "UnitName": "Music and culture",
+                    "_id": "5877fffe30213215439e8633",
+                    "enjoyRating": 3.880952381,
+                    "enjoyResponse": 60,
+                    "learnRating": 4.026666667,
+                    "learnResponse": 60,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ATS1045 or ATS1350This unit is only available to students enrolled in a Bachelor of Music single or double degree - Music performance specialisation.",
+                    "Proh": "ATS2808",
+                    "SCABand": 1,
+                    "Sypnosis": "The unit consolidates intermediate skills in music performance developed in ATS1045 Performance 2. Students further develop technical and performance skills by studying technically focused repertoire drawn from the literature of the student's principal instrument or voice. The choice of repertoire should consolidate and go beyond the level of skills attained in ATS1045 Performance 2. This prepares students for the repertoire-based focus of the next unit in the sequence, ATS2123 Performance 4.",
+                    "UnitCode": "ATS2122",
+                    "UnitName": "Performance 3",
+                    "_id": "5878000c30213215439e866e",
+                    "enjoyRating": 4.5,
+                    "enjoyResponse": 4,
+                    "learnRating": 4.611111111,
+                    "learnResponse": 4,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ATS1900This unit is only available to students enrolled in a Bachelor of Music single or double degree.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit is the third of a sequence of four units that integrates the development of aural skills with the theoretical understanding of music through listening, analysis, performance, notation and composition. It further expands on the skills and knowledge developed in ATS1900 Music theory and ear training 2 through the study and practical application of theoretical concepts in either the Western art music or jazz tradition. Students study advanced analytical and compositional procedures of tonal music through critical listening, study and analysis of representative works. Students undertake analysis, harmony and aural exercises to consolidate the understanding of functional harmony.",
+                    "UnitCode": "ATS2901",
+                    "UnitName": "Music theory and ear training 3",
+                    "_id": "5878004830213215439e875f",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Arts",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ATS2687,ATS2060",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ATS2122 or ATS2808This unit is only available to students enrolled in a Bachelor of Music single or double degree - Music performance specialisation.",
+                    "Proh": "ATS2809",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit consolidates and extends the intermediate skills in music performance developed in ATS2122 Performance 3. Students further develop technical and performance skills by presenting literature drawn from the repertoire of the student's principal instrument or voice. The choice of repertoire should consolidate and go beyond the level of skills attained in ATS2122 Performance 3. This prepares students for the advanced level of instrumental/vocal technical development required for the next unit in the sequence, ATS3136 Performance 5.",
+                    "UnitCode": "ATS2123",
+                    "UnitName": "Performance 4",
+                    "_id": "5878000c30213215439e866f",
+                    "enjoyRating": 4.181818182,
+                    "enjoyResponse": 19,
+                    "learnRating": 4.133916084,
+                    "learnResponse": 19,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ATS2901This unit is only available to students enrolled in a Bachelor of Music single or double degree.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit is the fourth and final of a sequence of four units that integrates the development of aural skills with the theoretical understanding of music through listening, analysis, performance, notation and composition. It consolidates the skills and knowledge developed in ATS2901 Music theory and ear training 3 through the study and practical application of theoretical concepts in either the Western art music or jazz tradition. Further study of advanced analytical and compositional procedures in representative works incorporates the analysis and recognition of chromatic harmony, voice leading techniques and different structural levels.",
+                    "UnitCode": "ATS2902",
+                    "UnitName": "Music theory and ear training 4",
+                    "_id": "5878004830213215439e8760",
+                    "enjoyRating": 3.5,
+                    "enjoyResponse": 22,
+                    "learnRating": 3.627946128,
+                    "learnResponse": 22,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Arts",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ATS2333,ATS2900,ATS2331",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ATS2123 or ATS2809This unit is only available to students enrolled in a Bachelor of Music single or double degree - Music performance specialisation.",
+                    "Proh": "ATS3830",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit consolidates advanced skills in music performance developed in ATS2123 Performance 4. Students further develop technical and performance skills by studying technically focused repertoire drawn from the literature of the student's principal instrument or voice. The choice of repertoire should consolidate and go beyond the level of skills attained in ATS2123 Performance 4. This prepares students for the repertoire-based focus of the final unit in the sequence, ATS3137 Performance 6.",
+                    "UnitCode": "ATS3136",
+                    "UnitName": "Performance 5",
+                    "_id": "5878006130213215439e87ba",
+                    "enjoyRating": 5,
+                    "enjoyResponse": 1,
+                    "learnRating": 5,
+                    "learnResponse": 1,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Twelve credit points of second-year Arts units.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit examines fundamental concepts and business practices of the Australian music industry, focusing on the practical knowledge and transferable skills required to commence and maintain a professional career in the music industry. It explores the interaction of music and culture mediated through business institutions and includes an introduction to self-management, copyright, record companies and the recording process. Attention is paid to the Australian music industry and some comparison with overseas practices is made.",
+                    "UnitCode": "ATS3094",
+                    "UnitName": "The music business: How to be successful in the music industry",
+                    "_id": "5878005b30213215439e87a4",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ATS3830 or ATS3136This unit is only available to students enrolled in a Bachelor of Music single or double degree - Music performance specialisation.",
+                    "Proh": "ATS3831",
+                    "SCABand": 1,
+                    "Sypnosis": "The unit consolidates and extends advanced skills in music performance developed in ATS3136 Performance 5. Students further develop technical and performance skills by presenting literature drawn from the repertoire of the student's principal instrument or voice. The choice of repertoire should consolidate and go beyond the level of skills attained in ATS3136 Performance 5.",
+                    "UnitCode": "ATS3137",
+                    "UnitName": "Performance 6",
+                    "_id": "5878006130213215439e87bb",
+                    "enjoyRating": 4.166666667,
+                    "enjoyResponse": 12,
+                    "learnRating": 3.783333333,
+                    "learnResponse": 12,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Twelve credit points of second-year Arts units.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit explores select twentieth- and twenty-first-century musics in Australia. By examining various socio-political perspectives, such as multiculturalism, the unit also investigates the cultural impact of music in the Australia as well as the way in which individuals and groups engage in musical practices.",
+                    "UnitCode": "ATS3061",
+                    "UnitName": "Music in Australia",
+                    "_id": "5878005530213215439e8790",
+                    "enjoyRating": 4.25,
+                    "enjoyResponse": 6,
+                    "learnRating": 4.416666667,
+                    "learnResponse": 6,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        }
+    ]
+}

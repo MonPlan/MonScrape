@@ -1,0 +1,248 @@
+{
+    "courseAOS": "Master of Management",
+    "courseCode": "B6009",
+    "courseName": "Management",
+    "courseType": "Expert master degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Off-campus)",
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MGX5960",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit provides an introduction to human behaviour in organisations. Behaviour is examined from the individual, group and organisational levels. The study of individual behaviour moves from consideration of personality and perception to values and attitudes and motivation. Group behaviour examines topics such as group structure and properties, group and team behaviour and leadership. These two areas of behaviour are then brought together to provide insight into the complex areas of organisational analysis (including structure and design and culture) as well as organisational processes. This multi-level organisational perspective develops student understanding and appreciation of current debates surrounding topics such as ethics and corporate social responsibility, power and influence and stress management.",
+                    "UnitCode": "MGF5960",
+                    "UnitName": "Managing people and organisations",
+                    "_id": "587803aa30213215439e9410",
+                    "enjoyRating": 3.666666667,
+                    "enjoyResponse": 14,
+                    "learnRating": 4.339467208,
+                    "learnResponse": 89,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Off-campus)",
+                                "First semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MGX5680",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit focuses on enhancing students' understanding of problem solving and decision making processes in management practice, from a critical perspective on managerial thinking and action as an art of practical wisdom and sound judgment.Through interactive group work, role play, case studies and situational exercises, students will apply analytical reasoning and adaptive-creative methods of decision making to successfully manage organisational problems. Specific tools and techniques will be used to illustrate the complexity of managers' roles in defining problems; generating, evaluating and implementing solutions; balancing rationality and intuition; and making group decisions.",
+                    "UnitCode": "MGF5680",
+                    "UnitName": "Managerial problem solving and decision making",
+                    "_id": "587803a630213215439e9401",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Mastery knowledge unit selected from specified list",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Application studies unit 1",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Off-campus)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MGX5690",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit is an introduction to services and operations management concepts. The unit introduces operations management concepts in delivering value to customers, within and across organisations. Furthermore, the unit introduces and investigates service management in a variety of industry contexts, including discretionary and non-discretionary services. The services and operations concepts are synthesised through applied assessment.",
+                    "UnitCode": "MGF5690",
+                    "UnitName": "Services and operations management",
+                    "_id": "587803a730213215439e9402",
+                    "enjoyRating": 4.048611111,
+                    "enjoyResponse": 53,
+                    "learnRating": 3.908772998,
+                    "learnResponse": 38,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Off-campus)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MGX9600, MGX5960, MGG5960, MGG9600 or MGG9370 or seek Chief Examiner approval before undertaking this unit.",
+                    "Proh": "MGX5972",
+                    "SCABand": 3,
+                    "Sypnosis": "Examines change management from both theoretical and practical perspectives. Theory relating to employee responses to change and promoting readiness for change. Organisation Development -- characteristics of OD, process models, role of the practitioner, interventions; Organisational transformation -- nature and characteristics, models, strategic change leadership and capability.",
+                    "UnitCode": "MGF5972",
+                    "UnitName": "Managing organisational change",
+                    "_id": "587803ab30213215439e9415",
+                    "enjoyRating": 3.875,
+                    "enjoyResponse": 21,
+                    "learnRating": 3.947916667,
+                    "learnResponse": 10,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Mastery knowledge unit selected from specified list",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Application studies unit 2",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Off-campus)",
+                                "First semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MGX5670",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit will involve a comprehensive examination of executive leadership in Australia and internationally. Students will study individual, group and organisational issues, specifically in terms of current and traditional leadership models and paradigms; gender, ethical, and strategic issues; and the relationships between leadership and performance, group dynamics, and organisational culture.",
+                    "UnitCode": "MGF5670",
+                    "UnitName": "Leadership",
+                    "_id": "587803a630213215439e9400",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Off-campus)",
+                                "First semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MGX9600, MGX5960 or seek Chief Examiner approval before undertaking this unit.",
+                    "Proh": "MGG9371, MGG9761, MGX9761, MGX5976.",
+                    "SCABand": 3,
+                    "Sypnosis": "Identification and evaluation of the firm's competitive position, its markets, government policies, social issues, emerging trends and key factors which are critical for success in its environment. The crafting of an appropriate strategy supported by structure, controls and rewards.",
+                    "UnitCode": "MGF5976",
+                    "UnitName": "Strategic management",
+                    "_id": "587803ab30213215439e9416",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Application studies unit 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Application studies unit 4",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

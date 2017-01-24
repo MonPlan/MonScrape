@@ -1,0 +1,43 @@
+{
+    "courseCode": "B6016",
+    "courseName": "Master of Business Administration",
+    "courseAOS": "",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+              "MBA5111",
+              "MBA5112",
+              "MBA5113"
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+              "MBA5211",
+              "MBA5212",
+              "MBA5213"
+          ]
+        }, {
+          "code": "S1-01",
+          "year": 1,
+          "units": [
+              "MBA5311",
+              "MBA5312",
+              "MBA5313"
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 1,
+          "units": [
+              "MBA5412",
+              "MBA5413",
+              "MBA5415",
+              "MBA5411"
+          ]
+        }
+    ]
+}

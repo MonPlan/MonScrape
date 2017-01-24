@@ -1,0 +1,298 @@
+{
+    "courseAOS": "",
+    "courseCode": "F6001",
+    "courseName": "Master of Architecture",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Art, Design and Architecture",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "Building on the Bachelor of Architectural Design Studio Units, Advanced Architecture Studio 1 continues to expand and consolidate advanced concepts and skills relevant to architecture design. It elaborates on architectural design as a process of investigation, critical observation, and experiment. It increases the emphasis on design as a synthetic process encompassing a range of complex issues inherent in the production of architecture. The unit introduces students to design-based research. Studies in the unit will maintain a focus on developing design as a visual language and process of cultural production with an emphasis on social and environmental sustainability.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "Admission to Masters of Architecture, OHS1000",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ARC4001",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Advanced architecture project 1"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit examines issues in architectural production. This unit covers architectural production in relation to a range of historical, theoretical, material and speculative domains addressing diverse social, cultural, technological, and communicative aspects of architecture. Investigations will incorporate various methodologies and points of view. The unit will develop analytical methods for understanding and contributing to the evolving built environment.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "Admission to Masters of Architecture and OHS1000 or by permission.",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ARC4501",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
+                                "Trimester 2 2017 (', 'Off-campus block of classes', ')"
+                            ]
+                        ],
+                        [
+                            [
+                                "Prato"
+                            ],
+                            [
+                                "Trimester 2 2017 (', 'Off-campus block of classes', ')"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Advanced architecture studies 1"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit explores integrated building systems as they relate to architectural design and construction. This includes study of principles of integrated design and the implications of these in relation to architectural design, pan-disciplinary collaboration and construction processes and outcomes. The building will be considered as a site of collaboration of pan-disciplinary teams of experts, whose input contributes to the integrity of the whole. Physical, visual and performative integration of building performance systems will be considered in terms of their relationship to design intent. Integral to the subject matter are the implications of tighter integration in relation to strategies for environmental sustainability and optimisation in architectural design and construction. Through project-based exercises, students also engage with the professional ethics and practices required for project development and the performative integration of building systems and design intent.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "Admission to the Master of Architecture Course, OHS1000",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ARC4101",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Integrated project- technologies, environments and professional practices"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "Advanced Architecture Studio 2 expands and consolidates advanced concepts and skills relevant to architecture design. It elaborates on architectural design as a process of investigation, critical observation, and experiment. It increases the emphasis on design as a synthetic process encompassing a range of complex issues inherent in the production of architecture. The unit continues the introductory-level development of design-based research. Studies in the unit will maintain a focus on developing design as a visual language and process of cultural production with an emphasis on social and environmental sustainability.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "ARC4001, OHS1000",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ARC4002",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Advanced architecture project 2"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit provides focused study into architecture culture. The unit will foster critical capacities for comprehending and contributing to the built environment. This unit examines architectural culture through the lenses of historically and theoretically based speculative and material developments. Investigations will incorporate various methodologies and diverse points of view. Students will also gain awareness of the associated effects on and of architectural design.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "Admission to Master of Architecture or by permission, OHS1000",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ARC4502",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)",
+                                "Trimester 2 2017 (', 'Off-campus block of classes', ')"
+                            ]
+                        ],
+                        [
+                            [
+                                "Prato"
+                            ],
+                            [
+                                "Trimester 2 2017 (', 'Off-campus block of classes', ')"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Advanced architecture studies 2"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Open Elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "Architecture Design Research Studio consolidates concepts and skills relevant to advanced architectural design research. It establishes the full set of conceptual and skill-based competencies necessary for undertaking the subsequent design research project. It maintains emphasis on design as a synthetic process encompassing a range of complex issues inherent in the production of architecture. Studies in the unit will maintain a focus on developing design as a visual language and process of cultural production with an emphasis on social and environmental sustainability.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "ARC4002, OHS1000",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ARC5001",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Advanced architecture project 3"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit engages with architectural techniques set within a broad range of social, cultural, environmental, political, economic, historical, theoretical and technical contexts. Investigations will incorporate various methodologies and approaches. The unit examines the formulation, application and implications of techniques in relation to architectural design research. The unit advances critical understanding required to shape the built environment.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ARC5501",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
+                                "Trimester 2 2017 (', 'Off-campus block of classes', ')"
+                            ]
+                        ],
+                        [
+                            [
+                                "Prato"
+                            ],
+                            [
+                                "Trimester 2 2017 (', 'Off-campus block of classes', ')"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Advanced architecture studies 3"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Professional Studies 2 exposes students to the complex and evolving contexts of local and global architectural practice. The unit introduces salient issues of financial dynamics, business management and ethical practices in relation to architecture. Project-based exercises enable students to strategically position themselves within contemporary practice. The unit fosters critical engagements with and entrepreneurial approaches to architectural practice.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "ARC4201, OHS1000",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ARC5201",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Professional practices"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 18,
+                    "Description": "Architecture Design Research Project is the culmination of the architectural studio stream and consolidates the conceptual understanding and skill base of preceding design studios. It reinforces architectural design as a process of investigation, critical observation, and experiment. Students will demonstrate mastery of design research as a synthetic process encompassing a range of complex issues inherent in the production of architecture: form, material, structure, program, site, history and representation architectural form. Studies in the unit will maintain a focus on developing design as a visual language and process of cultural production with an emphasis on social and environmental sustainability.",
+                    "EFTSL": 0.375,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "ARC5001, OHS1000",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ARC5002",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Final architecture project"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit explores aspects of architectural media. This unit examines a range of discursive and material aspects of architectural media. It will take into consideration various cultural, social, and technological factors utilizing historical, theoretical, and projective approaches. Investigations will incorporate various methodologies and diverse points of view with an underlying concern for the implications for architectural design. The unit will foster skills necessary for assessing and contributing to the built environment.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "Admission to Masters of Architecture or by permission, OHS1000",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ARC5502",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)",
+                                "Trimester 2 2017 (', 'Off-campus block of classes', ')"
+                            ]
+                        ],
+                        [
+                            [
+                                "Prato"
+                            ],
+                            [
+                                "Trimester 2 2017 (', 'Off-campus block of classes', ')"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Advanced Studies in Architecture 4"
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

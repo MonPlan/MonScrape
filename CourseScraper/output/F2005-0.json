@@ -1,0 +1,109 @@
+{
+    "courseAOS": "Industrial Design and Communication Design specialisations and Games Development major",
+    "courseCode": "F2005",
+    "courseName": "Design and Information Technology",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Art, Design and Architecture",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "AHT1101",
+                "DWG1201",
+                "FIT1047",
+                "FIT1033",
+                "OHS1000"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "TDN1002",
+                "FIT1048",
+                "FIT1049",
+                "FIT2073"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                [
+                    "CDS1001",
+                    "IDN1001"
+                ],
+                "TDN2001",
+                "FIT2096"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                [
+                    "CDS1002",
+                    "IDN1002"
+                ],
+                "FIT3145",
+                "FIT2097"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                [
+                    "CDS2001",
+                    "IDN2001"
+                ],
+                [
+                    "FIT2001",
+                    "FIT2099"
+                ],
+                "FIT3094"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "FIT3145",
+                "FIT3146",
+                "FIT2002",
+                {
+                    "faculty": "",
+                    "type": "FIT Elective"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                [
+                    "CDS3001",
+                    "IDN3001"
+                ],
+                "TDN3001",
+                "FIT3039"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                [
+                    "CDS3002",
+                    "IDN3002"
+                ],
+                [
+                    "TDN3002",
+                    "TDN3003"
+                ],
+                "FIT3040"
+            ],
+            "year": 3
+        }
+    ]
+}

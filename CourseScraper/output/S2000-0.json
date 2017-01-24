@@ -1,0 +1,117 @@
+{
+    "courseAOS": "Bachelor of Science",
+    "courseCode": "S2000",
+    "courseName": "Science",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Science",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science Major Approved Level 1 Sequence 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "Approved Level 1 Sequence 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "One of: SCI1020, STA1010, MTH1020, MTH1030* (Or level 1 science unit if already taken as part of another level 1 approved sequence) (can be taken in either semester one or two)"
+                },
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science Major Approved Level 1 Sequence 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "Approved Level 1 Sequence 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science Unit Level 1"
+                },
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science Major Level 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science Unit Level 2 or 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "SCI2010/SCI2015 (can be taken in either semester one or two)"
+                },
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science Major Level 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science Unit Level 2 or 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science Unit Level 2 or 3"
+                },
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science Major Level 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science Major Level 3"
+                },
+                "Elective",
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science Major Level 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science Major Level 3"
+                },
+                "Elective",
+                "Elective"
+            ],
+            "year": 2
+        }
+    ]
+}

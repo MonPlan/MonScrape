@@ -1,0 +1,46 @@
+{
+    "courseCode": "B6005",
+    "courseName": "Master of Business",
+    "courseAOS": "",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+            {"type": "Advanced Preparatory Unit", "faculty": "Faculty of Business and Economics"},
+            {"type": "Advanced Preparatory Unit", "faculty": "Faculty of Business and Economics"},
+            {"type": "Advanced Preparatory Unit", "faculty": "Faculty of Business and Economics"},
+            {"type": "Advanced Preparatory Unit", "faculty": "Faculty of Business and Economics"}                                    
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+              ["MGF5991", "MGF5992"],
+              ["MGF5020", "MGF5030"],
+              {"type": "Mastery Knowledge Specialisation Unit", "faculty": "Faculty of Business and Economics"},
+              {"type": "Mastery Knowledge Specialisation Unit", "faculty": "Faculty of Business and Economics"}
+          ]
+        }, {
+          "code": "S1-01",
+          "year": 1,
+          "units": [
+              {"type": "Mastery Knowledge Specialisation Unit", "faculty": "Faculty of Business and Economics"},
+              {"type": "Mastery Knowledge Specialisation Unit", "faculty": "Faculty of Business and Economics"},
+              {"type": "Application Studies Unit", "faculty": "Faculty of Business and Economics"},
+              {"type": "Application Studies Unit", "faculty": "Faculty of Business and Economics"}
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 1,
+          "units": [
+              {"type": "Mastery Knowledge Specialisation Unit", "faculty": "Faculty of Business and Economics"},
+              {"type": "Mastery Knowledge Specialisation Unit", "faculty": "Faculty of Business and Economics"},
+              {"type": "Application Studies Unit", "faculty": "Faculty of Business and Economics"},
+              {"type": "Application Studies Unit", "faculty": "Faculty of Business and Economics"}
+          ]
+        }
+    ]
+}

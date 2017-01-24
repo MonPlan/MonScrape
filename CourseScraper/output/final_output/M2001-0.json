@@ -1,0 +1,415 @@
+{
+    "courseAOS": "Bachelor of Nutrition Science",
+    "courseCode": "M2001",
+    "courseName": "Nutrition Science",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "In this unit, students' transition into the tertiary setting will be supported and the roles, responsibilities and expectations of students as healthcare profession students will be outlined. They will be engaged via adult learning teaching and learning principles in this unit as they begin to develop their professional identity. This unit will commence students on the pathway to becoming experts in food (knowledge and application) and culturally competent, self aware healthcare professionals.Food and culture will provide the core content for students to apply, integrate and develop/extend personal and professional attributes and competencies, communication and interpersonal skills. Enhanced cultural awareness for students will be a key outcome of this unit and this will be contextualized as students learn about food/food ingredients, eating patterns, why we eat what we eat and the Australian food supply system. Interprofessional learning opportunities with other healthcare profession students will help strengthen the learning in this unit. Students will be introduced to reflective practice and commence a professional portfolio.",
+                    "UnitCode": "NUT1001",
+                    "UnitName": "Personal and professional perspectives in nutrition",
+                    "_id": "5878043530213215439e9650",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "NUT1011.",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit focuses on basic concepts in human nutrition. It will introduce the concepts of energy balance and body composition and outline the process of digestion. It will describe the role and function of macro and micronutrients essential for human health, their history of discovery, and relevance for the health of populations and individuals. The dietary recommendations for optimal nutrition for the Australian population will be compared with recommendations in other countries. The unit will include the clinical signs and symptoms of specific nutrient deficiency and excess, as well as nutrient interactions and their significance. Methods of nutrition assessment will be explored focussing on methods used to assess food intake, data analysis using qualitative and quantitative methods; and comparison of this data to recommended dietary intakes for optimal health.",
+                    "UnitCode": "NUT1010",
+                    "UnitName": "Human nutrition: An introduction to nutrients",
+                    "_id": "5878043630213215439e9652",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit focuses on developing students' fundamental scientific knowledge as the basis for dietetics practice and nutrition science. This unit takes a scientific approach to growth and development of the human body incorporating biochemistry, genetics and physiology with an emphasis on a case based learning approach to knowledge application. Student centered teaching and learning methods will be used to support the delivery of the unit content. Students' participation as adult learners will be encouraged through the curricula with emphasis on the development of basic scientific communication skills.",
+                    "UnitCode": "NUT1101",
+                    "UnitName": "Science foundations",
+                    "_id": "5878043630213215439e9654",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "NUT1010.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will introduce students to epidemiology and biostatistics as the core of population health and nutrition research and practice. This will include consideration of basic statistics, study design, quantitative and qualitative methods of inquiry and ethical issues related to research and population health interventions. Emphasis is placed on a population view of health, nutrition and disease and the social determinants of health and the application of epidemiology and statistics in assessment of disease in population and the effects of nutrition interventions. An introduction to the concepts and approaches to working in population health and nutrition will also be explored",
+                    "UnitCode": "NUT1002",
+                    "UnitName": "Evaluating the evidence: Nutrition and population health",
+                    "_id": "5878043630213215439e9651",
+                    "enjoyRating": 3.636363636,
+                    "enjoyResponse": 38,
+                    "learnRating": 3.547222222,
+                    "learnResponse": 10,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "NUT1010 and NUT1101.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit will introduce food science particularly the chemistry of food components in their raw and cooked state. It will introduce food preparation and cooking skills, sensory evaluation of food, food processing, production, packaging and storage. Methods of analysing food for nutrient and non-nutrient content will be examined. Teaching will be based on interactive lectures with explicit learning objectives. These will be supplemented by tutorials to support student learning and by kitchen and laboratory practical sessions for the acquisition of basic skills in food selection, storage, preparation, cooking and food analysis.",
+                    "UnitCode": "NUT1102",
+                    "UnitName": "Food science",
+                    "_id": "5878043730213215439e9655",
+                    "enjoyRating": 3.733333333,
+                    "enjoyResponse": 31,
+                    "learnRating": 3.836962058,
+                    "learnResponse": 37,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "NUT1001, NUT1010, NUT1101 and NUT1102.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit focuses on health behaviours, growth and development, physical activity and nutritional requirements for groups across the lifespan from infancy to old age. It will focus on normal nutrition, physiology, physical activity and growth and development for lifespan groups  and vulnerable groups. The unit will draw on principles from psychology that will allow students to understand how health beliefs, illness and other factors impact on actions. Concepts of health education and promotion will enhance students' knowledge and ability to communicate nutrition messages effectively to groups. The unit will incorporate elements of personal and professional development such as cultural competency, social justice, translation of technical information into practical advice about food and eating, communication skills, reflection and teamwork.This unit will focus on Theme 3 (Nutrition fundamentals in Health and Disease) and Theme 2 (Determinants and Influences on Population Health and Nutrition) and Theme 2 objectives but will also include aspects of Theme 1 (Personal development and professional practice) and Theme 4 (Food: from Science to Systems) with an integrated assessment task and Theme 4 (From Science to System).Site visits to care settings such as child care and/or aged care will enhance the learning experience and provide an applied real life context to theory.",
+                    "UnitCode": "NUT2001",
+                    "UnitName": "Health across the lifespan",
+                    "_id": "5878043730213215439e9656",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "NUT1010, NUT1101 and NUT1102.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides a strong foundation in supporting students to become experts in the area of food - from the cellular scientific makeup and composition to food microbiology, food regulations and standards coupled with skill based acquisition, exploring the diversity of food and eating practices with an application to nutrition and dietetic practice.Theme 4 (Food from Science to Systems) is the key theme explored in this unit with integration from Theme 1 (Personal Development and Professional Practice) as students extend their skills in cultural competency and communication and the scientific underpinnings from Theme 3 (Nutrition Fundamentals of Health and Disease).In this unit, students will acquire food preparation skills; become familiar with Australia's diverse foods and modify recipes and menus to meet specific nutritional goals.Students will gain an appreciation of micro-organisms and the important role they play in food production and in food-borne disease; becoming proficient in risk assessment and safe food handling practices.They will discuss the regulatory system set up in Australia to control food safety, food labelling and food content and gain experience in evaluating the role of science and politics within the regulatory decision-making process.",
+                    "UnitCode": "NUT2102",
+                    "UnitName": "Food: Science, composition and skills",
+                    "_id": "5878043730213215439e9658",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "NUt2002 Applied research methods in nutrition",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 18,
+                    "EFTSL": 0.375,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "NUT1010, NUT1101, NUT1102 and NUT2001.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will focus on developing students' fundamental scientific knowledge in the areas of biochemistry, physiology, anatomy and immunology as the basis for nutrition and dietetics practice. The areas of pharmacology and genetics will be included as the role of nutrition in these sciences is increasingly emphasised. The key theme explored in this unit is Theme 3: Nutrition Fundamentals of Health and Disease coupled with partial integration of content and application from Theme 1: Personal Development and Professional Practice and Theme 4: Food from Science to systems. This unit will take a scientific approach to understanding the anatomy and physiology of the human body in growth and development and the impact of dietary input on cellular and metabolic processes whilst recognising the neuroendocrine control of nutrients within the body and the role of essential micronutrients in immune function. Teaching will focus on a case based learning approach to knowledge application.",
+                    "UnitCode": "NUT2103",
+                    "UnitName": "Integrated science systems",
+                    "_id": "5878043830213215439e9659",
+                    "enjoyRating": 3.4,
+                    "enjoyResponse": 34,
+                    "learnRating": 4.5,
+                    "learnResponse": 3,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "NUT3001 Evidence based nutrition or NUT3004 Nutrition controversies and NUT3003 Sport and exercise nutrition, or NUT3007 Placement",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Must have passed both NUT1002 and NUT2102 or all three of HSC1101, HSC1102 and NUT1011.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit aims to explore the sustainability of the food supply and its impact on health. Students will learn about the components of the food supply system (from paddock to plate) and the factors, including economic, social, political and environmental that drive and influence the food system. Students will compare and contrast the agricultural, retail and consumption differences between an industrial and a local food system. Exposure to several programs and initiatives which aim to mitigate the environmental effects of food production and create a more sustainable food supply with support learning. The impact of environmental challenges, such as climate change, drought and salinity, and the impact of national policy decisions on the food system will be explored. Students will be exposed to the views of the food industry, economists and public health experts on food sustainability and explore their own food intake patterns and its impact on the environment.",
+                    "UnitCode": "NUT3006",
+                    "UnitName": "Food and the environment",
+                    "_id": "5878043b30213215439e965f",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Must have passed all of NUT2001, NUT2102 and NUT2103; or Must have passed all of HSC1101, HSC1102 and NUT1011.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Monitoring and evaluation are essential components of determining nutritional status both at the individual and population level. Therefore the interpretation of information from dietary, laboratory, anthropometric and clinical studies is central to the work of nutrition science students. In this unit, students will examine the methodological applications and limitations surrounding dietary assessment, body composition and biochemical tests. Students will be enabled to critically employ research skills when analysing nutrition related data by identifying appropriate methods, in terms of precision, validity and reproducibility for assessing dietary intake, body composition and nutritional status using biochemical tests. Students will be exposed to a number of anthropometric and dietary intake methods, as well as nutrition screening tools routinely used in both the clinical and research settings.",
+                    "UnitCode": "NUT3005",
+                    "UnitName": "Nutrition assessment",
+                    "_id": "5878043a30213215439e965e",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "NUT1010, NUT1002 and NUT1102. Master of Dietetics students are exempt from pre-requisites.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will review the concepts and approaches of population health in the context of nutrition. The content will explore current public health nutrition practice issues related to priority issues such as obesity, food security and the food supply. A systems based, health promotion framework to addressing priority nutrition issues will be discussed and current public health nutrition practice will be evaluated. Students will explore the political foundations of public health policy in Australia including the impact of public health policies and will develop skills in policy analysis and public health advocacy. This unit will provide students with the foundations knowledge in preparation for the development of skills of the practice of public health nutrition. The key theme explored in this unit is Theme 2: Determinants and influences on population health and nutrition coupled with partial integration of content from Theme 4: Food: from science to systems.",
+                    "UnitCode": "NUT3082",
+                    "UnitName": "Public health nutrition",
+                    "_id": "5878043b30213215439e9661",
+                    "enjoyRating": 4.78125,
+                    "enjoyResponse": 23,
+                    "learnRating": 4,
+                    "learnResponse": 16,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Must have passed all units in NUT2001, NUT2002, NUT2102 and NUT2103;OR must have passed NUT1011 and two from BCH2022, BMS2021, BMS2031, HSC1101, HSC1102, PHY2032 or PHY2042.Master of Dietetics students are exempt from pre-requisites.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Diet and disease is an integrated study of the role of diet in the causation and treatment of chronic diseases that are endemic in westernised societies. This unit builds upon the scientific concept of disease aetiology explored in Integrated Science Systems (BND2103) and the critical interpretation of scientific literature and research skills developed in years 1 and 2. Learners will explore the epidemiology of the major nutrition related diseases, their causal pathways and population based recommendation for prevention. The rationale for the application of dietary modifications for patients with specific disease states and the means of evaluating dietary treatment is explored. Nutrition related emerging issues in disease aetiology and management are also explored and the emphasis on the important role of genetic susceptibility in nutrition science is continued.Student centered teaching and learning methods will be used to support the delivery of the unit content. Students' participation as adult learners will be encouraged through the curricula with emphasis on extending their scientific communication skills.",
+                    "UnitCode": "NUT3002",
+                    "UnitName": "Nutrition, activity and health in chronic diseases",
+                    "_id": "5878043930213215439e965b",
+                    "enjoyRating": 4.272727273,
+                    "enjoyResponse": 27,
+                    "learnRating": 4.166666667,
+                    "learnResponse": 11,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        }
+    ]
+}

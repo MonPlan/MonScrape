@@ -1,0 +1,126 @@
+{
+    "courseAOS": "Primary Education specialisation",
+    "courseCode": "D3009",
+    "courseName": "Education and Information Technology",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Education",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF1303",
+                {
+                    "faculty": "",
+                    "type": "Introductory programming unit*: FIT 1045 or FIT1048 or FIT1051"
+                },
+                "EDF1053",
+                "FIT1047",
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 1"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF1304",
+                "FIT1049",
+                "EDF1054",
+                "FIT2094",
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 1"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF2210",
+                "EDF2020",
+                "EDF2053",
+                "FIT2001",
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 2/3"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF2031",
+                "EDF2021",
+                "EDF2054",
+                "FIT2002",
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 2"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF3036",
+                "EDF3021",
+                "EDF3053",
+                "FIT3047",
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 3"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF3211",
+                "EDF3022",
+                "EDF3054",
+                "FIT3048",
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 3"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF4260",
+                "EDF4022",
+                "EDF4053",
+                "EDF4024",
+                "EDF4100"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF4020",
+                "EDF4023",
+                "EDF4054",
+                "EDF4025",
+                "EDF4101"
+            ],
+            "year": 3
+        }
+    ]
+}

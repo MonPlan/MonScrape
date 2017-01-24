@@ -1,0 +1,309 @@
+{
+    "courseAOS": "Electrical Engineering",
+    "courseCode": "E6001",
+    "courseName": "Master of Advanced Engineering",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The unit consists of a review of probabilistic foundations for data analysis including probability, random variables, expectation, distribution functions, important probability distributions, central limit theorem, random vectors, conditional distributions and random processes.Students will develop the foundations of statistical inference including estimation, confidence intervals, maximum likelihood, hypothesis testing, least-squares and regression analysis.A selection of more advanced topics in probability, random modelling and statistical inference will also be presented.The material will be taught in the context of real engineering problems taken from multiple engineering disciplines. A widely used numerical computing environment will be used extensively throughout the unit.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "None",
+                    "Prohibitions": "None",
+                    "SCABand": 2,
+                    "UnitCode": "ENG5001",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Advanced engineering data analysis"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Enhancement Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Technical Elective Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Technical Elective Unit",
+                    "UnitName": ""
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The goal of this unit is to impart an evidence-based methodology for building scalable startups that students can use for the rest of their careers, whether they are starting a new business or working in established organisations.  For a new business, the goal is acquiring investor funding.  In a corporate environment, the methodology will help the organisation start new businesses and allocate their internal resources (time, technology, and talent) more efficiently.  The unit will be taught in a hands-on way that engages student teams by requiring them to develop hypotheses and then test those hypotheses outside the classroom.  Throughout the semester, teams will modify their business models based on feedback from potential customers, and can then decide if there is a worthwhile business to be built.  The unit does not include the execution of the business models.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "None",
+                    "Prohibitions": "None",
+                    "SCABand": 2,
+                    "UnitCode": "ENG5002",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Engineering entrepreneurship"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Enhancement Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Technical Elective Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Technical Elective Unit",
+                    "UnitName": ""
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The unit aims to enable students to understand, analyse, specify, design and test real-time systems using both hardware and software development. Migration between software and hardware will be considered as an approach to meet design criterion such as speed, throughput, energy usage and cost.The design, analysis and implementation of real-time operating systems will be studied and will include scheduling policies, process creation and management, inter-process communication and synchronisation, efficient handling of I/O and communication.Students will complete a major team design project that includes hardware and software design of a real-time system.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "ECE4075",
+                    "SCABand": 2,
+                    "UnitCode": "ECE5881",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Real-time system design"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The unit introduces the fundamentals of statistical signal processing with emphasis on stochastic models, estimation theory, parametric and non-parametric modelling and least squares methods.After a review of basic probability and random processes, the use of stochastic models for real world signals is illustrated. A family of algorithms for the creation, efficient representation and effective modelling is presented.Specifically, linear stochastic models are presented and the importance of correlation structure in deriving the parameters of such models is illustrated.The unit also covers how parametric and non-parametric models as well as statistical techniques are used to extract information from data signals corrupted by noise. The concept of estimation from real world data is presented, as opposed to the basic analysis of signals, transfer functions and power spectra. In particular, the fundamentals of linear estimation theory and optimal filtering to design advanced signal processing algorithms are presented.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ECE5883",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Advanced signal processing"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit provides students a unique opportunity to work on a real-world, engineering design problem in a multidisciplinary team environment. The project will involve a critical assessment of the design problem from engineering as well as non-engineering perspectives. The project work rely on using creative problem solving and decision-making skills and modern project management tools for developing practical solutions to the design problem. The outcomes of the project will be communicated via presentations, demonstrations and reports. This project may be undertaken either within the faculty or with external partners. This is the first part of a two-unit project sequence.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ENG5003",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Advanced design project A"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit provides a challenging opportunity for students to pursue an independent, self-guided research project aimed at advancing the body of knowledge relevant to the topic.  The project will involve a critical assessment of the current literature and will include one or a combination of design, development, and theoretical or experimental investigation work. The project plan and its outcomes will be communicated to a wider audience via a proposal, oral presentations, a progress report and a technical paper. The project may be undertaken either within the faculty or externally with a company or research organisation. This is the first part of a two-unit project.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ENG5005",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Engineering project A"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This an advanced unit in electronics design. Students will be provided with an in-depth knowledge of radio frequency (RF) and microwave circuits and systems. The unit builds on students' basic electronic knowledge obtained from their undergraduate engineering degree to a more advanced analog and RF electronics, with more theory and applications of electronics.The unit will teach students the detailed design principles of passive and active electronic devices at radio frequencies. Students will learn to use CAD design software packages for assignments and projects. Important analogue and RF building components such as amplifiers, filters, oscillators, modulators, mixers and phase locked loops will be taught. Topics such as noise and interference in electronics circuits will also be covered.Students will undertake a group project where RF/mixed signal circuits will be designed, built and tested in the laboratory.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "The students should have a basic knowledge of electronics and electrical circuit analysis as would typically be covered in undergraduate subjects in these areas.",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ECE5882",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Advanced electronics design"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit introduces the fundamentals of wireless communications and networking. Students will learn about the characteristics of wireless channels, coding, modulation techniques, methods of combating fading including space, time and frequency diversity, multiple access techniques and cellular networks.A selection of more advanced topics will also be covered including MIMO systems, heterogeneous networks, cognitive and cooperative communications.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ECE5884",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Wireless communications"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Together with ENG5003, this unit provides students a unique opportunity to work on a real-world, engineering design problem in a multidisciplinary team environment. The project will involve a critical assessment of the design problem from engineering as well as non-engineering perspectives. The project work rely on using creative problem solving and decision-making skills and modern project management tools for developing practical solutions to the design problem. The outcomes of the project will be communicated via presentations, demonstrations and reports. This project may be undertaken either within the faculty or with external partners. This is the second part of a two-unit project sequence.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "ENG5003",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ENG5004",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Advanced design project B"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Together with ENG5005, this unit provides a challenging opportunity for students to pursue an independent, self-guided research project aimed at advancing the body of knowledge relevant to the topic.  The project will involve a critical assessment of the current literature and will include one or a combination of design, development, and theoretical or experimental investigation work. The project plan and its outcomes will be communicated to a wider audience via a proposal, oral presentations, a progress report and a technical paper. The project may be undertaken either within the faculty or externally with a company or research organisation. This is the second part of a two-unit project.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "ENG5005",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ENG5006",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Engineering project B"
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

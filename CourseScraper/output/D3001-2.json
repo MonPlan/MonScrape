@@ -1,0 +1,129 @@
+{
+    "courseAOS": "Bachelor of Education (Honours) in Primary and Secondary Education",
+    "courseCode": "D3001",
+    "courseName": "Education",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Education",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF1303",
+                "EDF1206",
+                "EDF1101",
+                {
+                    "faculty": "",
+                    "type": "Discipline 1 unit 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "Discipline 2 unit 1"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF1304",
+                "EDF1205",
+                "EDF1102",
+                {
+                    "faculty": "",
+                    "type": "Discipline 1 unit 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Discipline 2 unit 2"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF2210",
+                "EDF2214",
+                "EDF2101",
+                {
+                    "faculty": "",
+                    "type": "Discipline 1 unit 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Discipline 2 unit 3"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF2031",
+                "EDF2213",
+                "EDF2102",
+                {
+                    "faculty": "",
+                    "type": "Discipline 1 unit 4"
+                },
+                {
+                    "faculty": "",
+                    "type": "Discipline 2 unit 4"
+                },
+                "EDF2211"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF3210",
+                "EDF3212",
+                "EDF3101",
+                {
+                    "faculty": "",
+                    "type": "Discipline 1 unit 5"
+                },
+                "EDF3269"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF3211",
+                "EDF3213",
+                "EDF3102",
+                {
+                    "faculty": "",
+                    "type": "Discipline 1 unit 6"
+                },
+                "EDF3216",
+                "EDF3035"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF4100",
+                "EDF4260",
+                "EDF4041",
+                "EDF4266",
+                "EDF4268"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF4101",
+                "EDF4006",
+                "EDF4042",
+                "EDF4267",
+                "EDF4269"
+            ],
+            "year": 3
+        }
+    ]
+}

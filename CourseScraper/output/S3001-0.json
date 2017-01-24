@@ -1,0 +1,130 @@
+{
+    "courseAOS": "Bachelor of Science Advanced \u2013 Global Challenges (Honours)",
+    "courseCode": "S3001",
+    "courseName": "Science Advanced - Global Challenges",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Science",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Major \u2013 Science level 1 sequence"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science level 1 sequence"
+                },
+                {
+                    "faculty": "",
+                    "type": "One of: SCI1020, STA1010, MTH1020, MTH1030 Or level one science unit if already taken as part of another level one sequence (this unit can be taken in either semester)"
+                },
+                "SCI1501"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Major \u2013 Science level 1 sequence"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science level 1 sequence"
+                },
+                {
+                    "faculty": "",
+                    "type": "Elective from a list"
+                },
+                "SCI1502"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Major \u2013 level 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science elective - level 2/3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Elective from a list"
+                },
+                "SCI2501"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Major \u2013 level 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science elective- level 2/3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                },
+                "SCI2502"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Major \u2013 level 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Major \u2013 level 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                },
+                "SCI3501"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Major \u2013 level 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Major \u2013 level 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                },
+                "SCI3502"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "SCI4501"
+            ],
+            "year": 3
+        }
+    ]
+}

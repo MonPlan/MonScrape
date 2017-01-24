@@ -1,0 +1,614 @@
+{
+    "courseAOS": "Bachelor of Nursing",
+    "courseCode": "M2006",
+    "courseName": "Nursing",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "BMA1011, BMA1012, BMS2011, BMS2021, BMS2031, NUR1112, PHY2011, PHY2021, PHY2032, PHY2042.",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit is the first in a sequence of two biomedical science units that provides foundation knowledge of human anatomy and physiology relevant for allied health professions.This unit develops skills in the critical evaluation of evidence and promotes an awareness of the changing nature of medical knowledge.The major themes of study are the structural levels of body organisation, communication via the nervous and endocrine systems, the reproductive system and early stages of human development. Topics include the chemical and cellular basis of human life; integration of body functions and homeostasis; the structure and function of the integumentary system; the nervous system; the endocrine system; and the reproductive system.",
+                    "UnitCode": "BMA1901",
+                    "UnitName": "Human structure and function 1",
+                    "_id": "5878011130213215439e8a7f",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "NUR1101.",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit introduces students to the beginning knowledge and skills of theprofessional registered nurse. Nursing and Midwifery Board of Australia (NMBA) Registered nurse standards for practice are utilised as a framework to guide students in relation to person-centred care, patient safety, cultural and contextual competence and developing practice.This unit includes the theoretical and practical foundations of clinical practice and processes in the clinical environment. In this unit you learn how to individualise care and undertake core clinical skills that are fundamental in the care of individuals and groups. It is here you begin to explore the art and science that underpins the practice of a professional registered nurse.",
+                    "UnitCode": "NUR1010",
+                    "UnitName": "Foundations of nursing and midwifery practice",
+                    "_id": "5878042030213215439e9602",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": "Not Offered in 2017",
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This introductory unit will introduce the student to the ANMC competency domain of collaborative and therapeutic practice. Content in this unit will compliment theory and skills taught in other units in semester one of the course. Students will be provided the opportunity to explore important professional aspects of being a nurse or midwife and the significance of fitness for practice. Students will: describe the basic psychological process of human behaviour; demonstrate effective communication  with individuals and groups  and other members of the healthcare team; discuss how evidence is translated into clinical practice.",
+                    "UnitCode": "NUR1001",
+                    "UnitName": "Professional and scholarly communication",
+                    "_id": "5878041f30213215439e9601",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": "Not Offered in 2017",
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "Leadership is fundamental to the nature of nursing and midwifery; in the formation of safe practice, interdisciplinary relationships, education, research and health care delivery. In this unit, nursing leadership is explored by examining the historical nature of leadership in nursing/midwifery. The social construct of leadership will be investigated in the context of interpersonal organisational health care relationships and clinical practice. A major feature of the unit is an exploration of the professional values and ethics that form the basis of decision making in health care systems and nursing/midwifery practice.",
+                    "UnitCode": "NUR1105",
+                    "UnitName": "Foundations of leadership and professional practice",
+                    "_id": "5878042030213215439e9605",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "BMA1901.",
+                    "Proh": "BMA1012, BMA1902, BMS2011, BMS2031, NUR1114, PHY2011, PHY2021, PHY2032, PHY2042.",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit is the second in a sequence of two health science units that provides foundation knowledge of human anatomy and physiology relevant for allied health.The unit develops further the critical evaluation of evidence and an awareness of the changing nature of knowledge in the health sciences.The major themes in this unit of study are: body support and movement, cardiovascular anatomy and physiology, the respiratory system, the urinary system and the control of body fluids; the digestive system and the processing of nutrients in the body; the lymphoid/immune system; microbes and infection; and an introduction to pharmacological principles.",
+                    "UnitCode": "BMA1912",
+                    "UnitName": "Human bioscience in nursing",
+                    "_id": "5878011130213215439e8a81",
+                    "enjoyRating": 4.312084718,
+                    "enjoyResponse": 148,
+                    "learnRating": 4.574915825,
+                    "learnResponse": 39,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "NUR1010 or NUR1101.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit examines fundamental knowledge and skills in preparation for the care of individuals. Emphasis is placed on systematic health assessment and the development and evaluation of appropriate person-centred care, incorporating the legal and ethical dimensions of care. The clinical practise experience undertaken in this unit is an integral component of the development of the nurse/midwife and concentrates on the practical application of theoretical principles explored in this unit.",
+                    "UnitCode": "NUR1102",
+                    "UnitName": "Health assessment in clinical practice",
+                    "_id": "5878042030213215439e9604",
+                    "enjoyRating": 3.966666667,
+                    "enjoyResponse": 198,
+                    "learnRating": 3.878537398,
+                    "learnResponse": 85,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "The aim of this unit is to introduce nursing and midwifery students to the legal system including the processes and institutions that impact on professional practice. Students will identify the law as it relates to the delivery of health services including professional standards and regulation, complaint mechanisms and relevant legal forums including the coroner's court. Students will be encouraged to explore the health professional's relationship and obligations owed to patients, patient families and professional colleagues in the various health care environments.",
+                    "UnitCode": "NUR1202",
+                    "UnitName": "Legal issues and concepts",
+                    "_id": "5878042230213215439e960a",
+                    "enjoyRating": 3.990740741,
+                    "enjoyResponse": 170,
+                    "learnRating": 3.784147797,
+                    "learnResponse": 66,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit aims to explore the connection between the science of public health and health outcomes of a diverse range of individuals and populations. Current research evidence incorporating epidemiology and the social determinants of health will be introduced. The unit will focus on vulnerable populations, infectious disease, population screening, health care systems, health promotion, global health and climate change, equipping students with cultural competence and rudimentary knowledge and skills in population health.",
+                    "UnitCode": "NUR1205",
+                    "UnitName": "Population and socio-cultural health research",
+                    "_id": "5878042230213215439e960b",
+                    "enjoyRating": 3.878030303,
+                    "enjoyResponse": 132,
+                    "learnRating": 4.189970138,
+                    "learnResponse": 28,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "BMA1901, BMA1912 and NUR1102.",
+                    "Proh": "NUR2002.",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit introduces concepts of medical and surgical nursing and pharmacology, across the lifespan.A case based approach is used to facilitate the integration and application of pharmacological principles and associated drug groups underpinned by human pathophysiology related to the body system under review.Systems studied include respiratory, cardiovascular, renal and endocrine.The topics of pain management, wound assessment and clinical assessment skills introduced in year one will be further developed as each system is studied.Clinical simulation exercises will be utilised in laboratory sessions to develop and enhance the acquisition of clinical skills.The clinical practicum component provides opportunities to develop competency to a year two (2) level in a range of skills learnt in the simulated laboratory environment",
+                    "UnitCode": "NUR2106",
+                    "UnitName": "Integrated nursing practice 1",
+                    "_id": "5878042330213215439e960e",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "NUR1102.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit provides the opportunity for the student to develop fundamental knowledge, skills and attitudes relevant to the restoration and maintenance of optimal mental health. Students will be expected to assess people with mental health problems and to identify, prioritise and implement appropriate evidence based interventions and management strategies.",
+                    "UnitCode": "NUR2107",
+                    "UnitName": "Person centered mental health care",
+                    "_id": "5878042430213215439e960f",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "BMA1912, NUR2106.",
+                    "Proh": "NUR2004.",
+                    "SCABand": 1,
+                    "Sypnosis": "Using a lifespan approach this unit builds on semester one learning in NUR2106 and further explores the integration and application of pharmacological principles and associated drug groups underpinned by human pathophysiology related to the body system under review.There will be an emphasis on the general paediatric population and commonly presenting conditions that relate specifically to this group.Other systems that will be studied include musculoskeletal, gastroenterological, haematological, neurological and vascular conditions.Clinical simulation exercises will be utilised in laboratory sessions to develop and enhance the acquisition of clinical skills.The clinical practicum component provides opportunities to develop competency to a second year level in a range of skills learnt in the simulated laboratory environment.",
+                    "UnitCode": "NUR2206",
+                    "UnitName": "Integrated nursing practice 2",
+                    "_id": "5878042530213215439e9612",
+                    "enjoyRating": 3.637400794,
+                    "enjoyResponse": 176,
+                    "learnRating": 3.324591399,
+                    "learnResponse": 51,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "NUR2107.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This Mental Health Nursing unit draws upon student's prior theoretical knowledge, skills and attitudes from NUR2107. This unit will focus upon professional issues including self care, clinical supervision; utilising evidence based nursing interventions and preparation for clinical practice. This unit has a 4 week clinical component, where students will apply evidence based nursing care and interventions with mentally ill consumers and their carers.Theoretical principles and standards of practice are derived from the ANMC National Competency Standards for the Registered Nurse, the ACMHN Standards of Practice for Australian Mental Health Nurses, current evidenced based care and associated legislation.",
+                    "UnitCode": "NUR2207",
+                    "UnitName": "Mental health clinical practice",
+                    "_id": "5878042530213215439e9613",
+                    "enjoyRating": 3.264254386,
+                    "enjoyResponse": 152,
+                    "learnRating": 3.730042553,
+                    "learnResponse": 27,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "NUR2002 or NUR2106, NUR2004 or NUR2206, NUR2104 or NUR2207.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This clinical practice unit provides an introduction to the management of clients with complex and or life threatening health problems across the lifespan with a particular focus on the acute care needs of the ageing individual. A case based approach will be utilized to facilitate the integration of advance health assessment skills, evidenced based practice and application of ethical principles in the management of complex nursing situations.",
+                    "UnitCode": "NUR3002",
+                    "UnitName": "Integrated nursing practice 3",
+                    "_id": "5878042630213215439e9617",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "NUR1102.",
+                    "Proh": "BEH2021.",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit introduces the student to the concept of evidence based practice and its application to health care. The evidence based practice model will be presented as the framework to encourage students to reflect on the current evidence base of contemporary clinical practices. The unit will introduce the student to the principles underpinning qualitative and quantitative research approaches, the research process and methodology and the ethical issues of undertaking research. Students will explore the different levels of evidence through reviewing research reports on topical issues of practice within healthcare delivery.",
+                    "UnitCode": "NUR3001",
+                    "UnitName": "Evidence based health care",
+                    "_id": "5878042630213215439e9616",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "NUR1101 or NUR1010; and NUR1203 or NUR1102.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "Education is a key part of the work of health care professionals through provision of patient, peer and student teaching. Understanding teaching and learning theories and approaches is fundamental to delivering effective teaching. This unit aims to introduce students to teaching and learning for clinical practice. It will explore theory underpinning teaching and learning as well as provide opportunities for skills development in planning and delivering teaching.",
+                    "UnitCode": "NUR3003",
+                    "UnitName": "Education for clinical practice",
+                    "_id": "5878042630213215439e9618",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": "Not Offered in 2017",
+                    "Preqs": "HSC1081, HSC1072 or NUR1105, NUR1205.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit provides students with resources to understand their own culture, the culture of healthcare and the historical and social issues that contribute to differential health outcomes for particular groups in order to discern how to contribute to providing culturally safe care for all Australians. Australian society has an indigenous foundation and is becoming increasingly multicultural. In Victoria 26.2 percent of Victorians and 24.6 per cent of Australians were born overseas, compared with New Zealand (22.4 per cent), Canada (21.3 per cent), United States (13.5 per cent) and The United Kingdom (10.4 per cent). An important aspect of cultural safety is the recognition that the health care system has its own culture. In Australia, this culture is premised on a western scientific worldview. The unit will examine how social determinants of health such as class, gender, race, sexual orientation, gender identity; education, economic status and culture affect health and illness. The influence of politics, economics, social-cultural environment and other contextual factors will be discussed, with an emphasis on how policy, planning, organisation and delivery of health and healthcare have an impact on Aboriginal and Torres Strait Islander (ATSI) and culturally and linguistically diverse (CALD) communities.",
+                    "UnitCode": "NUR3006",
+                    "UnitName": "Diversity in healthcare practice",
+                    "_id": "5878042730213215439e961b",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "NUR2002 or NUR2106, NUR2004 or NUR2206, NUR2104 or NUR2107.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit focuses on multi-disciplinary care and models of care delivery with an emphasis on ageing, chronic and life limiting illness. With the evolving role of the nurse as primary care providers it introduces the student to the issues facing older people and will include healthy ageing, the ageing process, polypharmacy, lifestyle issues, advanced health assessment related to people with complex health needs and legal and ethical issues associated with aging, chronic illness and palliative care.",
+                    "UnitCode": "NUR3005",
+                    "UnitName": "Chronic illness management in primary care",
+                    "_id": "5878042630213215439e961a",
+                    "enjoyRating": 3.381648566,
+                    "enjoyResponse": 102,
+                    "learnRating": 4.791954023,
+                    "learnResponse": 42,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "NUR2002 or NUR2106, NUR2004 or NUR2206, NUR2104 or NUR2107, NUR3002.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This clinical unit focuses on the preparation of the student for the transition to practice as a professional nurse. The emphasis of the unit will be grounded in the philosophy of adult learning encouraging the student to be self-directed in the identification of their learning needs. In preparing for practice the unit will examine the management of self and others, organizational structures within healthcare practice, evaluation of leadership, teamwork, risk management and multidisciplinary decision making.",
+                    "UnitCode": "NUR3004",
+                    "UnitName": "Preparing for practice",
+                    "_id": "5878042630213215439e9619",
+                    "enjoyRating": 3.859810479,
+                    "enjoyResponse": 80,
+                    "learnRating": 3.475100076,
+                    "learnResponse": 34,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        }
+    ]
+}

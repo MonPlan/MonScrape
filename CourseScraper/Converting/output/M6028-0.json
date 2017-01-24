@@ -1,0 +1,270 @@
+{
+    "courseAOS": "",
+    "courseCode": "M6028",
+    "courseName": "Master of Clinical Research Methods",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "To be taken concurrently with MPH5041 together they are prerequisites for clinical epidemiology elective units.Contents: rates, sources of data, descriptive & analytical epidemiology, epidemiological study designs, critical appraisal of literature, screening, prevention, exposure assessment, outbreak investigation, confounding & bias.Students are expected to be competent at mathematics to a year 7 level",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "MPH5040",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Off-campus)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introductory epidemiology"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit  introduces students to biostatistics as applied to public health and  management studies. Biostatistics is the science of describing, summarising, and analysing health-related data. It is essential to understand biostatistics in order to  design, conduct, and interpret health-related research. The basic principles and methods used in biostatistics are covered in this unit. This includes the technical qualifications necessary for analysing and interpreting data on a descriptive and bivariate level.Topics include classifying health data; summarising data using simple statistical  methods and  graphical  presentation; sampling distributions; quantifying uncertainty in results from a sample; working with statistical distributions; comparing two or more groups/methods using confidence intervals and hypothesis tests (p - values); assessing the association between an outcome and an exposure using the chi-squared test; using risk comparisons (RR and OR); predicting an event or identifying risk factors for an event of interest where the event is measured on a continuous scale or a binary scale (yes/no).",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "",
+                    "Prohibitions": "MPH6041.",
+                    "SCABand": 2,
+                    "UnitCode": "MPH5041",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Off-campus)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introductory biostatistics"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Elective",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Aimed at students with clinical experience, this unit presents an overview of clinical outcome measurement in research, with a focus on quantitative measurement. The areas covered include selecting, reducing and scaling items, questionnaire design, assessing reliability and validity, responsiveness of measures to clinically important change, quality of life measures and statistical concepts in the testing and reporting of clinical measurement tools.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "MPH5040 and MPH5041.",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "MPH5237",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Clinical measurement"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit provides an introduction to the research methods used in observational studies and is designed to help the student develop the practical skills required in the design and assessment of a research project. It covers issues in protocol design, including study type selection, introduction to questionnaire design, sampling methods, and ethics approval. This introduces the student to planning data management and statistical analysis and developing a study budget. An introduction to the role of qualitative research is also covered.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "MPH5040 and MPH5041.",
+                    "Prohibitions": "MPH5249.",
+                    "SCABand": 2,
+                    "UnitCode": "MPH5213",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Research methods"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit will provide students with the practical knowledge required to plan and undertake a clinical research project with close attention to the highest standards of ethics and Good Research Practice. Students will also gain detailed knowledge in planning, and organizing their knowledge using methods of clinical research in a written and oral format.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "MPH5283",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Ethics, good research practice and practical research methods"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Critical appraisal of literature reviews; problem formulation and protocol development; intra-rater agreement for assessment of relevance; validity assessments; data collection forms; variation between study findings, combining the findings of independent studies, inferences based upon overviews; statistics of meta analysis, Cochrane Collaboration.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "MPH5040 and MPH5041.",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "MPH5239",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Systematic reviews and meta-analysis"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit will equip students with the skills for the design, implementation and analysis of randomised controlled clinical trials.  It will enable student to formulate research question, select and recruit study subjects, compare  groups, conduct randomisation, interpret findings, manage outcomes and consider issues of ethics, budget and quality assurance.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "MPH5040 and MPH5041.",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "MPH5236",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Clinical trials"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit aims to assist students to extend, integrate and apply their core knowledge and skills across the broad domain of clinical research.This unit will require students to formulate clinical questions (regarding diagnosis, management, harm and prognosis), and develop strategies to search the scientific literature to answer these questions.The unit will provide opportunities for students to conduct critical appraisals of primary studies, clinical practice guidelines, shared decision making tools and systematic reviews and apply the results to clinical research and inform patient care.Criteria for choosing studies, including the importance of 'levels' of evidence, will be addressed along with the importance of clinical judgement, and patients' beliefs and values.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "MPH5040 and MPH5041.",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "MPH5202",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Clinical epidemiology"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit is designed to allow students to identify a research project in the field of population health or clinical research, confirm an appropriate supervisor, develop the research question and methodology, and commence the project, including obtaining ethics approval if relevant.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "Distinction (70-79%) or High Distinction (80% or higher) in MPH5040 and Distinction (70-79%) or High Distinction (80% or higher) in MPH5041.",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "MPH5231",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Off-campus)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Research design and project proposal"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This is the final unit of two units designed to allow students to complete the conduct and write-up of a research project in the field of population health or clinical research. In this unit, students will complete the research project described in the research proposal developed in MPH5231. Students will interrogate data using acceptable analytical processes, and write-up the research project in a format and style suitable for publication in an academic setting.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "MPH5231, Distinction (70-79%) or High Distinction (80% or higher) in MPH5040 and Distinction (70-79%) or High Distinction (80% or higher) in MPH5041.",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "MPH5232",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Off-campus)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Research conduct, analysis, write-up and submission"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "courseAOS": "International business specialisation (Accounting stream)",
+    "courseCode": "B2013",
+    "courseName": "Business and Business Specialist",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "units": [
+                [
+                    "ACF1100",
+                    "ACF1200"
+                ],
+                "MGF1010",
+                "BTF1010",
+                "ECF1100"
+            ],
+            "year": 0
+        },
+        {
+            "units": [
+                "ETF1100",
+                "MKF1120",
+                "BFF1001",
+                "MGF2351"
+            ],
+            "year": 0
+        },
+        {
+            "units": [
+                "ACF2400",
+                "BFF2140",
+                "ACF2200",
+                "BTX2000"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ETX2250",
+                "ACF2100",
+                "ACF3200",
+                "BTF3931"
+            ],
+            "year": 1
+        },
+        {
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Study Abroad (24 points) BEX3012 Industry based learning project (12 points) BEX3112 Industry based learning project (12 points) BEX3350 Investigative project in business BEX3450 Investigative project in business (12 points) BEX3024 Industry based project (24 points) Elective to meet BBus Major requirements (precludes study abroad)"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "units": [
+                "MGF3681",
+                "BEX3000",
+                "ACF3600",
+                "ACF3100"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Bachelor of Business major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Bachelor of Business major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Bachelor of Business major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Bachelor of Business major"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Bachelor of Business major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Bachelor of Business major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Bachelor of Business major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Bachelor of Business major"
+                }
+            ],
+            "year": 2
+        }
+    ]
+}

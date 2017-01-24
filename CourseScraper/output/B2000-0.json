@@ -1,0 +1,117 @@
+{
+    "courseAOS": "Bachelor of Business",
+    "courseCode": "B2000",
+    "courseName": "Business",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "ACF1100/ACP1100 Introduction to financial accounting or ACF1200/ACP1200 Accounting for managers"
+                },
+                {
+                    "faculty": "",
+                    "type": "MKF1120/MIKP1120 Marketing theory and practice"
+                },
+                {
+                    "faculty": "",
+                    "type": "BTF1010/BTP1010 Business law"
+                },
+                {
+                    "faculty": "",
+                    "type": "MGF1010/MGP1010 Introduction to management"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Major Unit 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "ECF1100/ECP1100 Microeconomics"
+                },
+                {
+                    "faculty": "",
+                    "type": "ETF1100/ETP1100 Business statistics"
+                },
+                {
+                    "faculty": "",
+                    "type": "BFF1001/BFP1001 Foundations of finance"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Major Unit 2"
+                },
+                "Elective",
+                "Elective",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Major Unit 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Major Unit 4"
+                },
+                "Elective",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Major Unit 5"
+                },
+                {
+                    "faculty": "",
+                    "type": "Major Unit 6"
+                },
+                "Elective",
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Major Unit 7"
+                },
+                {
+                    "faculty": "",
+                    "type": "Major Unit 8 or business elective unit from home campus (if one major unit is contained in Part A Business-specified study)"
+                },
+                {
+                    "faculty": "",
+                    "type": "Capstone unit"
+                },
+                "Elective"
+            ],
+            "year": 2
+        }
+    ]
+}

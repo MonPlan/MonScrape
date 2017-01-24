@@ -1,0 +1,147 @@
+{
+    "courseAOS": "Civil Engineering and Actuarial Science specialisations",
+    "courseCode": "E3003",
+    "courseName": "Engineering and Commerce Specialist",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ENG1001",
+                [
+                    "ENG1090",
+                    "PHS1080",
+                    "ENG1005"
+                ],
+                "ETC1000",
+                "ECC1000",
+                [
+                    "ENG1090",
+                    "PHS1080"
+                ]
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ENG1002",
+                "ENG1005",
+                "ECC1100",
+                "ACC1100"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ENG1003",
+                "CIV2206",
+                "ETC2440",
+                "ETC2410"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ENG1060",
+                "ENG2005",
+                "BFC2140",
+                "ETC2420"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "CIV2225",
+                "CIV2263",
+                "BFC2000",
+                "BFC2340"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "CIV2242",
+                "CIV2282",
+                "ETC2430",
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 1 from a list"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "CIV3xxx Engineering Hydrology S1"
+                },
+                "CIV3221",
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 2 from a list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 3 from a list"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "CIV3247",
+                "CIV3204",
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 4 from a list"
+                },
+                "ETC3530"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "CIV3248",
+                "CIV4210",
+                {
+                    "faculty": "",
+                    "type": "CIV4xxx Project management for civil engineers"
+                },
+                {
+                    "faculty": "",
+                    "type": "CIV4xxx Water Treatment"
+                }
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "CIV3xxx Design of concrete & masonry structures"
+                },
+                "CIV4212",
+                {
+                    "faculty": "",
+                    "type": "CIV4xxx Road engineering"
+                },
+                {
+                    "faculty": "",
+                    "type": "CIV4xxx Bridge design and assessment"
+                }
+            ],
+            "year": 4
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "courseCode": "E3003",
+    "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist",
+    "courseAOS": "Environmenal Engineering/Actuarial Science",
+    "faculty": "Faculty of Engineering",
+    "courseType": "Double Undergraduate",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+            ["ENG1001","ENG1002"],
+            ["ENG1003","ENG1005"],
+            "ENG1060",
+            "ETC1000"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+            ["ENG1002","ENG1001"],
+            ["ENG1003","ENG1005"],
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Engineering"
+            },
+            "ETC2410"
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 1,
+          "units": [
+            "ECC2800",
+            "BIO2011",
+            "ETC2430",
+            "ECC1100"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 1,
+          "units": [
+            "ENG2055",
+            "CHE2162",
+            "BFC2140",
+            "ETC2420"
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 2,
+          "units": [
+            "ENG3048",
+            "CIV2263",
+            "BFC2000",
+            "ETC2440"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 2,
+          "units": [
+            "CHE2164",
+            "ENE2403",
+            ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"],
+            "ACC1100"
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 3,
+          "units": [
+            "CIV3248",
+            {
+              "type": "Environmental Enginering Elective",
+              "faculty": "Faculty of Engineering"
+            },
+            "BFC2340",
+            ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"]
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 3,
+          "units": [
+            "ENE3606",
+            "CIV3285",
+            "ETC2520",
+            ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"]
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 4,
+          "units": [
+            "CIV4286",
+            "CIV4210",
+            "ENE4608",
+            "ECC1000"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 4,
+          "units": [
+            "CIV4286",
+            "BTX3100",
+            "CIV4212",
+            "ETC3530"
+          ]
+        }
+    ]
+}

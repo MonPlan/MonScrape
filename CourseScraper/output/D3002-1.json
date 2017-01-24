@@ -1,0 +1,168 @@
+{
+    "courseAOS": "Secondary Education specialisation",
+    "courseCode": "D3002",
+    "courseName": "Education and Arts",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Education",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF1303",
+                {
+                    "faculty": "",
+                    "type": "Arts elective (6pts)"
+                },
+                "EDF1055",
+                {
+                    "faculty": "",
+                    "type": "Arts Major (6pts)"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Minor (6pts)"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF1304",
+                {
+                    "faculty": "",
+                    "type": "Arts elective (6pts)"
+                },
+                "EDF1056",
+                {
+                    "faculty": "",
+                    "type": "Arts Major (6pts)"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Minor (6pts)"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF2005",
+                "EDF2006",
+                "EDF2055",
+                {
+                    "faculty": "",
+                    "type": "Arts Major (6pts)"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Minor (6pts)"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts elective (6pts)"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF2007",
+                "EDF2008",
+                "EDF2056",
+                {
+                    "faculty": "",
+                    "type": "Arts Major (6pts)"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Minor (6pts)"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts elective (6pts)"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF3009",
+                "EDF3010",
+                "EDF3055",
+                {
+                    "faculty": "",
+                    "type": "Arts Major (6pts)"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major (6pts)"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF3007",
+                {
+                    "faculty": "",
+                    "type": "Education elective (6 pts)"
+                },
+                "EDF3056",
+                {
+                    "faculty": "",
+                    "type": "Arts Major (6pts)"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major (6pts)"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF4100",
+                "EDF4004",
+                {
+                    "faculty": "",
+                    "type": "EDF4055 Secondary professional experience 4A and EDF4056 Secondary professional experience 4B 25 days (0 pts)"
+                },
+                {
+                    "faculty": "",
+                    "type": "EDF5XXX Method unit 1A (6 pts)"
+                },
+                {
+                    "faculty": "",
+                    "type": "EDF5XXX Method unit 2A (6 pts)"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF4101",
+                "EDF4006",
+                {
+                    "faculty": "",
+                    "type": "EDF4057 Secondary professional experience 4C and EDF4058 Secondary professional experience 4D 25 days (0 pts)"
+                },
+                {
+                    "faculty": "",
+                    "type": "EDF5XXX Method unit 1B (6 pts)"
+                },
+                {
+                    "faculty": "",
+                    "type": "EDF5XXX Method unit 2B (6 pts)"
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

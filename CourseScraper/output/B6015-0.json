@@ -1,0 +1,59 @@
+{
+    "courseAOS": "Master of Professional Accounting and Master of Business Law",
+    "courseCode": "B6015",
+    "courseName": "Professional Accounting and Business Law",
+    "courseType": "Master degree/Master degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ACF5950",
+                "ECF5953",
+                "ETF5900",
+                "MGF5962"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ACF5953",
+                "ACF5955",
+                "BFF5902",
+                "BTF5903"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ACF5904",
+                "ACF5957",
+                "BFF5021",
+                "BTF5501"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BTF5965",
+                "BTF5001",
+                "ACF5956",
+                "ACF5100"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "BTF5801",
+                "BTF5000",
+                "BFF5954",
+                "ACF5510"
+            ],
+            "year": 2
+        }
+    ]
+}

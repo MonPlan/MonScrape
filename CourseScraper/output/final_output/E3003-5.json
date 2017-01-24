@@ -1,0 +1,1089 @@
+{
+    "courseAOS": "Chemical Engineering and Economics and Economic Policy specialisations",
+    "courseCode": "E3003",
+    "courseName": "Engineering and Commerce Specialist",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "None",
+                    "Proh": "ENG1020, ENG1040, ENG1050",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit develops a process for the analysis and design of static and dynamic structures and mechanisms using engineered materials. Through a multidisciplinary approach, the fundamentals of mechanical, civil and material engineering will be explained and the basic concepts of loads and motions are introduced.Team based projects will highlight the multidisciplinary nature of modern engineering. These concepts will be practised through hands-on projects carried out by teams. Communication and teamwork skills will be developed through teamwork tasks.",
+                    "UnitCode": "ENG1001",
+                    "UnitName": "Engineering design: lighter, faster, stronger",
+                    "_id": "5878023530213215439e8eb3",
+                    "enjoyRating": 4.127877238,
+                    "enjoyResponse": 248,
+                    "learnRating": 4.097971431,
+                    "learnResponse": 124,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Science",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "CHM1031, CHM1051, ENG1070",
+                    "SCABand": 2,
+                    "Sypnosis": "CHM1011 has been designed such that some previous understanding of chemistry is presumed, but is also underpinned by a support structure for those who are relatively new to the subject. The curriculum focuses on general and physical chemistry principles which in turn complements the synthetic chemistry topics discussed in the subsequent unit, CHM1022. On completion of CHM1011, students will have gained an understanding of how atoms and molecules interact with each other and how this affects their bonding, reactivity, 3D structure and physical properties. A number of important topics such as stoichiometry, intermolecular forces, thermodynamics, kinetics, equilibria, and electrochemistry will be developed in order to prepare students for a deeper exploration of chemistry. The concepts developed within the workshops and tutorials are complemented through a laboratory program where students will have the opportunity to develop analytical techniques and design their own experiments to solve a range of chemical problems.",
+                    "UnitCode": "CHM1011",
+                    "UnitName": "Chemistry I",
+                    "_id": "5878014d30213215439e8b71",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "The nature and scope of economics; different economic systems; economic policy analysis and evaluation; main bodies of economic thought; examples of household, business and government economic decision problems; consumer choice, product demand and factor supply; enterprise choice, product supply and factor demand; market analyses of contemporary issues; competitive market long run equilibrium; market power; market failure and concerns for efficiency and equity; government involvement in the Australian economy.",
+                    "UnitCode": "ECC1000",
+                    "UnitName": "Principles of microeconomics",
+                    "_id": "5878018530213215439e8c58",
+                    "enjoyRating": 3.954545455,
+                    "enjoyResponse": 177,
+                    "learnRating": 3.966738983,
+                    "learnResponse": 177,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ETG1102, ETW1000, ETW1102, ETX1100, ETX9000, FIT1006, STA1010",
+                    "SCABand": 2,
+                    "Sypnosis": "Presentation and analysis of grouped and ungrouped data using tables, charts and measures of location and dispersion; standardisation techniques, including index numbers, with application to share price indices and the CPI; analysis of relationships between variables using simple and multiple regression; extensions to multiple regression, including nonlinear and categorical explanatory variables and time series data with applications to forecasting; main ideas of probability theory as a foundation for statistical inference; concept of sampling as a way of capturing uncertainty about data; estimators and their properties; constructing and interpreting confidence intervals; fundamentals of hypothesis testing, testing hypotheses about the mean, difference between means and the slope, including analysis of variance.",
+                    "UnitCode": "ETC1000",
+                    "UnitName": "Business and economic statistics",
+                    "_id": "5878025130213215439e8f1e",
+                    "enjoyRating": 4.122807018,
+                    "enjoyResponse": 121,
+                    "learnRating": 4.018583856,
+                    "learnResponse": 121,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1090,PHS1080",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1090,PHS1080,ENG1005",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ENG1005 S1,2 if not already completed or1 st year eng elective Or ENG1060",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ECC1000 is recommended",
+                    "Proh": "ECF1200, ECG1102, ECS1102, ECW1102",
+                    "SCABand": 3,
+                    "Sypnosis": "The scope of macroeconomics and its microeconomic underpinnings; aggregation problems; partial equilibrium and general equilibrium analysis; the circular flow of income as a general equilibrium model; the mutual dependence of financial flows and flows of goods and services; sectoral composition of aggregate demand; business and investment behaviour; government spending and taxation; external balance and determination of current and capital accounts; labour market and aggregate supply; money, credit, and the conduct of monetary policy; inflation and unemployment; macroeconomic effects of deregulation in Australia.",
+                    "UnitCode": "ECC1100",
+                    "UnitName": "Principles of macroeconomics",
+                    "_id": "5878018630213215439e8c59",
+                    "enjoyRating": 4.025,
+                    "enjoyResponse": 154,
+                    "learnRating": 3.913793776,
+                    "learnResponse": 154,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ETC1000 or must be enrolled in course 3822 or 4412 or 4439",
+                    "Proh": "ETC2400, ETC3440, ECC2410",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit introduces students to the empirical analysis of relationships between economic variables. The approach is based on linear regression theory, and emphasises 'hands on' data analysis. Topics studied will include properties of least squares estimators, hypothesis testing, the choice of appropriate functional form, the use of dummy variables, issues around modelling survey data and the problems of serial correlation, heteroscedasticity and multicollinearity.",
+                    "UnitCode": "ETC2410",
+                    "UnitName": "Introductory econometrics",
+                    "_id": "5878025230213215439e8f20",
+                    "enjoyRating": 3.971153846,
+                    "enjoyResponse": 114,
+                    "learnRating": 4.000993401,
+                    "learnResponse": 114,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to the use of Information Technology (IT) in modern engineering practice. Students will learn an object-oriented approach to both computer systems and software engineering for solving engineering problems.Students will work in small teams to develop a mobile application that meets a contemporary need in engineering. The fundamental stages in the software development lifecycle will be introduced, including requirements analysis, design, implementation and verification. Students will use IT tools to support the engineering process.",
+                    "UnitCode": "ENG1003",
+                    "UnitName": "Engineering mobile apps",
+                    "_id": "5878023630213215439e8eb5",
+                    "enjoyRating": 3.662162162,
+                    "enjoyResponse": 306,
+                    "learnRating": 3.75307989,
+                    "learnResponse": 153,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ENG1060 Computing for engineers S1,2 Or ENG2005",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ECC1000 or permission",
+                    "Proh": "ECC5900, ECX9000",
+                    "SCABand": 3,
+                    "Sypnosis": "Theory of consumer choice, including applications to income-leisure choice and intertemporal consumption; isoquant theory of production; allocative efficiency and competition and monopoly; models of monopolistic competition and oligopoly; input pricing; microeconomic policies to address problems of market failure.",
+                    "UnitCode": "ECC2000",
+                    "UnitName": "Intermediate microeconomics",
+                    "_id": "5878018630213215439e8c5a",
+                    "enjoyRating": 2.714285714,
+                    "enjoyResponse": 65,
+                    "learnRating": 3.167156863,
+                    "learnResponse": 65,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ECC1100",
+                    "Proh": "ECC9010, ECC5901, ECX9010, ETC2110",
+                    "SCABand": 3,
+                    "Sypnosis": "Keynesian macroeconomics; the open-economy, IS-LM framework and the aggregate demand-aggregate supply framework as a basis for more advanced macroeconomic analysis; principles of monetary and fiscal policy and problems of implementation; alternative theories of aggregate supply; new classical macroeconomics and the implications of imperfect information; new Keynesian macroeconomics and the implications of labour market rigidities; explaining and correcting inflation and unemployment.",
+                    "UnitCode": "ECC2010",
+                    "UnitName": "Intermediate macroeconomics",
+                    "_id": "5878018630213215439e8c5b",
+                    "enjoyRating": 3.90625,
+                    "enjoyResponse": 70,
+                    "learnRating": 3.853245553,
+                    "learnResponse": 70,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "None",
+                    "Proh": "ENG1010, ENG1030",
+                    "SCABand": 2,
+                    "Sypnosis": "Fundamentals of electrical, chemical and materials engineering will be introduced and applied to provide technological solutions for real-world problems. Theory underpinning analogue and digital circuit design; energy and mass balance; materials processing and the role of functional materials will be presented. The contribution of each topic to a contemporary engineering application will be demonstrated.Team based projects will highlight the multidisciplinary nature of modern engineering. These concepts will be practiced through hands-on projects carried out by teams. Communication and teamwork skills will be developed through teamwork tasks.",
+                    "UnitCode": "ENG1002",
+                    "UnitName": "Engineering design: cleaner, safer, smarter",
+                    "_id": "5878023530213215439e8eb4",
+                    "enjoyRating": 4.03332106,
+                    "enjoyResponse": 305,
+                    "learnRating": 3.984031778,
+                    "learnResponse": 153,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Introduce fundamentals and applications of heat and mass transfer. Develop an understanding of the mechanisms and mathematical representation of conduction, convection and radiation heat transfer and convective mass transfer. Gain an appreciation for the analogies between heat and mass transfer using dimensional analysis. Understand and apply concepts of local and overall heat and mass transfer coefficients including boiling heat transfer to simple problems. Calculation of overall heat transfer coefficient and heat transfer area using Log Mean Temperature Difference (LMTD) and Number of Transfer Unit (NTU) method. Gain an understanding of molecular diffusion in gases, solids, and liquids and develop methods to use these concepts in problem solving. Perform experiments to illustrate the concepts of heat and mass transfer.",
+                    "UnitCode": "CHE2163",
+                    "UnitName": "Heat and mass transfer",
+                    "_id": "5878014330213215439e8b46",
+                    "enjoyRating": 3.710072595,
+                    "enjoyResponse": 114,
+                    "learnRating": 3.602507057,
+                    "learnResponse": 64,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation unit 1 selected from list A",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation unit 2 selected from list A",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ENG1005 or ENG1091 or equivalent",
+                    "Proh": "ENG2091, MTH2010, MTH2015",
+                    "SCABand": 2,
+                    "Sypnosis": "Advanced matrix algebra: mxn systems, linear independence, sparse matrices, simple tensors. Further ordinary differential equations: systems of ODEs, variation of parameters; boundary-value problems. Fourier series: Euler formulae, convergence, half-range series, solution of ODEs, spectra. Further multivariable calculus: change of variables and chain rule, polar coordinates, line integrals; vector fields; del, divergence, curl and Laplacian; surface and volume integrals; Gauss and Stokes theorems. Partial differential equations: simple PDEs, Laplace, heat and wave equations, superposition, separation of variables, polar coordinates. Advanced numerical methods: solution of linear systems, numerical solution of ODEs and simple PDEs, accuracy, efficiency and stability; discrete Fourier transforms, introduction to PS and FE methods.",
+                    "UnitCode": "ENG2005",
+                    "UnitName": "Advanced engineering mathematics",
+                    "_id": "5878023830213215439e8ec0",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "24 credit points",
+                    "Proh": "MAE2404, MEC2404",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit develops the students' physical understanding of fluid statics and fluid flow and the interaction of fluid forces with solids.Topics include hydrostatics, Reynolds transport theorem, continuity and momentum equations, control volume analysis, the Bernoulli equation, viscous pipe flow, pumps, dimensional analysis, boundary layers, flow measurement techniques and applications of fluid forces in flow - lift and drag.",
+                    "UnitCode": "CHE2161",
+                    "UnitName": "Mechanics of fluids",
+                    "_id": "5878014230213215439e8b44",
+                    "enjoyRating": 4.159188034,
+                    "enjoyResponse": 64,
+                    "learnRating": 4.833333333,
+                    "learnResponse": 2,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation unit 3 selected from list A",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Business and Economics elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "CHE2113, CHE2140",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will introduce students to the fundamentals of material and energy balances through a systematic treatment of:  single and multiple unit operations, reactive and non-reactive processes, recycle and by-pass, extent of reactions, equations of state, vapour-liquid phase equilibrium, solid-liquid phase equilibrium, internal energy and enthalpy changes for process fluids undergoing specified changes in temperature, pressure, phase, reactions and chemical compositions and computer aided simulation of process flow diagrams. A process simulation software will be used to aid in the solution of more complex systems.",
+                    "UnitCode": "CHE2162",
+                    "UnitName": "Material and energy balances",
+                    "_id": "5878014330213215439e8b45",
+                    "enjoyRating": 3.546016484,
+                    "enjoyResponse": 127,
+                    "learnRating": 3.979996929,
+                    "learnResponse": 32,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "CHE2164 Thermodynamics S1,2 Or CHE3167",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation unit 4 selected from list A or B",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Business and Economics elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "CHE2164",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit covers thermodynamics from a chemical engineering viewpoint. Content will cover basic concepts and the use of: thermodynamic functions such as free energy, enthalpy, and entropy; estimation of properties of pure compounds and mixtures; description of solution thermodynamics and its applications, equilibrium phase diagrams and chemical reaction equilibria.",
+                    "UnitCode": "CHE3161",
+                    "UnitName": "Chemistry and chemical thermodynamics",
+                    "_id": "5878014430213215439e8b4b",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "CHE2162, CHE2163",
+                    "Proh": "CHE3102",
+                    "SCABand": 2,
+                    "Sypnosis": "A comprehensive treatment of the fundamentals of separation processes of interest to the chemical industry is covered. The fundamental principles of mass transfer are introduced and extended to include principles of interfacial mass transfer and simultaneous heat and mass transfer. General mass and energy balances are derived for equilibrium staged processes. The applications of these principles are made to the unit operations of distillation (binary and multi-component), liquid-liquid extraction, gas-liquid absorption and stripping, adsorption and ion-exchange, and membrane separation processes.",
+                    "UnitCode": "CHE3165",
+                    "UnitName": "Separation processes",
+                    "_id": "5878014530213215439e8b4f",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation unit 5 selected from list A or B",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Business and Economics elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "CHE2163, CHE2164",
+                    "Proh": "CHE3109",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will develop four important inter-related themes associated with the detailed design of chemical equipment and processes. These themes are process safety, mechanical integrity, equipment selection, and process operability (including piping and instrumentation). These themes will be developed using a mixture of lectures and project-orientated learning activities, which will involve computer simulation and at least one plant visit.",
+                    "UnitCode": "CHE3166",
+                    "UnitName": "Process design",
+                    "_id": "5878014530213215439e8b50",
+                    "enjoyRating": 3.605978261,
+                    "enjoyResponse": 103,
+                    "learnRating": 4.004628377,
+                    "learnResponse": 48,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "CHE2163, CHE2164",
+                    "Proh": "CHE3101, CHE4102",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit aims to develop a fundamental understanding of chemical reaction kinetics and reactor design, including: fundamentals of design of ideal reactors rate laws, collection and analysis of rate data, stoichiometry isothermal reactor design multiple reactions, reaction mechanisms and pathways an introduction to bio-reaction engineering non-isothermal reactor design catalysis and catalytic reactors.",
+                    "UnitCode": "CHE3164",
+                    "UnitName": "Reaction engineering",
+                    "_id": "5878014430213215439e8b4e",
+                    "enjoyRating": 4.1171875,
+                    "enjoyResponse": 95,
+                    "learnRating": 3.86483734,
+                    "learnResponse": 46,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ECC2000 and ECC2010 or equivalent",
+                    "Proh": "ECC4369, ECF3121",
+                    "SCABand": 3,
+                    "Sypnosis": "Investigation of economic interaction between countries in the context of international exchanges of commodities and assets. Topics include the balance of payments, nominal and real exchange rate determination, international capital movements, foreign debt, structural reform and adjustment policies in the open economy, the gains from international trade, inter-industry trade, tariff policies.",
+                    "UnitCode": "ECC3690",
+                    "UnitName": "International economics",
+                    "_id": "5878018930213215439e8c69",
+                    "enjoyRating": 4.113636364,
+                    "enjoyResponse": 47,
+                    "learnRating": 3.956252588,
+                    "learnResponse": 47,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Business and Economics elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "CHE4113, CHE4164",
+                    "SCABand": 2,
+                    "Sypnosis": "An introduction to the role of engineers in the context of their employment in industry and their interaction with the wider community. Students will obtain an understanding of triple bottom line reporting as a driver for management, involving financial, environmental and the social impact of business. Financial management will include project management, project risk, market analysis, project costing and finance and financial indicators. Environmental management will look at the approval process for new projects and on-going environmental improvement strategies. Social management will look at company organisation, the role of unions, occupational health and safety law and safety management.",
+                    "UnitCode": "CHE4161",
+                    "UnitName": "Engineer in society",
+                    "_id": "5878014630213215439e8b54",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "A minimum of 120 credit points including CHE2161, CHE2162, CHE2163 and CHE2164",
+                    "Proh": "CHE4118, CHE4164",
+                    "SCABand": 2,
+                    "Sypnosis": "Development and conduct of a specific research or other open-ended project, which may involve literature search, experimental design, equipment design, equipment commissioning, experimentation, troubleshooting, problem solving, data gathering, analysis and interpretation of data, oral and written reporting.",
+                    "UnitCode": "CHE4180",
+                    "UnitName": "Chemical engineering project",
+                    "_id": "5878014730213215439e8b5b",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "A minimum of 120 credit points including CHE2161, CHE2162, CHE2163 and CHE2164",
+                    "Proh": "CHE4118, CHE4164",
+                    "SCABand": 2,
+                    "Sypnosis": "Development and conduct of a specific research or other open-ended project, which may involve literature search, experimental design, equipment design, equipment commissioning, experimentation, troubleshooting, problem solving, data gathering, analysis and interpretation of data, oral and written reporting.",
+                    "UnitCode": "CHE4180",
+                    "UnitName": "Chemical engineering project",
+                    "_id": "5878014730213215439e8b5b",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "CHE2161, ENG1060 and [ENG2091 or (MTH2010 and MTH2032) or (MTH2015 and MTH2032) or ENG2005",
+                    "Proh": "CHE4163",
+                    "SCABand": 2,
+                    "Sypnosis": "Fundamental principles of transport phenomena, Newton's law of viscosity, Fourier's law of heat conduction and Fick's law of diffusion.  Transfer coefficients (viscosity, thermal conductivity and diffusivity).  Newtonian and Non-Newtonian fluids, conservation laws (mass, momentum and energy) and steady state shell mass, momentum and energy balances.  Numerical solution of partial differential equations, classification of equations (finite differences and finite elements) and incorporation of boundary conditions into numerical solutions.  Utilise computer packages to solve complex, realistic chemical engineering problems in fluid flow and transport phenomena.",
+                    "UnitCode": "CHE3167",
+                    "UnitName": "Transport phenomena and numerical methods",
+                    "_id": "5878014530213215439e8b51",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "CHE2161",
+                    "Proh": "CHE3104",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides a thorough introduction to particle technology. The unit begins with understanding particle characterisation, the fluid mechanics of single and multi-particle systems and particulate fluidization. The physics underlying powder flow will be covered to enable introductory hopper design. Common powder processing operations will be studied, selected from powder mixing/segregation, sedimentation, dewatering and size enlargement.",
+                    "UnitCode": "CHE4162",
+                    "UnitName": "Particle technology",
+                    "_id": "5878014630213215439e8b55",
+                    "enjoyRating": 4.072860963,
+                    "enjoyResponse": 70,
+                    "learnRating": 4.051552288,
+                    "learnResponse": 21,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "CHE2161, CHE2162, CHE2163, CHE2164, (CHE3163 or ENE3608), CHE3165, CHE3166, and (CHE4161 or CHE4164).",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Students work in teams on the design and evaluation of a process plant for a specified duty. This is a capstone design unit drawing together the skills and knowledge previously developed in the areas of detailed design of chemical equipment and processes, process safety, mechanical integrity, equipment selection, process operability (including piping and instrumentation), environmental impact and economic evaluation.",
+                    "UnitCode": "CHE4170",
+                    "UnitName": "Design project",
+                    "_id": "5878014630213215439e8b57",
+                    "enjoyRating": 3.7275,
+                    "enjoyResponse": 98,
+                    "learnRating": 4.007260101,
+                    "learnResponse": 35,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "CHE2161, CHE2162, CHE2163, CHE2164, (CHE3163 or ENE3608), CHE3165, CHE3166, and (CHE4161 or CHE4164).",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Students work in teams on the design and evaluation of a process plant for a specified duty. This is a capstone design unit drawing together the skills and knowledge previously developed in the areas of detailed design of chemical equipment and processes, process safety, mechanical integrity, equipment selection, process operability (including piping and instrumentation), environmental impact and economic evaluation.",
+                    "UnitCode": "CHE4170",
+                    "UnitName": "Design project",
+                    "_id": "5878014630213215439e8b57",
+                    "enjoyRating": 3.7275,
+                    "enjoyResponse": 98,
+                    "learnRating": 4.007260101,
+                    "learnResponse": 35,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ENG2091 or (MTH2010 and MTH2032) or ENG2005",
+                    "Proh": "CHE3107, CHE4110",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides a thorough introduction to process control and simulation. The unit begins with understanding disturbances, why disturbances need to be controlled and possible responses of various systems to a disturbance. The selection of which variables to control, which variables to manipulate and approaches to interactions are covered, together with the most important types of control loops and computer control systems. Topics include common control scenarios - feed back, feed forward, and cascade systems; ratio control; tuning of PID controllers; single loop and multiple loop systems;  interactions and decoupling; process simulation and advanced process control.",
+                    "UnitCode": "CHE3162",
+                    "UnitName": "Process control",
+                    "_id": "5878014430213215439e8b4c",
+                    "enjoyRating": 3.874456522,
+                    "enjoyResponse": 91,
+                    "learnRating": 4.037393162,
+                    "learnResponse": 37,
+                    "placeholder": false
+                }
+            ],
+            "year": 4
+        }
+    ]
+}

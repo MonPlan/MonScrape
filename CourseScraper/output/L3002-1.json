@@ -1,0 +1,175 @@
+{
+    "courseAOS": "Chemical Engineering specialisation",
+    "courseCode": "L3002",
+    "courseName": "Laws and Engineering",
+    "courseType": "Bachelor degree (honours)/Bachelor degree (honours)",
+    "faculty": "Faculty of Law",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "LAW1111",
+                "LAW1114",
+                {
+                    "faculty": "",
+                    "type": "ENG1001 Engineering Design: lighter, faster, stronger OR ENG1002"
+                },
+                [
+                    "ENG1090",
+                    "PHS1080",
+                    "ENG1091"
+                ],
+                [
+                    "ENG1090",
+                    "PHS1080"
+                ]
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "LAW1112",
+                "LAW1113",
+                {
+                    "faculty": "",
+                    "type": "ENG1002 OR ENG1001"
+                },
+                "ENG1091"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "LAW2101",
+                "LAW2112",
+                "ENG1003",
+                "CHM1011"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "LAW2102",
+                "LAW2111",
+                "ENG1060",
+                "CHE2163",
+                {
+                    "faculty": "",
+                    "type": "Law elective"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "LAW3112",
+                "LAW3111",
+                "ENG2091",
+                "CHE2161"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "LAW3402",
+                {
+                    "faculty": "",
+                    "type": "Commercial law elective"
+                },
+                "CHE2162",
+                {
+                    "faculty": "",
+                    "type": "CHE2164 Thermodynamics S1,2Or ENG2091"
+                },
+                {
+                    "faculty": "",
+                    "type": "Law elective"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Law elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Law elective"
+                },
+                "CHE3161",
+                "CHE3165"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "LAW4331",
+                "LAW4170",
+                "CHE3166",
+                "CHE3164"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "LAW4323",
+                "LAW4332",
+                "CHE4161",
+                "CHE4180"
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "LAW4303",
+                "LAW4309",
+                "CHE4162",
+                "CHE4170"
+            ],
+            "year": 4
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Law Research Project elective*"
+                },
+                {
+                    "faculty": "",
+                    "type": "Law Elective"
+                },
+                "CHE4180",
+                "CHE3167"
+            ],
+            "year": 5
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Law Elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Law Elective"
+                },
+                "CHE4170",
+                "CHE3162"
+            ],
+            "year": 5
+        }
+    ]
+}

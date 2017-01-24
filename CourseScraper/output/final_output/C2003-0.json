@@ -1,0 +1,467 @@
+{
+    "courseAOS": "Bachelor of Information Technology and Bachelor of Science",
+    "courseCode": "C2003",
+    "courseName": "Information Technology and Science",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Information Technology",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Information Technology",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "FIT1045,FIT1048,FIT1051",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "IT Major Level 1",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major level 1 sequence 1",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Level 1 Science sequence 2",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "FIT1031 and FIT2078",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit introduces students to fundamentals of computer systems, networks and security. It provides basic knowledge of computer organisation and architecture, operating systems, networking architecture, technology and operation. It introduces the concepts of security goals for protecting common modern computer systems and communication networks from adversaries and the deployment of suitable countermeasures to achieve these goals.",
+                    "UnitCode": "FIT1047",
+                    "UnitName": "Introduction to computer systems, networks and security",
+                    "_id": "5878027430213215439e8fab",
+                    "enjoyRating": 3.880434783,
+                    "enjoyResponse": 118,
+                    "learnRating": 3.864349817,
+                    "learnResponse": 118,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "IT Major Level 1",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major level 1 sequence 1",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Level 1 Science sequence 2",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Completion of 12 points of FIT units.",
+                    "Proh": "FIT2003",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides a practical and theoretical introduction to what it means to be an IT professional today. Students will encounter a range of issues relevant to professional practice in the workplace, as well as an understanding of the wider responsibilities that professionals are called upon to uphold in society. Topics addressed include: organisational and professional communication; mindfulness; teamwork; the nature of the IT professions; the role of professional associations; problem solving and information use; cross-cultural awareness; personal and professional ethics and codes of practice.",
+                    "UnitCode": "FIT1049",
+                    "UnitName": "IT professional practice",
+                    "_id": "5878027530213215439e8fad",
+                    "enjoyRating": 3.482545045,
+                    "enjoyResponse": 188,
+                    "learnRating": 3.664236475,
+                    "learnResponse": 63,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "IT Major Level 2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major - level 2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "One of SCI1020 STA1010 MTH1020 MTH1030 [or Science elective if already taken as part of another sequence]",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "One of FIT1040, FIT1045, FIT1048, FIT1051 or equivalent introductory programming unit",
+                    "Proh": "FIT1004, FIT3171",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will provide an introduction to the concepts of database design and usage and the related issues of data management. Students will develop skills in planning, designing, and implementing a data model using an enterprise-scale relational database system (Oracle). Methods and techniques will also be presented to populate, retrieve, update and implement integrity features on data in the implemented database system.",
+                    "UnitCode": "FIT2094",
+                    "UnitName": "Databases",
+                    "_id": "5878027d30213215439e8fcf",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "IT Major Level 2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major - level 2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Information Technology",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "SCI2010,SCI2015",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "FIT2001 Systems development * OR FIT2099 O-O analysis, design and implementation",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "IT Major Level 2/3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major - level 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Completion of at least 36 points of study, including one of (FIT1002, FIT1040, FIT1045, FIT1048, FIT1051, ENG1003) (or equivalent) and one of (FIT1049, FIT2003, EDF2005, SCI2010) (or equivalent)",
+                    "Proh": "AFW3043, BEW3640, BUS2176, CIV3205, CPE2006, CSE2203, GCO3807, GEG3104, GSE3003,     FIT3086, MGW2700, MMS2203",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit introduces students to the many concepts, tools and techniques for managing information technology projects. Exploring traditional and agile approaches for managing projects, topics include project lifecycles, project planning, project scheduling, team building, risk management, time and quality management. A case study approach will be used to provide learning opportunities, with an emphasis on the unique aspects of information technology projects.",
+                    "UnitCode": "FIT2002",
+                    "UnitName": "IT project management",
+                    "_id": "5878027630213215439e8fb2",
+                    "enjoyRating": 4.147420635,
+                    "enjoyResponse": 130,
+                    "learnRating": 4.206732203,
+                    "learnResponse": 33,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "IT Major Level 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major - level 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science elective - level 2 or 3",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "FIT3047 IE Studio Project 1 OR FIT3039 Studio project 1",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "IT Major Level 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major - level 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science elective - level 2 or 3",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "FIT3048 IE Studio Project 2 OR FIT3040 Studio project 2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "IT Major Level 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major - level 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science elective - level 2 or 3",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

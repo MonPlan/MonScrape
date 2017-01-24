@@ -1,0 +1,226 @@
+{
+    "courseAOS": "",
+    "courseCode": "M6002",
+    "courseName": "Master of Dietetics",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "Diet and disease is an integrated study of the role of diet in the causation and treatment of chronic diseases that are endemic in westernised societies. This unit builds upon the scientific concept of disease aetiology explored in Integrated Science Systems (BND2103) and the critical interpretation of scientific literature and research skills developed in years 1 and 2. Learners will explore the epidemiology of the major nutrition related diseases, their causal pathways and population based recommendation for prevention. The rationale for the application of dietary modifications for patients with specific disease states and the means of evaluating dietary treatment is explored. Nutrition related emerging issues in disease aetiology and management are also explored and the emphasis on the important role of genetic susceptibility in nutrition science is continued.Student centered teaching and learning methods will be used to support the delivery of the unit content. Students' participation as adult learners will be encouraged through the curricula with emphasis on extending their scientific communication skills.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "Must have passed all units in NUT2001, NUT2002, NUT2102 and NUT2103;OR must have passed NUT1011 and two from BCH2022, BMS2021, BMS2031, HSC1101, HSC1102, PHY2032 or PHY2042.Master of Dietetics students are exempt from pre-requisites.",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "NUT3002",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Nutrition, activity and health in chronic diseases"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit will review the concepts and approaches of population health in the context of nutrition. The content will explore current public health nutrition practice issues related to priority issues such as obesity, food security and the food supply. A systems based, health promotion framework to addressing priority nutrition issues will be discussed and current public health nutrition practice will be evaluated. Students will explore the political foundations of public health policy in Australia including the impact of public health policies and will develop skills in policy analysis and public health advocacy. This unit will provide students with the foundations knowledge in preparation for the development of skills of the practice of public health nutrition. The key theme explored in this unit is Theme 2: Determinants and influences on population health and nutrition coupled with partial integration of content from Theme 4: Food: from science to systems.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "NUT1010, NUT1002 and NUT1102. Master of Dietetics students are exempt from pre-requisites.",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "NUT3082",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Public health nutrition"
+                },
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit introduces students to the profession of dietetics, commencing their pathway to becoming experts in food (knowledge and application) and culturally competent, self-aware healthcare professionals. This unit is tailored for the non cognate path for Masters of Dietetics (96CP) under  the course architecture project. Students coming through the cognate path will receive credit for this subject and be eligible to proceed into the 72 CP Masters program.The unit initially focuses on health behaviours, assessment of nutritional status, growth and development, physical activity and nutritional requirements for groups across the lifespan from infancy to old age. The unit will incorporate elements of professional development, cultural competency about food and eating patterns, and content around the Australian food supply system including food regulation and law.Concepts of health education and promotion will enhance students' knowledge and ability to communicate nutrition messages effectively to groups and individuals as well as teamwork and reflection. Students will be introduced to reflective practice, commencing a professional portfolio and will be engaged via adult learning teaching and learning principles as  they begin to develop their professional identity.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "",
+                    "Prohibitions": "NUT1001, NUT3005.",
+                    "SCABand": 2,
+                    "UnitCode": "NUT4001",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Foundations of dietetic practice"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit uses chronic disease as the foundations and basis for dietetic students to develop their core dietetic practice assessment, counselling and management skills.  There is an emphasis on person centred care and simulation provides a key platform for learning in this unit. A formative Objective Structured Clinical Examination (OSCE) sits within this unit to assist students' readiness for placement. Students are introduced to the healthcare system and a range of health care settings via an introductory clinical placement. This aims to commence the application of the nutrition care process, the use of food as a therapeutic tool, clinical reasoning, reflection and advanced communication and interpersonal skills required for dietetic practice. Attendance at this placement is compulsory. This unit supports students' progression towards entry level competencies in individual case management in the healthcare setting. Placement may take place outside of regular semester times. Students must have valid police check, WWC check and immunisation certificates in order to participate in clinical placementsThe key themes explored in this unit are Theme 1: Personal Development and Professional Practice, Theme 3: Fundamentals of Health and Disease, Theme 4: Food from Science to Systems  coupled with partial integration of content and application from Theme 2: Determinants and Influences on Population Health and Nutrition.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "NUT3002, NUT3082 and NUT4001.",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "NUT5001",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introduction to dietetic skills"
+                },
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit is predominantly a fieldwork experience that will challenge students to integrate their academic training and to synthesise knowledge into a practical public health nutrition project based in the community setting. The unit requires students to manage a project that addresses a public health nutrition issue. Students will participate in program planning within a work environment and provide tangible benefit to their participating organisation. Students will be responsible for designing a project, collection and analysis of data and synthesis of findings into a report.  Principles of information evaluation, workload management, communication, teamwork and responsibility for project management will also be developed.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "NUT3002, NUT3082 and NUT4001.",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "NUT5002",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Practice and research in public health nutrition"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit uses a range of clinical conditions and diseases as the foundation and basis for dietetic students to further develop their core dietetic practice skills and develop skills in dietetic education and case management in the academic setting in preparation for placement. There is an emphasis and focus on person centred care and using simulation and case based learning to provide a key platform for learning in this unit. Preparing students for individual case management and clinical placement is a key focus of this unit. Broader issues regarding healthcare systems and healthcare provision, management, ethics in healthcare and quality improvement are covered in this unit. Students' professional competencies are further developed and this unit supports fulfilment of prescribed competencies as outlined by the Dietitians Association of Australia.The key themes explored in this unit are; Theme 1: Personal Development and Professional Practice and Theme 3: Fundamentals of Health and Disease, coupled with partial integration of content and application from Theme 4: Food from Science to Systems.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "NUT5001.",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "NUT5003",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Dietetic practice 1"
+                },
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit is focussed on extending students' food composition, food therapeutic and food systems knowledge to support dietetic practice with integration and application in the practical and placement setting. There is extension of students' research and problem solving skills in managing placement based food service challenges. Students' personal and professional competencies are further developed. This unit supports fulfilment of prescribed competencies as outlined by the Dietitians Association of Australia. The teaching and learning strategies will encompass lectures, group teaching, tutorials, practical sessions, self-directed learning and a placement based project. Placement may take place outside of regular semester times. Students must have valid police check, WWC check and immunisation certificates in order to participate in clinical placementsThe key themes explored in this unit are Theme 4: Food from Science to Systems and Theme 3: Fundamentals of Health and Disease, coupled with partial integration of content and application from Theme 1: Personal Development and Professional Practice and Theme 2: Determinants and Influences on Population Health and Nutrition.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "NUT5001.",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "NUT5004",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Food for dietetic practice"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit fosters student's problem solving skills. It aims to extend students' research and dietetics knowledge and skills across a range of practice contexts to solve strategic and priority dietetics practice problems and scenarios in preparation to enter the workforce. This unit prepares students to enter the profession through consolidating professional practice skills and integrating learning across typical work contexts of practice of a dietitian.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "NUT5003, NUT5004, NUT5005.",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "NUT5006",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Practice and research in dietetics"
+                },
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit is predominantly a placement based unit to support students' progression and fulfilment of entry level competencies in individual case management in a healthcare setting. Placement may take place outside of regular semester times. Students must have a valid police check, WWC check and immunisation certificates in order to participate in clinical placementsThe key themes explored in this unit are Theme 3: Fundamentals of Health and Disease, Theme 1: Personal Development and Professional Practice and Theme 4: Food from Science to Systems as students' progress and integrate their dietetic practice skills and competencies working in the healthcare environment. There is  partial integration of content and application from Theme 2: Determinants and Influences on Population Health and Nutrition.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "NUT5001, NUT5003, NUT5004.",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "NUT5005",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Dietetic practice 2"
+                }
+            ],
+            "year": 2
+        }
+    ]
+}

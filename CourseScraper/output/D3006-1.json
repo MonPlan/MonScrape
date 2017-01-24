@@ -1,0 +1,132 @@
+{
+    "courseAOS": "Secondary Education specialisation",
+    "courseCode": "D3006",
+    "courseName": "Education and Fine Art",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Education",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF1303",
+                "VPR1011",
+                "EDF1055",
+                "DWG1201",
+                "AHT1101",
+                "OHS1000"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF1304",
+                "VPR1012",
+                "EDF1056",
+                "VPR1113",
+                "AHT1102"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF2005",
+                "EDF2006",
+                "EDF2055",
+                "VPR2011",
+                {
+                    "faculty": "",
+                    "type": "Workshop elective in Drawing, Film, Glass, Jewellery, Painting, Photography, Printmaking or Sculpture"
+                },
+                "AHT2102"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF2007",
+                "EDF2008",
+                "EDF2056",
+                "VPR2012",
+                {
+                    "faculty": "",
+                    "type": "Workshop elective in Drawing, Film, Glass, Jewellery, Painting, Photography, Printmaking or Sculpture"
+                },
+                {
+                    "faculty": "",
+                    "type": "One of: AHT2105/3105; AHT2602/3602; AHT2801/3801; AHT2138/3138; AHT2025/3025; AHT2137/3137; AHT2440/3440; AHT2120/3120; AHT2740/3740; AHT2530 AHT3530; AHT2130/3130"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF3009",
+                "EDF3010",
+                "EDF3055",
+                "VPR3011",
+                {
+                    "faculty": "",
+                    "type": "Workshop elective in Drawing, Film, Glass, Jewellery, Painting, Photography, Printmaking or Sculpture"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF3007",
+                {
+                    "faculty": "",
+                    "type": "Education elective (6 pts)"
+                },
+                "EDF3056",
+                "VPR3012"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF4100",
+                "EDF4004",
+                {
+                    "faculty": "",
+                    "type": "EDF4055 Secondary professional experience 4A and EDF4056 Secondary professional experience 4B 25 days (0 pts)"
+                },
+                {
+                    "faculty": "",
+                    "type": "EDF5XXX Method unit 1A (6 pts)"
+                },
+                {
+                    "faculty": "",
+                    "type": "EDF5XXX Method unit 2A (6 pts)"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF4101",
+                "EDF4006",
+                {
+                    "faculty": "",
+                    "type": "EDF4057 Secondary professional experience 4C and EDF4058 Secondary professional experience 4D 25 days (0 pts)"
+                },
+                {
+                    "faculty": "",
+                    "type": "EDF5XXX Method unit 1B (6 pts)"
+                },
+                {
+                    "faculty": "",
+                    "type": "EDF5XXX Method unit 2B (6 pts)"
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

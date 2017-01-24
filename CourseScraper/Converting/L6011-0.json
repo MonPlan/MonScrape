@@ -1,0 +1,28 @@
+{
+    "courseCode": "L6011",
+    "courseName": "Master of Dispute Resolution",
+    "courseAOS": "",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Law",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+              ["LAW5080", "LAW5081"],
+              {"type": "Part A", "faculty": "Faculty of Law"},
+              {"type": "Part A", "faculty": "Faculty of Law"},
+              {"type": "Part A", "faculty": "Faculty of Law"}
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+              {"type": "Part A", "faculty": "Faculty of Law"},
+              {"type": "Part B", "faculty": "Faculty of Law"},
+              {"type": "Part B", "faculty": "Faculty of Law"},
+              {"type": "Part B", "faculty": "Faculty of Law"}              
+          ]
+        }
+    ]
+}

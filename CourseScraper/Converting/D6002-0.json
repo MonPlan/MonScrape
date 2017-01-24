@@ -1,0 +1,38 @@
+{
+    "courseCode": "D6002",
+    "courseName": "Master of Education",
+    "courseAOS": "",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Education",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+              "EDF4610",
+              "EDF4611"
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+              {"type": "Key Constructs Unit", "faculty": "Faculty of Education"},
+              {"type": "Key Constructs Unit", "faculty": "Faculty of Education"}           
+          ]
+        }, {
+          "code": "S1-01",
+          "year": 1,
+          "units": [
+              {"type": "Enhanced Professional Learning Unit", "faculty": "Faculty of Education"},
+              ["Enhanced Professional Learning Unit", "Professional Inquiry Unit"]    
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 1,
+          "units": [
+              ["Enhanced Professional Learning Unit", "Professional Inquiry Unit"],  
+              {"type": "Professional Inquiry Unit", "faculty": "Faculty of Education"}           
+          ]
+        }
+    ]
+}

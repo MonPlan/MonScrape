@@ -1,0 +1,103 @@
+{
+    "courseAOS": "Bachelor of Chemical Engineering (Honours)",
+    "courseCode": "E3001",
+    "courseName": "Engineering",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ENG1001",
+                "ENG1005",
+                {
+                    "faculty": "",
+                    "type": "ENG1090 (if required) or PHS1080 (if required) or 1 st year engineering elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Elective If two foundation units are required then this elective is used to complete the second of ENG1090 and PHS1080 ,"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ENG1002",
+                "ENG1003",
+                "ENG1060",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "CHE2161",
+                "CHM1011",
+                "CHE2164",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "CHE2162",
+                "ENG2005",
+                "CHE2163",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "CHE3161",
+                "CHE3165",
+                "CHE3167",
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "CHE3162",
+                "CHE3164",
+                "CHE3166",
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "CHE4164 Integrated industrial project (24 points) (For selected students taking a period of integrated industrial training in the first semester of their final year. This will replace the three units [CHE4180, CHE4161 and one elective unit], which form the normal Semester 1 of the final year.)"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "CHE4161",
+                "CHE4180",
+                "Elective"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "CHE4162",
+                "CHE4170",
+                "Elective"
+            ],
+            "year": 3
+        }
+    ]
+}

@@ -1,0 +1,740 @@
+{
+    "courseAOS": "Medicinal chemistry specialisation",
+    "courseCode": "P3002",
+    "courseName": "Pharmaceutical Science Advanced",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit lays a foundation of knowledge about mammalian systems and provides the relationship between pathophysiology and the rational design and use of drugs. Students will be introduced to the physiological basis of disease. Each organ and system will be considered, and one or more examples of disease states which are amenable to pharmacotherapy will be discussed in detail. The course aims to provide a basic understanding of the functions of organs and systems such as the nervous, cardiovascular and endocrinological systems; however, an equal emphasis will be placed on one of the key components of drug discovery, the choice of therapeutic target based on a thorough understanding of the disease process. The principle aim of this subject is to provide students with an understanding of basic biological principles and how these can be applied in pharmaceutical sciences as a basis for later work in other subjects within the course.Topics to be covered include: cells, tissues, organs and systems membranes DNA replication, gene transcription and translation the nervous system cardiovascular physiology endocrinology",
+                    "UnitCode": "PSC1011",
+                    "UnitName": "Physiology I",
+                    "_id": "5878048730213215439e976d",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides students with an introduction to the fundamentals of organic chemistry, with an emphasis on those aspects that are relevant to understanding the structure, properties and mechanism of action of therapeutic agents.Topics include: chemical structure, bonding and shape introduction to organic chemistry alkanes and cycloalkanes alkenes and alkynes chirality haloalkanes alcohols, ethers and thiols benzene and its derivatives spectroscopy/pharmaceutical analysis",
+                    "UnitCode": "PSC1021",
+                    "UnitName": "Bioorganic and medicinal chemistry I",
+                    "_id": "5878048730213215439e976f",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "PSC1071",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides a basic understanding of physical chemistry and together with Physical Chemistry II (PSC1032) provides the conceptual and intellectual foundation for further studies in pharmaceutical science units in 2nd and 3rd year.Students will develop an: Understanding of the physicochemical principles that underpin pharmaceutical chemistry, drug design and formulation design; Ability to undertake calculations concerning the physicochemical properties of pharmaceuticals and aspects of pharmaceutical products; Ability to measure some fundamental properties of pharmaceutical materials through practical exercises;",
+                    "UnitCode": "PSC1031",
+                    "UnitName": "Physical chemistry I",
+                    "_id": "5878048830213215439e9771",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Students will acquire basic skills in applying and interpreting the scientific method of inquiry, and interpreting scientific data. Students will: i) evaluate scientific literature; and, ii) plan, conduct and interpret a simple scientific experiment. A knowledge of hypothesis testing, ethical principles of scientific practice, examples of poor and elite pharmaceutical science, and the skills to perform inferential statistics will be developed.",
+                    "UnitCode": "PSC1041",
+                    "UnitName": "Scientific Inquiry",
+                    "_id": "5878048930213215439e9773",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit builds and extends on concepts learnt in PSC1012  Physiology I (prior to 2012 coded PSC1081).   Whole body systems will be considered, and examples of disease states which are amenable to pharmacotherapy will be discussed in detail. The subject aims to provide an overview of the functions of the respiratory, digestive and urinogenital systems; an equal emphasis will be placed on one of the key components of drug discovery and the choice of therapeutic target based on a thorough understanding of the disease process.This will involve the study of: special senses respiratory system urogenital system digestive system focus on disease.",
+                    "UnitCode": "PSC1012",
+                    "UnitName": "Physiology II",
+                    "_id": "5878048730213215439e976e",
+                    "enjoyRating": 3.96875,
+                    "enjoyResponse": 60,
+                    "learnRating": 4.072438672,
+                    "learnResponse": 57,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides students with an introduction to the fundamentals of organic chemistry, inorganic chemistry and the chemistry of biomolecules, with an emphasis on those aspects that are relevant to understanding the design and mechanism of action of therapeutic agents.Topics include: amines aldehydes and ketones carboxylic acids and functional derivatives lipids organic polymer chemistry carbohydrates amino acids and proteins nucleic acids perspectives in medicinal chemistry coordination compounds",
+                    "UnitCode": "PSC1022",
+                    "UnitName": "Bioorganic and medicinal chemistry II",
+                    "_id": "5878048830213215439e9770",
+                    "enjoyRating": 4.032258065,
+                    "enjoyResponse": 57,
+                    "learnRating": 3.908385093,
+                    "learnResponse": 61,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Solutions, self-assembled systems, multiphase liquid systems and the properties of solids that yield pharmaceutical solutions are key to the performance and manufacture of pharmaceutical products. This unit aims to build on PSC1031 Physical Chemistry I to provide students with a firm understanding of the physical chemistry that underpins the properties and dissolution of pharmaceutical solids and additives to form solutions. In particular an understanding of the physicochemical properties of pharmaceutical solids (drugs and excipients), their transfer into solution form and properties of those solutions from a pharmaceutical science perspective will set the foundation for students to understand the impact of these properties and concepts in pharmaceutical and other formulated products. The key concepts are related directly to aspects of a suite of representative pharmaceutical products allowing the students to put the concepts into a relevant context. The understanding of these principles will also assist students in their understanding in some areas of chemistry, physiology and biology.This will involve: physical chemistry of solutions solids, semisolids and solubility interfacially active molecules and their use in formulation acid-base functional groups",
+                    "UnitCode": "PSC1032",
+                    "UnitName": "Physical chemistry II",
+                    "_id": "5878048830213215439e9772",
+                    "enjoyRating": 3.970588235,
+                    "enjoyResponse": 61,
+                    "learnRating": 3.989153439,
+                    "learnResponse": 87,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit is designed to introduce the students to the major fields of the applied sciences in which pharmaceutical scientists specialise. The relationships between the different disciplines and their distinct roles in drug discovery and development will be demonstrated. Participants are introduced to the following areas as they apply to the biology, chemistry, and formulation of medicines and related products: drug discovery biology medicinal chemistry formulation scienceStudents will also have the opportunity to attend specialised seminars on pharmaceutical science research.",
+                    "UnitCode": "PSC1042",
+                    "UnitName": "Multi-disciplinary Pharmaceutical Science",
+                    "_id": "5878048930213215439e9774",
+                    "enjoyRating": 4.07,
+                    "enjoyResponse": 87,
+                    "learnRating": 3.748333333,
+                    "learnResponse": 43,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PSC1011PSC1022",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit aims to introduce students to essential elements of biochemical pharmacology. Participants in this unit will learn how membranes and proteins are involved in relaying extracellular signals from outside the cell to within the cell where specific outcomes are generated to activate cellular responses. The topics covered include membrane and protein biochemistry focusing on their roles in signal transduction, receptor families and different types of signalling pathways employed to relay extracellular information within the cell. The subject provides an essential foundation for understanding biochemical pharmacology and its use in biological research and the pharmaceutical industry.",
+                    "UnitCode": "PSC2011",
+                    "UnitName": "Biochemical pharmacology",
+                    "_id": "5878048930213215439e9775",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PSC1021PSC1022",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Structural Organic Chemistry lays a foundation of knowledge about the structure and reactivity of the key functional groups found in pharmaceutical compounds.  These general topics are relevant to drug design, the synthesis of bioactive molecules, drug-target interactions and drug formulation.",
+                    "UnitCode": "PSC2021",
+                    "UnitName": "Structural organic chemistry",
+                    "_id": "5878048930213215439e9777",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PSC1031 Physical chemistry IPSC1032 Physical chemistry II",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Analytical Methods lays a foundation of knowledge for the analytical identification and quantitation of chemical entities used in the pharmaceutical and manufacturing industries (eg polymers, cosmetics & paints). The subject provides the participant with basic principles and concepts of chemical equilibria, classical (titrimetric) methods of analysis, atomic and molecular spectroscopy (spectrochemical methods of analysis) and separation (chromatographic) methodologies.This will involve: chemical equilibria classical methods of analysis spectrochemical methods of analysis analytical separations",
+                    "UnitCode": "PSC2031",
+                    "UnitName": "Analytical methods",
+                    "_id": "5878048a30213215439e9778",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PSC1011PSC1012",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit builds upon previous learning related to physiology and physical chemistry to provide the student with an understanding of factors affecting absorption of drugs following oral administration and alternative routes of delivery. This unit introduces students to pharmacokinetics and how this may be affected by formulation design and route of administration.This will involve: oral drug absorption pharmacokinetics bioavailability parenteral formulations alternative routes of drug delivery",
+                    "UnitCode": "PSC2041",
+                    "UnitName": "Biopharmaceutics",
+                    "_id": "5878048a30213215439e9779",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PSC1012",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "The aim of this unit is to introduce second year Bachelor of Pharmaceutical Science students to the essential elements of molecular pharmacology. Specifically this unit will introduce students to the pharmacological principles of drug action. It includes descriptions of agonist and antagonist activities, analysis of agonist-effect relationships and the intracellular processes by which endogenous and exogenously applied compounds elicit effects. Students will receive a series of lectures covering in-depth aspects of receptor pharmacology.These lectures will also cover in detail the pharmacological regulation of cellular calcium and the role calcium plays in cell function and survival. At the completion of this unit students will have been provided the opportunity to understand drug receptor interactions from the pharmacologists point of view. This unit will equip students for third year Pharmaceutical Biology.",
+                    "UnitCode": "PSC2012",
+                    "UnitName": "Molecular pharmacology",
+                    "_id": "5878048930213215439e9776",
+                    "enjoyRating": 4.017857143,
+                    "enjoyResponse": 43,
+                    "learnRating": 3.855820106,
+                    "learnResponse": 14,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PSC2021",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This subject aims to provide students with an understanding of: The use of functional groups in carbon-carbon and carbon-heteroatom bond formation; The fundamentals of molecular orbitals in pericyclic reactions; The preparation and use of organometallic in organic synthesis.The synthesis of organic molecules, including naturally occurring bioactives and other drug molecules.This will involve: functional group manipulation .The chemistry of organometallic reagents. pericyclic chemistry synthesis of heterocycles reactions of aromatic heterocycles synthesis of heterocyclic drugs",
+                    "UnitCode": "PSC2122",
+                    "UnitName": "Synthetic organic chemistry",
+                    "_id": "5878048a30213215439e977a",
+                    "enjoyRating": 4.055555556,
+                    "enjoyResponse": 14,
+                    "learnRating": 3.844444444,
+                    "learnResponse": 39,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PSC1021PSC1022",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "An introduction to the major techniques which underpin the practical aspects of compound identification for medicinal chemistry: UV spectroscopy, IR spectroscopy, Mass spectroscopy and NMR spectroscopy.",
+                    "UnitCode": "PSC2132",
+                    "UnitName": "Introduction to spectroscopy",
+                    "_id": "5878048a30213215439e977b",
+                    "enjoyRating": 3.941176471,
+                    "enjoyResponse": 39,
+                    "learnRating": 4.126984127,
+                    "learnResponse": 17,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PSC1021PSC1022PSC1032",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides an introduction to the techniques and applications of molecular modelling with particular emphasis on methods used in drug design.The unit contains two streams: modelling methods; which introduces quantum mechanics, molecular mechanics, energy optimisation and molecular simulation and modelling applications; which covers quantitative structure-activity relationships (QSAR), pharmacophores, structure-based drug design and homology modelling.This will involve: modelling methods in computational chemistry applications of molecular modelling",
+                    "UnitCode": "PSC2142",
+                    "UnitName": "Computational chemistry",
+                    "_id": "5878048a30213215439e977c",
+                    "enjoyRating": 4.277777778,
+                    "enjoyResponse": 17,
+                    "learnRating": 3.821581197,
+                    "learnResponse": 42,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PSC2011 Pharmaceutical biochemistryPSC2021 Structural Organic Chemistry",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will introduce students to the different mechanisms of action by which drugs exert their biological activity. It will address the interactions between endogenous ligands and drugs with their receptors, enzymes or nucleic acids, and the way that drugs mimic, oppose or modify those interactions. Students will be introduced to the scope of medicinal chemistry techniques used in contemporary drug discovery.This will involve the study of: G-protein coupled receptors other receptor types ion channels nuclear hormone receptors drugs interacting with oligonucleotides enzymes and enzyme inhibition",
+                    "UnitCode": "PSC3111",
+                    "UnitName": "Molecular basis of drug action",
+                    "_id": "5878048c30213215439e9782",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PSC2021 Structural Organic ChemistryPSC2122 Synthetic Organic Chemistry",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "The principle aim of this subject is to provide students with a detailed knowledge of numerous aspects of synthetic organic chemistry, as it applies to modern medicinal chemistry.The subject follows from PSC2021 and PSC2122, covering advanced organic synthesis and methodology. Topics include catalysis in synthesis, radical chemistry, organometallic chemistry, heterocyclic chemistry, reactive intermediates and stereochemistry, as well as retrosynthetic analysis. An understanding of reaction mechanisms will be emphasized throughout. The practical component reinforces aspects of the lecture course with laboratory experience.This will involve: catalysis and biocatalysis organometallic reactions radical reactions heterocyclic chemistry asymmetric synthesis reactive Intermediates",
+                    "UnitCode": "PSC3121",
+                    "UnitName": "Advanced Synthetic organic chemistry",
+                    "_id": "5878048c30213215439e9784",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PSC2132 Introduction to Spectroscopy",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "The subject expands on the use of spectroscopic and spectrometric techniques and their applications in medicinal chemistry. After a review of structural elucidation via analysis of one dimensional NMR spectra, a range of more complex methods will be covered. The use of two dimensional NMR in the identification and characterisation of more complex organic compounds is introduced. Techniques for the assignment of spectra for more complex molecules will be described and the application of NMR spectroscopy to larger biomolecules including peptides will be introduced.The energetic factors which drive the processes of drug-receptor interaction will be described and energetic factors that drive the processes of drug-receptor interactions will be discussed. The use of electronic spectroscopy, including absorption and fluorescence, for measurement of drug-protein binding will be described. The uses of other biophysical techniques including surface plasmon resonance and calorimetry will also be discussed. The use of NMR spectroscopy to measure the interaction of drugs with biological molecules and the effects of chemical and conformational exchange on the appearance and analysis of NMR spectra will be described.This will involve: thermodynamics advanced NMR Spectroscopy biophysical techniques for measurement of interactions optical Spectroscopy.",
+                    "UnitCode": "PSC3131",
+                    "UnitName": "Analysis of drug-receptor interactions",
+                    "_id": "5878048d30213215439e9786",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "The objective of this unit is to provide students with opportunities to develop their analytical skills by testing various hypothesis and strategies to solve authentic complex HPLC problems.On successful completion of this unit, students will have developed a systematic and critical approach to analytical method development that will be demonstrated by the creation of relevant and accurate resources usable in future jobs or studies.",
+                    "UnitCode": "PSC3041",
+                    "UnitName": "Applied analytical methods",
+                    "_id": "5878048c30213215439e9781",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "To explain the processes whereby new drugs are discovered and developed, from initial ideas through to full clinical use in man, and to illustrate the interphase between the biosciences and pharmaceutical business.This will involve: drug lead identification target identification and validation proteomics, genomics and pharmacogenomics drugs to treat infectious diseases and the use of bioisosteres in drug design target identification, validation and biological evaluation the importance and application of pharmaceutics in drug development the clinical trial process intellectual property",
+                    "UnitCode": "PSC3112",
+                    "UnitName": "Drug discovery and development",
+                    "_id": "5878048c30213215439e9783",
+                    "enjoyRating": 4.214285714,
+                    "enjoyResponse": 18,
+                    "learnRating": 3.833333333,
+                    "learnResponse": 3,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PSC2021 Structural organic chemistryPSC2122 Synthetic organic chemistryPSC3121 Advanced Synthetic Chemistry",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "In this unit students will learn how chemical synthesis is applied to drug discovery and Chemical-Biology.  Topics will include compound library design and synthesis, mapping of structure-activity relationships, lead optimization, molecular conjugates, asymmetric synthesis and processes chemistry.These will be taught as four core topic areas: This unit will build upon earlier units in synthetic organic chemistry within BPharmSci, with a special emphasis on the role of chemical synthesis in drug discovery and Chemical-Biology. This will include library design approaches for the discovery of novel bioactives and synthesis strategies in lead optimization. Students will learn about the use of conjugates in directed drug delivery and Chemical-Biology studies. They will also learn about the specific challenges posed by the scale-up and manufacture of drugs including the asymmetric synthesis of chiral drug molecules. In practical classes, students will learn new and emerging techniques for use in compound library synthesis and process chemistry. Site visits of relevant commercial operations will also be undertaken.",
+                    "UnitCode": "PSC3122",
+                    "UnitName": "Applied Medicinal Chemistry",
+                    "_id": "5878048d30213215439e9785",
+                    "enjoyRating": 3.75,
+                    "enjoyResponse": 3,
+                    "learnRating": 5,
+                    "learnResponse": 1,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PSC2021 Structural Organic ChemistryPSC2122 Synthetic Organic Chemistry",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This 12-credit point unit aims to provide students with an extensive foundation for the development of research skills in the area of medicinal chemistry in preparation for honours research. Students will conduct advanced medicinal chemistry research encompassing one or more of the core competencies that underpin the medicinal chemistry of the degree program, namely: synthetic organic chemistry chemical analysis and characterisation structural biology & x-ray crystallography computational chemistry biophysical techniques biochemistryIn addition students participate in activities to develop their job seeking and career planning skills, for example, writing resumes, job applications and cover letters, and inter",
+                    "UnitCode": "PSC3432",
+                    "UnitName": "Medicinal Chemistry pre-honours research project",
+                    "_id": "5878049030213215439e9793",
+                    "enjoyRating": 5,
+                    "enjoyResponse": 2,
+                    "learnRating": 4.383333333,
+                    "learnResponse": 10,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "The prerequisite for entry to the Honours Degree of the Bachelor of Pharmaceutical Science is a Bachelor degree in Pharmacy, Pharmaceutical Science or other related field. An average overall distinction grade or higher in the final year of the course, or equivalent qualifications and experience deemed by the Faculty of Pharmacy and Pharmaceutical Sciences Graduate Research  Committee to be suitable preparation for the candidate's proposed field of study is required.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Students will attend advanced compulsory course work sessions including non-assessable introductory programs, and assessable coursework components relevant to medicinal chemistry. The coursework will be taught within the research theme. Students will undertake coursework study equivalent to a minimum 40 hours of contact which directly supports the research project they are conducting. The coursework program will be overseen by the Faculty Graduate Research Committee.",
+                    "UnitCode": "PSC4111",
+                    "UnitName": "Advanced medicinal chemistry",
+                    "_id": "5878049130213215439e9796",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 36,
+                    "EFTSL": 0.75,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "Full year 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "The prerequisite for entry to the Honours Degree of the Bachelor of Pharmaceutical Science is a bachelor degree in Pharmacy, Pharmaceutical Science or other related field. An average overall distinction grade or higher in the final year of the course, or equivalent qualifications and experience deemed by the Faculty of Pharmacy and Pharmaceutical Sciences Graduate Research Committee to be suitable preparation for the candidate's proposed field of study is required.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Students will conduct a research project under the guidance and supervision of a member of the academic staff of the Monash Institute of Pharmaceutical Sciences theme: Medicinal Chemistry. The research project will be carried out according to the conventions of the chosen research area and in an established academic/research environment. Students will receive regular advice from their supervisors on the rationale and design of the research project, instruction in the relevant experimental techniques, feedback on the outcomes of their investigations, guidance in the presentation of their research findings, and ongoing assistance in learning methodologies. At the conclusion of the research project the findings will be presented in a mini research thesis. Students will receive advice and guidance, within specified guidelines, from their supervisors on the preparation and presentation of a research thesis with support from Faculty and University education support programs. The thesis will be examined by internal examiners and by the supervisor evaluation.",
+                    "UnitCode": "PSC4112",
+                    "UnitName": "Research in medicinal chemistry",
+                    "_id": "5878049130213215439e9797",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

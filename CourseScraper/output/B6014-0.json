@@ -1,0 +1,55 @@
+{
+    "courseAOS": "Master of Actuarial Studies",
+    "courseCode": "B6014",
+    "courseName": "Actuarial Studies",
+    "courseType": "Master degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "BFC2340",
+                "ETC2430",
+                "ECF5923",
+                "ECF5927"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ETC5252",
+                "ETC2410",
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 2"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ETC4110",
+                "ETC5351",
+                "ETC5346",
+                "ETC5343"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ETC4120",
+                "ETC4130",
+                "ETC5353",
+                "ETC5342"
+            ],
+            "year": 1
+        }
+    ]
+}

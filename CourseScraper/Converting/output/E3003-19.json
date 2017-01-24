@@ -1,0 +1,677 @@
+{
+    "courseAOS": "Environmental Engineering/Mathematical Economics and Econometrics",
+    "courseCode": "E3003",
+    "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist",
+    "courseType": "Double Undergraduate",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1001,ENG1002"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1003,ENG1005"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "General rules for software development and design. Errors. Data types, variables, expressions, control statements M-files. Numerical techniques: Gauss elimination, solution of non-linear equations, optimisation, curve fitting, numerical calculus, ordinary differential equations.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "Mathematical methods (CAS) recommended.",
+                    "Prohibitions": "ENG1602",
+                    "SCABand": 2,
+                    "UnitCode": "ENG1060",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Computing for engineers"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Presentation and analysis of grouped and ungrouped data using tables, charts and measures of location and dispersion; standardisation techniques, including index numbers, with application to share price indices and the CPI; analysis of relationships between variables using simple and multiple regression; extensions to multiple regression, including nonlinear and categorical explanatory variables and time series data with applications to forecasting; main ideas of probability theory as a foundation for statistical inference; concept of sampling as a way of capturing uncertainty about data; estimators and their properties; constructing and interpreting confidence intervals; fundamentals of hypothesis testing, testing hypotheses about the mean, difference between means and the slope, including analysis of variance.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "ETG1102, ETW1000, ETW1102, ETX1100, ETX9000, FIT1006, STA1010",
+                    "SCABand": 2,
+                    "UnitCode": "ETC1000",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Business and economic statistics"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1002,ENG1001"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1003,ENG1005"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Faculty Elective",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The nature and scope of economics; different economic systems; economic policy analysis and evaluation; main bodies of economic thought; examples of household, business and government economic decision problems; consumer choice, product demand and factor supply; enterprise choice, product supply and factor demand; market analyses of contemporary issues; competitive market long run equilibrium; market power; market failure and concerns for efficiency and equity; government involvement in the Australian economy.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "ECC1000",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Principles of microeconomics"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit examines the process of economic development and its effects on prosperity, poverty and sustainability. The unit begins by studying the sources of prosperity via economic growth in the modern era, with particular reference to the Great Divergence in incomes that started during the 1800s. Second, the unit asks why some economic systems have prospered, whilst others have declined by turning its attention to disparate experiences of world-wide economic growth such as poverty and starvation. Finally we study the effects and prospects for future economic development in the context of environmental sustainability and climate change.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "ECC2800",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Prosperity, poverty and sustainability in a globalised world"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit is an introduction to ecology; the scientific study of the interactions between organisms and their environment. Ecology and biodiversity forms the foundation for understanding conservation and the management of genetics, species and ecosystem diversity. The approach taken is to address core ecological theory, but with an emphasis on contemporary management issues and applications. Topics include the scope and approaches of ecological enquiry; abiotic and biotic factors determining distributions; population growth and regulation; species interactions; patterns and maintenance of biodiversity; food web analysis; disturbance and succession; and production ecology and nutrient cycling. Particular emphasis is placed on integrating ecological processes across spatial and temporal scales. Practical work will be completed via a field excursion together with in-laboratory practical sessions.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Science",
+                    "Prerequisites": "24 points of level one units, which includes 6 points from BIO units or one of ATS1301, ATS1309, ATS1310, BMS1011 or BMS1021.For Bachelor of Environmental Engineering and associated double degree students only: ENE1621 Environmental engineering and BIO2040 Conservation biology will be required as either prerequisite or corequisite units.",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "BIO2011",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Ecology and biodiversity"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Theory of consumer choice, including applications to income-leisure choice and intertemporal consumption; isoquant theory of production; allocative efficiency and competition and monopoly; models of monopolistic competition and oligopoly; input pricing; microeconomic policies to address problems of market failure.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "ECC1000 or permission",
+                    "Prohibitions": "ECC5900, ECX9000",
+                    "SCABand": 3,
+                    "UnitCode": "ECC2000",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Intermediate microeconomics"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The scope of macroeconomics and its microeconomic underpinnings; aggregation problems; partial equilibrium and general equilibrium analysis; the circular flow of income as a general equilibrium model; the mutual dependence of financial flows and flows of goods and services; sectoral composition of aggregate demand; business and investment behaviour; government spending and taxation; external balance and determination of current and capital accounts; labour market and aggregate supply; money, credit, and the conduct of monetary policy; inflation and unemployment; macroeconomic effects of deregulation in Australia.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "ECC1000 is recommended",
+                    "Prohibitions": "ECF1200, ECG1102, ECS1102, ECW1102",
+                    "SCABand": 3,
+                    "UnitCode": "ECC1100",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Principles of macroeconomics"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ENG2055",
+                    "UnitName": "Cannot Fetch Data"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit will introduce students to the fundamentals of material and energy balances through a systematic treatment of:  single and multiple unit operations, reactive and non-reactive processes, recycle and by-pass, extent of reactions, equations of state, vapour-liquid phase equilibrium, solid-liquid phase equilibrium, internal energy and enthalpy changes for process fluids undergoing specified changes in temperature, pressure, phase, reactions and chemical compositions and computer aided simulation of process flow diagrams. A process simulation software will be used to aid in the solution of more complex systems.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "CHE2113, CHE2140",
+                    "SCABand": 2,
+                    "UnitCode": "CHE2162",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Material and energy balances"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ECC2010,ECC2360,ECC2600,ECC3660,ECC3670,ECC3690,ECC3710,ECC3830"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit introduces students to the empirical analysis of relationships between economic variables. The approach is based on linear regression theory, and emphasises 'hands on' data analysis. Topics studied will include properties of least squares estimators, hypothesis testing, the choice of appropriate functional form, the use of dummy variables, issues around modelling survey data and the problems of serial correlation, heteroscedasticity and multicollinearity.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "ETC1000 or must be enrolled in course 3822 or 4412 or 4439",
+                    "Prohibitions": "ETC2400, ETC3440, ECC2410",
+                    "SCABand": 3,
+                    "UnitCode": "ETC2410",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introductory econometrics"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ENG3048",
+                    "UnitName": "Cannot Fetch Data"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The unit focuses on fundamentals of hydraulics. Hydrostatics is first introduced with application to dam and gates. The basic equations of continuity, momentum and energy conservation are derived and applied to the design of pressurised pipelines. Flow in open channels is introduced with application to waterways, aqueducts and pipes flowing partly full; applications include design of spillways and culverts.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "CIV2263",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Water systems"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ETC2460 & ETC2520,ETC2440 & ECC2610,MTH1020 & MTH1030,MTH1030 & MTC2010/MTC2021"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ECC2010,ECC2360,ECC2600,ECC3660,ECC3670,ECC3690,ECC3710,ECC3830"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit provides foundations for the electrical engineering areas of control, signal processing and communications. The unit introduces concepts of continuous-time and discrete-time signals, their sampling and aliasing issues. Complex numbers, in particular, complex exponentials are introduced along with their representation as phasors, leading to periodic waveforms, Fourier series and the signal frequency spectrum. Modification of spectra will be described using FIR filters, discrete-time systems, the unit-sample response, discrete convolution, linear time-invariant systems, convolution integrals, the continuous-time Fourier transform, windowing, DFT, FFT, time-frequency spectrum analysis, spectrogram, and Laplace Transform. Connecting frequency response and time response completes the unit.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "ENG1060 and (ENG1091 or ENG1005)",
+                    "Prohibitions": "ECE2011",
+                    "SCABand": 2,
+                    "UnitCode": "ECE2111",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Signals and systems"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE3161",
+                    "UnitName": "Cannot Fetch Data"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ETC2460 & ETC2520,ETC2440 & ECC2610,MTH1020 & MTH1030,MTH1030 & MTC2010/MTC2021"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ECC3660,ECC3670,ECC3690,ECC3710,ECC3830"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "Overview of concepts relating to groundwater resources and seepage, with emphasis on seepage containment in reservoirs, ponds, soil pollution and its avoidance, focusing on soil behaviour and its effect on seepage, groundwater percolation and migration of contaminant in the nearfield of waste containment facilities.  Focus will also be on the function, design and construction of engineered soil barriers to prevent leakage from water reservoirs, ponds or to isolate different types of waste.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "CIV3248",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Groundwater and environmental geomechanics"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Environmental Enginering Elective",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ECC3660,ECC3670,ECC3690,ECC3710,ECC3830"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Faculty Elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "Through lectures, practice classes, individual assignments and tests, students should develop knowledge of air pollution issues, assessment and control of pollutants from emission sources. The unit focusses on air pollution sources, emissions behaviour, pollutant pathways, receptor impacts and the associated national legislation and international treaties. The unit includes atmospheric stability conditions, pollutant transport models, air pollution control strategies and factors important in control equipment or schemes. The unit also encompasses climate change, greenhouse gas emissions sources and carbon accounting as well as national and international climate change mitigation strategies and adaptation approaches.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "CHE2162",
+                    "Prohibitions": "ENE3604",
+                    "SCABand": 2,
+                    "UnitCode": "ENE3606",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "The air environment"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "CIV3285",
+                    "UnitName": "Cannot Fetch Data"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The unit will cover, in mathematical terms, many of the areas treated more intuitively in first-year microeconomics, eg: consumer demand, the theory of the firm, equilibrium and Pareto optimum. However, a significant portion of the lectures will deal with topics not covered earlier, such as non-linear programming, game theory, and dynamic optimisation.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "ECC2000 or equivalent",
+                    "Prohibitions": "ECC4384",
+                    "SCABand": 2,
+                    "UnitCode": "ECC3840",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Mathematical economics"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Faculty Elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "CIV4286",
+                    "UnitName": "Cannot Fetch Data"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "In this unit, each student will be required to undertake a research project from a number of topics offered. These topics in general include one or a combination of design, theoretical, review and investigation works that will make a new contribution to the body of knowledge. Experimental work is only permitted when combining with CIV4211.The student will be supervised by an academic member of staff. The project proposal will be presented as a poster, with the outcomes summarised in either a progress report or research paper and oral presentation.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "Completion of 120 credit points and level 3 units in chosen area",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "CIV4210",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Project A"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ENE4608",
+                    "UnitName": "Cannot Fetch Data"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Faculty Elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "CIV4286",
+                    "UnitName": "Cannot Fetch Data"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit examines regulatory responses to global ecological problems such as climate change, biodiversity loss and natural resource depletion, including consideration of legal principles adopted by international environmental agreements and their interactions with traditional property rights and common law regimes, industrial pollution and waste control legislation, and market based strategies, with particular focus upon the role of corporations and business managers.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "BTF3100, BTC3100",
+                    "SCABand": 3,
+                    "UnitCode": "BTX3100",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Sustainability regulation for business"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This is a capstone unit drawing together the material taught in previous units. The objective is to utilise this knowledge to undertake a multi-disciplinary open ended design task for a specified civil engineering development, in groups, mirroring the expectations of working in professional practice. The design project will vary from year to year but will include aspects of structural, water, geomechanics, environmental engineering and transport design with an emphasis on sustainable design.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "(CIV3221, CIV3222, CIV3247, CIV3248, CIV3264, CIV3283) or (CIV3248, CIV3221, CIV3285 or CIV3264, CIV3204, CIV3284, CIV3247) or (CIV3248, CIV3285 or CIV3264, ENE3048, ENE3606)",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "CIV4212",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Civil and environmental engineering practice"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit provides a formal treatment of the core principles underlying econometric and statistical analysis, with particular focus given to likelihood-based inference. Topics covered include the likelihood principle and maximum likelihood estimation; minimum variance unbiased estimation; maximum likelihood asymptotic distribution theory; likelihood-based hypothesis testing; and quasi-maximum likelihood inference. The theoretical developments are supplemented by numerical results produced using computer simulation. Consideration is also given to the numerical optimisation techniques used to implement likelihood-based procedures in practice.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Students must have passed ETC2410, ETC3440 or MTH2232 or must be enrolled in course 3822 or 4412 before undertaking this unit.",
+                    "Prohibitions": "ETC4340",
+                    "SCABand": 3,
+                    "UnitCode": "ETC3400",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Principles of econometrics"
+                }
+            ],
+            "year": 4
+        }
+    ]
+}

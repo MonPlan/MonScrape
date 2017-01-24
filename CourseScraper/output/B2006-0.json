@@ -1,0 +1,154 @@
+{
+    "courseAOS": "Global Cultural Literacies specialisation",
+    "courseCode": "B2006",
+    "courseName": "Commerce and Global Studies",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                [
+                    "ACC1200",
+                    "ACC1100"
+                ],
+                "ECC1000",
+                "ATS1020",
+                {
+                    "faculty": "",
+                    "type": "ATS1xxx - Language"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "MKC1200",
+                "ETC1000",
+                "ATS1515",
+                {
+                    "faculty": "",
+                    "type": "ATS1xxx - Language"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "MGC1010",
+                "BTC1110",
+                "ATS2086",
+                {
+                    "faculty": "",
+                    "type": "ATS2xxx Language"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "ATS2xxx Language Overseas study"
+                },
+                {
+                    "faculty": "",
+                    "type": "ATS2xxx/ATS3xxx Language Overseas study"
+                },
+                {
+                    "faculty": "",
+                    "type": "ATS3xxx Language Overseas study"
+                },
+                {
+                    "faculty": "",
+                    "type": "ATS3xxx Elective Overseas study"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business and Economics elective"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 4"
+                },
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 5"
+                },
+                {
+                    "faculty": "",
+                    "type": "One of ATS2671 Managing intercultural communication ATS2770 English as an international language: Language and globalisation"
+                },
+                {
+                    "faculty": "",
+                    "type": "ATS3xxx Language"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 6"
+                },
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 7"
+                },
+                "ATS3111"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 8 or Commerce elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Capstone unit"
+                },
+                {
+                    "faculty": "",
+                    "type": "ATS3xxx Language"
+                },
+                {
+                    "faculty": "",
+                    "type": "One of ATS3083 Translating across cultures ATS3064 Cultural intelligence: Building competencies for global leadership MON3002 Global connections: Understanding cultural literacy"
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

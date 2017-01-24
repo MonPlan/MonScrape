@@ -1,0 +1,149 @@
+{
+    "courseAOS": "",
+    "courseCode": "M5013",
+    "courseName": "Graduate Diploma in Psychology",
+    "courseType": "Graduate Diploma",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "MO-TP1-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "PSY4111,PSY4122"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "MO-TP2-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "PSY4111,PSY4122"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "MO-TP3-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "PSY4051,PSY4131"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "MO-TP4-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "PSY4051,PSY4131"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "MO-TP5-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "PSY4032,PSY4041,PSY4062,PSY4140,PSY4170,PSY4081,PSY4151"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "MO-TP6-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "PSY4032,PSY4041,PSY4062,PSY4140,PSY4170,PSY4081,PSY4151"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "MO-TP1-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "PSY4032,PSY4041,PSY4062,PSY4140,PSY4170,PSY4081,PSY4151"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "MO-TP2-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "PSY4032,PSY4041,PSY4062,PSY4140,PSY4170,PSY4081,PSY4151"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "MO-TP3-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "PSY4032,PSY4041,PSY4062,PSY4140,PSY4170,PSY4081,PSY4151"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "MO-TP4-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "PSY4032,PSY4041,PSY4062,PSY4140,PSY4170,PSY4081,PSY4151"
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

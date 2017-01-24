@@ -1,0 +1,123 @@
+{
+    "courseAOS": "Bachelor of Education (Honours) in Secondary Health and Physical Education",
+    "courseCode": "D3001",
+    "courseName": "Education",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Education",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF1303",
+                "EDF1071",
+                "EDF1055",
+                "EDF1171",
+                {
+                    "faculty": "",
+                    "type": "Discipline unit 1"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF1304",
+                "EDF1072",
+                "EDF1056",
+                "EDF1172",
+                {
+                    "faculty": "",
+                    "type": "Discipline unit 2"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF2005",
+                "EDF2071",
+                "EDF2055",
+                "EDF2171",
+                {
+                    "faculty": "",
+                    "type": "Discipline unit 3"
+                },
+                "EDF2173"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF2007",
+                "EDF2072",
+                "EDF2056",
+                "EDF2172",
+                {
+                    "faculty": "",
+                    "type": "Discipline unit 4"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF3009",
+                "EDF3071",
+                "EDF3055",
+                "EDF3171",
+                {
+                    "faculty": "",
+                    "type": "Discipline unit 5 or elective"
+                },
+                "EDF3072"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF3007",
+                "EDF3073",
+                "EDF3056",
+                "EDF3172",
+                {
+                    "faculty": "",
+                    "type": "Discipline unit 6 or elective"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF4100",
+                "EDF4171",
+                "EDF4055",
+                "EDF4803",
+                {
+                    "faculty": "",
+                    "type": "Method unit 3A"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF4101",
+                "EDF4006",
+                "EDF4056",
+                "EDF4804",
+                {
+                    "faculty": "",
+                    "type": "Method unit 3B"
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

@@ -1,0 +1,738 @@
+{
+    "courseAOS": "Visual arts specialisation",
+    "courseCode": "F2007",
+    "courseName": "Fine Art and Business",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Art, Design and Architecture",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Entry into Bachelor of Visual Arts course",
+                    "Proh": "VPR1001, VPR1002",
+                    "SCABand": 1,
+                    "Sypnosis": "This is a core unit in the Visual Practices sequence, and is one of four 1st year units. This unit provides students with an exploration of a broad range of approaches to production methodologies in contemporary visual art for those wishing to work in the arts industry. Topics are delivered in an intensive series of workshop environments and will include experimentation with a range of materials, techniques and conceptual approaches. Students will be encouraged to develop inventive solutions to a series of projects set around a variety of themes and concepts appropriate to each workshop. Teaching methods involve technical demonstrations, critical dialogue, class discussion and evaluation. Safe and sustainable approaches to fabrication techniques and materials are promoted as core values in the unit.",
+                    "UnitCode": "VPR1011",
+                    "UnitName": "Visual practices 1",
+                    "_id": "587804f630213215439e990f",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must be enrolled in a course owned, or, granted permission by, the faculty of Art Design and Architecture.",
+                    "Proh": "DRW1201",
+                    "SCABand": 1,
+                    "Sypnosis": "An intensive program facilitating the acquisition and development of practical and intellectual skills required by art, design and architecture students in the discipline of drawing. Observation, analysis, selection, interpretation and expression are studied through sequential projects. Manufactured and natural forms including the figure and other models are central to the investigation of proportion, structure, volume and space through line, tone, shape, movement and texture. A range of drawing materials and methods are explored.",
+                    "UnitCode": "DWG1201",
+                    "UnitName": "Drawing 1",
+                    "_id": "5878017a30213215439e8c29",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "TAD1101",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit is an introduction to visual cultures from the perspectives of art, design and architecture. Key themes within contemporary visual culture are discussed in terms of aesthetic, technological, historical and ideological contexts. Students develop critical skills in analysing the diverse artefacts and practices of art, design and architecture and communicating their significance in verbal and written forms.",
+                    "UnitCode": "AHT1101",
+                    "UnitName": "Introduction to visual culture in Art Design & Architecture",
+                    "_id": "5877ff9b30213215439e84a8",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MKB1200, MKC1200, MKG1120, MKP1120, MKW1120",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit provides students with an introduction to the discipline of marketing. It encompasses marketing's role in a dynamic organisational environment and introduces students to the concepts and strategies employed by marketers to create value for organisations and their stakeholders. The unit provides a foundation for those students seeking to pursue further study in marketing, however it also provides an insight into the interrelationship between marketing and other disciplines.",
+                    "UnitCode": "MKF1120",
+                    "UnitName": "Marketing theory and practice",
+                    "_id": "587803cd30213215439e94ab",
+                    "enjoyRating": 4.213043478,
+                    "enjoyResponse": 166,
+                    "learnRating": 3.940952975,
+                    "learnResponse": 49,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Off-campus)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Admission to any Art Design and Architecture course",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "An introduction to occupational health, safety and environmental training within the context of courses within the Faculty of Art and Design, together with an understanding of the historical perspectives and context of safety and environment concerns in the workplace. The difference between hazard and risk, and the process of risk assessment in workplaces.",
+                    "UnitCode": "OHS1000",
+                    "UnitName": "Introduction to art and design health and safety",
+                    "_id": "5878044b30213215439e9691",
+                    "enjoyRating": 4.045454545,
+                    "enjoyResponse": 48,
+                    "learnRating": 3.962286504,
+                    "learnResponse": 88,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Entry into Bachelor of Visual Arts course",
+                    "Proh": "VPR1002, VPR1001",
+                    "SCABand": 1,
+                    "Sypnosis": "This is a core unit in the Visual Practices sequence, and is one of four 1st year units. This unit provides students with a further exploration of a broad range of approaches to production methodologies in contemporary visual art for those wishing to work in the arts industry. Topics are delivered in an intensive series of workshop environments and will include experimentation with a range of materials, techniques and conceptual approaches. Students will be encouraged to develop inventive solutions to a series of projects set around a variety of themes and concepts appropriate to each workshop. Teaching methods involve technical demonstrations, critical dialogue, class discussion and evaluation. Safe and sustainable approaches to fabrication techniques and materials are promoted as core values in the unit.",
+                    "UnitCode": "VPR1012",
+                    "UnitName": "Visual practices 2",
+                    "_id": "587804f630213215439e9910",
+                    "enjoyRating": 4,
+                    "enjoyResponse": 7,
+                    "learnRating": 3.777777778,
+                    "learnResponse": 6,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Entry into Bachelor of Visual Arts course",
+                    "Proh": "VPR1001, VPR1002",
+                    "SCABand": 1,
+                    "Sypnosis": "Research Practices is a core unit in the Visual Arts sequence and is one of four 1st year units. This unit is a practice driven, workshop based unit which explores varied drawing methodologies and ways they can contribute to a research practice in visual culture. It is designed to develop, challenge and expand how students think about making artwork and to develop research skills. A series of individual and collaborative exercises and projects are presented as starting points that, when navigated, foster creative research skills and develop students' material skills. The main emphasis of this class is to demonstrate how thinking operates through making. Fabrication processes in the workshop can be in any medium from across two- and/or three-dimensional works, to sound and performance. The aim of these exercises is to have a generative influence on production, creating a pool of ideas, strategies, forms and processes for students to draw on and develop as they progress through the course. Teaching methodology involves critical dialogue, classroom discussion and peer review. This unit presents a broad range of approaches to contemporary art and its institutions for those wishing to work in the arts industry as artists, curators, arts writers, educators or practitioners. Research Practices encourages an experimental approach to conceptual and material outcomes. Safe and sustainable approaches to fabrication and materials are core values in the unit.",
+                    "UnitCode": "VPR1113",
+                    "UnitName": "Research practices",
+                    "_id": "587804f730213215439e9911",
+                    "enjoyRating": 3.833333333,
+                    "enjoyResponse": 6,
+                    "learnRating": 3.409722222,
+                    "learnResponse": 7,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "TAD1102",
+                    "SCABand": 1,
+                    "Sypnosis": "The aesthetic, spiritual and ideological energies of the industrial period in painting, furniture, advertising, metalwork and so on. The meaning of works of art and design and the meaning of the standard survey which is traditionally constructed to explain the patterns of art history.",
+                    "UnitCode": "AHT1102",
+                    "UnitName": "Modernism and the avant-garde",
+                    "_id": "5877ff9c30213215439e84a9",
+                    "enjoyRating": 3.038461538,
+                    "enjoyResponse": 48,
+                    "learnRating": 3.368899782,
+                    "learnResponse": 48,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MGB1010, MGC1010, MGG1010, MGP1010, MGW1010",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit offers a critical introduction to fundamental questions in the discipline of management. What is management? What do managers do, and how do I become a good manager? What are the effects of management practice on employees and their experience of being managed? Key contemporary issues of globalisation and cultural diversity, ethics and social responsibility affect the answers to these questions and are therefore woven throughout the curriculum. The unit draws upon a range of sources - academic, practical, popular cultural - to engage students in multiple ways of knowing about management.",
+                    "UnitCode": "MGF1010",
+                    "UnitName": "Introduction to management",
+                    "_id": "5878039e30213215439e93dc",
+                    "enjoyRating": 3.914285714,
+                    "enjoyResponse": 161,
+                    "learnRating": 4.1706434,
+                    "learnResponse": 53,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Completion of DWG1201, VPR1011, VPR1012 and VPR1113",
+                    "Proh": "VPR2001",
+                    "SCABand": 1,
+                    "Sypnosis": "Research Practices Advanced is a core unit in the Visual Arts sequence, and is the first of the two 2nd year units. This unit is a practice driven, workshop based unit which develops a variety of methodologies and their contribution to a research practice in visual culture. It is designed to further develop, challenge and expand how students think about making artwork and to synthesise research interests, building on VPR1113. A series of individual and collaborative exercises and projects are presented to extend and further foster creative research skills and consolidate students' material skills. The main emphasis of this class is to demonstrate how thinking operates through making. Fabrication processes in the workshop can be in any medium from across two- and/or three-dimensional works, to sound and performance. The aim of these exercises is to further extend each student's capacity for production, creating a pool of ideas, strategies, forms and processes for students to draw on and develop as they progress through the course. Teaching methodology involves critical dialogue, classroom discussion and peer review. This unit presents a broad range of approaches to contemporary art and its institutions for those wishing to work in the arts industry as artists, curators, arts writers, educators or practitioners. Research Practices encourages an experimental approach to conceptual, material and public outcomes. Safe and sustainable approaches to fabrication and materials are core values in the unit.",
+                    "UnitCode": "VPR2011",
+                    "UnitName": "Research practices advanced",
+                    "_id": "587804f830213215439e9914",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Workshop elective in Drawing, Film, Glass, Jewellery, Painting, Photography, Printmaking or Sculpture",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "12 credit points at first year level in Art history and theory, or Theory of Art and Design, Visual Culture or permission from Unit Coordinator.",
+                    "Proh": "TAD2112, TAD3102, TAD3112",
+                    "SCABand": 1,
+                    "Sypnosis": "International Art 1945-1990 covers the art produced in the second half of the 20th century and its relevance to contemporary practice. Various actions, interventions and critiques of institutions, museums and the art market will be considered, as well as feminist, queer and non-Western perspectives. An objective of the unit is to reach an understanding of the way art-historical discourses promote and exclude certain practices and practitioners (especially due to gender, race, sexuality and location), with an emphasis on incorporating recent research on artists who were previously excluded from the historical \"canon\".",
+                    "UnitCode": "AHT2102",
+                    "UnitName": "International art 1945-1990",
+                    "_id": "5877ff9d30213215439e84ad",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ACF1200,ACF1100",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Prato"
+                            ],
+                            [
+                                "Second semester 2017 (Off-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "VPR2011",
+                    "Proh": "VPR2002",
+                    "SCABand": 1,
+                    "Sypnosis": "This is a core unit in the Visual Arts and is second of the two 2nd year units. The unit provides students with a broad range of approaches to cultural production for those wishing to work in the visual arts industry across a diverse range of professional platforms. This unit introduces students to various professional processes and outcomes that contemporary visual artists engage and exhibit in. The workshop-driven classes incorporate theoretical and historical perspectives on these gallery-based modes. This unit introduces various steps required to make art public from: studio-based processes; the engagement of critical feedback; administrative processes associated with gallery-based exhibition; installing an artwork; and contextualising the artwork in a considered theoretical and curatorial framework. The workshop program facilitates a support structure for the development and consolidation of experimental approaches to conceptual and material outcomes of burgeoning research interests. Students are required to investigate and develop individual and collaborative solutions to a series of creative public outcomes. Teaching methodology involves lectures, fieldtrips, critical dialogue, class discussion and peer review. Safe and sustainable approaches to fabrication techniques and materials are promoted as core values in the unit.",
+                    "UnitCode": "VPR2012",
+                    "UnitName": "Professional practice",
+                    "_id": "587804f930213215439e9915",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Workshop elective in Drawing, Film, Glass, Jewellery, Painting, Photography, Printmaking or Sculpture",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ECB1101, ECC1000, ECG1101, ECP1100, ECS1101, ECW1101, PMM2020",
+                    "SCABand": 3,
+                    "Sypnosis": "Economics as an area of knowledge. Economics in a business degree. Understanding economic policy. An analysis of markets: supply and demand; consumer behaviour; firm behaviour; cost of production and profit maximisation; behaviour of firms in different market structures; evaluation of market capitalist economic systems, economic efficiency, market failure, government failure; current economic policies, competition policy, privatisation and the funding of education.",
+                    "UnitCode": "ECF1100",
+                    "UnitName": "Microeconomics",
+                    "_id": "587801a430213215439e8cd8",
+                    "enjoyRating": 3.688311688,
+                    "enjoyResponse": 205,
+                    "learnRating": 3.745326328,
+                    "learnResponse": 205,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "AFC1100, AFC2000, AFC2100, AFG1300, AFW1300, BFB1300, BFC2000, BFF1300, BFG1300, BFW1300,BFC1001, BFB1001, BFP1001, BFW1001",
+                    "SCABand": 3,
+                    "Sypnosis": "As a foundation, this unit introduces students to the concepts of finance, financial mathematics, investment analysis, the financial system, risk management and the relationship of finances to other commercial disciplines.",
+                    "UnitCode": "BFF1001",
+                    "UnitName": "Foundations of finance",
+                    "_id": "587800f630213215439e8a12",
+                    "enjoyRating": 3.895502646,
+                    "enjoyResponse": 321,
+                    "learnRating": 4.710291859,
+                    "learnResponse": 53,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "VPR2012 and 1 department approved elective",
+                    "Proh": "VPR3001",
+                    "SCABand": 1,
+                    "Sypnosis": "This is a core unit in the Visual Arts sequence and is first of the two 3rd year units. The unit provides students with an advanced perspective on the various modes of publication available to cultural practitioners engaged in Visual Art. This unit gives students an opportunity to incorporate theoretical frameworks that reflect and expand upon a breadth of fields that include education, business, information technology or the liberal arts into their production of visual culture. This unit asks students to develop self-directed strategies that extend upon traditional gallery based exhibition modes. These modes might include: artists' books, editioned objects; site-based research and exhibiting; digital broadcast; collaborative, social and/or performative processes; curatorial contexts; and creative arts writing. The workshop program encourages an experimental and critical approach to conceptual and material outcomes whilst providing opportunities to cultivate curatorial, critical writing and administrative skills. Students are required to initiate individual and collaborative solutions to a series of creative public outcomes. Teaching methodology involves lectures, fieldtrips, critical dialogue, class discussion and peer-review. Safe and sustainable approaches to fabrication techniques and materials are promoted as core values in the unit.",
+                    "UnitCode": "VPR3011",
+                    "UnitName": "Professional practice advanced",
+                    "_id": "587804f930213215439e9918",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Workshop elective in Drawing, Film, Glass, Jewellery, Painting, Photography, Printmaking or Sculpture",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students enrolled in course code 0816 must be granted permission to undertake this unit.",
+                    "Proh": "BTB1010, BTP1010, BTC1110, BTG1200, BTW1200",
+                    "SCABand": 3,
+                    "Sypnosis": "Liability for defective products; liability for misleading advice or information; contract law; agency law; partnership law; introduction to company law; company officers' duties.",
+                    "UnitCode": "BTF1010",
+                    "UnitName": "Business law",
+                    "_id": "5878012330213215439e8ac5",
+                    "enjoyRating": 3.974226804,
+                    "enjoyResponse": 211,
+                    "learnRating": 3.887235527,
+                    "learnResponse": 43,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ETX1100, BUS1100, ETB1100, ETC1000, ETG1102, ETW1000, ETW1102, PMM2020, SCI1020, ETP1100, ETX9000, AFX9510, ETC9000, ETX9000 and students enrolled in course codes 1941, 2224, 3381 or 4423 cannot undertake this unit.",
+                    "SCABand": 2,
+                    "Sypnosis": "Students will learn to use basic statistical techniques and apply them to problems in accounting, finance, management, marketing and business in general. Students should also be able to effectively communicate the results of their analyses. This unit covers descriptive statistics for revealing the information contained in data; probability as a tool for dealing with uncertainty; probability distributions to model business behaviour; confidence interval estimation and hypothesis testing techniques for single populations; analysis of relationships between variables using simple linear regression; and simple tools for forecasting time series data. Excel software will be used.",
+                    "UnitCode": "ETF1100",
+                    "UnitName": "Business statistics",
+                    "_id": "5878025f30213215439e8f59",
+                    "enjoyRating": 3.865972222,
+                    "enjoyResponse": 216,
+                    "learnRating": 3.938020197,
+                    "learnResponse": 108,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "VPR3011 and 2 department approved electives",
+                    "Proh": "VPR3002",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit is the last and culminating unit in the Visual Practices sequence and is second of the two 3rd year units. In this unit emphasis is placed on independent cultural research and its relation to a broader collaborative or group context in the public realm. Students develop a creative, expressive and critical project that utilises advanced conceptualisation and material manipulation, engaging with the artwork as part of a chain of production, reception, distribution and publics. Students develop individual programs in conjunction with the lecturers that reflect their evolving cultural practice and professional direction. The program focuses on clear articulation of concepts and their publication in the written form as a supplement to the student's Visual Practice. Detailed analysis and discussion of students' work takes place primarily through personal tuition with lecturers, peer-based critique and experimenting with various modes of public presentation. This unit provides a stimulating and supportive environment through the introduction of a supervised studio and bridges this to independent professional practice in the broader arts arena. This unit contextualises individual practice within various public platforms that require different modes of group and/or collaborative modes of engagement. The work produced culminates in an end of year exhibition of a professional standard, preparing students for entry into the professional world as cultural producer in broad array of Visual Arts disciplines, or the pursuit of further studies at a higher level.",
+                    "UnitCode": "VPR3012",
+                    "UnitName": "Visual practices 3",
+                    "_id": "587804fa30213215439e9919",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Elective from AHT level 2/3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Business Major 1",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Business Major 2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Business Major 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Business Major 4",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Business Major 5",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Business Major 6",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Business Major 7",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Business Major 8 or Business elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Capstone unit",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

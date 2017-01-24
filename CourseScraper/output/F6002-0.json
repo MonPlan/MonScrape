@@ -1,0 +1,57 @@
+{
+    "courseAOS": "Master of Design",
+    "courseCode": "F6002",
+    "courseName": "Design",
+    "courseType": "Master degree",
+    "faculty": "Faculty of Art, Design and Architecture",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ADA4500",
+                "MDC4500",
+                "MDC4550",
+                "OHS1000"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "TAD4523",
+                {
+                    "faculty": "",
+                    "type": "Selective unit (6 points)"
+                },
+                {
+                    "faculty": "",
+                    "type": "Specialisation Studio 1 MDC4201 Interaction Design MMD4001 Multimedia Design MDC4XXX Collaborative Design (12 points)"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "PPR5000",
+                {
+                    "faculty": "",
+                    "type": "Selective unit (6 points)"
+                },
+                "MDC5201"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "TAD5XXX Exegesis (6 points)"
+                },
+                "MDC5202"
+            ],
+            "year": 1
+        }
+    ]
+}

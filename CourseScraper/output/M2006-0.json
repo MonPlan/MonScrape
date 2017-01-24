@@ -1,0 +1,65 @@
+{
+    "courseAOS": "Bachelor of Nursing",
+    "courseCode": "M2006",
+    "courseName": "Nursing",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "BMA1901",
+                "NUR1010",
+                "NUR1001",
+                "NUR1105"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BMA1912",
+                "NUR1102",
+                "NUR1202",
+                "NUR1205"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "NUR2106",
+                "NUR2107",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "NUR2206",
+                "NUR2207",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "NUR3002",
+                "NUR3001",
+                "NUR3003",
+                "NUR3006"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "NUR3005",
+                "NUR3004"
+            ],
+            "year": 2
+        }
+    ]
+}

@@ -1,0 +1,295 @@
+{
+    "courseAOS": "Medical Engineering",
+    "courseCode": "E6001",
+    "courseName": "Master of Advanced Engineering",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The unit consists of a review of probabilistic foundations for data analysis including probability, random variables, expectation, distribution functions, important probability distributions, central limit theorem, random vectors, conditional distributions and random processes.Students will develop the foundations of statistical inference including estimation, confidence intervals, maximum likelihood, hypothesis testing, least-squares and regression analysis.A selection of more advanced topics in probability, random modelling and statistical inference will also be presented.The material will be taught in the context of real engineering problems taken from multiple engineering disciplines. A widely used numerical computing environment will be used extensively throughout the unit.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "None",
+                    "Prohibitions": "None",
+                    "SCABand": 2,
+                    "UnitCode": "ENG5001",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Advanced engineering data analysis"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Enhancement Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Technical Elective Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Technical Elective Unit",
+                    "UnitName": ""
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The goal of this unit is to impart an evidence-based methodology for building scalable startups that students can use for the rest of their careers, whether they are starting a new business or working in established organisations.  For a new business, the goal is acquiring investor funding.  In a corporate environment, the methodology will help the organisation start new businesses and allocate their internal resources (time, technology, and talent) more efficiently.  The unit will be taught in a hands-on way that engages student teams by requiring them to develop hypotheses and then test those hypotheses outside the classroom.  Throughout the semester, teams will modify their business models based on feedback from potential customers, and can then decide if there is a worthwhile business to be built.  The unit does not include the execution of the business models.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "None",
+                    "Prohibitions": "None",
+                    "SCABand": 2,
+                    "UnitCode": "ENG5002",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Engineering entrepreneurship"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Enhancement Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Technical Elective Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Technical Elective Unit",
+                    "UnitName": ""
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "BMA5001",
+                    "UnitName": "Cannot Fetch Data"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The aim of this unit is to link the requirements of clinical medicine to engineering through advanced materials design and fabrication in the framework of new medical devices, therapeutics and diagnostics. Topics covered in the unit include cell biology and biomechanics at the cellular level, biocompatibility, tissue engineering and other composite material/cell applications, The use of stem cells in conjunction with materials and the use of materials to guide cellular fates and properties is of high relevance. A detailed study of medical additive manufacturing (3D printing) in metals, polymers and cells will be provided. Strong connection to how materials can contribute to solutions that address unmet clinical need will be made throughout the unit.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "MTE6885",
+                    "SCABand": 2,
+                    "UnitCode": "MTE5885",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Biomaterials and biomechanics"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit provides students a unique opportunity to work on a real-world, engineering design problem in a multidisciplinary team environment. The project will involve a critical assessment of the design problem from engineering as well as non-engineering perspectives. The project work rely on using creative problem solving and decision-making skills and modern project management tools for developing practical solutions to the design problem. The outcomes of the project will be communicated via presentations, demonstrations and reports. This project may be undertaken either within the faculty or with external partners. This is the first part of a two-unit project sequence.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ENG5003",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Advanced design project A"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit provides a challenging opportunity for students to pursue an independent, self-guided research project aimed at advancing the body of knowledge relevant to the topic.  The project will involve a critical assessment of the current literature and will include one or a combination of design, development, and theoretical or experimental investigation work. The project plan and its outcomes will be communicated to a wider audience via a proposal, oral presentations, a progress report and a technical paper. The project may be undertaken either within the faculty or externally with a company or research organisation. This is the first part of a two-unit project.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ENG5005",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Engineering project A"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The aim of this unit is to provide an overview of the various aspects of translation and commercialisation of medical technologies in order to provide specific training that is highly relevant to the medical technology industry. The topics covered in the unit include policy and the International and national regulatory environment, medical device reimbursement, bioethics, intellectual property, product development and manufacturing, and health economics. The topics will be taught in part by practitioners who are highly skilled in their fields. The course material will be provided in the form of lectures and analysis of case studies.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "ENG6007",
+                    "SCABand": 2,
+                    "UnitCode": "ENG5007",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Translation and commercialisation of medical technologies"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The aim of this unit is to couple engineering techniques relevant to medical devices and systems with clinical and surgical demands. The unit will address the fundamentals of human body systems, and how this relates to the physical principles and design of typical medical and bio-mechatronic devices and their application in the clinic and surgery. A key focus will be the classification of medical devices in terms of safety and regulatory regimes in Australia and worldwide, including in relation to the development of new devices. Imaging devices and imaging modalities will be introduced, as will the coupling of imaging and surgical tools in the one device. Implantable devices for both diagnostic and therapeutic use and the advanced manufacturing of medical devices will be covered.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "MEC6889",
+                    "SCABand": 2,
+                    "UnitCode": "MEC5889",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Medical device technologies"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Together with ENG5003, this unit provides students a unique opportunity to work on a real-world, engineering design problem in a multidisciplinary team environment. The project will involve a critical assessment of the design problem from engineering as well as non-engineering perspectives. The project work rely on using creative problem solving and decision-making skills and modern project management tools for developing practical solutions to the design problem. The outcomes of the project will be communicated via presentations, demonstrations and reports. This project may be undertaken either within the faculty or with external partners. This is the second part of a two-unit project sequence.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "ENG5003",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ENG5004",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Advanced design project B"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Together with ENG5005, this unit provides a challenging opportunity for students to pursue an independent, self-guided research project aimed at advancing the body of knowledge relevant to the topic.  The project will involve a critical assessment of the current literature and will include one or a combination of design, development, and theoretical or experimental investigation work. The project plan and its outcomes will be communicated to a wider audience via a proposal, oral presentations, a progress report and a technical paper. The project may be undertaken either within the faculty or externally with a company or research organisation. This is the second part of a two-unit project.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "ENG5005",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ENG5006",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Engineering project B"
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

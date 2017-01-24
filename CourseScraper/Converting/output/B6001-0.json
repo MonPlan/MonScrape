@@ -1,0 +1,171 @@
+{
+    "courseAOS": "Applied Econometrics",
+    "courseCode": "B6001",
+    "courseName": "Master of Applied Economics and Econometrics",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ETF2100,ETC2410"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ETF2700,ETC2440,ETF2121"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ECC5900,ECF5927"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ECC5901,ECF5923"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ETC5341,ETF5320"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation Unit",
+                    "UnitName": ""
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "Presents newly developed econometric methodology in model building and model evaluation in general.  Recent literature on assessing business time series properties, non-linear time series models, multiple cointegration, impulse response function and variance decomposition is introduced.  Examples in business, economics and finance will be drawn to illustrate the application of techniques covered in this unit.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Students must be enrolled in course code 4412, 3816 or 3822 or must have passed ETF3200 or ETF9200 or ETF3300 or ETC3410 or ETC5341 or ETF5320 or by permission.",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "ETF5200",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Applied time series econometrics"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "Under supervision, students are expected to undertake and report on an original research topic that addresses a contemporary and significant issue in the field of applied or theoretical econometrics. Students must find a suitable supervisor and have selected an appropriate area of research in order to undertake this unit.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Students must have passed 24 points at Level 5 from the Department of Econometrics and Business Statistics.",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "ETF5550",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Research project"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

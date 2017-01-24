@@ -1,0 +1,1113 @@
+{
+    "courseAOS": "Mechanical Engineering specialisation",
+    "courseCode": "E3004",
+    "courseName": "Engineering and Biomedical Science",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ENG1001 Engineering Design: lighter, faster, stronger OR ENG1002",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1090,PHS1080,ENG1005",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit introduces the student to the chemistry of organic molecules and the biochemistry of cells. We examine the role of functional groups in biological molecules of biomedical importance and common reactions in metabolism. We reinforce concepts of ionisation and pH. We discuss the chemistry of proteins and their physical properties in solution leading up to an examination of enzyme catalysis and kinetics. This lays the foundation for an examination of the biological oxidation of fats and carbohydrates that provides the cell with energy. We examine the way energy is stored in times of plenty and relate our understanding to normal and disease states that occur.",
+                    "UnitCode": "BMS1011",
+                    "UnitName": "Biomedical chemistry",
+                    "_id": "5878011530213215439e8a8d",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "BIO1011, BIO1022.",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit introduces the student to the fundamental units of life (the cells) and explores how cells come together to form primary tissues which subsequently combine to form the organ systems and ultimately the living organism.Cellular structure and metabolism is studied including the chemical constituents of living cells and the biological reactions that take place in them. Basic developmental biology concepts associated with the patterning of the body plan and embryological origins of cells and tissues are introduced.The unit also introduces students to the microbial world and explores the structure and function of the immune system and how the body develops an immune response.",
+                    "UnitCode": "BMS1021",
+                    "UnitName": "Cells, tissues and organisms",
+                    "_id": "5878011530213215439e8a8e",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1090,PHS1080",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ENG1002 Engineering design: cleaner, safer, smarter OR ENG1001",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "VCE Specialist Mathematics or ENG1090 (or equivalent)",
+                    "Proh": "ENG1091, MTH1030, MTH1035",
+                    "SCABand": 2,
+                    "Sypnosis": "Vector algebra and geometry: equations of lines and planes. Linear algebra: matrix operations, up to 3x3 systems of linear equations, eigenvalues and eigenvectors. Calculus: improper integrals, integration by parts. Sequences and series: fundamentals of convergence, Taylor series, use in error analysis. Ordinary differential equations: first order, second order with constant coefficients, repeated roots, simple non-homogeneous cases. Laplace transforms: elementary functions, inversion by tables; shifting; derivatives, applications to ODEs. Multivariable calculus: partial derivatives, gradient and directional derivatives, maxima and minima.",
+                    "UnitCode": "ENG1005",
+                    "UnitName": "Engineering mathematics",
+                    "_id": "5878023630213215439e8eb6",
+                    "enjoyRating": 3.728916952,
+                    "enjoyResponse": 225,
+                    "learnRating": 3.708615101,
+                    "learnResponse": 113,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Applications of epidemiological and statistical concepts and methods to typical problems in population health and in the biomedical literature. This will include consideration of fundamental ethical issues pertaining to the conduct of biomedical research and population health interventions. Much emphasis is placed on a population view of health and disease, social determinants of health, epidemiological principles, research study design and statistical analyses of data.",
+                    "UnitCode": "BMS1042",
+                    "UnitName": "Public health and preventive medicine",
+                    "_id": "5878011530213215439e8a90",
+                    "enjoyRating": 3.86971831,
+                    "enjoyResponse": 282,
+                    "learnRating": 4.572318581,
+                    "learnResponse": 58,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MCB2011, MOL2011.",
+                    "SCABand": 3,
+                    "Sypnosis": "Gene structure and function, including the genetic code and its interpretation, the assembly of genes and chromosomal organisation, and the basics of the genetic flow of information from DNA to RNA to protein. Mechanisms of gene expression and regulation, gene replication and repair, and the causes and implications of genetic mutations. Molecular genetics and recombinant DNA technology for the manipulation of genes. Genomics and its applications in medicine and principles of gene therapy.",
+                    "UnitCode": "BMS1062",
+                    "UnitName": "Molecular biology",
+                    "_id": "5878011630213215439e8a92",
+                    "enjoyRating": 4.038043478,
+                    "enjoyResponse": 195,
+                    "learnRating": 4.16352657,
+                    "learnResponse": 187,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to the use of Information Technology (IT) in modern engineering practice. Students will learn an object-oriented approach to both computer systems and software engineering for solving engineering problems.Students will work in small teams to develop a mobile application that meets a contemporary need in engineering. The fundamental stages in the software development lifecycle will be introduced, including requirements analysis, design, implementation and verification. Students will use IT tools to support the engineering process.",
+                    "UnitCode": "ENG1003",
+                    "UnitName": "Engineering mobile apps",
+                    "_id": "5878023630213215439e8eb5",
+                    "enjoyRating": 3.662162162,
+                    "enjoyResponse": 306,
+                    "learnRating": 3.75307989,
+                    "learnResponse": 153,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "TRC2201",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces second year mechanical engineering students to the concepts of time, space, coordinate systems, particles, rigid bodies, forces, work, energy and Newton's Laws of Motion. Students will be taught the fundamentals of kinematics and kinetics of rigid bodies and systems of particles and to carry out dynamic analysis to balance systems with rotating and reciprocating masses. Students will also be introduced to 3-dimensional dynamics of rigid bodies. The fundamentals of mechanical vibration, analysis and synthesis of planar mechanisms and experimental modeling will complete the unit.",
+                    "UnitCode": "MEC2401",
+                    "UnitName": "Dynamics I",
+                    "_id": "5878038730213215439e937d",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "PHS1031, PHS1080.",
+                    "SCABand": 3,
+                    "Sypnosis": "The behaviour of human and biomedical systems are understood in terms of underlying physical principles. Forces involved in human movement and body systems including muscles and joints. Energy and heat flow and metabolism, pressure, osmosis, diffusion and respiration, fluid flow in the cardiovascular system. Electrical charges, current, potential and capacitance in simple circuits, EEG, ECG, cells and nerve conduction. Sound and ultrasound, human hearing, refraction and lenses, the human eye, optical and electron microscopes. X-rays and radiation, biological effects and damage, radiation therapy and medical imaging.",
+                    "UnitCode": "BMS1031",
+                    "UnitName": "Medical biophysics",
+                    "_id": "5878011530213215439e8a8f",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "BMS1011.",
+                    "Proh": "BCH2022",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit covers the molecular principles of cellular metabolic regulation, metabolic interrelationship of tissues, molecular events associated with the fed and fasted states, and the generation of metabolic energy by oxidation of macronutrients.It discusses hormone action and the molecular and cellular basis of diseases, and gives an overview of tissue metabolism.The autonomic control of energy, exercise and metabolism, and how drugs can modulate these processes will be considered and discussed.The unit will also  cover the molecular mechanism of cell growth, differentiation and death, and introduces the basic principles of developmental biology covering cell fate, pattern formation and tissue morphogenesis during embryonic life.",
+                    "UnitCode": "BMS2021",
+                    "UnitName": "Human molecular cell biology",
+                    "_id": "5878011630213215439e8a94",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Mathematical methods (CAS) recommended.",
+                    "Proh": "ENG1602",
+                    "SCABand": 2,
+                    "Sypnosis": "General rules for software development and design. Errors. Data types, variables, expressions, control statements M-files. Numerical techniques: Gauss elimination, solution of non-linear equations, optimisation, curve fitting, numerical calculus, ordinary differential equations.",
+                    "UnitCode": "ENG1060",
+                    "UnitName": "Computing for engineers",
+                    "_id": "5878023730213215439e8eb9",
+                    "enjoyRating": 4.05248538,
+                    "enjoyResponse": 274,
+                    "learnRating": 3.934633702,
+                    "learnResponse": 137,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ENG2006",
+                    "UnitName": "Cannot Fetch Data",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "PHY2011.",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit consists of an introduction to human nervous system which ranges in scope from the operations of individual nerve cells at the molecular level to the generation of complex cognitive behaviours. The unit will provide students with an essential overview of the human nervous system and it will also serve as a foundation for more specialised studies in neurobiology or cognitive science.",
+                    "UnitCode": "BMS1052",
+                    "UnitName": "Human neurobiology",
+                    "_id": "5878011630213215439e8a91",
+                    "enjoyRating": 4.262376238,
+                    "enjoyResponse": 187,
+                    "learnRating": 3.847183102,
+                    "learnResponse": 282,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "BMS1062 or MCB2011/MOL2011",
+                    "Proh": "GEN2041 and GEN2052.",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit introduces the basic genetic principles underlying modern human genetics. Topics include: the central role of genes in the inheritance of traits, and the complex variation in inheritance patterns that arise due to interactions of genes with each other and the environment; the identification, characterisation and mapping of human genes;  the value of model organisms in genetics; chromosome variation and its role in both evolution and human disease; how genes function and how genetic malfunction can lead to genetic disease; how an understanding of such diseases at the genetic level may assist in diagnosis, prevention and therapy; the genetic control of development; genetic counselling and calculating risk for genetic diseases; human evolutionary genetics.",
+                    "UnitCode": "BMS2042",
+                    "UnitName": "Human genetics",
+                    "_id": "5878011730213215439e8a96",
+                    "enjoyRating": 4.528985507,
+                    "enjoyResponse": 134,
+                    "learnRating": 3.934826712,
+                    "learnResponse": 195,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "12 engineering credit points at level 1",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "A systematic method of capturing design requirements, tools for ideation, estimation and decision-making. Primary and secondary manufacturing processes, assembly techniques. Engineering graphics for problem-solving, manufacturing communication and ideation. Report writing, teamwork in solving design problems involving the integration of mechanical elements in prototype conception, construction and testing.",
+                    "UnitCode": "MEC2402",
+                    "UnitName": "Engineering design I",
+                    "_id": "5878038730213215439e937e",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MAE2401",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit conveys the fundamental knowledge necessary for the analysis and design of mechanical engineering structures. It builds on aspects of applied forces and basic structural analysis that are contained in various units in level 1. It provides a focus for this prior learning with respect to the analysis of components and structures within a mechanical engineering context.",
+                    "UnitCode": "MEC2403",
+                    "UnitName": "Mechanics of materials",
+                    "_id": "5878038730213215439e937f",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ANT2331.",
+                    "SCABand": 3,
+                    "Sypnosis": "This course is an introduction to human anatomy. It includes an overview of  general principles of major body systems. This will be followed by a consideration of specific areas of regional anatomy from an evolutionary perspective. Namely, what distinguishes the human body from other primates, mammals and indeed vertebrates and how have these adaptations of anatomy contributed in a functional context to us being so successful.  Practical classes will involve exposure to human cadaver prosections, skeletal material, models and a range of imaging modalities including X-rays, CT scans etc.",
+                    "UnitCode": "BMS2011",
+                    "UnitName": "Structure of the human body: An evolutionary and functional perspective",
+                    "_id": "5878011630213215439e8a93",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "BMS1052.",
+                    "Proh": "BND2011, PHY2011, PHY2021 and PHY2032.",
+                    "SCABand": 3,
+                    "Sypnosis": "Physiology is the study of how living organisms work. It involves the functions of cells, tissues, organs and the whole organism. This unit will provide you with an overview of how the body maintains a constant environment for its cells and tissues through the integrated functions of the following physiological systems: cardiovascular, renal, endocrine, respiratory, reproductive and gastrointestinal. You will also consider how the body adapts to changes in the external environment and to disease states.",
+                    "UnitCode": "BMS2031",
+                    "UnitName": "Body systems",
+                    "_id": "5878011630213215439e8a95",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "24 credit points",
+                    "Proh": "MAE2404, CHE2161",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit develops the students' physical understanding of fluid statics and fluid flow and the interaction of fluid forces with solids.Topics include hydrostatics, Reynolds transport theorem, continuity and momentum equations, control volume analysis, the Bernoulli equation, viscous pipe flow,  pumps, dimensional analysis, boundary layers, flow measurement techniques and applications of fluid forces in flow - lift and drag.",
+                    "UnitCode": "MEC2404",
+                    "UnitName": "Mechanics of fluids",
+                    "_id": "5878038730213215439e9380",
+                    "enjoyRating": 4.524358974,
+                    "enjoyResponse": 74,
+                    "learnRating": 3.567010582,
+                    "learnResponse": 44,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "CHE2120",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces concepts of heat, work, energy, temperature and pressure. The properties of pure substances, steam tables and phase diagrams and their use in thermodynamics problems, First and Second Laws of Thermodynamics and their use in steady and unsteady state problems, Carnot cycle, Gas power cycles, vapour and combined power cycles are introduced. Use of T-s diagrams for power cycle analysis, P-h diagrams in refrigeration cycle analysis and simple combustion processes are covered. Renewable energy such as solar, hydro, wind and biomass, and their use in heating and electricity generation and the environmental benefits of renewable energy conclude study in this unit.",
+                    "UnitCode": "MEC2405",
+                    "UnitName": "Thermodynamics",
+                    "_id": "5878038730213215439e9381",
+                    "enjoyRating": 3.392857143,
+                    "enjoyResponse": 87,
+                    "learnRating": 3.352164982,
+                    "learnResponse": 60,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "BMS1062.",
+                    "Proh": "MIC2022.",
+                    "SCABand": 3,
+                    "Sypnosis": "The following aspects of the interactions of microbes with their hosts will be presented in lectures, tutorials, discussion groups and videos: The history of infectious diseases, medically important viruses and bacteria, pathogenic mechanisms in infectious diseases, immunity to infection, and their regulation, control of infection by vaccines and drugs, and emerging diseases.",
+                    "UnitCode": "BMS2052",
+                    "UnitName": "Microbes in health and disease",
+                    "_id": "5878011730213215439e8a97",
+                    "enjoyRating": 4.019607843,
+                    "enjoyResponse": 120,
+                    "learnRating": 4.525802187,
+                    "learnResponse": 134,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MOL2022.",
+                    "SCABand": 3,
+                    "Sypnosis": "Bioinformatics unites the major advances in biology, biochemistry and the biomedical sciences with those in computing, bioinformatics and networking. The unit covers the application of the internet to biomedical sciences; organisation and uses of scientific databases; use of computational methods in genomics and proteomics; fundamentals of molecular modelling; analysis and presentation of biomedical data; and communication of biomedical data using information technology.",
+                    "UnitCode": "BMS2062",
+                    "UnitName": "Introduction to bioinformatics",
+                    "_id": "5878011730213215439e8a98",
+                    "enjoyRating": 3.838582677,
+                    "enjoyResponse": 264,
+                    "learnRating": 4.011597192,
+                    "learnResponse": 120,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MEC2405",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit aims to develop a fundamental understanding of the processes by which heat and energy are inter-related and converted and by which heat is transferred. The unit will review major principles of energy conversion and the modes of heat transfer. The basic laws of thermodynamics and the governing equations for heat transfer and thermodynamics will be introduced and subsequently used to solve practical engineering problems involving thermodynamics and heat transfer. The unit will also cover fundamental design principles of power generation systems and heat exchangers.",
+                    "UnitCode": "MEC3454",
+                    "UnitName": "Thermodynamics and heat transfer",
+                    "_id": "5878038930213215439e9387",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MEC2401, ENG2091 or MTH2021 or MTH2032 or ENG2005",
+                    "Proh": "TRC3200",
+                    "SCABand": 2,
+                    "Sypnosis": "The fundamental concepts of rigid body and particle dynamics taught in the second level dynamics unit will be further reinforced.  This unit then focusses on mechanical vibrations theory.  The methodology for analysing the response of a vibratory system to given external stimuli is covered.  Both single and multi-degrees of freedom and discrete and continuous vibratory systems will be analysed.  The methods for developing the equations of motion of a vibratory system using Newton's 2nd law and the Lagrange equation and the manipulation of these equations to analyse the free and forced vibration responses of these systems will be introduced.  The analysis of forced vibrations will include periodic and non-periodic forcing functions.",
+                    "UnitCode": "MEC3453",
+                    "UnitName": "Dynamics II",
+                    "_id": "5878038930213215439e9386",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "BMS1011, BMS1021, BMS1031, BMS1042, BMS1052, BMS1062, BMS2011, BMS2021, BMS2031, BMS2042, BMS2052, BMS2062.",
+                    "Proh": "BMS3021.",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit will provide insights into the molecular mechanisms that mediate human diseases and the specific biotechnologies used to facilitate diagnosis and treatment.Relevant areas studied in this unit may change from year to year but will generally include a number of topics related to pharmacology, cancer, cardiovascular disease, development and stem cells, infection and immunity, metabolic disease and obesity, and neuroscience.The small group work in the unit is designed to build employability skills for graduates.Emphasis is placed on critical thinking, research skills and on communication skills in the context of biomedical research.",
+                    "UnitCode": "BMS3031",
+                    "UnitName": "Molecular mechanisms of disease",
+                    "_id": "5878011730213215439e8a9a",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Mechanical eng elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Mechanical eng elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "BMS3052",
+                    "UnitName": "Cannot Fetch Data",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MEC2403",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit aims to develop an understanding of the analytical methodologies used in strength and stiffness assessment of engineering structures and components. It allows students to translate real-world forces into abstract form for engineering modelling of a range of common problems found in industry and gain knowledge of the relationship between analysis and design. Students will be exposed to a wide range of analytical tools and modeling philosophies. To complement these analytical solution techniques, students will now be taught the fundamentals of finite element analysis.",
+                    "UnitCode": "MEC3455",
+                    "UnitName": "Solid mechanics",
+                    "_id": "5878038930213215439e9388",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MEC2404 and 18 engineering credit points at level two",
+                    "Proh": "MAE3401",
+                    "SCABand": 2,
+                    "Sypnosis": "The foundations of continuum analysis of fluids will be presented. Using control volume analysis the fundamental conservation laws for mass, momentum and energy are developed leading to the derivation of the Navier-Stokes equations. Techniques employed to solving these equations for specific problems are explored. Methods of exact and approximate solutions of these equations, and the use of conceptual and analytical tools such as flow similitude, vorticity, circulation, stream function and velocity potential are described. The concept of boundary layers and its use in the calculation of drag and lift forces is elucidated. The origins and physical consequences of the phenomenon of fluid turbulence are discussed, along with their implications for computation of turbulent flows. The analysis of compressible flows and its applications are discussed. The Unit introduces the concepts underpinning the broad areas of fluid acoustics, computational fluid dynamics, environmental fluid mechanics and wind energy.",
+                    "UnitCode": "MEC3451",
+                    "UnitName": "Fluid mechanics II",
+                    "_id": "5878038830213215439e9385",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "18 engineering credit points at level three",
+                    "Proh": "MAE4901",
+                    "SCABand": 2,
+                    "Sypnosis": "Students undertake a self-guided learning task in the form of a project.Projects may be a single semester or (in conjunction with MEC4402) a full year in length [Enrolment by Departmental approval only]. Projects will consist of either a design, theoretical, or experimental investigation. The project may be undertaken either within the Department or externally with a company or research organization. In either case, an academic member of staff will act as the supervisor. While some projects may benefit from group based work it is expected that students will work individually on each project.NB. Before work is started on the project a safety induction and risk assessment process will be completed.",
+                    "UnitCode": "MEC4401",
+                    "UnitName": "Final year project",
+                    "_id": "5878038a30213215439e938d",
+                    "enjoyRating": 3.939393939,
+                    "enjoyResponse": 30,
+                    "learnRating": 4.086022311,
+                    "learnResponse": 25,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MEC2406 or MEC3416",
+                    "Proh": "MEC3452",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit builds on knowledge gained in both second year design units, and other core engineering classes, and continues the use of group work and design projects as key learning methodologies to integrate theoretical knowledge and understanding. It includes use of design software tools for 3D modeling, assembly, finite element analysis (FEA), computational fluid dynamics (CFD) and design optimization. Topics on manufacturing processes will incorporate the discussion of a variety of modern computer controlled processes in addition to those relating to composites and polymers. The unit will emphasize design methodologies and processes for low cost, manufacturability, ease of assembly and speed to market.",
+                    "UnitCode": "MEC4407",
+                    "UnitName": "Engineering design III",
+                    "_id": "5878038b30213215439e9390",
+                    "enjoyRating": 4.436529933,
+                    "enjoyResponse": 94,
+                    "learnRating": 4.3,
+                    "learnResponse": 10,
+                    "placeholder": false
+                }
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MEC2402",
+                    "Proh": "MEC2406",
+                    "SCABand": 2,
+                    "Sypnosis": "In this integrative level 3 unit students of mechanical engineering programs are introduced to the design of machine elements covering bearings, shafts, welds, fasteners, gears etc. This leads to an examination of techniques for improving engineering designs based on economic and functional considerations. Geometric and economic tolerancing is further explored. The use of solid modeling software to simulate the behaviour of mechanical devices and produce engineering drawings is introduced. The integration of design skills and related engineering studies is covered through a group exercise to design a mechanical device.",
+                    "UnitCode": "MEC3416",
+                    "UnitName": "Engineering design II",
+                    "_id": "5878038830213215439e9384",
+                    "enjoyRating": 3.808608059,
+                    "enjoyResponse": 115,
+                    "learnRating": 3.82573214,
+                    "learnResponse": 53,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "(ENG2091 or ENG2005 and MEC2407 and MEC2401) or (MEC2401 and MTH2021 or MEC2401 and MTH2032)",
+                    "Proh": "MAE3408",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit covers the nature and behaviour of simple components, processes and subsystems relevant to engineering control. Mechanical, electrical, fluid pressure devices and complete elementary control systems are included. Orientation is to predicting, examining and assessing system performance via formation of mathematical models and solution of models. Laboratory experiments and hands-on instruction in the digital simulation package Matlab to solve models. A unified approach to mathematical modelling via the concepts of resistance, capacitance and inertia/inductance is emphasised. Students learn to perform system modelling, develop solution, assess a system response and analyse systems.",
+                    "UnitCode": "MEC3457",
+                    "UnitName": "Systems and control",
+                    "_id": "5878038a30213215439e938a",
+                    "enjoyRating": 3.835082459,
+                    "enjoyResponse": 105,
+                    "learnRating": 3.939366786,
+                    "learnResponse": 52,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MEC4401",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "In this unit, together with MEC4401, students undertake a self-guided learning task in the form of a project. It is a full year project of either a major design, theoretical, or experimental investigation. The project may be undertaken either within the department or externally with a company or research organisation. In either case, an academic member of staff will act as the supervisor. While some projects may benefit from group based work it is expected that students will work individually on each project.",
+                    "UnitCode": "MEC4402",
+                    "UnitName": "Final year project - Thesis",
+                    "_id": "5878038b30213215439e938e",
+                    "enjoyRating": 4.116477273,
+                    "enjoyResponse": 49,
+                    "learnRating": 4.383493188,
+                    "learnResponse": 47,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "MEC44xx Engineering computational analysis",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 4
+        }
+    ]
+}

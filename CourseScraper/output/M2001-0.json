@@ -1,0 +1,68 @@
+{
+    "courseAOS": "Bachelor of Nutrition Science",
+    "courseCode": "M2001",
+    "courseName": "Nutrition Science",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "NUT1001",
+                "NUT1010",
+                "NUT1101"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "NUT1002",
+                "NUT1102",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "NUT2001",
+                "NUT2102"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "NUt2002 Applied research methods in nutrition"
+                },
+                "NUT2103"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "NUT3001 Evidence based nutrition or NUT3004 Nutrition controversies and NUT3003 Sport and exercise nutrition, or NUT3007 Placement"
+                },
+                "NUT3006",
+                "NUT3005",
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "NUT3082",
+                "NUT3002",
+                "Elective"
+            ],
+            "year": 2
+        }
+    ]
+}

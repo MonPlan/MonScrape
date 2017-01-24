@@ -1,0 +1,85 @@
+{
+    "courseAOS": "Critical Care Medicine",
+    "courseCode": "M6023",
+    "courseName": "Master of Clinical Medicine",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit is designed for health care professionals who aspire to lead the management, design and delivery of health care services and/or develop health care programs in a clinical context that improve patient outcomes.This unit focuses on the necessary knowledge, skills and behaviours for advanced health care practice. The unit examines key issues for the advanced health care professional, including: medico-legal issues in compliance, competency, and credentialing; professional behaviour and interprofessional practice; using research frameworks and clinical practice guidelines as evidence to inform practice; quality, patient safety, patient experiences, and benchmarking; delivering and evaluating patient and consumer centred health care and communication within digital and practice settings; the advanced practitioner as educator of patients, consumers and peers and leadership in implementing practice change.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "MAP5003",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Online)",
+                                "Second semester 2017 (Online)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Essentials of advanced health care practice and research"
+                },
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit has been created in collaboration with the Alfred ICU for students seeking credit from studies in critical care in extracorporeal support, transthoracic echocardiography, transoesophageal echocardiography, critical care ultrasound and airway, bronchoscopy and ventilation.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "MAP5101",
+                    "UnitLocationTP": "Not Offered in 2017",
+                    "UnitName": "Advanced critical care skills"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Part B - Elective",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Part B - Elective",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Part B - Elective",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Part B - Elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 0
+        }
+    ]
+}

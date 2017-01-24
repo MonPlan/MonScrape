@@ -1,0 +1,95 @@
+{
+    "courseAOS": "Bachelor of Software Engineering (Honours)",
+    "courseCode": "E3001",
+    "courseName": "Engineering",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ENG1001",
+                "ENG1005",
+                {
+                    "faculty": "",
+                    "type": "ENG1090 (if required) or PHS1080 (if required) or 1 st year engineering elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Elective If two foundation units are required then this elective is used to complete the second of ENG1090 and PHS1080 ,"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ENG1002",
+                "ENG1003",
+                "ENG1060",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "FIT2085",
+                "MAT1830",
+                "FIT2099",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "FIT2101",
+                "FIT2004",
+                "FIT2107",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "FIT3159",
+                "FIT3077",
+                "FIT3170",
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "FIT2100",
+                "FIT3171",
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "FIT4003",
+                "FIT4002",
+                "FIT3165",
+                "Elective"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Software engineering technical elective"
+                },
+                "Elective"
+            ],
+            "year": 3
+        }
+    ]
+}

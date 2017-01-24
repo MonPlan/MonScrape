@@ -1,0 +1,66 @@
+{
+    "courseAOS": "Bachelor of International Business with International Business stream",
+    "courseCode": "B2003",
+    "courseName": "Business Specialist",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "units": [
+                "BTF1010",
+                "MGF1010",
+                "BFF1001",
+                "ECF1100"
+            ],
+            "year": 0
+        },
+        {
+            "units": [
+                "MGF2351",
+                "MKF1120",
+                [
+                    "ACF1100",
+                    "ACF1200"
+                ],
+                "ETF1100"
+            ],
+            "year": 0
+        },
+        {
+            "units": [
+                "ACF2851",
+                "ECF1200",
+                "MGF1100",
+                "MKF2111"
+            ],
+            "year": 0
+        },
+        {
+            "units": [
+                "MGF3681",
+                "BFF2341",
+                "ECF2721",
+                "ECF2331"
+            ],
+            "year": 1
+        },
+        {
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Study Abroad or BEX3012/BEX3024/BEX3112 Industry based learning project or BEX3350/BEX3450 Investigative project in business or a maximum of two elective units from other Faculties"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "units": [
+                "FIT3152",
+                "MGX3121",
+                "BTX3110",
+                "ECX3350"
+            ],
+            "year": 1
+        }
+    ]
+}

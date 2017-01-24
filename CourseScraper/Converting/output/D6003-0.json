@@ -1,0 +1,367 @@
+{
+    "courseAOS": "",
+    "courseCode": "D6003",
+    "courseName": "Master of Counselling",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Education",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "In this unit students examine the major lifespan theories and counselling approaches in order to understand the mental health issues that arise in the course of childhood, adolescence and adulthood. The strong focus on lifespan issues promotes an understanding of others and deeper appreciation of clients and the counselling process. Both historical and contemporary frameworks for lifespan and attachment counselling are explored and their relationship to practice evaluated. Students examine key concepts in attachment theory along with how the main attachment types play out both in childhood and later life. The personal and professional aspects experienced in the counselling profession are investigated together with the impact that counselling has on the identities and functioning of counsellors.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF4530",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Flexible)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Lifespan development and counsellor identity"
+                },
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit focuses on the incidence of mental health issues and their effects on the individual, family and community. It examines a variety of issues relating to trauma and grief, addictions to alcohol, drugs and other mental health issues. Students examine how the normal highs and lows of life can be managed and how declining mental health can affect feelings, thoughts and actions. Students are introduced to a number of therapeutic approaches.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF4532",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Flexible)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (', 'Off-campus block of classes', ')",
+                                "Term 4 2017 (', 'Off-campus block of classes', ')"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (', 'Off-campus block of classes', ')",
+                                "Term 4 2017 (', 'Off-campus block of classes', ')"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introduction to mental health issues"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit familiarises students with the professional side of counselling. Students are introduced to the different ways in which counselling is offered, including online and distance counselling, individual, couples and group counselling. Students explore the many settings in which counselling takes place including career and vocational counselling, mental health settings, spiritual centres and school counselling. Creative approaches to counselling such as play therapy and art therapy and the counselling of diverse and special populations are investigated. The unit also introduces students to the professional organisations in their area of practice as well as to regulations which govern counselling practice.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF4531",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Flexible)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 1 2017 (', 'Off-campus block of classes', ')"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Professional practice in counselling"
+                },
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit is an introduction to counselling child and adolescent clients and explores the childhood and teen years in which specific developmental milestones are reached. This challenging time for parents and teachers, during which children are learning about their place within the family, their school and local community, is examined. Students are assisted to understand adolescence as the period during which children begin the transition to adulthood but are still developing maturity and their identity. Students analyse how adolescents expand their horizons and move into the adult world, and the range of challenges that can present as they move towards greater independence.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF4533",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Flexible)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 1 2017 (', 'Off-campus block of classes', ')",
+                                "Term 3 2017 (', 'Off-campus block of classes', ')"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 1 2017 (', 'Off-campus block of classes', ')",
+                                "Term 3 2017 (', 'Off-campus block of classes', ')"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Counselling children and adolescents"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit introduces students to the theoretical and applied aspects of counselling to individuals, couples and groups, and the evidence base which informs them. Students are introduced to basic and advanced micro-skills, concepts and theories that are currently used in counselling practice, and also examine and apply a range of strategies used by therapists to note, track and evaluate the progress of the client in therapy. The unit provides students with the opportunity to develop and practise their micro-skills and techniques over the semester and learn the underpinnings that inform the dynamics of counselling processes. Throughout the unit students draw on their current or previous clinical professional experience to apply theory to practice and to reflect on their cultural awareness, sensitivities and the ways in which their personal development may influence their counselling practice.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF5530",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Flexible)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 3 2017 (', 'Off-campus block of classes', ')"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 3 2017 (', 'Off-campus block of classes', ')"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Counselling skills for individuals, couples and groups"
+                },
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit develops advanced understanding of the ethical, legal and regulatory dimensions of professional counselling practice. Students examine the ethical foundations of the profession and gain an awareness of the critical issues and dilemmas faced by counsellors. Students learn how to resolve ethical dilemmas which are not addressed by professional codes of conduct. Themes addressed include implementing ethical principles and codes of practice, moral and legal responsibilities, personal, social and professional values, diversity, sensitive issues and practice, duty of care, confidentiality and privacy, referrals, dual relationships and managing boundaries, and professional relationships.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF5532",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Flexible)",
+                                "Second semester 2017 (Flexible)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (', 'Off-campus block of classes', ')",
+                                "Term 4 2017 (', 'Off-campus block of classes', ')"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (', 'Off-campus block of classes', ')",
+                                "Term 4 2017 (', 'Off-campus block of classes', ')"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Ethics for counsellors"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit presents students with in-depth knowledge about a range of contemporary cognitive behavioural therapies including cognitive therapy, rational emotive behaviour therapy, behavioural therapy, narrative therapy, acceptance and commitment therapy, reality therapy, dialectic behaviour therapy and solution-focused therapy. Throughout the unit students draw on their current or previous clinical professional experience as they develop understandings of these models and their view of the individual and his/her symptoms. The strengths and limitations of each counselling approach are critically examined. The role of the counsellor within each therapeutic approach is contrasted and analysed.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF5531",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Flexible)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 1 2017 (', 'Off-campus block of classes', ')"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 1 2017 (', 'Off-campus block of classes', ')",
+                                "Term 4 2017 (', 'Off-campus block of classes', ')"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Cognitive behaviour therapies"
+                },
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit extends students' counselling practice through a focus on three elements of professionalism: evidence-based practice; advanced intervention, assessment and reporting skills; and reflective practice. Students examine applied and academic research and evaluation in relation to mental health issues and counselling, and evaluate the quality of, and approaches used to gather, research evidence. Reflecting and drawing on their current or previous clinical professional experience, students consolidate their skills in case formulation, documenting evidence-based interventions and choosing appropriate assessment tools and instruments. Under supervision, students take up opportunities for self-reflection on their own professional development as counsellors.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF5533",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Flexible)",
+                                "Second semester 2017 (Flexible)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (', 'Off-campus block of classes', ')",
+                                "Term 4 2017 (', 'Off-campus block of classes', ')"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (', 'Off-campus block of classes', ')",
+                                "Term 4 2017 (', 'Off-campus block of classes', ')"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Advanced counselling practice"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "FY-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Description": "This is a unit for professional experience in counselling. Students complete the required number of hours and the activities specified in the professional experience guide for this unit. Students' learning is supported by professional experience advisers, supervisors and lecturers. This unit tracks the requirements for completing professional experience in the course and during supervised placement in the field.",
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF5534",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Full year 2017 (Flexible)",
+                                "Second semester 2017 to First semester 2018 (Flexible)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (', 'Off-campus block of classes', ')",
+                                "Term 4 2017 (', 'Off-campus block of classes', ')"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (', 'Off-campus block of classes', ')",
+                                "Term 4 2017 (', 'Off-campus block of classes', ')"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Supervised professional counselling practice"
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

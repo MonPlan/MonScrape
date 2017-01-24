@@ -1,0 +1,76 @@
+{
+    "courseAOS": "Creative Music Technology specialisation",
+    "courseCode": "A2003",
+    "courseName": "Music",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Arts",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ATS1048",
+                "ATS1899",
+                "ATS1345",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ATS1049",
+                "ATS1900",
+                "ATS1346",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ATS2129",
+                "ATS2901",
+                [
+                    "ATS2687",
+                    "ATS2060"
+                ],
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ATS2130",
+                "ATS2902",
+                [
+                    "ATS2333",
+                    "ATS2900",
+                    "ATS2331"
+                ],
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ATS3142",
+                "Elective",
+                "ATS3094",
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ATS3143",
+                "Elective",
+                "ATS3061",
+                "Elective"
+            ],
+            "year": 2
+        }
+    ]
+}

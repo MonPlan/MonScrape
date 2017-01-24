@@ -1,0 +1,28 @@
+{
+    "courseCode": "E6001",
+    "courseName": "Master of Advanced Engineering",
+    "courseAOS": "Energy and Sustainability Engineering",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+              "ENG5001",
+              "CHE5885",
+              "ECE5885",
+              "MEC5885"
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+              "ENG5002",
+              "MEC5886",
+              {"type": "Enhancement Unit", "faculty": "Faculty of Engineering"},
+              {"type": "Enhancement Unit", "faculty": "Faculty of Engineering"}
+          ]
+        }
+    ]
+}

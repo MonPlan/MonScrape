@@ -1,0 +1,685 @@
+{
+    "courseAOS": "Bachelor of Interior Architecture (Honours)",
+    "courseCode": "F3001",
+    "courseName": "Interior Architecture",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Art, Design and Architecture",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "DGN1001",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces 'habitation' as a key consideration of the Interior Architecture program. The unit will introduce designing as a series of activities and approaches, developing outcomes in response to specified human needs.Projects will focus on the design of spaces for habitation, and the issues, needs and values inherent in such an approach.  Key conventions for the exploration and communication of spatial proposals will form an important part of the studio, and will form a foundation for later studies.",
+                    "UnitCode": "IAR1113",
+                    "UnitName": "Interior architecture studio 1",
+                    "_id": "587802cf30213215439e9104",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must be enrolled in a course owned, or, granted permission by, the faculty of Art Design and Architecture.",
+                    "Proh": "DRW1201",
+                    "SCABand": 1,
+                    "Sypnosis": "An intensive program facilitating the acquisition and development of practical and intellectual skills required by art, design and architecture students in the discipline of drawing. Observation, analysis, selection, interpretation and expression are studied through sequential projects. Manufactured and natural forms including the figure and other models are central to the investigation of proportion, structure, volume and space through line, tone, shape, movement and texture. A range of drawing materials and methods are explored.",
+                    "UnitCode": "DWG1201",
+                    "UnitName": "Drawing 1",
+                    "_id": "5878017a30213215439e8c29",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "TAD1101",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit is an introduction to visual cultures from the perspectives of art, design and architecture. Key themes within contemporary visual culture are discussed in terms of aesthetic, technological, historical and ideological contexts. Students develop critical skills in analysing the diverse artefacts and practices of art, design and architecture and communicating their significance in verbal and written forms.",
+                    "UnitCode": "AHT1101",
+                    "UnitName": "Introduction to visual culture in Art Design & Architecture",
+                    "_id": "5877ff9b30213215439e84a8",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Off-campus)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Admission to any Art Design and Architecture course",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "An introduction to occupational health, safety and environmental training within the context of courses within the Faculty of Art and Design, together with an understanding of the historical perspectives and context of safety and environment concerns in the workplace. The difference between hazard and risk, and the process of risk assessment in workplaces.",
+                    "UnitCode": "OHS1000",
+                    "UnitName": "Introduction to art and design health and safety",
+                    "_id": "5878044b30213215439e9691",
+                    "enjoyRating": 4.045454545,
+                    "enjoyResponse": 48,
+                    "learnRating": 3.962286504,
+                    "learnResponse": 88,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "IAR1113, or DGN1001 and DIS1103, OHS1000",
+                    "Proh": "IAR1112",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces 'context' as a key consideration of the Interior Architecture program. The unit builds on the experiences and skills developed in previous units to engage with the social aspects and collaborative processes of design.Projects will focus on the social, cultural and physical contexts of interior architecture.  The development of key observation and representation skills will underpin useful perspectives for design development and communication.",
+                    "UnitCode": "IAR1114",
+                    "UnitName": "Interior architecture studio 2",
+                    "_id": "587802cf30213215439e9105",
+                    "enjoyRating": 4.153846154,
+                    "enjoyResponse": 19,
+                    "learnRating": 3.981481481,
+                    "learnResponse": 18,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "IAR1113, DWG1201 or DWG1301, OHS1000",
+                    "Proh": "DIS1912, IAR1402, IAR1410, DIS2908",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces basic techniques of visualisation for the exploration and communication of interior architecture. These techniques are examined, and then applied to the communication of interior architectural experiences throughout the design process. The student will use a range of media including digital modelling, and develop proposals in two and three dimensions.",
+                    "UnitCode": "IAR1411",
+                    "UnitName": "Communication and media",
+                    "_id": "587802d030213215439e9108",
+                    "enjoyRating": 4.1,
+                    "enjoyResponse": 18,
+                    "learnRating": 3.770299145,
+                    "learnResponse": 19,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "OHS1000",
+                    "Proh": "IAR1211, IAR1201, IAR2201",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will focus on the physical and qualitative properties of common materials employed in interior architecture projects. Projects will focus on the development of observation and analytical skills to support the investigation of these properties, and the potential for their application in design.",
+                    "UnitCode": "IAR1602",
+                    "UnitName": "Constructions and environments 1",
+                    "_id": "587802d030213215439e9109",
+                    "enjoyRating": 3.875,
+                    "enjoyResponse": 19,
+                    "learnRating": 3.925925926,
+                    "learnResponse": 26,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "IAR1114, OHS1000",
+                    "Proh": "IAR2113, IAR2103",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces 'change' as a key consideration of the Interior Architecture program. The unit builds on the experiences and skills developed in previous units to engage with design as a process of discovery, connecting introductory research concepts and studio activities.Projects will focus on the temporal aspects of interior architecture, and the connection of design ideas, projects and experiences to change and transformation. Relevant approaches to representation will be introduced for both the development and communication of design schemes.",
+                    "UnitCode": "IAR2115",
+                    "UnitName": "Interior architecture studio 3",
+                    "_id": "587802d130213215439e910c",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "IAR1602, OHS1000",
+                    "Proh": "IAR2204, IAR2202",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will focus on the construction and design activities employed in the assembly and arrangement of materials for interior architecture projects.  The incorporation of services within inhabited environments will be introduced, and explored by students through focused observation and project work.",
+                    "UnitCode": "IAR2601",
+                    "UnitName": "Constructions and environments 2",
+                    "_id": "587802d330213215439e9114",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "AHT1101and enrolled in the Bachelor of Interior Architecture or permission from Unit Coordinator",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces the history and theory of selected Australian and international interior architecture since 1968. The unit will also introduce methods for the written, spoken and visual analysis of buildings including site visits, analytical case studies and other forms of analysis. In addition to the theoretical and historical contexts of the spaces studied the unit will investigate their contribution to interior design and spatial practice.",
+                    "UnitCode": "IAR2411",
+                    "UnitName": "Contemporary interior architecture",
+                    "_id": "587802d230213215439e9112",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "IAR2115, OHS1000",
+                    "Proh": "IAR2114, IAR2104",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit builds on skills developed in previous studios and applies these to a range of projects with specific practice foci, extending an exploration of interior architecture as a series of transformational practices.  Projects undertaken will provide an opportunity for students to integrate learning from supporting streams of the course with the development of responsive design practices. A number of focused studio projects will be offered.",
+                    "UnitCode": "IAR2116",
+                    "UnitName": "Interior architecture studio 4",
+                    "_id": "587802d130213215439e910d",
+                    "enjoyRating": 4,
+                    "enjoyResponse": 26,
+                    "learnRating": 3.888319283,
+                    "learnResponse": 34,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "IAR2601, OHS1000",
+                    "Proh": "IAR2303, IAR2301, IAR2304",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will build on previous units and introduce students to the professional practices employed as part of the construction and fabrication of inhabited environments.  Conventions for documentation of project proposals, and communication with other building industry professionals will form important elements of the unit.",
+                    "UnitCode": "IAR2602",
+                    "UnitName": "Constructions and environments 3",
+                    "_id": "587802d330213215439e9115",
+                    "enjoyRating": 3.966666667,
+                    "enjoyResponse": 34,
+                    "learnRating": 3.924338624,
+                    "learnResponse": 10,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "IAR2116, OHS1000",
+                    "Proh": "IAR3115, IAR3105",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit builds on skills developed in previous studios and applies these to a range of focused projects that extend and explore transformational practices in interior architecture. In this studio successful project outcomes will be of an intermediate level of complexity. They will provide an opportunity to integrate learning across the course with the development of responsive design practices.  A number of focused studio projects will be offered.",
+                    "UnitCode": "IAR3117",
+                    "UnitName": "Interior architecture studio 5",
+                    "_id": "587802d430213215439e9118",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "IAR2113 or IAR2115",
+                    "Proh": "PPR2110,PPR3108",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to the range of practical, fiscal, operational and legislated requirements for operation as a competent professional practitioner of interior architecture. Site visits relevant to the projects are undertaken.",
+                    "UnitCode": "PPR3102",
+                    "UnitName": "Professional practice for interior architecture",
+                    "_id": "5878048230213215439e9759",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ARC2401 or IAR2411",
+                    "Proh": "TAD2214",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides an overview of approaches to the history and theory of interior architecture. The unit will also introduce methods for the written and visual analysis of interior architecture. The unit will investigate dialogues between history, theory and interior architectural design.",
+                    "UnitCode": "IAR3401",
+                    "UnitName": "Interior architecture history and theory",
+                    "_id": "587802d530213215439e911d",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "IAR3117, OHS1000",
+                    "Proh": "IAR3116, IAR3106",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit builds on skills developed in previous studios and applies these to a range of focused projects that extend and explore transformational practices in interior architecture. In this studio successful project outcomes will be of a high intermediate level of complexity. They will provide an opportunity to integrate learning across the course with the development of responsive design practices. A number of focused studio projects will be offered.",
+                    "UnitCode": "IAR3118",
+                    "UnitName": "Interior architecture studio 6",
+                    "_id": "587802d430213215439e9119",
+                    "enjoyRating": 4,
+                    "enjoyResponse": 10,
+                    "learnRating": 3.583333333,
+                    "learnResponse": 8,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "IAR2116",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces the folio for the communication of design propositions in a professional context. It focuses on the use of publishing media and techniques. Students compile and examine the projects undertaken in previous design studios. They identify emerging interests and locate them in relation to contemporary practitioners. Students will strategically curate their work to develop a folio suitable for presentation in a professional context.",
+                    "UnitCode": "IAR3303",
+                    "UnitName": "Folio and reflection",
+                    "_id": "587802d430213215439e911b",
+                    "enjoyRating": 3.75,
+                    "enjoyResponse": 8,
+                    "learnRating": 4.541666667,
+                    "learnResponse": 6,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (', 'Off-campus Day', ')",
+                                "Second semester 2017 (', 'Off-campus Day', ')"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "IAR3106 and PPR3108 or IAR3116 and IAR3303 and PPR3102",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "A period of approved industrial placement (normally six weeks) in an interior architecture or design practice normally taken no earlier than the end of the third year and preferably before the commencement of the fourth year. In many instances students will use the contacts they develop in this unit to help identify an honours project topic.",
+                    "UnitCode": "IAR4406",
+                    "UnitName": "Industrial experience",
+                    "_id": "587802d630213215439e9123",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "IAR3118, OHS1000",
+                    "Proh": "IAR4117, IAR4107",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit builds on skills developed in previous studios and applies these to a range of focused projects that extend and explore transformational practices in interior architecture. In this studio successful project outcomes will be of an advanced level of complexity. They will provide an opportunity to integrate learning across the course with the development of responsive design practices. A number of focused studio projects will be offered.",
+                    "UnitCode": "IAR4119",
+                    "UnitName": "Interior architecture studio 7",
+                    "_id": "587802d630213215439e9121",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "IAR3401, OHS1000",
+                    "Proh": "TAD4523",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit critically explores design research approaches.  Students will investigate and test evolving relationships between designing and researching.  These explorations will also contribute to formulating and articulating relevant agendas for the student's interior architecture research projects.",
+                    "UnitCode": "IAR4500",
+                    "UnitName": "Research: questions and processes",
+                    "_id": "587802d630213215439e9124",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 18,
+                    "EFTSL": 0.375,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "IAR4119, IAR4500, OHS1000",
+                    "Proh": "IAR4118, IAR4108",
+                    "SCABand": 2,
+                    "Sypnosis": "Interior Architecture Studio 8 is the culmination of the interior architecture studio stream. Students refine and apply the broad range of skills developed in preceding studios and associated units through the investigation of an independent design research project. The project is developed to express individual concerns and a platform for future professional endeavours.",
+                    "UnitCode": "IAR4120",
+                    "UnitName": "Interior architecture design research project",
+                    "_id": "587802d630213215439e9122",
+                    "enjoyRating": 4.033333333,
+                    "enjoyResponse": 25,
+                    "learnRating": 3.904280904,
+                    "learnResponse": 24,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "IAR4500, OHS1000",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit runs in parallel with IAR4120 to reinforce the intellectual and design contexts for the studio exploration. Activities include ongoing reflection, documentation and contextualisation of students' research.  Students will draw on IAR4500 to articulate processes, findings and implications uncovered through the studio project.",
+                    "UnitCode": "IAR4501",
+                    "UnitName": "Interior architecture design research documentation",
+                    "_id": "587802d630213215439e9125",
+                    "enjoyRating": 3.9,
+                    "enjoyResponse": 24,
+                    "learnRating": 3.875,
+                    "learnResponse": 5,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

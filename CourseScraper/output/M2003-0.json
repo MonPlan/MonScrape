@@ -1,0 +1,67 @@
+{
+    "courseAOS": "Bachelor of Biomedical Science ",
+    "courseCode": "M2003",
+    "courseName": "Biomedical Science",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "BMS1011",
+                "BMS1021",
+                "BMS1031",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BMS1062",
+                "BMS1052",
+                "BMS1042",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "BMS2011",
+                "BMS2021",
+                "BMS2031",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BMS2042",
+                "BMS2052",
+                "BMS2062",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "BMS3031",
+                "Elective",
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BMS3052",
+                "Elective",
+                "Elective"
+            ],
+            "year": 2
+        }
+    ]
+}

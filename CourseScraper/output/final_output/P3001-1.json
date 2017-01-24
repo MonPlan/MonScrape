@@ -1,0 +1,330 @@
+{
+    "courseAOS": "International Students",
+    "courseCode": "P3001",
+    "courseName": "Pharmacy",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to the role of the pharmacist and health care services relating to consumers and their medicines. It introduces important aspects of human behaviour and cultural considerations, with a focus on enhancing professional communication with health care consumers and healthcare professionals. Students will learn the fundamentals of dispensing prescriptions and medication counselling. Each student will build a portfolio to instil lifelong learning attributes and develop a personalised learning plan to advance their cognitive and non-cognitive skills.",
+                    "UnitCode": "PHR1011",
+                    "UnitName": "Professional Practice I",
+                    "_id": "5878047530213215439e972a",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides an introduction to how drugs become medicines and explores factors that influence the absorption of drugs following oral administration. Students will study the physicochemical properties of molecules that determine dissolution, solubility, stability and permeability in order to explain how these factors affect oral drug absorption. In addition, the barrier properties of the small intestine, and how they contribute to, or limit, the oral absorption of drugs will be discussed as well as the formulation properties of commonly-administered oral formulations (tablets and capsules).",
+                    "UnitCode": "PHR1021",
+                    "UnitName": "How Medicines Work I",
+                    "_id": "5878047530213215439e972c",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will provide students with the foundational understanding and knowledge of the human body, including how cells, molecules and organs ensure proper functioning of the body.  This will include studies of anatomy, physiology and biochemistry relevant to pharmacists.  Students will be able to predict the outcome of cell and organ dysfunction, as well as effectively communicate aspects of how the body works.",
+                    "UnitCode": "PHR1031",
+                    "UnitName": "How the Body Works",
+                    "_id": "5878047630213215439e972e",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": -2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "PHR1012 Professional Practice II Prereqs: PHR1011",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "PHR1022 How Medicines Work II (18 credit points) Prereqs: PHR1021",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": -2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "PHR2011 Professional Practice III Prereqs: PHR1012, PHR1022, PHR 1031",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "PHR2021 How Medicines Work III Prereqs: PHR1012, PHR1022, PHR1031",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "PHR2041 Respiratory & gastrointestinal disease Co-req: PHR2011,PHR2021",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "PHR2141 Endocrinology & Renal Co-req: PHR2011, PHR2021",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": -1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "PHR2012 Professional Practice IV (12 credit points) Prereqs: PHR2011",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "PHR2042 Cardiovascular Prereqs: PHR2041, PHR2141",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "PHR2142 Dermatology & Pain Prereqs: PHR2041, PHR2141",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": -1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "PHR3011 Professional Practice V Prereqs: PHR2011",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "PHR3041 Mental Health Prereqs: PHR2042, PHR2142",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "PHR3141 Microbiology & Infectious Disease (12 credit points) Prereqs: PHR2042, PHR2142",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "PHR3042 Neurology & Ophthamology Prereqs: PHR3041, PHR3141, PHR3011",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "PHR3142 Integration & ICU (12 credit points) Prereqs: PHR3041, PHR3141, PHR3011",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "PHR5052 Inquiry & Innovation I Co-req: PHR3042, PHR3142",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "PHR5051 Inquiry & Innovation II (18 credit points) Prereqs: PHR5052",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "PHR5052 Inquiry & Innovation I Co-req: PHR3042, PHR3142",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "PHR4042 Haematology Oncology Prereqs: PHR5051",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "PHR4142 Transplant Prereqs: PHR5051",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "PHR4242 Integrated Care (12 credit points) Prereqs: PHR5051",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

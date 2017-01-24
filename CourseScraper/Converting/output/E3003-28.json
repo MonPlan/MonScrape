@@ -1,0 +1,831 @@
+{
+    "courseAOS": "Mechatronics Engineering/Actuarial Science",
+    "courseCode": "E3003",
+    "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist",
+    "courseType": "Double Undergraduate",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1001,ENG1002"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1003,ENG1005"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "General rules for software development and design. Errors. Data types, variables, expressions, control statements M-files. Numerical techniques: Gauss elimination, solution of non-linear equations, optimisation, curve fitting, numerical calculus, ordinary differential equations.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "Mathematical methods (CAS) recommended.",
+                    "Prohibitions": "ENG1602",
+                    "SCABand": 2,
+                    "UnitCode": "ENG1060",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Computing for engineers"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Presentation and analysis of grouped and ungrouped data using tables, charts and measures of location and dispersion; standardisation techniques, including index numbers, with application to share price indices and the CPI; analysis of relationships between variables using simple and multiple regression; extensions to multiple regression, including nonlinear and categorical explanatory variables and time series data with applications to forecasting; main ideas of probability theory as a foundation for statistical inference; concept of sampling as a way of capturing uncertainty about data; estimators and their properties; constructing and interpreting confidence intervals; fundamentals of hypothesis testing, testing hypotheses about the mean, difference between means and the slope, including analysis of variance.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "ETG1102, ETW1000, ETW1102, ETX1100, ETX9000, FIT1006, STA1010",
+                    "SCABand": 2,
+                    "UnitCode": "ETC1000",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Business and economic statistics"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1002,ENG1001"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1003,ENG1005"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Faculty Elective",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit introduces students to the empirical analysis of relationships between economic variables. The approach is based on linear regression theory, and emphasises 'hands on' data analysis. Topics studied will include properties of least squares estimators, hypothesis testing, the choice of appropriate functional form, the use of dummy variables, issues around modelling survey data and the problems of serial correlation, heteroscedasticity and multicollinearity.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "ETC1000 or must be enrolled in course 3822 or 4412 or 4439",
+                    "Prohibitions": "ETC2400, ETC3440, ECC2410",
+                    "SCABand": 3,
+                    "UnitCode": "ETC2410",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introductory econometrics"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit provides an introduction to computers and CPU organisation, assemblers and compilers, and algorithm design for engineering problems. It covers the language C and its implementation on a typical computer, including standard data types, arrays, control statements, functions, including ways of parameter passing, C library functions, pointers, strings, arrays of pointers, structures, linked lists and binary tree data structures, dynamic memory allocations, and calls to assembly language programs. Object-oriented programming is introduced. Software engineering is covered as the methodology of software development and lifecycle models. Operating system concepts are introduced. The unit also includes an introduction to programmable logic controllers (PLCs).",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "CSE1301, TEC2041, TEC2042, TEC2171, TRC2400",
+                    "SCABand": 2,
+                    "UnitCode": "ECE2071",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Computer organisation and programming"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit provides foundation knowledge for analogue circuit analysis and design. Students will be introduced to the fundamentals of linear electronic circuit analysis and design. At the completion of the unit students will develop skills in using state of the art prototyping and measurement tools for linear electronic circuit analysis and design. The topics covered in this course include, sinusoidal steady-state analysis using phasors and complex impedances, feedback concepts, solid-state electronics, solid-state diodes and diode circuits, field-effect transistors, bipolar junction transistors and operational amplifiers.The unit will provide a grounding in circuit theory leading to solution of electrical networks with node and mesh analysis, equivalent sources, two port representations and simulation. AC analysis with phasors, first and second order transient responses will be included. Frequency and time response will be developed with Laplace transform techniques.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "(ENG1091 or ENG1005) and ENG1002",
+                    "Prohibitions": "ECE2031",
+                    "SCABand": 2,
+                    "UnitCode": "ECE2131",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Electrical circuits"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit will introduce students to basic financial and stochastic techniques used in actuarial work, and will give an overview of some of the areas in which actuaries are currently involved. The student will be introduced to the basic concepts involved in assessing and pricing future risks and pricing insurance products, using past data.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Students must have passed ETC1000, or be enrolled in course 4439.",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "ETC2430",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Actuarial statistics"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The scope of macroeconomics and its microeconomic underpinnings; aggregation problems; partial equilibrium and general equilibrium analysis; the circular flow of income as a general equilibrium model; the mutual dependence of financial flows and flows of goods and services; sectoral composition of aggregate demand; business and investment behaviour; government spending and taxation; external balance and determination of current and capital accounts; labour market and aggregate supply; money, credit, and the conduct of monetary policy; inflation and unemployment; macroeconomic effects of deregulation in Australia.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "ECC1000 is recommended",
+                    "Prohibitions": "ECF1200, ECG1102, ECS1102, ECW1102",
+                    "SCABand": 3,
+                    "UnitCode": "ECC1100",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Principles of macroeconomics"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "Advanced matrix algebra: mxn systems, linear independence, sparse matrices, simple tensors. Further ordinary differential equations: systems of ODEs, variation of parameters; boundary-value problems. Fourier series: Euler formulae, convergence, half-range series, solution of ODEs, spectra. Further multivariable calculus: change of variables and chain rule, polar coordinates, line integrals; vector fields; del, divergence, curl and Laplacian; surface and volume integrals; Gauss and Stokes theorems. Partial differential equations: simple PDEs, Laplace, heat and wave equations, superposition, separation of variables, polar coordinates. Advanced numerical methods: solution of linear systems, numerical solution of ODEs and simple PDEs, accuracy, efficiency and stability; discrete Fourier transforms, introduction to PS and FE methods.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "ENG1005 or ENG1091 or equivalent",
+                    "Prohibitions": "ENG2091, MTH2010, MTH2015",
+                    "SCABand": 2,
+                    "UnitCode": "ENG2005",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Advanced engineering mathematics"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Kinematics: position, velocity and acceleration; relative motion analysis and applications for particles and rigid bodies; Dynamics: translational and rotational motion of free and constrained forces, their origin and significance; equation of motion, principle of impulse and momentum, principles of work and energy; Analysis of planar motion. Fundamentals of mechanical vibrations. Strength of materials: stress and strain in 2D and 3D space; Hookes law; Shear force and bending moments, moments of area, deflection of beams; Equilibrium and compatibility equations; Stress and strain transformation; Mohr circle; Simple failure criteria; Elastic instability --- buckling.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "Must have passed 42 credit points",
+                    "Prohibitions": "MEC2401",
+                    "SCABand": 2,
+                    "UnitCode": "TRC2201",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Mechanics"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The aim of the unit is to introduce students to the theory and application of why and how value enhancing corporate financial decisions are made and implemented. With the emphasis on publicly listed companies, topics covered include; the corporate objective of management, investment evaluation models, valuation of equity and debt instruments, sources and types of funding, issues in risk and return, portfolio theory, asset pricing models, issues in capital structure and dividend policy and the efficiency of capital markets. The unit is designed to ensure students with the necessary skill set for making value-changing financial decisions to maximise firm value.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Students to complete two units as follows: ECF1100 and ETF1100; or ECC1000 and ETC1000; or ETB1100 and ECB1101; or ECW1101 and ETW1000 or ETW1102; or ECP1100 and ETP1100.",
+                    "Prohibitions": "AFF2631, BFF2631, AFG2631, BFG2631, AFW2631, BFB2631, BFP2631, BFW2631, AFW3044, AFC2140, BFB2140, BFF2140, BFP2140, BFW2140.",
+                    "SCABand": 3,
+                    "UnitCode": "BFC2140",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Corporate finance 1"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit focuses on the tools for a large, digital data world, including the building blocks for business analytics, modern insurance and risk assessment.  A computational approach is employed to teach the concepts of statistics, and decision making in the presence of uncertainty.  An important aspect will be to develop skills for compiling data from multiple sources to support better decisions and models. Topics covered will include simulation and randomisation methods, decision and credibility theory, data wrangling and visualisation, methods for time series, Bayesian analysis and models for risk and loss distributions.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Students must complete one of the following units: ETC1000, ETW1000, ETX1100, FIT1006 or STA1010 before undertaking this unit",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "ETC2420",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Statistical thinking"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "Instruction on the basics of dynamics of mechatronic systems, incorporating electromagnetics into advanced dynamics analysis via D'Lambert's principle, Hamiton's equations and the virtual power (Jourdain/Kane) method. Focus on applications of dynamics in mechatronics, with kinematics and dynamics of robotic structures, magnetoelectromechanical transducers (motors, speakers, vibration sensors, and so on). Consideration of the inevitable and critical consequences of nonlinearities in dynamic response, including limit cycles and Poincar maps and flows. Reinforcement of concepts using computer analysis on simple mechatronic systems.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "TRC2201 and (ENG2092 or ENG2005)",
+                    "Prohibitions": "MEC3453",
+                    "SCABand": 2,
+                    "UnitCode": "TRC3200",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Dynamical systems"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "A systematic method of capturing design requirements, tools for ideation, estimation and decision-making. Primary and secondary manufacturing processes, assembly techniques. Engineering graphics for problem-solving, manufacturing communication and ideation. Report writing, teamwork in solving design problems involving the integration of mechanical elements in prototype conception, construction and testing.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "12 engineering credit points at level 1",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "MEC2402",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Engineering design I"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "BFC2000",
+                    "UnitName": "Cannot Fetch Data"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit introduces mathematical techniques that are invaluable tools for econometrics, economics, finance, and business. Topics covered include matrix algebra, linear simultaneous equations and the LU decomposition, eigenvalues and the Schur decomposition, random vectors; optimisation, including the Lagrange multiplier method, partial differentiation, multiple integration, difference and differential equations. Some emphasis will be given to the use of computer programs for performing matrix calculations.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Students must have passed ETC1000 or must be enrolled in course 3822 or 4412.",
+                    "Prohibitions": "ETF2700, ECC2440. Students are also prohibited from enrolling in ETC2440 if they have passed both MTH2010 and MTH2021.",
+                    "SCABand": 3,
+                    "UnitCode": "ETC2440",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Mathematics for economics and business"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE3161",
+                    "UnitName": "Cannot Fetch Data"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit introduces students to the fundamental principles of some basic systems comprising of - Mechanical, Electrical, Electronic, Computing and Electro-mechanical sub-systems, with an intention to introduce cross-links between them for an integrated design approach towards their application to the development of complex systems.Special emphasis will be made on introducing sub-systems required for - 'inception to completion' of mechatronic systems with practical design examples. The enabling sub-systems for integrated approach such as sensors and actuators, hardware interfacing, data acquisition for control and feedback of such systems, as well as strategies for risk assessment, interface definition, system integration, human integration, measurement and analysis as required in mechatronics product design & development will also be introduced.This unit would outline the breadth of the knowledge that the mechatronics systems engineer must acquire regarding the features of diverse sub-systems and components that constitute the total system.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "24 Credit points",
+                    "Prohibitions": "TRC2000",
+                    "SCABand": 2,
+                    "UnitCode": "TRC2001",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introduction to systems engineering"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ETC3400,ETC3410,ETC3420,ETC3430,ETC3460,ETC3510"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit provides students with an introduction to financial accounting guided by the Conceptual Framework and Accounting Standards. Emphasis is placed on accounting processes, practices and policies that enable financial statements to be prepared. Students will integrate theoretical and technical knowledge learned and exercise judgement to explore accounting issues.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "ACB1002, AFF1121, ACF1121, AFG1002, ACG1002, AFC1030, AFW1002, ACW1002, ACF1100, ACP1100.",
+                    "SCABand": 3,
+                    "UnitCode": "ACC1100",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introduction to financial accounting"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "TRC3802",
+                    "UnitName": "Cannot Fetch Data"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "TRC2500",
+                    "UnitName": "Cannot Fetch Data"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Topics covered in this unit include: an introduction to mathematics of finance, rates of interest, rates of discount, present and accumulated value of cash flows under fixed and variable rates of interest, equation of value, applications to debt and retirement income stream markets, in particular the Australian annuity, short-term money market and capital markets; factors affecting accumulation under the Superannuation Guarantee Scheme; economic factors affecting the yield curve, zero coupon bonds, zero coupon bond yield curve, pricing bonds, bond yields, callable bonds, effect of tax on yield, annuity bonds, hybrids, CGB futures and options on futures, interest rate risk management by immunisation, stochastic models for cash flows and stochastic rates of interest, calculation of moments of present values and accumulations, arbitrage-free asset pricing, hedging, optimal conversion of lump sum to a retirement income stream.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Students must have passed one of the following units: AFC2000, BFC2000, AFC1100 (pre 2009), AFC2100 (pre 2009), BFB1001, BFC1001, BFF1001, BFP1001, BFW1001 OR be enrolled in course B6014 or 4439 prior to undertaking this unit.",
+                    "Prohibitions": "AFC2340",
+                    "SCABand": 3,
+                    "UnitCode": "BFC2340",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Debt markets and fixed income securities"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ETC3400,ETC3410,ETC3420,ETC3430,ETC3460,ETC3510"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit commences with the modeling of various dynamic engineering systems, followed by the analysis of their transient and steady-state responses. More sophisticated analytical methods such as root locus and frequency response will be explored and will build the foundation for controller design in the future. Modeling via state-space methods will also be briefly covered.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "MAE3408, MEC3457",
+                    "SCABand": 2,
+                    "UnitCode": "TRC3600",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Modelling and control"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Students will learn the planning and communication skills required to undertake a group project. An introduction will be given to the evolution of mechatronic technologies, design tools and methodologies, concurrent engineering design support tools, mechatronic design process and requirement interpretation. The acquisition of these skills will be motivated and tested by applying them in a group project to design and build a mechatronic system. The mechatronic system will be based on a microcontroller together with appropriate mechanical structure, sensors and actuators.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "ECE3905",
+                    "SCABand": 2,
+                    "UnitCode": "TRC3000",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Mechatronics project II"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "An introduction to probability and statistical inference for use in economics and business. Topics covered include random variables, moments and cumulants generating function, discrete and continuous distributions, independence, jointly distributed random variables, conditional random variables, the central limit theorem, sampling distribution, properties of estimators, confidence intervals, tests of hypotheses.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "ETC1000 or equivalent",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "ETC2520",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Probability and statistical inference for economics and business"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ETC3400,ETC3410,ETC3420,ETC3430,ETC3460,ETC3510"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The aim of this capstone unit is to provide an opportunity for students to undertake a substantial individual or small group project. In order complete the project studies from earlier stages of the course will be integrated into a complete design/build/test task, a computer modelling or simulation task or a combination of both. It is envisaged that the project may involve design of mechanical components, sensing, actuation and computing elements, a simulated model or similar.  Before work is started on the project a safety induction and/or risk assessment process will be completed. The student will also complete a research proposal or requirements analysis to ensure that the scope and expected outcomes of the project are agreed between student and supervisor. A progress report and a progress presentation at the end of the semester will give a detailed account of progress and a research plan for the next semester.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "132 credit points completed including TRC3000.",
+                    "Prohibitions": "ECE4911, ECE4912, ECE5911, ECE5912, MEC4401, MEC4402",
+                    "SCABand": 2,
+                    "UnitCode": "TRC4000",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Mechatronics final year project I"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The unit will cover fundamentals of robotics and robotic automation. The contents include: Spatial descriptions and transformations, manipulator forward and inverse kinematics, differential relationships and the Jacobian. Manipulator dynamics. Problem specification and solution preparation. Manipulator and end-effector configuration and design. Manipulator position control, involving sensing and actuation. Robotics in manufacturing and automation. Task Planning and techniques for modelling, simulation and programming of robotic tasks. Computational geometry for design and manufacture.  Introduction to autonomous systems.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "TRC3600",
+                    "Prohibitions": "MEC4456",
+                    "SCABand": 2,
+                    "UnitCode": "TRC4800",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Robotics"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "TRC4418",
+                    "UnitName": "Cannot Fetch Data"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The nature and scope of economics; different economic systems; economic policy analysis and evaluation; main bodies of economic thought; examples of household, business and government economic decision problems; consumer choice, product demand and factor supply; enterprise choice, product supply and factor demand; market analyses of contemporary issues; competitive market long run equilibrium; market power; market failure and concerns for efficiency and equity; government involvement in the Australian economy.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "ECC1000",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Principles of microeconomics"
+                }
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The aim of this capstone unit is to provide an opportunity for students to undertake a substantial individual or small group project with a strong mechatronics content. In order complete the project studies from earlier stages of the course will be integrated into a complete design/build/test task. It is envisaged that the project will involve design of mechanical components, sensing, actuation and computing elements.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "TRC4000 in the previous semester",
+                    "Prohibitions": "ECE4911, ECE4912, ECE5911, ECE5912, MEC4401, MEC4402",
+                    "SCABand": 2,
+                    "UnitCode": "TRC4001",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Mechatronics final year project II"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "TRC4092",
+                    "UnitName": "Cannot Fetch Data"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Mechnical Engineering Elective",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The modelling and valuation of cash flows dependent on death, survival, or other uncertain risks.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "AFC2340 or ETC2430 or BFC2340 or by permission.",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "ETC3530",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Contingencies in insurance and pensions"
+                }
+            ],
+            "year": 4
+        }
+    ]
+}

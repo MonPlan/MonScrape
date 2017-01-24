@@ -1,0 +1,78 @@
+{
+  "courseCode": "F2003",
+  "courseName": "Bachelor of Fine Arts",
+  "courseAOS": "Visual Arts",
+  "faculty": "Faculty of Art, Design and Architecture",
+  "courseType": "Undergraduate",
+  "teachingPeriods": [
+    {
+      "code": "S1-01",
+      "year": 0,
+      "units": [
+        "VPR1011",
+        "DWG1201",
+        "AHT1011",
+        "Elective",
+        "OHS1000"
+      ]
+    },
+    {
+      "code": "S2-01",
+      "year": 0,
+      "units": [
+        "VPR1012",
+        "VPR1113",
+        "AHT1102",
+        "Elective"
+      ]
+    },
+    {
+      "code": "S1-01",
+      "year": 1,
+      "units": [
+        "VPR2011",
+        {
+          "type": "Workshop Elective",
+          "faculty": "Faculty of Arts, Design and Architecture"
+        },
+        "AHT2102",
+        "Elective"
+      ]
+    },
+    {
+      "code": "S2-01",
+      "year": 1,
+      "units": [
+        "VPR2012",
+        {
+          "type": "Workshop Elective",
+          "faculty": "Faculty of Arts, Design and Architecture"
+        },
+        "AHT2102",
+        "Elective"
+      ]
+    },
+    {
+      "code": "S1-01",
+      "year": 2,
+      "units": [
+        "VPR3011",
+        {
+          "type": "Workshop Elective",
+          "faculty": "Faculty of Arts, Design and Architecture"
+        },
+        "Elective",
+        "Elective"
+      ]
+    },
+    {
+      "code": "S2-01",
+      "year": 2,
+      "units": [
+        "VPR3012",
+        "Elective",
+        "Elective"
+      ]
+    }
+  ]
+}

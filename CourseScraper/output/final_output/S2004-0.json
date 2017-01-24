@@ -1,0 +1,678 @@
+{
+    "courseAOS": "Computer Science specialisation",
+    "courseCode": "S2004",
+    "courseName": "Science and Computer Science",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Science",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major level 1 sequence 1",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Level 1 Science sequence 1",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "VCE Mathematics Methods or Specialist Mathematics units 3 & 4 with a study score of 25 or MTH1010.Note: For 2016 Further Mathematics with a study score of 35 will be accepted.",
+                    "Proh": "FIT1029",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces programming fundamentals and the Python language to students. The unit provides a foundational understanding of program design and implementation of algorithms to solve simple problems. Fundamental programming control structures, built in and complex datatypes and mechanisms for modularity will be presented in Python.Topics covered will include basic input and output, program control structures, basic data structures and modular program structure. Problem-solving strategies and techniques for algorithm development, iteration and recursion, algorithm efficiency and the limitations of algorithms will be introduced.",
+                    "UnitCode": "FIT1045",
+                    "UnitName": "Algorithms and programming fundamentals in python",
+                    "_id": "5878027430213215439e8fa9",
+                    "enjoyRating": 3.47826087,
+                    "enjoyResponse": 90,
+                    "learnRating": 3.390116526,
+                    "learnResponse": 45,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "VCE Specialist Mathematics or Mathematical Methods units 3 and 4 with a study score of at least 25 or Further maths with a study score of at least 35.",
+                    "Proh": "MAT1077, MTH1112",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces fundamental discrete mathematics topics including combinatorics, sets, relations and functions; methods of logic and proof, especially proof by induction; probability theory, Bayes' theorem; recursion; recurrence relations; trees and other graphs. It establishes the mathematical basis required for studies in Computer Science and Software Engineering.",
+                    "UnitCode": "MAT1830",
+                    "UnitName": "Discrete mathematics for computer science",
+                    "_id": "5878036a30213215439e9317",
+                    "enjoyRating": 3.7,
+                    "enjoyResponse": 14,
+                    "learnRating": 4.00299062,
+                    "learnResponse": 44,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major level 1 sequence 2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Level 1 Science sequence 2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "((One of FIT1040, ECE2071, FIT1002) and FIT1029) or FIT1045Students beginning FIT1008 are assumed to be able to: Identify the main components of an algorithm (variables, operators, expressions, etc), and write the algorithm associated to the specification of a simple problem. Be able to translate a simple algorithm into a program containing variable declarations, selection, repetition, and lists and/or arrays.",
+                    "Proh": "CSE1303, CSC1030, FIT1015, FIT2085",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to core problem-solving, analytical skills, and methodologies useful for developing flexible, robust, and maintainable software. In doing this it covers a range of conceptual levels, from high-level algorithms and data-structures, down to the machine models and simple assembly language programming. Topics include data types; data structures; algorithms; algorithmic complexity; recursion; and translation to assembly language.",
+                    "UnitCode": "FIT1008",
+                    "UnitName": "Introduction to computer science",
+                    "_id": "5878027130213215439e8fa1",
+                    "enjoyRating": 3.970238095,
+                    "enjoyResponse": 135,
+                    "learnRating": 4.002233684,
+                    "learnResponse": 68,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "VCE Specialist Mathematics or Mathematical Methods units 3 and 4 with a study score of at least 25 or Further maths with a study score of at least 35.",
+                    "Proh": "ENG1090, MTH1020, MAT2003",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit covers linear algebra (vectors, equations of lines and planes, solutions of simultaneous equations, determinates, Gauss elimination, Gauss-Jordan method), calculus topics (differentiation, parametric differentiation, fundamental theorem of calculus, and numerical integration), an introduction to multivariable calculus (functions of several variables, partial derivatives, tangent planes and directional derivatives), and the construction of splines and Taylor series expansions are also covered.",
+                    "UnitCode": "MAT1841",
+                    "UnitName": "Continuous mathematics for computer science",
+                    "_id": "5878036a30213215439e9318",
+                    "enjoyRating": 4.045454545,
+                    "enjoyResponse": 88,
+                    "learnRating": 4.132481962,
+                    "learnResponse": 47,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major \u2013 level 2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "One of SCI1020 STA1010 MTH1020 MTH1030 [or Science elective if already taken as part of another sequence]",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "FIT1031 and FIT2078",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit introduces students to fundamentals of computer systems, networks and security. It provides basic knowledge of computer organisation and architecture, operating systems, networking architecture, technology and operation. It introduces the concepts of security goals for protecting common modern computer systems and communication networks from adversaries and the deployment of suitable countermeasures to achieve these goals.",
+                    "UnitCode": "FIT1047",
+                    "UnitName": "Introduction to computer systems, networks and security",
+                    "_id": "5878027430213215439e8fab",
+                    "enjoyRating": 3.880434783,
+                    "enjoyResponse": 118,
+                    "learnRating": 3.864349817,
+                    "learnResponse": 118,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "One of FIT1008, FIT1015, FIT2085 or CSE1303 and 6 points of Level 1 mathematics.",
+                    "Proh": "CSE2304, FIT2009",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to problem solving concepts and techniques fundamental to the science of programming. In doing this it covers problem specification, algorithmic design, analysis and implementation. Detailed topics include analysis of best, average and worst-case time and space complexity; introduction to numerical algorithms; recursion; advanced data structures such as heaps and B-trees; hashing; sorting algorithms; searching algorithms; graph algorithms; and numerical computing.",
+                    "UnitCode": "FIT2004",
+                    "UnitName": "Algorithms and data structures",
+                    "_id": "5878027630213215439e8fb3",
+                    "enjoyRating": 4.077380952,
+                    "enjoyResponse": 49,
+                    "learnRating": 3.920413012,
+                    "learnResponse": 25,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major \u2013 level 2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Science",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "SCI2010,SCI2015",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "One of FIT1045, FIT1048, FIT1051, ENG1003 or an equivalent introductory programming unit or (FIT1040 and FIT1029), and one of MAT1830, MTH1030, ENG1005 or equivalent.Students are expected to have basic competence in computer programming.",
+                    "Proh": "CSE2303",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces formal languages, models of computation, and computational complexity. It looks at what computers can and cannot compute. Topics include finite state automata, regular expressions, grammars, pushdown automata, computable functions, Turing machines, polynomial-time reductions, complexity classes P and NP, and NP-completeness. Skills at writing formal proofs will be developed.",
+                    "UnitCode": "FIT2014",
+                    "UnitName": "Theory of computation",
+                    "_id": "5878027730213215439e8fb6",
+                    "enjoyRating": 3.990909091,
+                    "enjoyResponse": 113,
+                    "learnRating": 4.035453272,
+                    "learnResponse": 57,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Completion of 12 points of FIT units.",
+                    "Proh": "FIT2003",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides a practical and theoretical introduction to what it means to be an IT professional today. Students will encounter a range of issues relevant to professional practice in the workplace, as well as an understanding of the wider responsibilities that professionals are called upon to uphold in society. Topics addressed include: organisational and professional communication; mindfulness; teamwork; the nature of the IT professions; the role of professional associations; problem solving and information use; cross-cultural awareness; personal and professional ethics and codes of practice.",
+                    "UnitCode": "FIT1049",
+                    "UnitName": "IT professional practice",
+                    "_id": "5878027530213215439e8fad",
+                    "enjoyRating": 3.482545045,
+                    "enjoyResponse": 188,
+                    "learnRating": 3.664236475,
+                    "learnResponse": 63,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major \u2013 level 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "(ENG1003 and ENG1060) or one of FIT1045, FIT1048, FIT1051, FIT1008 or FIT2071",
+                    "Proh": "FIT2024",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to object-oriented design principles and their application to the construction of quality software. Students will learn the fundamental concepts that underlie modern object-oriented languages, and will learn how to implement their designs using at least one. Students will also learn how to use standard notation to illustrate their designs.",
+                    "UnitCode": "FIT2099",
+                    "UnitName": "Object oriented design and implementation",
+                    "_id": "5878027e30213215439e8fd4",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "BCS Approved L3 Elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major \u2013 level 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science elective \u2013 level 2 or 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "FIT1008",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Ability to code in differently constructed programming languages is analogous to speaking in different natural languages with varying grammars. Similar to natural languages, programming languages from different paradigms (styles) vary in their expressiveness and efficiency. One programming language may require many screens-full of complex code to accomplish a task for which another requires but a few expressive lines of code. Therefore, understanding the design principles of programming languages enables computational problems to be implemented in drastically different and powerful ways; leading, in some cases, to solutions that are more elegant, correct, maintainable, efficient and/or extensible.This unit examines a selection of programming languages and paradigms and explores the evolution of language design from low-level paradigms that are closer to the execution model of the machine, to more high-level declarative paradigms that allow programmers to model a problem precisely rather than specify its solution. The unit covers paradigms such as functional and logic programming, comparing and contrasting them to programming styles that students are already familiar with, including object-oriented, imperative and procedural programming paradigms. Topics include specification and data-modeling techniques (covering types and polymorphism, mutability-versus-purity, state management, and side-effects) and different models of execution such as strict-versus-lazy evaluation.The unit provides practical experience with a variety of non-procedural, non-object-oriented programming languages and discusses the influence of programming language theory on the design of current main-stream computer languages, and how the theory translates to practice.",
+                    "UnitCode": "FIT2102",
+                    "UnitName": "Programming paradigms",
+                    "_id": "5878027f30213215439e8fd7",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": "Not Offered in 2017",
+                    "Preqs": "FIT2004 and FIT2102",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This advanced unit builds on the concepts learnt in introductory algorithms and data structures study. It covers the latest algorithmic paradigms and problem-solving techniques required to address real-world programming challenges. It explores, in depth, the design and analysis of space-efficient/compact data structures and effective problem solving strategies to be used with them. Topics include advanced sorting and searching algorithms, succinct/compact trees, string and graph data structures, advanced hashing and table lookup methods",
+                    "UnitCode": "FIT3155",
+                    "UnitName": "Advanced data structures and algorithms",
+                    "_id": "5878028b30213215439e9004",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major \u2013 level 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science elective \u2013 level 2 or 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": "Not Offered in 2017",
+                    "Preqs": "FIT2004",
+                    "Proh": "FIT3144",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides practical experience in researching, designing, developing and testing a substantial computer science project. Projects are generally software-based, although sometimes they may involve hardware development or investigation of theory. Projects cover the whole process of software (or hardware) development, from analysis through design to implementation and testing. Comprehensive written documentation on the project is required. Students are assigned in groups to a project supervisor. There are no lectures in this unit, although students will be expected meet weekly with their project supervisor, and attend 2-hour project management seminars during the first six weeks.The unit is the first part of a 12-credit point project sequence; the second part and exit point for the project is FIT3162.",
+                    "UnitCode": "FIT3161",
+                    "UnitName": "Computer science project 1",
+                    "_id": "5878028d30213215439e9009",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "BCS Approved L3 Elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major \u2013 level 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science elective \u2013 level 2 or 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": "Not Offered in 2017",
+                    "Preqs": "FIT3161",
+                    "Proh": "FIT3144",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides practical experience in researching, designing, developing and testing a non-trivial computer science project. Projects are generally software-based, although sometimes they may involve hardware development or investigation of theory. Projects cover the whole process of software (or hardware) development, from analysis through design to implementation and testing. Comprehensive written documentation on the project is required. Students are assigned in groups to a project supervisor. There are no lectures in this unit, although students will be expected to attend regular meetings with their project supervisor.The unit is the second part of a 12-credit point project sequence; the first part and entry point for the project is FIT3161.",
+                    "UnitCode": "FIT3162",
+                    "UnitName": "Computer science project 2",
+                    "_id": "5878028d30213215439e900a",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "FIT2004C or C++ programming language",
+                    "Proh": "FIT4001, CSE4333",
+                    "SCABand": 2,
+                    "Sypnosis": "Modern computer systems contain parallelism in both hardware and software. This unit covers parallelism in both general purpose and application specific computer architectures and the programming paradigms that allow parallelism to be exploited in software. The unit examines shared memory and message passing paradigms in hardware and software; concurrency, multithreading and synchronicity; parallel, clustered and distributed supercomputing models, languages and software tools and development environments. Students will program in these paradigms.",
+                    "UnitCode": "FIT3143",
+                    "UnitName": "Parallel computing",
+                    "_id": "5878028a30213215439e8ffd",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

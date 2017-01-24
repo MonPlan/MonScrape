@@ -1,0 +1,924 @@
+{
+    "courseAOS": "Civil Engineering specialisation",
+    "courseCode": "E3005",
+    "courseName": "Engineering and Commerce",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ENG1001 Engineering Design: lighter, faster, stronger OR ENG1002",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1090,PHS1080,ENG1005",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ACC1200,ACC1100",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "The nature and scope of economics; different economic systems; economic policy analysis and evaluation; main bodies of economic thought; examples of household, business and government economic decision problems; consumer choice, product demand and factor supply; enterprise choice, product supply and factor demand; market analyses of contemporary issues; competitive market long run equilibrium; market power; market failure and concerns for efficiency and equity; government involvement in the Australian economy.",
+                    "UnitCode": "ECC1000",
+                    "UnitName": "Principles of microeconomics",
+                    "_id": "5878018530213215439e8c58",
+                    "enjoyRating": 3.954545455,
+                    "enjoyResponse": 177,
+                    "learnRating": 3.966738983,
+                    "learnResponse": 177,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1090,PHS1080",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ENG1002 Engineering design: cleaner, safer, smarter OR ENG1001",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "VCE Specialist Mathematics or ENG1090 (or equivalent)",
+                    "Proh": "ENG1091, MTH1030, MTH1035",
+                    "SCABand": 2,
+                    "Sypnosis": "Vector algebra and geometry: equations of lines and planes. Linear algebra: matrix operations, up to 3x3 systems of linear equations, eigenvalues and eigenvectors. Calculus: improper integrals, integration by parts. Sequences and series: fundamentals of convergence, Taylor series, use in error analysis. Ordinary differential equations: first order, second order with constant coefficients, repeated roots, simple non-homogeneous cases. Laplace transforms: elementary functions, inversion by tables; shifting; derivatives, applications to ODEs. Multivariable calculus: partial derivatives, gradient and directional derivatives, maxima and minima.",
+                    "UnitCode": "ENG1005",
+                    "UnitName": "Engineering mathematics",
+                    "_id": "5878023630213215439e8eb6",
+                    "enjoyRating": 3.728916952,
+                    "enjoyResponse": 225,
+                    "learnRating": 3.708615101,
+                    "learnResponse": 113,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MKB1200, MKF1120, MKG1120, MKW1120",
+                    "SCABand": 3,
+                    "Sypnosis": "Have you ever wondered what marketing is all about? This unit is designed to introduce students to the essential elements of marketing. It encompasses marketing's role in a dynamic business environment and leads students to understand how organisations use the principles of marketing to meet the needs of their customers and achieve their objectives. This unit provides a foundation for those students seeking to pursue further study of specialist marketing units; however it covers the broad scope of marketing sufficient for those students undertaking only one marketing unit.",
+                    "UnitCode": "MKC1200",
+                    "UnitName": "Principles of marketing",
+                    "_id": "587803cb30213215439e949f",
+                    "enjoyRating": 3.962962963,
+                    "enjoyResponse": 163,
+                    "learnRating": 3.450036075,
+                    "learnResponse": 47,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ETG1102, ETW1000, ETW1102, ETX1100, ETX9000, FIT1006, STA1010",
+                    "SCABand": 2,
+                    "Sypnosis": "Presentation and analysis of grouped and ungrouped data using tables, charts and measures of location and dispersion; standardisation techniques, including index numbers, with application to share price indices and the CPI; analysis of relationships between variables using simple and multiple regression; extensions to multiple regression, including nonlinear and categorical explanatory variables and time series data with applications to forecasting; main ideas of probability theory as a foundation for statistical inference; concept of sampling as a way of capturing uncertainty about data; estimators and their properties; constructing and interpreting confidence intervals; fundamentals of hypothesis testing, testing hypotheses about the mean, difference between means and the slope, including analysis of variance.",
+                    "UnitCode": "ETC1000",
+                    "UnitName": "Business and economic statistics",
+                    "_id": "5878025130213215439e8f1e",
+                    "enjoyRating": 4.122807018,
+                    "enjoyResponse": 121,
+                    "learnRating": 4.018583856,
+                    "learnResponse": 121,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to the use of Information Technology (IT) in modern engineering practice. Students will learn an object-oriented approach to both computer systems and software engineering for solving engineering problems.Students will work in small teams to develop a mobile application that meets a contemporary need in engineering. The fundamental stages in the software development lifecycle will be introduced, including requirements analysis, design, implementation and verification. Students will use IT tools to support the engineering process.",
+                    "UnitCode": "ENG1003",
+                    "UnitName": "Engineering mobile apps",
+                    "_id": "5878023630213215439e8eb5",
+                    "enjoyRating": 3.662162162,
+                    "enjoyResponse": 306,
+                    "learnRating": 3.75307989,
+                    "learnResponse": 153,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Solid mechanics is concerned with the stressing, deformation and failure of solid materials. This unit conveys some of this fundamental knowledge related to the analysis and design of engineering structures. It builds on aspects taught in the level 1 unit ENG1001. Topics covered include; bending moment diagrams of determinate and indeterminate beam/frame systems, the calculation of normal stresses due to combined bi-axial bending and axial forces (including those resulting from thermal loading); partial and fully plastic section moment capacities; torsion, shear stress and shear flow in beams; and the calculation of deflections in simple determinate beams. The theory of elasticity is then introduced covering; stress and strain at a point, the transformation of stresses and strains and the calculation of principal stresses and strains; the constitutive relationship between elastic stress-strain behaviour; Mohr's circle; and failure criterion with specific reference to pressure vessels.",
+                    "UnitCode": "CIV2206",
+                    "UnitName": "Mechanics of solids",
+                    "_id": "5878015530213215439e8b90",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MGB1010, MGF1010, MGG1010, MGP1010, MGW1010",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit offers a critical introduction to fundamental questions in the discipline of management. What is management? What do managers do, and how do I become a good manager? What are the effects of management practice on employees and their experience of being managed? Key contemporary issues of globalisation and cultural diversity, ethics and social responsibility affect the answers to these questions and are therefore woven throughout the curriculum. The unit draws upon a range of sources - academic, practical, popular cultural - to engage students in multiple ways of knowing about management.",
+                    "UnitCode": "MGC1010",
+                    "UnitName": "Introduction to management",
+                    "_id": "5878039b30213215439e93ce",
+                    "enjoyRating": 3.754716981,
+                    "enjoyResponse": 137,
+                    "learnRating": 3.94212963,
+                    "learnResponse": 18,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "BTB1010, BTF1010, BTG1200, BTP1010, BTW1200, LAW2100, LAW2102",
+                    "SCABand": 3,
+                    "Sypnosis": "An introduction to legal studies and to the legal system of Australia with special emphasis on commercial aspects. The laws of negligence as it affects business and the professional is introduced, and aspects of the law of contract, consumer law, agency, partnership, trusts and an introduction to companies of relevance to commerce.",
+                    "UnitCode": "BTC1110",
+                    "UnitName": "Commercial law",
+                    "_id": "5878012130213215439e8abf",
+                    "enjoyRating": 3.631578947,
+                    "enjoyResponse": 172,
+                    "learnRating": 4.3,
+                    "learnResponse": 31,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Mathematical methods (CAS) recommended.",
+                    "Proh": "ENG1602",
+                    "SCABand": 2,
+                    "Sypnosis": "General rules for software development and design. Errors. Data types, variables, expressions, control statements M-files. Numerical techniques: Gauss elimination, solution of non-linear equations, optimisation, curve fitting, numerical calculus, ordinary differential equations.",
+                    "UnitCode": "ENG1060",
+                    "UnitName": "Computing for engineers",
+                    "_id": "5878023730213215439e8eb9",
+                    "enjoyRating": 4.05248538,
+                    "enjoyResponse": 274,
+                    "learnRating": 3.934633702,
+                    "learnResponse": 137,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ENG1005 or ENG1091 or equivalent",
+                    "Proh": "ENG2091, MTH2010, MTH2015",
+                    "SCABand": 2,
+                    "Sypnosis": "Advanced matrix algebra: mxn systems, linear independence, sparse matrices, simple tensors. Further ordinary differential equations: systems of ODEs, variation of parameters; boundary-value problems. Fourier series: Euler formulae, convergence, half-range series, solution of ODEs, spectra. Further multivariable calculus: change of variables and chain rule, polar coordinates, line integrals; vector fields; del, divergence, curl and Laplacian; surface and volume integrals; Gauss and Stokes theorems. Partial differential equations: simple PDEs, Laplace, heat and wave equations, superposition, separation of variables, polar coordinates. Advanced numerical methods: solution of linear systems, numerical solution of ODEs and simple PDEs, accuracy, efficiency and stability; discrete Fourier transforms, introduction to PS and FE methods.",
+                    "UnitCode": "ENG2005",
+                    "UnitName": "Advanced engineering mathematics",
+                    "_id": "5878023830213215439e8ec0",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 1",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Business and Economics elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces the design of steel and timber framed structures in accordance with the design codes. It enables the students to understand the process for the design of steel and timber structures and the background knowledge which leads to the development of the current steel and timber design codes. Students will understand the behaviour of steel and timber structural components under realistic design conditions and relate the knowledge of design to practical design problems in a project-based learning environment.",
+                    "UnitCode": "CIV2225",
+                    "UnitName": "Design of steel and timber structures",
+                    "_id": "5878015630213215439e8b92",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit focuses on fundamentals of hydraulics. Hydrostatics is first introduced with application to dam and gates. The basic equations of continuity, momentum and energy conservation are derived and applied to the design of pressurised pipelines. Flow in open channels is introduced with application to waterways, aqueducts and pipes flowing partly full; applications include design of spillways and culverts.",
+                    "UnitCode": "CIV2263",
+                    "UnitName": "Water systems",
+                    "_id": "5878015730213215439e8b95",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 3",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit covers all aspects of geomechanics at an elementary level, as well as basic engineering geology, formation and weathering processes, sedimentary, igneous and metamorphic rocks, soil and rock forming minerals, geological mapping and modelling, site investigations, in-situ testing, engineering classification of soil and rock, weight-volume relationship, and the two/three phase model. It also includes effective stress theory, stresses in a soil mass and shear strength. The unit includes elementary level application of geomechanics knowledge in the analysis and design of shallow and deep foundations.",
+                    "UnitCode": "CIV2242",
+                    "UnitName": "Geomechanics I",
+                    "_id": "5878015730213215439e8b94",
+                    "enjoyRating": 4.013888889,
+                    "enjoyResponse": 129,
+                    "learnRating": 3.772162925,
+                    "learnResponse": 64,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to the field of transport and traffic engineering. The fundamental parameters used to describe deterministic traffic flow behaviour are introduced along with a simple traffic flow model. Stochastic traffic flow behaviour is described via random distributions. Fundamental queuing theory of traffic is briefly introduced. The procedures used to analyse the capacity and level of service are explored for both unsignalised and signalised intersections. The principle of traffic signal operation at isolated intersections is presented. Traffic surveys are discussed and students are introduced to contemporary road safety issues as well. Public transport is considered at the route level concerning the determination of fleet size and factors affecting operational capacity and reliability. Non-motorized transport including cyclists and pedestrians is also considered. In addition, the unit addresses Intelligent Transportation Systems (ITS). Consideration will also be given to the role of communications in the practice of transport and traffic engineers. To enhance students' understanding of the unit content from practical points of view, some experts will be invited to give lectures on their relevant work. Throughout the whole unit, the focus is primarily on surface transport systems and applications of advanced technologies therein.",
+                    "UnitCode": "CIV2282",
+                    "UnitName": "Transport and traffic engineering",
+                    "_id": "5878015730213215439e8b96",
+                    "enjoyRating": 3.838932806,
+                    "enjoyResponse": 112,
+                    "learnRating": 3.995307468,
+                    "learnResponse": 65,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 4",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 5",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "CIV3xxx Engineering hydrology",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "CIV2206,CIV2225 and CIV2226",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Loads and load paths for multi-storey structures, including the action of core walls. Design of composite steel-concrete floor systems, beam columns and footings. Matrix structural analysis for the determination of forces and displacements in structures. Relationship between frame analysis software and the technique of matrix analysis. Emphasis on performance issues for buildings which are not related to strength and deflection.",
+                    "UnitCode": "CIV3221",
+                    "UnitName": "Building structures and technology",
+                    "_id": "5878015830213215439e8b9b",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 6",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 7",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "CIV2242",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Consolidation theory of soils, estimation of consolidation and creep settlements for different types of soils, advanced topics on shear strength of soils and rocks for various drainage conditions, stress-paths and laboratory triaxial tests, determination of drained and undrained shear strength parameters, critical state mechanics and various failure criteria, soil and rock slope analysis, earth pressure theory and design of retaining walls.",
+                    "UnitCode": "CIV3247",
+                    "UnitName": "Geomechanics II",
+                    "_id": "5878015930213215439e8b9d",
+                    "enjoyRating": 3.792067308,
+                    "enjoyResponse": 110,
+                    "learnRating": 4.105288402,
+                    "learnResponse": 63,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ENG1091 or MTH1030 or MTH1031 or ENG1005",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Systematic approaches to engineering data collection, analysis and interpretation. The Scope covers data description and presentation, randomness, discrete probability, continuous probability, conditional probability, Bayes' Theorem, normal distribution, sampling distributions, point estimation, interval estimation, hypothesis testing, linear regression.",
+                    "UnitCode": "CIV3204",
+                    "UnitName": "Engineering investigation",
+                    "_id": "5878015830213215439e8b99",
+                    "enjoyRating": 3.834586466,
+                    "enjoyResponse": 103,
+                    "learnRating": 4.321428571,
+                    "learnResponse": 13,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 8 or Commerce elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Capstone unit",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Overview of concepts relating to groundwater resources and seepage, with emphasis on seepage containment in reservoirs, ponds, soil pollution and its avoidance, focusing on soil behaviour and its effect on seepage, groundwater percolation and migration of contaminant in the nearfield of waste containment facilities.  Focus will also be on the function, design and construction of engineered soil barriers to prevent leakage from water reservoirs, ponds or to isolate different types of waste.",
+                    "UnitCode": "CIV3248",
+                    "UnitName": "Groundwater and environmental geomechanics",
+                    "_id": "5878015930213215439e8b9e",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Completion of 120 credit points and level 3 units in chosen area",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "In this unit, each student will be required to undertake a research project from a number of topics offered. These topics in general include one or a combination of design, theoretical, review and investigation works that will make a new contribution to the body of knowledge. Experimental work is only permitted when combining with CIV4211.The student will be supervised by an academic member of staff. The project proposal will be presented as a poster, with the outcomes summarised in either a progress report or research paper and oral presentation.",
+                    "UnitCode": "CIV4210",
+                    "UnitName": "Project A",
+                    "_id": "5878015a30213215439e8ba1",
+                    "enjoyRating": 4.125,
+                    "enjoyResponse": 17,
+                    "learnRating": 4.07708182,
+                    "learnResponse": 59,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "CIV4xxx Project management for civil engineers",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "CIV4xxx Bridge design and assessment",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "CIV3xxx Design of concrete & masonry structures",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "(CIV3221, CIV3222, CIV3247, CIV3248, CIV3264, CIV3283) or (CIV3248, CIV3221, CIV3285 or CIV3264, CIV3204, CIV3284, CIV3247) or (CIV3248, CIV3285 or CIV3264, ENE3048, ENE3606)",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This is a capstone unit drawing together the material taught in previous units. The objective is to utilise this knowledge to undertake a multi-disciplinary open ended design task for a specified civil engineering development, in groups, mirroring the expectations of working in professional practice. The design project will vary from year to year but will include aspects of structural, water, geomechanics, environmental engineering and transport design with an emphasis on sustainable design.",
+                    "UnitCode": "CIV4212",
+                    "UnitName": "Civil and environmental engineering practice",
+                    "_id": "5878015a30213215439e8ba3",
+                    "enjoyRating": 2.796875,
+                    "enjoyResponse": 70,
+                    "learnRating": 4.152480159,
+                    "learnResponse": 11,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "CIV4xxx Road engineering",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "CIV4xxx Water treatment",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 4
+        }
+    ]
+}

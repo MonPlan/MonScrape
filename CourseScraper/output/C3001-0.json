@@ -1,0 +1,104 @@
+{
+    "courseAOS": "Bachelor of Computer Science Advanced (Honours)",
+    "courseCode": "C3001",
+    "courseName": "Computer Science Advanced",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Information Technology",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "FIT1045",
+                "MAT1830",
+                "FIT1047",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "FIT1008",
+                "MAT1841",
+                "FIT1041",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "FIT2004",
+                "Elective",
+                "FIT2083",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "FIT2014",
+                "FIT2102",
+                "FIT2082",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                [
+                    "FIT3045",
+                    "FIT3153"
+                ]
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "FIT3155",
+                "FIT3143",
+                "FIT3171",
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "teachingPeriod": "Summer semester",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "L3 computer science elective"
+                }
+            ]
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "FIT4441",
+                "FIT4442",
+                {
+                    "faculty": "",
+                    "type": "Approved level 4/5 elective"
+                },
+                "Elective"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "FIT4443",
+                "FIT4444",
+                {
+                    "faculty": "",
+                    "type": "Approved level 4/5 elective"
+                },
+                "Elective"
+            ],
+            "year": 3
+        }
+    ]
+}

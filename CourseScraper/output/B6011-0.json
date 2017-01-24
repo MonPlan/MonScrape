@@ -1,0 +1,58 @@
+{
+    "courseAOS": "Master of Professional Accounting",
+    "courseCode": "B6011",
+    "courseName": "Professional Accounting",
+    "courseType": "Expert master degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ACF5950",
+                "ECF5953",
+                "BTF5903",
+                "ETF5900"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ACF5953",
+                "ACF5955",
+                "ACF5904",
+                "BFF5954"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ACF5956",
+                "ACF5957",
+                "BTF5501",
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 1"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Capstone unit from specified list"
+                },
+                "ACF5100",
+                "BTF5965",
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 2"
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

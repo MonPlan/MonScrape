@@ -1,0 +1,190 @@
+{
+    "courseAOS": "Master of Environment and Sustainability",
+    "courseCode": "S6002",
+    "courseName": "Environment and Sustainability",
+    "courseType": "Expert master degree",
+    "faculty": "Faculty of Science",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Science",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Enrolment in the Master of Environment and Sustainability, Master of Environmental Management and Sustainability or Master of International Sustainable Tourism Management",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit, together with ENS5020, sets the context for considering the interactions and interdependence between nature and society and the basic principles of sustainability (social, economic and environmental), reflected in the Sustainable Development Goals.This unit (Global challenges and sustainability) provides the scientific basis for understanding contemporary global environmental change and its implications for society.Using the current global policy context in this area, it introduces the science of sustainability and the environment and its relevance to human well-being. It explores the key threats to sustainability, such as climate change, human migration, resource scarcity and emerging diseases. Core concepts covered in the unit include those of scale, systems and complexity.The unit teaches problem structuring methods, evidence-based approaches and methods of interpreting risk and uncertainty. Particular emphasis is placed on developing skills to integrate evidence into sustainability actions across multiple sectors, systems and scales. Theory will be complemented with group learning exercises, professional development activities and engagement with practitioners.",
+                    "UnitCode": "ENS5010",
+                    "UnitName": "Global challenges and sustainability",
+                    "_id": "5878024030213215439e8ee0",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation preparatory studies Unit 1 (Part B)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation preparatory studies Unit 2 (Part B)",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Science",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Enrolment in the Master of Environment and Sustainability, Master of Environmental Management and Sustainability, Master of International Sustainable Tourism Management or Master of Business",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit, together with ENS5010, sets the context for considering the interactions and interdependence between nature and society and the basic principles of sustainability (social, economic and environmental), as reflected in the Sustainable Development Goals.This unit explores the values and perspectives of stakeholders alongside existing social structures that inform and affect how global challenges (as taught in unit ENS5010) are perceived and acted upon.Within society there are varied understandings of the relationships between the social, environmental and economic dimensions of sustainability. How sustainability is viewed and addressed is shaped by a diversity of multi-stakeholder perspectives and value systems along with their capacity to influence economic, regulatory, and policy regimes.This unit develops student's capacity to map and critically analyse: multi-stakeholders and social structures affecting sustainability; different ideological, cultural, philosophical, psychological and disciplinary perspectives on sustainability; and, their implications for policymaking, development of business cases, disciplinary research, and action.",
+                    "UnitCode": "ENS5020",
+                    "UnitName": "Perspectives on sustainability",
+                    "_id": "5878024030213215439e8ee1",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation preparatory studies Unit 3 (Part B)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation preparatory studies Unit 4 (Part B)",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialist studies Core Unit 1 (Part C)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialist studies Core Unit 2 (Part C)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Research Project Or Interdisciplinary Project Or Sustainability Internship (Part D)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Research Project Or Interdisciplinary Project Or Sustainability Internship (Part D)",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialist studies Core Unit 3 (Part C)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation elective (Part C)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Research Project Or Specialisation elective (Part D)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Research Project Or Specialisation elective (Part D)",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

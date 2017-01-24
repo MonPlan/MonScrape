@@ -1,0 +1,126 @@
+{
+    "courseCode": "E3003",
+    "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist",
+    "courseAOS": "Chemical Engineering/Economics and Economic Policy",
+    "faculty": "Faculty of Engineering",
+    "courseType": "Double Undergraduate",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+            ["ENG1001","ENG1002"],
+            ["ENG1003","ENG1005"],
+            "ENG1060",
+            "ETC1000"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+            ["ENG1002","ENG1001"],
+            ["ENG1003","ENG1005"],
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Engineering"
+            },
+            "ECC1000"
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 1,
+          "units": [
+            "CHM1011",
+            "CHE2161",
+            "ECC2000",
+            "ECC1100"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 1,
+          "units": [
+            "CHE2162",
+            "ENG2005",
+            "ECC2010",
+            ["ECC2300", "ECC2360", "ECC2450","ECC2600","ECC2610","ECC2800"]
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 2,
+          "units": [
+            "CHE2164",
+            "CHE3167",
+            ["ECC3660","ECC3670","ECC3710","ECC3810","ECC3830","ECC3840"],
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Business and Economics"
+            }
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 2,
+          "units": [
+            "CHE3161",
+            "CHE3162",
+            ["ECC3660","ECC3670","ECC3710","ECC3810","ECC3830","ECC3840"],
+            "ETC2410"
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 3,
+          "units": [
+            "CHE3161",
+            "CHE3165",
+            ["ECC3660","ECC3670","ECC3710","ECC3810","ECC3830","ECC3840"],
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Business and Economics"
+            }
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 3,
+          "units": [
+            "CHE4161",
+            "CHE4180",
+            "ECC3690",
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Business and Economics"
+            }
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 4,
+          "units": [
+            "CHE4162",
+            "CHE4170",
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Business and Economics"
+            }
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 4,
+          "units": [
+            "MEC4402",
+            "CHE4404",
+            "MAE4408",
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Business and Economics"
+            }
+          ]
+        }
+    ]
+}

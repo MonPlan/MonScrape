@@ -1,0 +1,130 @@
+{
+  "courseCode": "F2003",
+  "courseName": "Bachelor of Law (Honours)",
+  "courseAOS": "",
+  "faculty": "Faculty of Law",
+  "courseType": "Undergraduate",
+  "teachingPeriods": [
+    {
+      "code": "S1-01",
+      "year": 0,
+      "units": [
+        "LAW1111",
+        "LAW1114",
+        "LAW2101",
+        "LAW1113"
+      ]
+    },
+    {
+      "code": "S2-01",
+      "year": 0,
+      "units": [
+        "LAW1112",
+        "LAW2111",
+        "LAW2102",
+        "LAW2112"
+      ]
+    },
+    {
+      "code": "S1-01",
+      "year": 1,
+      "units": [
+        "LAW3111",
+        "LAW3112",
+        {
+          "type": "Law Elective",
+          "faculty": "Faculty of Law"
+        },
+        "Elective"
+      ]
+    },
+    {
+      "code": "S2-01",
+      "year": 1,
+      "units": [
+        "LAW1112",
+        "LAW2111",
+        {
+          "type": "Law Elective",
+          "faculty": "Faculty of Law"
+        },
+        "Elective"
+      ]
+    },
+    {
+      "code": "S1-01",
+      "year": 2,
+      "units": [
+        "LAW4323",
+        "LAW4332",
+        {
+          "type": "Commercial Law Elective",
+          "faculty": "Faculty of Law"
+        },
+        "Elective"
+      ]
+    },
+    {
+      "code": "S2-01",
+      "year": 2,
+      "units": [
+        "LAW4303",
+        "LAW4309",
+        "LAW4331",
+        {
+          "type": "Law Elective",
+          "faculty": "Faculty of Law"
+        },
+        "Elective"
+      ]
+    },
+    {
+      "code": "S1-01",
+      "year": 3,
+      "units": [
+        {
+          "type": "Law (Research) Elective",
+          "faculty": "Faculty of Law"
+        },
+        {
+          "type": "Law Elective",
+          "faculty": "Faculty of Law"
+        },
+        {
+          "type": "Law Elective",
+          "faculty": "Faculty of Law"
+        },
+        {
+          "type": "Law Elective",
+          "faculty": "Faculty of Law"
+        },
+        {
+          "type": "Law Elective",
+          "faculty": "Faculty of Law"
+        }
+      ]
+    },
+    {
+      "code": "S2-01",
+      "year": 3,
+      "units": [
+        {
+          "type": "Law Elective",
+          "faculty": "Faculty of Law"
+        },
+        {
+          "type": "Law Elective",
+          "faculty": "Faculty of Law"
+        },
+        {
+          "type": "Law Elective",
+          "faculty": "Faculty of Law"
+        },
+        {
+          "type": "Law Elective",
+          "faculty": "Faculty of Law"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+    "courseAOS": "Visual arts specialisation and Multimedia Development major",
+    "courseCode": "F2006",
+    "courseName": "Fine Art and Information Technology",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Art, Design and Architecture",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "VPR1011",
+                "DWG1201",
+                "AHT1101",
+                "FIT1033",
+                "OHS1000"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "VPR1012",
+                "VPR1113",
+                "AHT1102",
+                "FIT1046"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "VPR2011",
+                {
+                    "faculty": "",
+                    "type": "FINE ART WORKSHOP 1"
+                },
+                "AHT2102",
+                {
+                    "faculty": "",
+                    "type": "FIT1045 Introduction to algorithms and programming OR FIT1048 Foundations of C++ OR FIT1051 Programming foundations"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "VPR2012",
+                {
+                    "faculty": "",
+                    "type": "FINE ART WORKSHOP 2"
+                },
+                "FIT1047",
+                "FIT2087"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "FIT2001",
+                "FIT2094",
+                "FIT1049",
+                "FIT2091"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "FIT2002",
+                "FIT3146",
+                "FIT3156",
+                "FIT2092"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "VPR3011",
+                {
+                    "faculty": "",
+                    "type": "FINE ART WORKSHOP 3"
+                },
+                "FIT3169",
+                "FIT3039"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "VPR3012",
+                {
+                    "faculty": "",
+                    "type": "Elective chosen from AHT 2/3"
+                },
+                "FIT3040"
+            ],
+            "year": 3
+        }
+    ]
+}

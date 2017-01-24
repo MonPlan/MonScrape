@@ -1,0 +1,611 @@
+{
+    "courseAOS": "Bachelor of Human Services",
+    "courseCode": "M2002",
+    "courseName": "Health Sciences",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "BMA1901",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit is the first of two units designed to educate health science students about the anatomical structures and physiological functions of the systems of the human body that underpin the regulatory mechanisms for homeostatic control. Students will be introduced to the principles of cell biology, tissue types and their origins together with their importance in maintaining the homeostasis of the various body systems. The key anatomical features of the integumentary and musculoskeletal systems will be examined as well as their role in the control of homeostasis. The central and peripheral nervous system will be addressed in the context of its physiological characteristics and with special attention to the anatomical features of the spinal cord and brain. Students will be introduced to the various functions of the brain in the context of homeostasis and control, together with the special senses. Throughout the unit, clinical connections will be made with the systems addressed so that students will understand the relevance of the topics included in the unit to the health and human science disciplines.",
+                    "UnitCode": "BMA1011",
+                    "UnitName": "Foundations of anatomy and physiology for health practice 1",
+                    "_id": "5878011030213215439e8a7d",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "HSC1061, PHH1061.",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to the skills necessary to locate, critique, interpret and summarise relevant evidence. This will provide a solid foundation for an evidence-based approach to optimising health and well-being at a population level.Students are guided through skills in searching for and locating evidence. They are introduced to different research methodologies and ways of analysing data to understand various research paradigms. This information is used to critique the available literature.Students will be introduced to both qualitative and quantitative methods of data collection and analysis; basic descriptive statistics; measurement concepts; and synthesis and reporting of data.",
+                    "UnitCode": "HSC1100",
+                    "UnitName": "Introduction to research and evidence",
+                    "_id": "587802c830213215439e90e6",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "HSC1081, PHH1081.",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides an introduction to the principles and practices of contemporary public health. Case study examples are used to illustrate public health successes, including the key elements contributing to these successful approaches.Key concepts introduced include population health, social determinants of health, health inequalities, health and human rights, and the core roles and functions of public health systems, policies and programs.Inequalities within and across national boundaries are explored, as well as the contributing factors to these inequalities. Public health priorities are explored through consideration of population health trends and vulnerable populations.",
+                    "UnitCode": "HSC1200",
+                    "UnitName": "Introduction to public health",
+                    "_id": "587802c830213215439e90e7",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit introduces students to the human services profession, its history and contemporary context of its practice.The profession's values and ethics and contemporary issues such as climate change, Indigenous issues, human rights, diversity, the role/reality of the welfare state and globalisation will be examined.Particular attention will be given to various practice methods such as case work, research and policy development.Students will also explore a variety of fields of practice such as child protection, aged care, drug and alcohol and mental health.",
+                    "UnitCode": "SWK1011",
+                    "UnitName": "Introduction to human services practice",
+                    "_id": "587804d230213215439e9880",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "BMA1011.",
+                    "Proh": "BMA1902, BMA1912",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit is the second of the two units designed to familiarise health science students with the anatomical structures and physiological functions of the systems of the human body that underpin the regulatory mechanisms for homeostatic control. Students will be introduced to the structure and function of the cardiovascular, circulatory and respiratory systems together with their vital role in maintaining homeostasis. The key features of the lymphatic system and the properties of blood will be discussed. The unit will continue with a look at the importance of the endocrine system and its role in integrating various functions to control homeostasis. Students will be introduced to the key anatomical and physiological features of the urinary and digestive systems and the importance of maintaining pH and fluid balance within the body. Finally, students will be introduced to the reproductive systems, pregnancy and development. Throughout the unit, clinical connections will be made with the systems addressed so that students will understand the relevance of the topics included in the unit to the health and human science disciplines.",
+                    "UnitCode": "BMA1012",
+                    "UnitName": "Foundations of anatomy and physiology for health practice 2",
+                    "_id": "5878011030213215439e8a7e",
+                    "enjoyRating": 4.825581395,
+                    "enjoyResponse": 116,
+                    "learnRating": 4.514814815,
+                    "learnResponse": 14,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides an introduction to the course of disease for common health conditions, and their impact on individuals and populations.The unit outlines different types of disease, and explores common diseases from pathophysiological, psychosocial, and epidemiological perspectives. The course of disease, and contributing and risk factors at the individual and social levels are explored, as well as the consequences for individuals, health systems, and society.Particular conditions considered will vary but will include diseases across the communicable, non-communicable, acute, chronic and degenerative conditions.",
+                    "UnitCode": "HSC1300",
+                    "UnitName": "Human health and disease",
+                    "_id": "587802c830213215439e90e8",
+                    "enjoyRating": 4.02173913,
+                    "enjoyResponse": 106,
+                    "learnRating": 2.640502713,
+                    "learnResponse": 173,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "BME3032, HSC1052, PHH1052.",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will deliver a structured introduction to the Australian healthcare system. Students will gain a preliminary knowledge of the organization, current policies and policy debates, funding arrangements and emerging trends in healthcare practice. A feature of the unit is an inclusive approach to the understanding of health. This approach will consider aged care, disability, mental health, and alcohol and drug components in addition to established health services. Case studies will be used to consolidate the theoretical material. Students will develop a reflective understanding of their own experience of health care, and  be able to identify their assumptions regarding health and the practice of health care. Overarching themes will include an overview of the health system, specialist sectors and working in the health space.",
+                    "UnitCode": "HSC1400",
+                    "UnitName": "The Australian healthcare system",
+                    "_id": "587802c830213215439e90e9",
+                    "enjoyRating": 2.2,
+                    "enjoyResponse": 173,
+                    "learnRating": 4.144306846,
+                    "learnResponse": 52,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "AZA1366",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit is the second in the first year introductory sociology sequence, building on the skills and knowledge developed in first semester. It introduces students to three important areas of sociological research and theoretical endeavour. These may include topics such as: sexuality and gender, popular culture through an examination of mass media; class and social inequality; poverty and social exclusion; population and society; and family.",
+                    "UnitCode": "ATS1366",
+                    "UnitName": "The individual and society",
+                    "_id": "5877ffff30213215439e8638",
+                    "enjoyRating": 4.359756098,
+                    "enjoyResponse": 126,
+                    "learnRating": 4.213562946,
+                    "learnResponse": 63,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "One of (HSC1200, HSC1081, PHH1081).",
+                    "Proh": "HSC3011.",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit explores key emerging challenges in health at the national and global levels. A case study approach is used to explore current issues facing health systems, including the causes, consequences, and approaches used to address the issues.Causes are considered at the behavioural, social, cultural, political and environmental levels. A public health and/or systems thinking perspective is taken to describe and critically appraise initiatives to address identified issues.Specific challenges which will be the focus of this unit will change over time in line with contemporary and emerging issues, but for example may include: obesity, population ageing, climate change, emerging infectious diseases and mental health, terrorism, and natural disasters.",
+                    "UnitCode": "HSC2100",
+                    "UnitName": "Emerging challenges in health",
+                    "_id": "587802c930213215439e90ec",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "BMA1012 and HSC1300",
+                    "Proh": "BEH1041, NUT2001.",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit uses the framework of human development to examine health throughout the lifespan. Physical, cognitive, emotional, behavioural and psychosocial development, and the impact of culture on health will be examined. Students will investigate the roles of allied health professionals in assessing and maintaining health across the lifespan.",
+                    "UnitCode": "HSC2200",
+                    "UnitName": "Health and the human lifespan",
+                    "_id": "587802c930213215439e90ee",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "One of (HSC1081, PHH1081, HSC1200).",
+                    "Proh": "HSC1072, HSC2101, PHH2101.",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to the contemporary frameworks and strategies that are used to prevent disease and promote health at the population level. Students will examine methods for primary, secondary and tertiary prevention undertaken through health agencies, and develop an understanding of the role of different health professions in this work. Disease prevention methods investigated will include behavioural education and counselling, vaccination and pharmacological interventions, health screening, chronic disease self-management, and rehabilitation in health care and community settings. Health promotion will be introduced as an approach that uses multiple strategies to empower individuals and communities and create supportive environments for health. The health promotion actions examined will include policy development, community mobilisation, health education and social marketing. The role that partnerships and capacity building play in sustaining action and health outcomes will be investigated. Learning will be facilitated with case examples and consideration will be given to how the methods examined can be applied to current public health priorities.",
+                    "UnitCode": "HSC2300",
+                    "UnitName": "Health promotion and disease prevention",
+                    "_id": "587802ca30213215439e90ef",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Summer semester A (starts November) 2017 (Off-campus)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "APY1910, ATS1359, ATS1840, AZA1020, PSS1711, PSS1712.",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit provides students with an introduction to the discipline of psychology as a behavioural science.The key topics explored in this unit include personality, the biological bases of behaviour, sensation and perception, an introduction to theories of learning and development, introduction to the historical origins of the discipline, and cross cultural psychology. Consultation classes enhance students' understanding of the lecture material and provide training in research techniques.",
+                    "UnitCode": "PSY1011",
+                    "UnitName": "Psychology 1A",
+                    "_id": "5878049430213215439e979e",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "Anthropology is the study of the diversity of human expression through space and time, which not only focuses on differences and similarities between societies and cultures, but also on connections and contestations between them. This unit will explore these aspects through focussing on the ongoing relationship between Indigenous and Settler Australians.  This unit explores points of contestation and how this has shaped the position of Indigenous and Non-Indigenous Australians in contemporary society.  Key periods in Indigenous Australia are discussed and the way in which Anthropology has been involved in the process of understanding Indigenous relationships to each other and to the land.",
+                    "UnitCode": "ATS1254",
+                    "UnitName": "Culture, power and difference: Indigeneity and Australian identity",
+                    "_id": "5877fff530213215439e860b",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "HSC2022",
+                    "UnitName": "Cannot Fetch Data",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "SWK2011",
+                    "UnitName": "Cannot Fetch Data",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit will introduce students to an understanding of leadership in the human  services in Australia as a requirement for social work practice, one that is not always understood or accepted professionally. The human services sector is expanding in the numbers of its component organisations, both governmental and non-governmental, and in the size and complexity of the component parts. Leadership of social change and social justice in the human services is now at a premium, having been given little attention in the past or currently. Little is known of leadership requirements in this sector particularly as contrasted with other service sectors. Students undertaking this unit will be introduced to theories of leadership of human-service organisations, their programs and policies, and leadership of the new organisational phenomena in this sector, large community service departments, non-governmental consortia, and advocacy organisations. They will also be introduced to other notions of leadership in social work - leadership through research, advocacy and community action.Subsequently, theories of leadership will be placed against the experiences and views of current social work leaders in this sector, who will be active participants in this unit, so that students gain some understanding of what leadership comprises, what priority actual leaders place on the various aspects of leadership, and what research and theory underpins actual leadership in the policy development, planning and delivery of social services today.",
+                    "UnitCode": "SWK3440",
+                    "UnitName": "Leadership in social work and human services",
+                    "_id": "587804d430213215439e988b",
+                    "enjoyRating": 3.5,
+                    "enjoyResponse": 9,
+                    "learnRating": 5,
+                    "learnResponse": 2,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": "Not Offered in 2017",
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit will broadly explore the legal mandate and legal processes through which policies in social welfare are implemented. It will also consider key legal dilemmas that impact on social welfare service delivery.",
+                    "UnitCode": "SWK2110",
+                    "UnitName": "Social welfare and the law",
+                    "_id": "587804d230213215439e9882",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": "Not Offered in 2017",
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "The unit intends to help students develop knowledge and insight into the everyday activities of community work and the theoretical assumptions that underpin community work and how these relate, in particular, to the child welfare and aged care contexts.",
+                    "UnitCode": "SWK2140",
+                    "UnitName": "Social welfare and practice with communities",
+                    "_id": "587804d330213215439e9883",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "SWK3240.",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit covers child, adolescent and adult development with an emphasis on the development of resilience across the life course. A particular focus is on relevant contextual factors at individual, family, community and societal levels that impede or enhance development. The unit includes a social work practice theory section that provides an orientation to the theory of direct social work practice with individuals and families focusing on one to one work with individuals and on working with family groups. The unit has a skills component that includes assessment, engagement and the development of intervention strategies through the use of role plays, case studies.",
+                    "UnitCode": "SWK3400",
+                    "UnitName": "Critical social work 1: Individuals and families (context and practice)",
+                    "_id": "587804d430213215439e9889",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "SWK4060, SWK3180, SWK3400",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "Supervised Professional Practice 1 enables students to operationalise the professional social work role. The unit comprises 480 hours of supervised professional practice in the field and 20 hours of skills development and integration of theory and practice in the classroom and in the field. On campus students will attend placement briefings and integration sessions where their placement experiences will be critically reviewed in order to connect with social work knowledge and theory, while off-campus students will attend skills and integration sessions at compulsory workshops. Contact with the university liaison social worker allocated to the student and supervisor while on placement will also be opportunities to review skills and to facilitate the integration of theory and practice.",
+                    "UnitCode": "SWK3180",
+                    "UnitName": "Supervised professional practice 1",
+                    "_id": "587804d330213215439e9885",
+                    "enjoyRating": 2.666666667,
+                    "enjoyResponse": 18,
+                    "learnRating": 3.875,
+                    "learnResponse": 6,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": "Not Offered in 2017",
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "The unit will equip students with basic research techniques, emphasizing how the various quantitative and qualitative methods may be synthesized within one research project and the ways in which data may be analyzed.",
+                    "UnitCode": "SWK3310",
+                    "UnitName": "Social welfare practice and research",
+                    "_id": "587804d430213215439e9888",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Off-campus)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "SWK3180.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit uses a range of case studies to assist the student in working through the complex issues faced by many social work clients. The unit asks the students to reflect on their knowledge and theory to draw upon appropriate assessment and intervention techniques for a range of social work situation.",
+                    "UnitCode": "SWK4031",
+                    "UnitName": "Working with complexity",
+                    "_id": "587804d630213215439e9890",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        }
+    ]
+}

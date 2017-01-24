@@ -1,0 +1,125 @@
+{
+    "courseAOS": "Banking and Finance specialisation",
+    "courseCode": "B2013",
+    "courseName": "Business and Business Specialist",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                [
+                    "ACF1200",
+                    "ACF1100"
+                ],
+                "ETF1100",
+                "BFF1001",
+                "ECF1100"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "MKF1120",
+                "MGF1010",
+                "BTF2601",
+                "ECF1200"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 1"
+                },
+                "BTF1010",
+                "BFF2751",
+                "BFF2401"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 2"
+                },
+                [
+                    "ACF1200",
+                    "ACF1100"
+                ],
+                "BFF2140",
+                "ETF2100"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business Major 4"
+                },
+                "BFF3121",
+                "BFF3331"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 5"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business Major 6"
+                },
+                "BFF3651",
+                "BFF3841"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 7"
+                },
+                "BFF1001",
+                {
+                    "faculty": "",
+                    "type": "BFF3111 Personal financial planning OR BFF3351 Investment banking"
+                },
+                "BFF3999"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 8 or Business elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Capstone unit"
+                },
+                "EFC1100",
+                "ETF1100"
+            ],
+            "year": 3
+        }
+    ]
+}

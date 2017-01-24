@@ -1,0 +1,200 @@
+{
+    "courseAOS": "",
+    "courseCode": "M5018",
+    "courseName": "Graduate Diploma of Occupational and Environmental Health",
+    "courseType": "Graduate Diploma",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The effects and human cost of occupational disease and injury, occupational health and safety law, worker's compensation, negligence, occupational rehabilitation, historical achievements and challenges, international and national organisations.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "MPH5241",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introduction to occupational health and safety"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Prevention of human disease resulting from workplace exposures to chemical and biological hazards. Covering toxicological principles, health effects of the major groups of chemical substances, as well as biological hazards from blood and bodily secretions, water, food, animals and travelling abroad.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "MPH5243",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Chemical and biological hazards"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "To be taken concurrently with MPH5041 together they are prerequisites for clinical epidemiology elective units.Contents: rates, sources of data, descriptive & analytical epidemiology, epidemiological study designs, critical appraisal of literature, screening, prevention, exposure assessment, outbreak investigation, confounding & bias.Students are expected to be competent at mathematics to a year 7 level",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "MPH5040",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Off-campus)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introductory epidemiology"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Psychosocial effects of work on individuals is explained from a preventive viewpoint. Mental illness & its effect on employment, alcohol and drug use, disability discrimination, equal employment opportunity legislation, workplace health promotion & shift work are examined.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "MPH5242",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Psychosocial work environment"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "How to recognise, evaluate and control hazards in workplaces arising from substances, sound, radiation and micro-organisms. Principles and practice of occupational hygiene including the use of simple instruments, ventilation, personal protective equipment and workplace substances laws. Hygienic standards and their various forms and notations. The difficulties of assessing prior exposures for medico-legal and epidemiological purposes",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "MPH5243.",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "MPH5222",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Assessment and control of workplace hazards"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Introduction to principles & practice of ergonomics. Occupational hygiene as applied to physical hazards: noise, radiation, thermal environments & pressure effects.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "MPH5241.",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "MPH5244",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Ergonomic and physical hazards"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Environmental influences on health including physical, chemical and biological hazards as well as principles of assessment, management and control of environmental health risks.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "MPH5203",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Environmental influences on health"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Concepts & practice of occupational health and safety management systems within work environments, including the conduct of an audit are examined. Includes accident/incident causation theories and models, investigative techniques, reporting & statistics, safety systems, fire prevention & control. Incident causation and accident types, including slips, trips and falls are also examined.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "MPH5241.",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "MPH5276",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Safety management systems"
+                }
+            ],
+            "year": 0
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "courseAOS": "Medicine and Surgery (Graduate entry)",
+    "courseCode": "M6018",
+    "courseName": "Medical Science and Medicine",
+    "courseType": "Bachelor degree/Master degree",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "GMA1010 Foundations of medical practice (48 points) GMA2000 Final grade (0 points)"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "MED3051",
+                "MED3200"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "MED3062"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "MED4190",
+                {
+                    "faculty": "",
+                    "type": "MED4200 Integrated clinical studies (24 points) MED4000 Year 3B and 4C final grade (0 points)"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "MED5091",
+                "MED5102"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "MED5092 Advanced clinical practice 2 (12 points) MED5100 Final MBBS grade (0 points)"
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

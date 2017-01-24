@@ -1,0 +1,79 @@
+{
+    "courseAOS": "",
+    "courseCode": "L6001",
+    "courseName": "Master of Commercial Law",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Law",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Law",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "LAW5080,LAW5081"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Law",
+                    "SCABand": 0,
+                    "UnitCode": "Part A",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Law",
+                    "SCABand": 0,
+                    "UnitCode": "Part A",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Law",
+                    "SCABand": 0,
+                    "UnitCode": "Part A",
+                    "UnitName": ""
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Law",
+                    "SCABand": 0,
+                    "UnitCode": "Part A",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Law",
+                    "SCABand": 0,
+                    "UnitCode": "Part B",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Law",
+                    "SCABand": 0,
+                    "UnitCode": "Part B",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Law",
+                    "SCABand": 0,
+                    "UnitCode": "Part B",
+                    "UnitName": ""
+                }
+            ],
+            "year": 0
+        }
+    ]
+}

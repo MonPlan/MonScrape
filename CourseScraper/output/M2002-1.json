@@ -1,0 +1,67 @@
+{
+    "courseAOS": "Bachelor of Human Services",
+    "courseCode": "M2002",
+    "courseName": "Health Sciences",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "BMA1011",
+                "HSC1100",
+                "HSC1200",
+                "SWK1011"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BMA1012",
+                "HSC1300",
+                "HSC1400",
+                "ATS1366"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "HSC2100",
+                "HSC2200",
+                "HSC2300",
+                "PSY1011"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ATS1254",
+                "HSC2022",
+                "SWK2011",
+                "SWK3440"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "SWK2110",
+                "SWK2140",
+                "SWK3400"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "SWK3180",
+                "SWK3310",
+                "SWK4031"
+            ],
+            "year": 2
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "courseAOS": "Primary Education specialisation and one of Music Performance, Music Composition or Creative Music Technology",
+    "courseCode": "D3004",
+    "courseName": "Education and Music",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Education",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF1303",
+                {
+                    "faculty": "",
+                    "type": "ATS1XXX Music Specialisation 1"
+                },
+                "EDF1053",
+                "ATS1899",
+                "ATS1345"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF1304",
+                {
+                    "faculty": "",
+                    "type": "ATS1XXX Music Specialisation 2"
+                },
+                "EDF1054",
+                "ATS1900",
+                "ATS1346"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF2210",
+                "EDF2020",
+                "EDF2053",
+                "ATS2901",
+                [
+                    "ATS2060",
+                    "ATS2687"
+                ],
+                {
+                    "faculty": "",
+                    "type": "ATS2XXX Music Specialisation 3"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF2031",
+                "EDF2021",
+                "EDF2054",
+                {
+                    "faculty": "",
+                    "type": "ATS3XXXX Music Specialisation 4"
+                },
+                {
+                    "faculty": "",
+                    "type": "ATS2333 Jazz History or ATS2331/ATS2332 Music Overseas Study Program or ATS2900 Music aesthetics and journalism"
+                },
+                "ATS2902"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF3036",
+                "EDF3021",
+                "EDF3053",
+                {
+                    "faculty": "",
+                    "type": "ATS3XXX Music Specialisation 5"
+                },
+                "ATS3094"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF3211",
+                "EDF3022",
+                "EDF3054",
+                {
+                    "faculty": "",
+                    "type": "ATS3XXX Music Specialisation 6"
+                },
+                "ATS3061"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF4260",
+                "EDF4022",
+                "EDF4053",
+                "EDF4024",
+                "EDF4100"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF4020",
+                "EDF4023",
+                "EDF4054",
+                "EDF4025",
+                "EDF4101"
+            ],
+            "year": 3
+        }
+    ]
+}

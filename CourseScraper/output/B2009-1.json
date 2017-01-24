@@ -1,0 +1,107 @@
+{
+    "courseAOS": "Actuarial Science and Computer Science specialisations",
+    "courseCode": "B2009",
+    "courseName": "Commerce Specialist and Computer Science",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ETC1000",
+                "ECC1000",
+                "FIT1045",
+                "MAT1830"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ECC1100",
+                "ACC1100",
+                "FIT1008",
+                "MAT1841"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ETC2440",
+                "ETC2410",
+                "FIT1047",
+                "FIT2004"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BFC2140",
+                "ETC2420",
+                "FIT2014",
+                "FIT1049"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "BFC2000",
+                "BFC2340",
+                "FIT2099",
+                {
+                    "faculty": "",
+                    "type": "BCS Approved L3 Elective"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ETC2430",
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 1 from a list"
+                },
+                "FIT2102",
+                "FIT3155"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 2 from a list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 3 from a list"
+                },
+                "FIT3161",
+                {
+                    "faculty": "",
+                    "type": "BCS Approved L3 Elective"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 4 from a list"
+                },
+                "ETC3530",
+                "FIT3162",
+                "FIT3143"
+            ],
+            "year": 3
+        }
+    ]
+}

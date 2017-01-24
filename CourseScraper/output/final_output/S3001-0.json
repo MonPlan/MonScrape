@@ -1,0 +1,391 @@
+{
+    "courseAOS": "Bachelor of Science Advanced \u2013 Global Challenges (Honours)",
+    "courseCode": "S3001",
+    "courseName": "Science Advanced - Global Challenges",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Science",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Major \u2013 Science level 1 sequence",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science level 1 sequence",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "One of: SCI1020, STA1010, MTH1020, MTH1030 Or level one science unit if already taken as part of another level one sequence (this unit can be taken in either semester)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Science",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This is the first part of level-one Impact through science core studies of the Bachelor of Science Advanced - Global Challenges (Honours). It consists of two modules, undertaken in parallel: leadership and persuasive communication. Leadership development is undertaken through the adaptive leadership framework using an experiential learning approach. In this module students will focus on distinguishing the role of authority from the activity of leadership and understand what is required to make progress on complex challenges. Students will build persuasive communication skills and leadership presence through a variety of techniques. This unit also has a strong focus on developing teamwork skills through diverse modes. A 'dialogue' evening series will provide opportunities for networking through intimate discussions with leaders from a variety of industries.",
+                    "UnitCode": "SCI1501",
+                    "UnitName": "Impact through science 1A",
+                    "_id": "587804c230213215439e983f",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Major \u2013 Science level 1 sequence",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science level 1 sequence",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Elective from a list",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Science",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "SCI1501",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This is the second part of level-one Impact through science core studies of the Bachelor of Science Advanced - Global Challenges (Honours). It consists of two modules, undertaken in parallel: leadership and the big issues of our time. In the leadership module students will continue to develop and apply adaptive leadership tools. The big issues of our time are explored in a module examining how science and policy can impact decision-making.Teamwork is explored through several assignments including students undertaking peer-consultations on leadership challenges they have identified. A 'dialogue' evening series will provide opportunities for networking and intimate discussions with leaders from a variety of industries. Students will build relationships with mentors.",
+                    "UnitCode": "SCI1502",
+                    "UnitName": "Impact through science 1B",
+                    "_id": "587804c230213215439e9840",
+                    "enjoyRating": 4.777777778,
+                    "enjoyResponse": 26,
+                    "learnRating": 4.057036385,
+                    "learnResponse": 105,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Major \u2013 level 2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science elective - level 2/3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Elective from a list",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Science",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "SCI1501 and SCI1502",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "The Impact through science level two units provide an action-learning exploration of the business and social entrepreneurship cycle from concept through to pitching the idea to a panel of experts. The entrepreneurial mindset is developed through a strong focus on group work, critical thinking, persuasive communication and leadership development. Throughout these units, insights into entrepreneurship will be gained by using case study analysis and prominent guest speakers who are thought leaders, entrepreneurs and industry executives.During the Impact through science 2A unit, students will explore the fundamentals of entrepreneurship by focusing on identifying and creating opportunity for new venture, examining business models and financing these ventures. Students will examine the tools used to identify venture opportunities by understanding customer needs, competition and conducting industry and market analysis. Students will develop their understanding of financing the entrepreneurial business by exploring strategies for funding their enterprises and attracting investment.",
+                    "UnitCode": "SCI2501",
+                    "UnitName": "Impact through science 2A",
+                    "_id": "587804c330213215439e9844",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Major \u2013 level 2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science elective- level 2/3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Science",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "SCI1501, SCI1502 and SCI2501",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "The Impact through science level two units provide an action-learning exploration of the business and social entrepreneurship cycle from concept through to pitching the idea to a panel of experts. The entrepreneurial mindset is developed through a strong focus on group work, critical thinking, persuasive communication and leadership development. Throughout these units, insights into entrepreneurship will be gained by using case study analysis and prominent guest speakers who are thought leaders, entrepreneurs and industry executives.The Impact through science 2B unit concentrates on the development, growth and marketing phase of the entrepreneurial venture. Building upon the skills and knowledge acquired in SCI2501, students will grow their acumen by examining methods used to grow ventures and develop their own concept from the initial idea through to a business plan. Marketing techniques and strategies to ensure a competitive edge in the current market will be explored. Students will work closely with their peers, the unit coordinator and industry mentors to gain critical feedback on their ideas. The unit will conclude with each student using persuasive communication to gain support for their concept through a pitch. During this unit, students will also plan and prepare for their first internship.",
+                    "UnitCode": "SCI2502",
+                    "UnitName": "Impact through science 2B",
+                    "_id": "587804c430213215439e9845",
+                    "enjoyRating": 4.1875,
+                    "enjoyResponse": 24,
+                    "learnRating": 4.2,
+                    "learnResponse": 9,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Major \u2013 level 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Major \u2013 level 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Science",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "SCI2501 and SCI2502",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides an incubator for students to apply entrepreneurial and intrapreneurial thought and action. Through this rapid pace and real-world environment students will build on skills developed in level one and two of the course to exercise leadership and an entrepreneurial mindset. By creating new products or services students will cultivate an awareness of innovation, adaptability, disruptive thinking, risk taking, failure and the ability to thrive in an environment of ambiguity and uncertainty. Students will work in teams to practice their entrepreneurial skills across a range of sectors such as corporate, non-profits and social initiatives. Students will receive access to a co-working space and support through mentors, advisors, peer coaching and targeted workshops.",
+                    "UnitCode": "SCI3501",
+                    "UnitName": "Impact through science 3A",
+                    "_id": "587804c430213215439e9846",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Major \u2013 level 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Major \u2013 level 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Science",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "SCI2501, SCI2502 and SCI3501",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Impact through science 3B provides the opportunity for students to further cultivate their persuasive communication, leadership and entrepreneurial skills through a self-directed and real-world project. The aim of this extended project is for students to develop a creative solution enabling the application of scientific research to the needs of society. Students will negotiate a project scope with a research scientist within the Science Faculty that directly draws upon their research, meets the aims of the BSc - Global Challenges (Honours) and falls under one of three project themes: 1) A new product or service utilising the scientific research; 2) Closing the gap between science and policy/politics; 3) Science communication to the general public. During the course of this unit students will also be required to submit their final internship project plans.",
+                    "UnitCode": "SCI3502",
+                    "UnitName": "Impact through science 3B",
+                    "_id": "587804c530213215439e9847",
+                    "enjoyRating": 4.75,
+                    "enjoyResponse": 9,
+                    "learnRating": 4.62974988,
+                    "learnResponse": 30,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Science",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Full year 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "SCI3501, SCI3502 and completion of two internships (one international).  Students must complete 144 point.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Working in collaboration with innovative industry partners and the Faculty of Science, students will complete an independent research project. Through this process, students will be connected to industry partners to gain an understanding of the challenge that has been set, the nature of the industry and stakeholder needs. This is the preparatory unit to develop student's theoretical understanding of the industry challenge in preparation for the development of the project plan and commencement of the group based project in SCI4502.",
+                    "UnitCode": "SCI4501",
+                    "UnitName": "Impact through science 4A: Research",
+                    "_id": "587804c830213215439e9855",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

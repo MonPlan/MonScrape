@@ -1,0 +1,98 @@
+{
+    "courseAOS": "Finance and Computer Science in Data Science specialisations",
+    "courseCode": "B2009",
+    "courseName": "Commerce Specialist and Computer Science",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                [
+                    "ACC1200",
+                    "ACC1100"
+                ],
+                "BFC1001",
+                "FIT1045",
+                "MAT1830"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ECC1000",
+                "ETC1000",
+                "FIT1008",
+                "MAT1841"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "BFC2340",
+                "BFC2140",
+                "FIT1047",
+                "FIT2004"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BFC2240",
+                "ECC1100",
+                "FIT2014",
+                "FIT1043"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ETC3460",
+                "ETC2410",
+                "FIT2094",
+                "FIT2086"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BFC3240",
+                "BFC2751",
+                "FIT1049",
+                {
+                    "faculty": "",
+                    "type": "Data Science Elective"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "BFC3140",
+                "BFC3540",
+                "FIT3163",
+                {
+                    "faculty": "",
+                    "type": "Approved L3 Data Science Elective"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BFC3999",
+                "BFC3340",
+                "FIT3164",
+                "FIT3179"
+            ],
+            "year": 3
+        }
+    ]
+}

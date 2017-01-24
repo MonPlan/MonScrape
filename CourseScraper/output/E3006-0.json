@@ -1,0 +1,118 @@
+{
+    "courseAOS": "Mechanical Engineering and Industrial Design specialisations",
+    "courseCode": "E3006",
+    "courseName": "Engineering and Design",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": "\u00a0                     1",
+            "units": [
+                "ENG1001",
+                [
+                    "ENG1090",
+                    "PHS1080",
+                    "ENG1005"
+                ],
+                "ENG1005",
+                "ENG1002",
+                [
+                    "ENG1090",
+                    "PHS1080"
+                ]
+            ]
+        },
+        {
+            "teachingPeriod": "                     2                 ",
+            "units": [
+                "AHT1101",
+                "TDN1002",
+                "TDN2001",
+                "DWG1201",
+                "OHS1000"
+            ]
+        },
+        {
+            "teachingPeriod": "                     2                 ",
+            "units": [
+                "ENG1003",
+                "MEC2401",
+                "ENG1060",
+                "ENG2006"
+            ]
+        },
+        {
+            "teachingPeriod": "                     2                 ",
+            "units": [
+                "IDN1001",
+                "IDN1002"
+            ]
+        },
+        {
+            "teachingPeriod": "                     3                 ",
+            "units": [
+                "MEC2402",
+                "MEC2403",
+                "MEC2404",
+                "MEC2405"
+            ]
+        },
+        {
+            "teachingPeriod": "                     2                 ",
+            "units": [
+                "TDN3001",
+                [
+                    "TDN3002",
+                    "TDN3003"
+                ],
+                [
+                    "CDS2001",
+                    "IDN2001"
+                ]
+            ]
+        },
+        {
+            "teachingPeriod": "                     4                 ",
+            "units": [
+                "MEC3454",
+                "MEC3453",
+                {
+                    "faculty": "",
+                    "type": "Mechanical eng elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Mechanical eng elective"
+                }
+            ]
+        },
+        {
+            "teachingPeriod": "                     2                 ",
+            "units": [
+                "IDN3001",
+                "IDN3002"
+            ]
+        },
+        {
+            "teachingPeriod": "                     5                 ",
+            "units": [
+                "MEC3455",
+                "MEC3451",
+                "MEC4401",
+                "MEC4407"
+            ]
+        },
+        {
+            "teachingPeriod": "                     2                 ",
+            "units": [
+                "MEC3416",
+                "MEC3457",
+                "MEC4402",
+                {
+                    "faculty": "",
+                    "type": "MEC44xx Engineering computational analysis"
+                }
+            ]
+        }
+    ]
+}

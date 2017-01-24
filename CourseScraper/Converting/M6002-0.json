@@ -1,0 +1,39 @@
+{
+    "courseCode": "M6002",
+    "courseName": "Master of Dietetics",
+    "courseAOS": "",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+              "NUT3002",
+              "NUT3082",
+              "NUT4001"
+          ]
+        }, {
+          "code": "S1-01",
+          "year": 1,
+          "units": [
+              "NUT5001",
+              "NUT5002"     
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 1,
+          "units": [
+              "NUT5003",
+              "NUT5004"
+          ]
+        }, {
+          "code": "S1-01",
+          "year": 2,
+          "units": [
+              "NUT5006",
+              "NUT5005"
+          ]
+        }
+    ]
+}

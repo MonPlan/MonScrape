@@ -1,0 +1,104 @@
+{
+    "courseAOS": "Bachelor of Aerospace Engineering (Honours)",
+    "courseCode": "E3001",
+    "courseName": "Engineering",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ENG1001",
+                "ENG1005",
+                {
+                    "faculty": "",
+                    "type": "ENG1090 (if required) or PHS1080 (if required) or 1 st year engineering elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Elective If two foundation units are required then this elective is used to complete the second of ENG1090 and PHS1080 ,"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ENG1002",
+                "ENG1003",
+                "ENG1060",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "MAE2401",
+                "MEC2401",
+                "ENG2006",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "MAE2402",
+                "MAE2404",
+                "MAE2405",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "MAE3401",
+                "MAE3404",
+                "MAE3407",
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "MAE3405",
+                "MAE3408",
+                {
+                    "faculty": "",
+                    "type": "MEC3xxx Computer-aided design"
+                },
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "MAE4xxx Flight vehicle design"
+                },
+                {
+                    "faculty": "",
+                    "type": "MAE4xxx Aerospace computational mechanics"
+                },
+                "MEC4401",
+                "Elective"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "MAE4409",
+                "MAE4408",
+                "MEC4402",
+                "Elective"
+            ],
+            "year": 3
+        }
+    ]
+}

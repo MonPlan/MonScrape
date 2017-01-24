@@ -1,0 +1,120 @@
+{
+    "courseAOS": "Bachelor of Economics with the Economics and Economic Policy stream",
+    "courseCode": "B2004",
+    "courseName": "Commerce Specialist",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ECC1000",
+                "ETC1000",
+                {
+                    "faculty": "",
+                    "type": "BusEco elective 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ECC1100",
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "BusEco elective 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ETC2410",
+                "ECC2000",
+                "ECC2010",
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 1 list A"
+                },
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 2 selected from list A"
+                },
+                {
+                    "faculty": "",
+                    "type": "BusEco elective 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 3 selected from List A"
+                },
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 4 selected from list A or B"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 5 selected from List A or B"
+                },
+                {
+                    "faculty": "",
+                    "type": "BusEco elective 4"
+                },
+                "ECC3690",
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 2
+        }
+    ]
+}

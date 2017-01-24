@@ -1,0 +1,540 @@
+{
+    "courseAOS": "Bachelor of Finance",
+    "courseCode": "B2004",
+    "courseName": "Commerce Specialist",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "The nature and scope of economics; different economic systems; economic policy analysis and evaluation; main bodies of economic thought; examples of household, business and government economic decision problems; consumer choice, product demand and factor supply; enterprise choice, product supply and factor demand; market analyses of contemporary issues; competitive market long run equilibrium; market power; market failure and concerns for efficiency and equity; government involvement in the Australian economy.",
+                    "UnitCode": "ECC1000",
+                    "UnitName": "Principles of microeconomics",
+                    "_id": "5878018530213215439e8c58",
+                    "enjoyRating": 3.954545455,
+                    "enjoyResponse": 177,
+                    "learnRating": 3.966738983,
+                    "learnResponse": 177,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ETG1102, ETW1000, ETW1102, ETX1100, ETX9000, FIT1006, STA1010",
+                    "SCABand": 2,
+                    "Sypnosis": "Presentation and analysis of grouped and ungrouped data using tables, charts and measures of location and dispersion; standardisation techniques, including index numbers, with application to share price indices and the CPI; analysis of relationships between variables using simple and multiple regression; extensions to multiple regression, including nonlinear and categorical explanatory variables and time series data with applications to forecasting; main ideas of probability theory as a foundation for statistical inference; concept of sampling as a way of capturing uncertainty about data; estimators and their properties; constructing and interpreting confidence intervals; fundamentals of hypothesis testing, testing hypotheses about the mean, difference between means and the slope, including analysis of variance.",
+                    "UnitCode": "ETC1000",
+                    "UnitName": "Business and economic statistics",
+                    "_id": "5878025130213215439e8f1e",
+                    "enjoyRating": 4.122807018,
+                    "enjoyResponse": 121,
+                    "learnRating": 4.018583856,
+                    "learnResponse": 121,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ACC1200,ACC1100",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "AFC1100, AFC2000, AFC2100, AFG1300, AFW1300, BFB1300, BFC2000, BFF1300, BFG1300, BFW1300,BFB1001, BFF1001, BFP1001, BFW1001",
+                    "SCABand": 3,
+                    "Sypnosis": "As a foundation, this unit introduces students to the concepts of finance, financial mathematics, investment analysis, the financial system, risk management and the relationship of finances to other commercial disciplines.",
+                    "UnitCode": "BFC1001",
+                    "UnitName": "Foundations of finance",
+                    "_id": "587800f130213215439e89fd",
+                    "enjoyRating": 4.076642336,
+                    "enjoyResponse": 234,
+                    "learnRating": 4.066666667,
+                    "learnResponse": 16,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ECC1000 is recommended",
+                    "Proh": "ECF1200, ECG1102, ECS1102, ECW1102",
+                    "SCABand": 3,
+                    "Sypnosis": "The scope of macroeconomics and its microeconomic underpinnings; aggregation problems; partial equilibrium and general equilibrium analysis; the circular flow of income as a general equilibrium model; the mutual dependence of financial flows and flows of goods and services; sectoral composition of aggregate demand; business and investment behaviour; government spending and taxation; external balance and determination of current and capital accounts; labour market and aggregate supply; money, credit, and the conduct of monetary policy; inflation and unemployment; macroeconomic effects of deregulation in Australia.",
+                    "UnitCode": "ECC1100",
+                    "UnitName": "Principles of macroeconomics",
+                    "_id": "5878018630213215439e8c59",
+                    "enjoyRating": 4.025,
+                    "enjoyResponse": 154,
+                    "learnRating": 3.913793776,
+                    "learnResponse": 154,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students to complete two units as follows: ECF1100 and ETF1100; or ECC1000 and ETC1000; or ETB1100 and ECB1101; or ECW1101 and ETW1000 or ETW1102; or ECP1100 and ETP1100.",
+                    "Proh": "AFF2631, BFF2631, AFG2631, BFG2631, AFW2631, BFB2631, BFP2631, BFW2631, AFW3044, AFC2140, BFB2140, BFF2140, BFP2140, BFW2140.",
+                    "SCABand": 3,
+                    "Sypnosis": "The aim of the unit is to introduce students to the theory and application of why and how value enhancing corporate financial decisions are made and implemented. With the emphasis on publicly listed companies, topics covered include; the corporate objective of management, investment evaluation models, valuation of equity and debt instruments, sources and types of funding, issues in risk and return, portfolio theory, asset pricing models, issues in capital structure and dividend policy and the efficiency of capital markets. The unit is designed to ensure students with the necessary skill set for making value-changing financial decisions to maximise firm value.",
+                    "UnitCode": "BFC2140",
+                    "UnitName": "Corporate finance 1",
+                    "_id": "587800f130213215439e89fe",
+                    "enjoyRating": 4.354545455,
+                    "enjoyResponse": 118,
+                    "learnRating": 3.712383812,
+                    "learnResponse": 75,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ETC1000 or must be enrolled in course 3822 or 4412 or 4439",
+                    "Proh": "ETC2400, ETC3440, ECC2410",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit introduces students to the empirical analysis of relationships between economic variables. The approach is based on linear regression theory, and emphasises 'hands on' data analysis. Topics studied will include properties of least squares estimators, hypothesis testing, the choice of appropriate functional form, the use of dummy variables, issues around modelling survey data and the problems of serial correlation, heteroscedasticity and multicollinearity.",
+                    "UnitCode": "ETC2410",
+                    "UnitName": "Introductory econometrics",
+                    "_id": "5878025230213215439e8f20",
+                    "enjoyRating": 3.971153846,
+                    "enjoyResponse": 114,
+                    "learnRating": 4.000993401,
+                    "learnResponse": 114,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed one of the following units: AFC2000, BFC2000, AFC1100 (pre 2009), AFC2100 (pre 2009), BFB1001, BFC1001, BFF1001, BFP1001, BFW1001 OR be enrolled in course B6014 or 4439 prior to undertaking this unit.",
+                    "Proh": "AFC2340",
+                    "SCABand": 3,
+                    "Sypnosis": "Topics covered in this unit include: an introduction to mathematics of finance, rates of interest, rates of discount, present and accumulated value of cash flows under fixed and variable rates of interest, equation of value, applications to debt and retirement income stream markets, in particular the Australian annuity, short-term money market and capital markets; factors affecting accumulation under the Superannuation Guarantee Scheme; economic factors affecting the yield curve, zero coupon bonds, zero coupon bond yield curve, pricing bonds, bond yields, callable bonds, effect of tax on yield, annuity bonds, hybrids, CGB futures and options on futures, interest rate risk management by immunisation, stochastic models for cash flows and stochastic rates of interest, calculation of moments of present values and accumulations, arbitrage-free asset pricing, hedging, optimal conversion of lump sum to a retirement income stream.",
+                    "UnitCode": "BFC2340",
+                    "UnitName": "Debt markets and fixed income securities",
+                    "_id": "587800f230213215439e8a00",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have completed one of the following units: BFB1001, BFC1001, BFF1001, BFP1001 or BFW1001 PLUS one of the following units: BFB2140, BFC2140, BFF2140, BFP2140 or BFW2140",
+                    "Proh": "AFC3340, AFF3751, BFF3751",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit examines the institutional features of futures and options markets, the use of futures, options and other derivatives in arbitraging, trading and hedging, and prices of these instruments.",
+                    "UnitCode": "BFC2751",
+                    "UnitName": "Derivatives 1",
+                    "_id": "587800f330213215439e8a01",
+                    "enjoyRating": 4.075,
+                    "enjoyResponse": 45,
+                    "learnRating": 3.899218947,
+                    "learnResponse": 106,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed one of the following: AFC2140, BFC2140, AFC1100 (pre 2009) and AFC2100 (pre 2009) before undertaking this unit.",
+                    "Proh": "AFC2240, ACC3230",
+                    "SCABand": 3,
+                    "Sypnosis": "Topics include asset classes and returns, portfolio theory, asset pricing models, security valuation processes and techniques, market efficiency and behavioural finance, portfolio performance evaluations, hedge funds and the CFA Institute code of ethics and standards of professional conduct.",
+                    "UnitCode": "BFC2240",
+                    "UnitName": "Equities and investment analysis",
+                    "_id": "587800f230213215439e89ff",
+                    "enjoyRating": 3.88,
+                    "enjoyResponse": 106,
+                    "learnRating": 4.207021998,
+                    "learnResponse": 118,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "AFC2140 or BFC2140",
+                    "Proh": "AFC3140",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit extends corporate finance concepts introduced in BFC2140. Topics include equity financing, asset pricing and cost of capital, risk management, real options, capital structure, mergers and acquisitions, corporate governance and international corporate finance.",
+                    "UnitCode": "BFC3140",
+                    "UnitName": "Corporate finance 2",
+                    "_id": "587800f330213215439e8a02",
+                    "enjoyRating": 4.196078431,
+                    "enjoyResponse": 98,
+                    "learnRating": 4.055921053,
+                    "learnResponse": 45,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed one of the following before undertaking this unit: AFC2140, BFC2140, AFC2240, BFC2240, AFC2340, BFC2340.",
+                    "Proh": "AFC3540",
+                    "SCABand": 3,
+                    "Sypnosis": "Topics include the development and application of financial spreadsheets, Excel and Visual Basic programming in financial modelling, modelling company financial statements, fixed income securities analysis, asset allocation and portfolio analysis, optimization using Solver, technical analysis of financial markets, Interest rate models, option pricing models, numerical methods and risk management models.",
+                    "UnitCode": "BFC3540",
+                    "UnitName": "Modelling in finance",
+                    "_id": "587800f430213215439e8a07",
+                    "enjoyRating": 4.671875,
+                    "enjoyResponse": 53,
+                    "learnRating": 3.894675926,
+                    "learnResponse": 29,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed one of the following units: ECC2410, ETC2410, ETC3440, ETC4344, MTH2232, ETX9344 or be granted permission, or must be enrolled in Course 3822 or 4412.",
+                    "Proh": "ETF3300",
+                    "SCABand": 3,
+                    "Sypnosis": "The specification, estimation and testing of asset pricing models, including the capital asset pricing model and extensions; the statistical characteristics of financial data emphasising skewness, kurtosis and volatility aspects; volatility models such as ARCH models of financial time series, with applications to stock prices, derivatives, and exchange rates including the forecast performance of these models.",
+                    "UnitCode": "ETC3460",
+                    "UnitName": "Financial econometrics",
+                    "_id": "5878025630213215439e8f30",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed one of the following units:  BFC2751 or BFF2751",
+                    "Proh": "AFF3751, BFF3751, AFC3340",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit highlights the institutional aspects, as well as the pricing and modelling, of individual derivatives contracts, including futures and forwards, options and swaps. In addition, explanations are provided of the markets where derivatives are traded and how investors evaluate contract payoffs. Examples will also be provided to show how derivatives models and principles are applied to real-world problems.",
+                    "UnitCode": "BFC3340",
+                    "UnitName": "Derivatives 2",
+                    "_id": "587800f330213215439e8a05",
+                    "enjoyRating": 4.1875,
+                    "enjoyResponse": 32,
+                    "learnRating": 4.101920251,
+                    "learnResponse": 95,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have completed 102 credit points and passed BFC2751 or BFF2751 or BFW2751 or BFC3240 or BFC3540 and BFB2140 or BFC2140 or BFP2140 or BFW2140 and BFC2751 or BFF2751.",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit is intended to contextualise students' acquired knowledge for solving problems in real world domestic and global situations. As a capstone unit, it should be studied in the final semester of the finance major as it draws upon and integrates learning from previous units studied. The unit encourages students to recognise that finance is a powerful tool for solving our common problems, and increasing the general wellbeing, but may give rise to ethical dilemmas. Students will be exposed to choices and conflicts requiring judgement and thus appreciate that finance can play an important role in helping society achieve it's goals.",
+                    "UnitCode": "BFC3999",
+                    "UnitName": "Finance and society",
+                    "_id": "587800f430213215439e8a08",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "AFC2140 or BFC2140",
+                    "Proh": "AFW2341, BFW2341, BFF2341,AFC3240",
+                    "SCABand": 2,
+                    "Sypnosis": "Topics covered in this unit include the international financial system and the various types of exchange rate systems that exist around the world. Also included is the theory of the determination of exchange rates, as well as an analysis of the extent to which these theories hold in practice. A major topic area is the measurement and management of firms' foreign exchange rate risk, including theory relating to the importance of hedging against exchange risks, and the complexities involved in assessing and managing exchange rate risks in a globally connected world. In discussing the management of foreign currency transactions, the use of hedging tools such as currency futures, options and swaps is covered. The final topic is international portfolio management.",
+                    "UnitCode": "BFC3240",
+                    "UnitName": "International finance",
+                    "_id": "587800f330213215439e8a04",
+                    "enjoyRating": 4.222222222,
+                    "enjoyResponse": 95,
+                    "learnRating": 4.082258819,
+                    "learnResponse": 98,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        }
+    ]
+}

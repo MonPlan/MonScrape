@@ -1,0 +1,953 @@
+{
+    "courseAOS": "Electrical and Computer Systems Engineering and Actuarial Science specialisations",
+    "courseCode": "E3003",
+    "courseName": "Engineering and Commerce Specialist",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "None",
+                    "Proh": "ENG1020, ENG1040, ENG1050",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit develops a process for the analysis and design of static and dynamic structures and mechanisms using engineered materials. Through a multidisciplinary approach, the fundamentals of mechanical, civil and material engineering will be explained and the basic concepts of loads and motions are introduced.Team based projects will highlight the multidisciplinary nature of modern engineering. These concepts will be practised through hands-on projects carried out by teams. Communication and teamwork skills will be developed through teamwork tasks.",
+                    "UnitCode": "ENG1001",
+                    "UnitName": "Engineering design: lighter, faster, stronger",
+                    "_id": "5878023530213215439e8eb3",
+                    "enjoyRating": 4.127877238,
+                    "enjoyResponse": 248,
+                    "learnRating": 4.097971431,
+                    "learnResponse": 124,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1090,PHS1080,ENG1005",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ETC100 Business and economic statistics",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "The nature and scope of economics; different economic systems; economic policy analysis and evaluation; main bodies of economic thought; examples of household, business and government economic decision problems; consumer choice, product demand and factor supply; enterprise choice, product supply and factor demand; market analyses of contemporary issues; competitive market long run equilibrium; market power; market failure and concerns for efficiency and equity; government involvement in the Australian economy.",
+                    "UnitCode": "ECC1000",
+                    "UnitName": "Principles of microeconomics",
+                    "_id": "5878018530213215439e8c58",
+                    "enjoyRating": 3.954545455,
+                    "enjoyResponse": 177,
+                    "learnRating": 3.966738983,
+                    "learnResponse": 177,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1090,PHS1080",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "None",
+                    "Proh": "ENG1010, ENG1030",
+                    "SCABand": 2,
+                    "Sypnosis": "Fundamentals of electrical, chemical and materials engineering will be introduced and applied to provide technological solutions for real-world problems. Theory underpinning analogue and digital circuit design; energy and mass balance; materials processing and the role of functional materials will be presented. The contribution of each topic to a contemporary engineering application will be demonstrated.Team based projects will highlight the multidisciplinary nature of modern engineering. These concepts will be practiced through hands-on projects carried out by teams. Communication and teamwork skills will be developed through teamwork tasks.",
+                    "UnitCode": "ENG1002",
+                    "UnitName": "Engineering design: cleaner, safer, smarter",
+                    "_id": "5878023530213215439e8eb4",
+                    "enjoyRating": 4.03332106,
+                    "enjoyResponse": 305,
+                    "learnRating": 3.984031778,
+                    "learnResponse": 153,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "VCE Specialist Mathematics or ENG1090 (or equivalent)",
+                    "Proh": "ENG1091, MTH1030, MTH1035",
+                    "SCABand": 2,
+                    "Sypnosis": "Vector algebra and geometry: equations of lines and planes. Linear algebra: matrix operations, up to 3x3 systems of linear equations, eigenvalues and eigenvectors. Calculus: improper integrals, integration by parts. Sequences and series: fundamentals of convergence, Taylor series, use in error analysis. Ordinary differential equations: first order, second order with constant coefficients, repeated roots, simple non-homogeneous cases. Laplace transforms: elementary functions, inversion by tables; shifting; derivatives, applications to ODEs. Multivariable calculus: partial derivatives, gradient and directional derivatives, maxima and minima.",
+                    "UnitCode": "ENG1005",
+                    "UnitName": "Engineering mathematics",
+                    "_id": "5878023630213215439e8eb6",
+                    "enjoyRating": 3.728916952,
+                    "enjoyResponse": 225,
+                    "learnRating": 3.708615101,
+                    "learnResponse": 113,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ECC1000 is recommended",
+                    "Proh": "ECF1200, ECG1102, ECS1102, ECW1102",
+                    "SCABand": 3,
+                    "Sypnosis": "The scope of macroeconomics and its microeconomic underpinnings; aggregation problems; partial equilibrium and general equilibrium analysis; the circular flow of income as a general equilibrium model; the mutual dependence of financial flows and flows of goods and services; sectoral composition of aggregate demand; business and investment behaviour; government spending and taxation; external balance and determination of current and capital accounts; labour market and aggregate supply; money, credit, and the conduct of monetary policy; inflation and unemployment; macroeconomic effects of deregulation in Australia.",
+                    "UnitCode": "ECC1100",
+                    "UnitName": "Principles of macroeconomics",
+                    "_id": "5878018630213215439e8c59",
+                    "enjoyRating": 4.025,
+                    "enjoyResponse": 154,
+                    "learnRating": 3.913793776,
+                    "learnResponse": 154,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ACB1002, AFF1121, ACF1121, AFG1002, ACG1002, AFC1030, AFW1002, ACW1002, ACF1100, ACP1100.",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit provides students with an introduction to financial accounting guided by the Conceptual Framework and Accounting Standards. Emphasis is placed on accounting processes, practices and policies that enable financial statements to be prepared. Students will integrate theoretical and technical knowledge learned and exercise judgement to explore accounting issues.",
+                    "UnitCode": "ACC1100",
+                    "UnitName": "Introduction to financial accounting",
+                    "_id": "5877ff8230213215439e8447",
+                    "enjoyRating": 4.463636364,
+                    "enjoyResponse": 120,
+                    "learnRating": 4.344208038,
+                    "learnResponse": 120,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to the use of Information Technology (IT) in modern engineering practice. Students will learn an object-oriented approach to both computer systems and software engineering for solving engineering problems.Students will work in small teams to develop a mobile application that meets a contemporary need in engineering. The fundamental stages in the software development lifecycle will be introduced, including requirements analysis, design, implementation and verification. Students will use IT tools to support the engineering process.",
+                    "UnitCode": "ENG1003",
+                    "UnitName": "Engineering mobile apps",
+                    "_id": "5878023630213215439e8eb5",
+                    "enjoyRating": 3.662162162,
+                    "enjoyResponse": 306,
+                    "learnRating": 3.75307989,
+                    "learnResponse": 153,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "CSE1301, TEC2041, TEC2042, TEC2171, TRC2400",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides an introduction to computers and CPU organisation, assemblers and compilers, and algorithm design for engineering problems. It covers the language C and its implementation on a typical computer, including standard data types, arrays, control statements, functions, including ways of parameter passing, C library functions, pointers, strings, arrays of pointers, structures, linked lists and binary tree data structures, dynamic memory allocations, and calls to assembly language programs. Object-oriented programming is introduced. Software engineering is covered as the methodology of software development and lifecycle models. Operating system concepts are introduced. The unit also includes an introduction to programmable logic controllers (PLCs).",
+                    "UnitCode": "ECE2071",
+                    "UnitName": "Computer organisation and programming",
+                    "_id": "5878019630213215439e8ca0",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed ETC1000 or must be enrolled in course 3822 or 4412.",
+                    "Proh": "ETF2700, ECC2440. Students are also prohibited from enrolling in ETC2440 if they have passed both MTH2010 and MTH2021.",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit introduces mathematical techniques that are invaluable tools for econometrics, economics, finance, and business. Topics covered include matrix algebra, linear simultaneous equations and the LU decomposition, eigenvalues and the Schur decomposition, random vectors; optimisation, including the Lagrange multiplier method, partial differentiation, multiple integration, difference and differential equations. Some emphasis will be given to the use of computer programs for performing matrix calculations.",
+                    "UnitCode": "ETC2440",
+                    "UnitName": "Mathematics for economics and business",
+                    "_id": "5878025330213215439e8f23",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ETC1000 or must be enrolled in course 3822 or 4412 or 4439",
+                    "Proh": "ETC2400, ETC3440, ECC2410",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit introduces students to the empirical analysis of relationships between economic variables. The approach is based on linear regression theory, and emphasises 'hands on' data analysis. Topics studied will include properties of least squares estimators, hypothesis testing, the choice of appropriate functional form, the use of dummy variables, issues around modelling survey data and the problems of serial correlation, heteroscedasticity and multicollinearity.",
+                    "UnitCode": "ETC2410",
+                    "UnitName": "Introductory econometrics",
+                    "_id": "5878025230213215439e8f20",
+                    "enjoyRating": 3.971153846,
+                    "enjoyResponse": 114,
+                    "learnRating": 4.000993401,
+                    "learnResponse": 114,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Mathematical methods (CAS) recommended.",
+                    "Proh": "ENG1602",
+                    "SCABand": 2,
+                    "Sypnosis": "General rules for software development and design. Errors. Data types, variables, expressions, control statements M-files. Numerical techniques: Gauss elimination, solution of non-linear equations, optimisation, curve fitting, numerical calculus, ordinary differential equations.",
+                    "UnitCode": "ENG1060",
+                    "UnitName": "Computing for engineers",
+                    "_id": "5878023730213215439e8eb9",
+                    "enjoyRating": 4.05248538,
+                    "enjoyResponse": 274,
+                    "learnRating": 3.934633702,
+                    "learnResponse": 137,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ECE2701, TEC2172, TRC2300",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces the student to modern logic design techniques, hardware used and common representations. Topics include two and multi-level combinational logic, decoders, multiplexers, arithmetic circuits, programmable and steering logic, flip-flops, registers, counters, RAM and ROM. Using this hardware the design component will include finite state machine design and applications to computer data path control. This will incorporate simple analogue and digital I/O interfacing. Programmable logic devices will be covered, and the use of a hardware description language for describing, synthesizing and testing digital logic. Laboratories cover logic design, implementation, and testing.",
+                    "UnitCode": "ECE2072",
+                    "UnitName": "Digital systems",
+                    "_id": "5878019630213215439e8ca1",
+                    "enjoyRating": 3.841346154,
+                    "enjoyResponse": 124,
+                    "learnRating": 3.871201075,
+                    "learnResponse": 62,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students to complete two units as follows: ECF1100 and ETF1100; or ECC1000 and ETC1000; or ETB1100 and ECB1101; or ECW1101 and ETW1000 or ETW1102; or ECP1100 and ETP1100.",
+                    "Proh": "AFF2631, BFF2631, AFG2631, BFG2631, AFW2631, BFB2631, BFP2631, BFW2631, AFW3044, AFC2140, BFB2140, BFF2140, BFP2140, BFW2140.",
+                    "SCABand": 3,
+                    "Sypnosis": "The aim of the unit is to introduce students to the theory and application of why and how value enhancing corporate financial decisions are made and implemented. With the emphasis on publicly listed companies, topics covered include; the corporate objective of management, investment evaluation models, valuation of equity and debt instruments, sources and types of funding, issues in risk and return, portfolio theory, asset pricing models, issues in capital structure and dividend policy and the efficiency of capital markets. The unit is designed to ensure students with the necessary skill set for making value-changing financial decisions to maximise firm value.",
+                    "UnitCode": "BFC2140",
+                    "UnitName": "Corporate finance 1",
+                    "_id": "587800f130213215439e89fe",
+                    "enjoyRating": 4.354545455,
+                    "enjoyResponse": 118,
+                    "learnRating": 3.712383812,
+                    "learnResponse": 75,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must complete one of the following units: ETC1000, ETW1000, ETX1100, FIT1006 or STA1010 before undertaking this unit",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit focuses on the tools for a large, digital data world, including the building blocks for business analytics, modern insurance and risk assessment.  A computational approach is employed to teach the concepts of statistics, and decision making in the presence of uncertainty.  An important aspect will be to develop skills for compiling data from multiple sources to support better decisions and models. Topics covered will include simulation and randomisation methods, decision and credibility theory, data wrangling and visualisation, methods for time series, Bayesian analysis and models for risk and loss distributions.",
+                    "UnitCode": "ETC2420",
+                    "UnitName": "Statistical thinking",
+                    "_id": "5878025230213215439e8f21",
+                    "enjoyRating": 3.111111111,
+                    "enjoyResponse": 27,
+                    "learnRating": 3.348679099,
+                    "learnResponse": 27,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ENG1005 or ENG1091 or equivalent",
+                    "Proh": "ENG2091, MTH2010, MTH2015",
+                    "SCABand": 2,
+                    "Sypnosis": "Advanced matrix algebra: mxn systems, linear independence, sparse matrices, simple tensors. Further ordinary differential equations: systems of ODEs, variation of parameters; boundary-value problems. Fourier series: Euler formulae, convergence, half-range series, solution of ODEs, spectra. Further multivariable calculus: change of variables and chain rule, polar coordinates, line integrals; vector fields; del, divergence, curl and Laplacian; surface and volume integrals; Gauss and Stokes theorems. Partial differential equations: simple PDEs, Laplace, heat and wave equations, superposition, separation of variables, polar coordinates. Advanced numerical methods: solution of linear systems, numerical solution of ODEs and simple PDEs, accuracy, efficiency and stability; discrete Fourier transforms, introduction to PS and FE methods.",
+                    "UnitCode": "ENG2005",
+                    "UnitName": "Advanced engineering mathematics",
+                    "_id": "5878023830213215439e8ec0",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE2xxx Electrical circuits",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "BFC2000",
+                    "UnitName": "Cannot Fetch Data",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "BFC2430",
+                    "UnitName": "Cannot Fetch Data",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE2xxx Signals and systems",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE2xxx Probability models in engineering",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed ETC1000, or be enrolled in course 4439.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will introduce students to basic financial and stochastic techniques used in actuarial work, and will give an overview of some of the areas in which actuaries are currently involved. The student will be introduced to the basic concepts involved in assessing and pricing future risks and pricing insurance products, using past data.",
+                    "UnitCode": "ETC2430",
+                    "UnitName": "Actuarial statistics",
+                    "_id": "5878025230213215439e8f22",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation unit 1 from a list",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ECE2072 and one of:+ ECE2071+ FIT1008+ FIT1029 and FIT1040",
+                    "Proh": "ECE3703, GSE2303, GSE3802, TEC3174, TRC3300",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides an introduction to computer architecture using a modern microprocessor as an example. Practical considerations involved in interconnecting logic element are explored, along with software and hardware techniques for interfacing computers to peripheral devices. An introduction to communication protocols used to connect local peripheral devices to a microprocessor, including RS232/RS422/RS485, CAN bus and i2C is provided. Real time systems including concurrency, inter-process communications and scheduling are introduced.",
+                    "UnitCode": "ECE3073",
+                    "UnitName": "Computer systems",
+                    "_id": "5878019830213215439e8ca9",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE3xxx Analogue electronics",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation unit 2 from a list",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation unit 3 from a list",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE3xxx Control system design",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ECE2071 or (FIT1029 and FIT1040) and ECE2041 and ECE2061 and ECE2031 and ECE2072",
+                    "Proh": "ECE3905, TEC3191, TRC3000",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit extends the level of complexity of electronic design by integrating and applying knowledge from a number of second year units. Students will use knowledge from linear and non-linear electronics, computer engineering and communications engineering, to tackle a group project, applying project management skills, and extending their experience of working in groups. The project will extend the design processes introduced in the earlier units to a larger, more complex, and less constrained situation. The project will be complemented by lectures in project management, including working with teams, project management tools and techniques, and written and verbal communication. Frameworks for analysing the life cycles of systems are introduced. Tools and techniques to aid decision-making are provided.",
+                    "UnitCode": "ECE3091",
+                    "UnitName": "Engineering design",
+                    "_id": "5878019930213215439e8caa",
+                    "enjoyRating": 4.301666667,
+                    "enjoyResponse": 77,
+                    "learnRating": 4.270836761,
+                    "learnResponse": 39,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation unit 4 from a list",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "AFC2340 or ETC2430 or BFC2340 or by permission.",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "The modelling and valuation of cash flows dependent on death, survival, or other uncertain risks.",
+                    "UnitCode": "ETC3530",
+                    "UnitName": "Contingencies in insurance and pensions",
+                    "_id": "5878025630213215439e8f34",
+                    "enjoyRating": 4.033333333,
+                    "enjoyResponse": 36,
+                    "learnRating": 4.172888386,
+                    "learnResponse": 36,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE3xxx Information and networks",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ECE3091 or completion of 132 credit points",
+                    "Proh": "ECE4911, ECE5094",
+                    "SCABand": 2,
+                    "Sypnosis": "Together with ECE4095 Project B, this unit is a challenging opportunity to pursue independently an individual project and is likely to require extended effort. The two units together normally include a preparatory literature survey and developmental work such as design, construction and programming. Students choose a project that interests them, and are assigned to a team of two supervising staff members.",
+                    "UnitCode": "ECE4094",
+                    "UnitName": "Project A",
+                    "_id": "5878019f30213215439e8cc6",
+                    "enjoyRating": 4.7,
+                    "enjoyResponse": 12,
+                    "learnRating": 4.1875,
+                    "learnResponse": 6,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ECE4908, TEC3193 and TRC4002",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will cover topics relevant to engineers working in a business environment, particularly in management, focusing on recent case studies. Areas covered include management of individuals, teams and organisations, management philosophy and practical techniques. Financial management will be discussed, including company objectives, accounting fundamentals, and financial planning and control. Marketing will follow, including business planning, quality and quality control. Relevant legal issues will be covered, including intellectual property, contract and negligence. This will be drawn together in discussing the role of the professional engineer, ethical behaviour and decision making.",
+                    "UnitCode": "ECE4099",
+                    "UnitName": "Professional practice",
+                    "_id": "587801a030213215439e8cc8",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE3xxx Engineering electromagnetics",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ECE4094 or ECE4911",
+                    "Proh": "ECE4912",
+                    "SCABand": 2,
+                    "Sypnosis": "Together with ECE4094 Project A this unit is a challenging opportunity to pursue independently an individual project and is likely to require extended effort. The two units together normally include a preparatory literature survey and developmental work such as design, construction and programming. Students choose a project that interests them, and are assigned to a team of two supervising staff members.",
+                    "UnitCode": "ECE4095",
+                    "UnitName": "Project B",
+                    "_id": "5878019f30213215439e8cc7",
+                    "enjoyRating": 4.409722222,
+                    "enjoyResponse": 33,
+                    "learnRating": 4.392087542,
+                    "learnResponse": 17,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE4xxx Electical energy systems",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ECE elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 4
+        }
+    ]
+}

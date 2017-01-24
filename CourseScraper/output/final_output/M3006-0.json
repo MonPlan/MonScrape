@@ -1,0 +1,481 @@
+{
+    "courseAOS": "Bachelor of Radiography and Medical Imaging (Honours)",
+    "courseCode": "M3006",
+    "courseName": "Radiography and Medical Imaging",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Entry to the BRadMedImag.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Students will learn the principles of human biology and genetics, and the chemical, cellular and tissue organization of the human body. In addition, they will develop an understanding of the gross anatomical structure of the appendicular skeleton together with their radiographic appearances.",
+                    "UnitCode": "RAD1031",
+                    "UnitName": "Radiologic biology 1",
+                    "_id": "587804af30213215439e9802",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Entry to the BRadMedImag.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "A review of fundamental physics of concepts relevant to radiographic imaging. Units of measurement. Mechanics and heat. Atomic structure and electromagnetic radiation. Electricity, magnetism and electromagnetism. X-rays and their production. X-ray emission and interactions between x-rays and matter. Attenuation of x-rays and filters. Detection of X-rays. X-ray image formation. Introduction to computer-based imaging in medicine. Principles of radioactivity and nuclear transformation. Introduction to radiation therapy principles. Foundation principles of radiation protection together with statutory requirements.",
+                    "UnitCode": "RAD1021",
+                    "UnitName": "Radiologic physics and radiation protection",
+                    "_id": "587804ae30213215439e9801",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Entry to the BRadMedImag.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit delivers the initial scientific, professional and clinical radiographic knowledge that will be foundational in subsequent Radiographic Science and Practice units as the student progresses along the Novice to Expert continuum of development. The unit introduces the student to the requisite knowledge required to perform radiographic examinations of the limbs and chest and the fundamentals of professional practice to include the behavioural sciences, communication and legally and ethically correct working practices. Clinical exposure to patients under supervision will enable the student to apply these principles across the range of examinations indicated.",
+                    "UnitCode": "RAD1061",
+                    "UnitName": "Radiographic science and practice 1",
+                    "_id": "587804af30213215439e9803",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "RAD1021, RAD1031 and RAD1061.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Students will develop a sound understanding of the principles of pathology, and specifically that of the respiratory and osteoskeletal systems, along with their radiographic appearances. Students will also develop a sound understanding of the structural and functional relationships of the vertebral column and the bony thorax. They will be introduced to the nervous system and the innervation of muscles together with relevant radiographic anatomy.",
+                    "UnitCode": "RAD1082",
+                    "UnitName": "Radiologic biology 2",
+                    "_id": "587804af30213215439e9804",
+                    "enjoyRating": 3.739130435,
+                    "enjoyResponse": 45,
+                    "learnRating": 3.996031746,
+                    "learnResponse": 41,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 18,
+                    "EFTSL": 0.375,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "RAD1021, RAD1031, RAD1061, RAD1082.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "RAD1012 develops the scientific, professional and clinical radiographic knowledge that will be foundational to the student progresses along the Novice to Expert continuum of development. Radiographic knowledge will be extended to enable examinations of the respiratory system, shoulder and pelvic girdles, the vertebral column, the bony thorax and plain abdomen to be safely performed. Building on earlier principles of professional practice, RAD1012 will introduce the science required for more advanced radiographic equipment operation. Radiation dosimetry and safety is also studied so that competent operation and performance measurement of diagnostic ionising radiation equipment may be executed. Clinical exposure to patients under supervision will enable the student to apply these principles across the range of examinations indicated.",
+                    "UnitCode": "RAD1012",
+                    "UnitName": "Radiographic science and practice 2",
+                    "_id": "587804ae30213215439e9800",
+                    "enjoyRating": 4.107142857,
+                    "enjoyResponse": 28,
+                    "learnRating": 3.535426731,
+                    "learnResponse": 45,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Level 1 of BRadMedImag course.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides a basic understanding of the human body, its structure and the function of its organs in health and disease. The unit covers the cardiovascular system, respiratory system, renal system, haematopoietic system, gastrointestinal system, endocrine system and reproduction. The unit incorporates the anatomy, physiology, pathology and radiographic imagining techniques related to each system. An introduction to the pharmacological principles underlying drug action, drug absorption, distribution, metabolism and excretion and the adverse reactions to contrast media complements the body systems.",
+                    "UnitCode": "RAD2061",
+                    "UnitName": "Radiologic biology 3",
+                    "_id": "587804b030213215439e9808",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Level 1 of BRadMedImag course.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "The focus of this unit is upon mobile imaging, accident and emergency imaging, paediatrics, geriatrics and radiography of the skull including dental imaging. It also facilitates the ongoing development of broader general radiographic skills of the appendicular and axial skeleton. Additionally, the unit provides students with the essential elements of contrast and therapeutic imaging of the vascular, gastrointestinal, genito-urinary and hepato-biliary systems with the emphasis upon digital fluoroscopic systems and the professional role of the radiographer in managing these systems and implementing the procedures.",
+                    "UnitCode": "RAD2051",
+                    "UnitName": "Radiographic science and practice 3",
+                    "_id": "587804b030213215439e9807",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Level 1 of BRadMedImag course.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "The focus of this unit is on the structure and function of the central nervous system and the pathological basis of disease and injury affecting this system. The anatomical representation and relationships of the bones, organs, blood vessels, nerves and muscles comprising the cranium, chest, abdomen, male and female pelvis, spine, limbs and girdles in multiple planes will be demonstrated through computed tomography (CT), magnetic resonance images (MRI) and digital subtraction angiographic (DSA) imaging. Organization, structure and physiology of nervous tissue, the spinal cord and its nerves and the senses will provide students with a more in-depth understanding of the common disorders affecting the central nervous system including developmental malformations, neoplasia, demyelinating and degenerative disease processes, infective processes, cerebrovascular disease and traumatic brain injury. The unit is particularly designed to prepare students for their CT studies in year three of the course.",
+                    "UnitCode": "RAD2092",
+                    "UnitName": "Radiologic biology 4 and sectional anatomy",
+                    "_id": "587804b030213215439e9809",
+                    "enjoyRating": 4.470588235,
+                    "enjoyResponse": 39,
+                    "learnRating": 3.316666667,
+                    "learnResponse": 23,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 18,
+                    "EFTSL": 0.375,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Level 1 of BRadMedImag course, RAD2051 and RAD2061.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit develops a student's existing knowledge of digital imaging systems, evidence based practice and research principles required for practice within the healthcare workforce of the future. The unit includes digital image processing applied to medical imaging, patient care requirements for diagnostic imaging examinations including those using contrast media, evidence based practice in diagnostic imaging and the evaluation and application of research in diagnostic imaging.",
+                    "UnitCode": "RAD2012",
+                    "UnitName": "Radiographic science and practice 4",
+                    "_id": "587804b030213215439e9806",
+                    "enjoyRating": 4.019230769,
+                    "enjoyResponse": 41,
+                    "learnRating": 4.273678477,
+                    "learnResponse": 39,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Levels 1 and 2 of BRadMedImag course.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit delivers theoretical and practical knowledge in abdominal ultrasound that also forms a foundation for subsequent ultrasound studies in RAD3042 and RAD4080. The unit introduces the student to the requisite knowledge required to perform an ultrasound examination of abdominal organs, including the physics of ultrasound and instrumentation, sonographic anatomy and pathophysiology, scanning principles and practice. Students will participate in the scanning of models under supervision to enable them to apply these principles and develop basic practical skills in a simulated clinical environment.",
+                    "UnitCode": "RAD3061",
+                    "UnitName": "Medical imaging science (ultrasound)",
+                    "_id": "587804b230213215439e980e",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 18,
+                    "EFTSL": 0.375,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Levels 1 and 2 of BRadMedImag course.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Computed tomography: scientific principles and operational modes. System components and image characteristics. Image reconstruction techniques, summation convolution back-projection. Fourier reconstruction and algebraic and iterative reconstruction methods. Helical/spiral and multislice CT systems. CT artefacts and quality assurance. Principles of CT dosimetry and radiation protection. Clinical CT examinations for the head, chest, abdomen and spine; CT sectional anatomy and imaging pathology. General radiography including contrast, trauma, paediatric and mobile imaging. Digital image processing, computer interfaces, medical image formats, the Dicom standard, image compression and the hospital Picture Archiving and Communication System (PACS).",
+                    "UnitCode": "RAD3051",
+                    "UnitName": "Medical imaging science and practice 1",
+                    "_id": "587804b230213215439e980d",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Levels 1 and 2 of BradMedImag, RAD3051 and RAD3061.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "The physics of MRI is presented, with particular application to clinical diagnostic imaging. The unit covers the basic physics of magnetic dipoles and magnetic spin resonance, through to a detailed presentation of the basic gradient and spin echo sequences that are used in medical MRI scanners. The factors that determine the contrast and spatial resolution achievable in MRI are discussed. The FID signal sampling and image reconstruction methods are reviewed, as are the SNR and image artifacts that typically occur in MRI. Patient and MRI staff safety issues are presented. An overview of MRI imaging applications, such as spectroscopic and dynamic imaging is presented.",
+                    "UnitCode": "RAD3092",
+                    "UnitName": "Magnetic resonance imaging (physics and technology)",
+                    "_id": "587804b230213215439e980f",
+                    "enjoyRating": 4.291666667,
+                    "enjoyResponse": 23,
+                    "learnRating": 3.958333333,
+                    "learnResponse": 10,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 18,
+                    "EFTSL": 0.375,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Levels 1 and 2 of BRadMedImag course, RAD3051 and RAD3061.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This 3rd year Unit expands upon the knowledge, skills and judgment acquired in year's one and two of the Course through more in-depth study of five themes that are relevant to radiographic practice.Theme 1: Sonographic Practice and ScienceSonographic anatomy and pathology of abdominal organs and related structures. Scanning techniques including Doppler ultrasound for the sonographic visualisation of abdominal organs and related structures. Ultrasound artefacts and the bio-effects and bio-hazards of diagnostic ultrasound.Theme 2: Radiographic PracticeOngoing development in general radiography examinations and professional communication to the level of competent practice.  The application and impact of ethics, registration and legal principles to radiographic practice.Theme 3: Breast ImagingThe scientific principles of breast imaging, instrumentation, positioning methods and radiation protection. Principles of breast ultrasound and localisation techniques.Theme 4: Research and Dosimetric TechniquesScientific principles of radiation dosimetry. Calculating the biological effects of ionising radiation. Applications of dosimetry in radiographic practice. Handling quantitative and qualitative data. Using statistical analyses to understand the relevance of data handling and research to radiographic practice.Theme 5: MRI PracticeContraindications for MRI, emergency situations and screening methods. MRI imaging sequences and methods for MRI examinations of the upper abdomen, pelvis and breast.",
+                    "UnitCode": "RAD3042",
+                    "UnitName": "Medical imaging science and practice 2",
+                    "_id": "587804b130213215439e980c",
+                    "enjoyRating": 3.2,
+                    "enjoyResponse": 23,
+                    "learnRating": 4.4,
+                    "learnResponse": 23,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "RAD4070,RAD4080",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Full year (extended) 2017 (Day)",
+                                "Second semester 2017 to First semester 2018 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Levels 1, 2 and 3 of the BradMedImag.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Students enrolled in the Bachelor of Radiography and Medical Imaging must complete the placement in order to satisfy the professional requirements that a period of supervised practice be completed prior to graduation and application for registration issued by the Medical Radiation Practice Board of Australia.",
+                    "UnitCode": "RAD4000",
+                    "UnitName": "Radiography and medical imaging work experience",
+                    "_id": "587804b230213215439e9810",
+                    "enjoyRating": 4.166666667,
+                    "enjoyResponse": 10,
+                    "learnRating": 4.5,
+                    "learnResponse": 4,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 18,
+                    "EFTSL": 0.375,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "Full year 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Levels 1, 2 and 3 of the BRadMedImag.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This is a core unit of year 4 designed to provide students completing the final year of the Bachelor of Radiography and Medical Imaging with knowledge and skills in advanced multislice computed tomography, magnetic resonance imaging methods, radiographic image interpretation and advanced decision making with respect to imaging and the radiographic management of the patient. The unit comprises three elements namely multislice CT physics, CT methods and clinical practice, MRI methods and clinical practice and radiographic image interpretation principles and pattern recognition.",
+                    "UnitCode": "RAD4160",
+                    "UnitName": "Advanced medical imaging and clinical skills",
+                    "_id": "587804b330213215439e9813",
+                    "enjoyRating": 4,
+                    "enjoyResponse": 18,
+                    "learnRating": 4,
+                    "learnResponse": 1,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

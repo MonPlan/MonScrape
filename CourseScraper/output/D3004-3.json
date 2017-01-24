@@ -1,0 +1,144 @@
+{
+    "courseAOS": "Secondary Education specialisation and one of Music Performance, Music Composition or Creative Music Technology",
+    "courseCode": "D3004",
+    "courseName": "Education and Music",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Education",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF1303",
+                {
+                    "faculty": "",
+                    "type": "ATS1XXX Music Specialisation 1"
+                },
+                "EDF1055",
+                "ATS1899",
+                "ATS1345"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF1304",
+                {
+                    "faculty": "",
+                    "type": "ATS1XXX Music Specialisation 2"
+                },
+                "EDF1056",
+                "ATS1900",
+                "ATS1346"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF2005",
+                "EDF2006",
+                "EDF2055",
+                "ATS2901",
+                [
+                    "ATS2060",
+                    "ATS2687"
+                ],
+                {
+                    "faculty": "",
+                    "type": "ATS2XXX Music Specialisation 3"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF2007",
+                "EDF2008",
+                "EDF2056",
+                {
+                    "faculty": "",
+                    "type": "ATS3XXX Music Specialisation 4"
+                },
+                {
+                    "faculty": "",
+                    "type": "ATS2333 Jazz History or ATS2331/ATS2332 Music Overseas Study Program or ATS2900 Writing about music: Headlines and hashtags"
+                },
+                "ATS2902"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF3009",
+                "EDF3010",
+                "EDF3055",
+                {
+                    "faculty": "",
+                    "type": "ATS3XXX Music Specialisation 5"
+                },
+                "ATS3094"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF3007",
+                {
+                    "faculty": "",
+                    "type": "Education elective (6 pts)"
+                },
+                "EDF3056",
+                {
+                    "faculty": "",
+                    "type": "ATS3XXX Music Specialisation 6"
+                },
+                "ATS3061"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF4100",
+                "EDF4004",
+                {
+                    "faculty": "",
+                    "type": "EDF4055 Secondary professional experience 4A and EDF4056 Secondary professional experience 4B 25 days (0 pts)"
+                },
+                {
+                    "faculty": "",
+                    "type": "EDF5XXX Method unit 1A (6 pts)"
+                },
+                {
+                    "faculty": "",
+                    "type": "EDF5XXX Method unit 2A (6 pts)"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF4101",
+                "EDF4006",
+                {
+                    "faculty": "",
+                    "type": "EDF4057 Secondary professional experience 4C and EDF4058 Secondary professional experience 4D 25 days (0 pts)"
+                },
+                {
+                    "faculty": "",
+                    "type": "EDF5XXX Method unit 1B (6 pts)"
+                },
+                {
+                    "faculty": "",
+                    "type": "EDF5XXX Method unit 2B (6 pts)"
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "courseAOS": "Accounting specialisation",
+    "courseCode": "B2013",
+    "courseName": "Business and Business Specialist",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "MKF1120/MKP1120 Marketing theory and practice"
+                },
+                {
+                    "faculty": "",
+                    "type": "BFF1001/BFP1001 Foundations of finance"
+                },
+                "ACF1100",
+                "ECF1100"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BTF1010",
+                {
+                    "faculty": "",
+                    "type": "MGF1010/MGP1010 Introduction to management"
+                },
+                "BTF1010",
+                "ETF1100"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 1"
+                },
+                "ETF1100",
+                "BFF2140",
+                "ACF2200"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 2"
+                },
+                "ECF1100",
+                "ACF2100",
+                "BTX2000"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business Major 4"
+                },
+                "ACF2400",
+                "BTF3931"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 5"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business Major 6"
+                },
+                "ACF3600",
+                "ACX3150"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 7"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business Major 8 or Business elective"
+                },
+                "ACF3100",
+                "ACF3200"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                [
+                    "ACF1200",
+                    "ACF1100"
+                ],
+                {
+                    "faculty": "",
+                    "type": "Capstone unit"
+                },
+                "ACF3900",
+                {
+                    "faculty": "",
+                    "type": "Specialisation elective from a list"
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

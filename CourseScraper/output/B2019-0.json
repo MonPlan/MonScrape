@@ -1,0 +1,185 @@
+{
+    "courseAOS": "Bachelor of Business and Bachelor of Arts",
+    "courseCode": "B2019",
+    "courseName": "Business and Arts",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "ACF1200/ACP1200 Accounting for managers or ACF1100/ACP1100 Introduction to Financial accounting"
+                },
+                {
+                    "faculty": "",
+                    "type": "ECF1100/ECP1100 Microeconomics"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Minor"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "MKF1120/MKP1120 Marketing theory and practice"
+                },
+                {
+                    "faculty": "",
+                    "type": "ETF1100/ETP1100 Business statistics"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Minor"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "MGF1010/MGP1010 Introduction to management"
+                },
+                {
+                    "faculty": "",
+                    "type": "BFF1001/BFP1001 Foundations of finance"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Minor"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "BTF1010/BTP1010 Business law"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Minor"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business Major 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts elective"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 4"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business Major 5"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts elective"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 6"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business Major 7"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts elective"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 8 or Business elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Capstone unit"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts elective"
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

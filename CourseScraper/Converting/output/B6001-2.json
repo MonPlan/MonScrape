@@ -1,0 +1,178 @@
+{
+    "courseAOS": "Business Economics",
+    "courseCode": "B6001",
+    "courseName": "Master of Applied Economics and Econometrics",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ETF5900,ETF2100"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ETF2700,ETC2440,ETF2121"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ECC5900,ECF5927"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ECC5901,ECF2923"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "Game theoretic analysis is fundamental to understanding modern business strategies and forms the basic infrastructure of strategy courses. The unit teaches the basic tools of Game Theory, and introduces a structured way to think about business interactions. Game theory originated in the middle of the twentieth century as the general study of strategic interactions and has found applications in a wide variety of contexts including economics, psychology, politics and evolutionary biology. It is this generality that is the source of its power. Accordingly, the unit  develops game theory broadly with applications to strategic situations, including business as well as more general contexts.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "ECC2000 or equivalent, or ECF5927",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "ECF5200",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Game theory and business strategy"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ECF5410,ECC4650"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ECF5421,ECC4660"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "One unit with the prefix ETC5, ETF5 or ETX5 ",
+                    "UnitName": ""
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ECF5040,ECC5484"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Mastery Knowledge Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "FY-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit will be organised around a series of workshops to introduce the research methodology to students. Different fields of applied economics such as reveal preference theory, experiment economics, industrial organisation, fiscal and monetary theory and financial economics will then be introduced to showcase the research frontiers of applied economics.Students will then be required to select a project in their area of specialisation and submit a 9000 word report and an oral presentation. Students will work closely with a personal supervisor to ensure that the research paper locates and masters new knowledge and demonstrates originality in both research content and intellectual argument.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Admission to B6001 Master of Applied Economics and Econometrics",
+                    "Prohibitions": "ECF5010, ECF5300.",
+                    "SCABand": 3,
+                    "UnitCode": "ECF5060",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Evening)",
+                                "Full year 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Applied economics research project"
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

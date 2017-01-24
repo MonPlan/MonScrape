@@ -1,0 +1,1219 @@
+{
+    "courseAOS": "Primary Education specialisation",
+    "courseCode": "D3002",
+    "courseName": "Education and Arts",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Education",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Enrolment in a Faculty of Education course",
+                    "Proh": "EDF1301",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit introduces contemporary learning theories that enable students to reflect on their own learning experiences in order to understand how others learn. From the perspective of broader educational settings (school, community, early childhood settings, home), the important questions of what learning is, how and why learning occurs, what quality learning might be and what influences learning, are discussed and reflected upon. Through examination of different theoretical perspectives and contexts, this unit focuses on building an understanding of what can influence learning and offers skill building in academic learning. Ideas closely associated with learning, including motivation, engagement and ability are also considered. The unit encourages students to begin constructing deep knowledge about the relationship between learning and educational inquiry.",
+                    "UnitCode": "EDF1303",
+                    "UnitName": "Understanding learning and learners",
+                    "_id": "587801bd30213215439e8d3e",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts elective (6pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors primary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF1053",
+                    "UnitName": "Primary professional experience 1A",
+                    "_id": "587801b730213215439e8d2a",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major (6pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Minor (6pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF1303",
+                    "Proh": "EDF1302",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit builds on the focus in EDF1303 (Understanding learning and learners) to introduce contemporary approaches to teaching and their impact on learning. It enables students to demonstrate an understanding of curriculum and its role in teaching and learning in educational settings. Students are facilitated to demonstrate knowledge and skills in a range of teaching strategies including effective teaching models and assessment strategies that promote learning. Students develop knowledge and skills to engage in meaningful and respectful relationships with learners, their families and communities, in order to support learning.",
+                    "UnitCode": "EDF1304",
+                    "UnitName": "Understanding teaching for learning",
+                    "_id": "587801bd30213215439e8d3f",
+                    "enjoyRating": 4.185714286,
+                    "enjoyResponse": 317,
+                    "learnRating": 4.09097277,
+                    "learnResponse": 106,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts elective (6pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF1053",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors primary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF1054",
+                    "UnitName": "Primary professional experience 1B",
+                    "_id": "587801b830213215439e8d2b",
+                    "enjoyRating": 4.410714286,
+                    "enjoyResponse": 31,
+                    "learnRating": 4.190079365,
+                    "learnResponse": 16,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major (6pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Minor (6pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 6,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit explores significant aspects of child and adolescent development, behaviours and relationships within the context of teacher education. It builds students' understanding of the psychological, motivational, social, cognitive, biological and socio-cultural perspectives of child and adolescent development and the possible implications for learning. Students inquire into strategies for learning and teaching with children and adolescents based on contemporary knowledge of development and fostering positive behaviour interactions and relationships for diverse learners. They develop understanding of how to develop a broad range of strategies for involving parents/carers and other community service and health providers in the educative process.",
+                    "UnitCode": "EDF2210",
+                    "UnitName": "Fostering positive child and adolescent behaviour and development",
+                    "_id": "587801cb30213215439e8d68",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit is the first of two that develop students' understanding of English and literacies learning in the Victorian and Australian curriculum. This unit focuses on the range of ways children encounter and use literacy in a diverse social, cultural and technological world. It introduces conceptual frameworks for understanding and critiquing the processes of how children learn about literacy. Students explore the importance of translating home and community learning into various institutional settings and vice versa. The teaching of literacy is examined from a number of current theoretical perspectives, and students develop appropriate pedagogical practices that support children's literacy learning. With a particular focus on the early years, the unit explores effective pedagogies to enhance children's oral language, reading, writing and visual literacies, taking into account issues related to information and communication technology.",
+                    "UnitCode": "EDF2020",
+                    "UnitName": "English and literacies 1",
+                    "_id": "587801c030213215439e8d46",
+                    "enjoyRating": 4.240384615,
+                    "enjoyResponse": 37,
+                    "learnRating": 4.318040524,
+                    "learnResponse": 19,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For BEd(Hons) in Early Years Education: EDF1052For BEd(Hons) in Primary Education (single and double degrees): EDF1054For BEd(Hons) in Primary and Secondary Health and Physical Education: EDF1056",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors primary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF2053",
+                    "UnitName": "Primary professional experience 2A",
+                    "_id": "587801c530213215439e8d54",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major (6pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Minor (6pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts elective (6pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 6,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit explores local and global Indigenous perspectives on teaching and learning. It develops students' knowledge and understanding of Indigenous cultures with a particular focus on Aboriginal and Torres Strait Islander peoples. The unit considers Indigenous and other forms of education alongside the provision of mainstream schooling by nation states. Students develop their understanding of the impact of culture, cultural identity and linguistic background on the education of students from Aboriginal and Torres Strait Islander backgrounds. They explore and utilise education programs which have successfully engaged with learners from Indigenous and traditionally oriented societies and achieved improvements in their education outcomes. Students also develop broad knowledge, understanding and respect for Aboriginal and Torres Strait Islander peoples and their histories, cultures and languages, to meet expectations in the Australian Curriculum and the Australian Professional Standards for Teachers. They develop skills and insights into how to engage learners from Indigenous and traditional communities and create successful partnerships that improve academic outcomes and foster reconciliation.",
+                    "UnitCode": "EDF2031",
+                    "UnitName": "Indigenous perspectives on teaching and learning",
+                    "_id": "587801c230213215439e8d4b",
+                    "enjoyRating": 2.216666667,
+                    "enjoyResponse": 88,
+                    "learnRating": 2.875984047,
+                    "learnResponse": 29,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit develops students' understanding of research and contemporary pedagogical practices in the teaching and learning of primary school mathematics. It particularly focuses on children's mathematical development in the early years of school including early number concepts, written and mental computation, estimation, measurement and geometry. Students also explore the importance of translating home and community learning into school-based practice. The teaching of mathematics and numeracy are examined from a number of current theoretical perspectives, and students develop appropriate practices that are in line with local and Australian curriculum support that they can implement in their teaching in schools.",
+                    "UnitCode": "EDF2021",
+                    "UnitName": "Mathematics and numeracy 1",
+                    "_id": "587801c130213215439e8d47",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF2053",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors primary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF2054",
+                    "UnitName": "Primary professional experience 2B",
+                    "_id": "587801c630213215439e8d55",
+                    "enjoyRating": 4.008333333,
+                    "enjoyResponse": 32,
+                    "learnRating": 3.601851852,
+                    "learnResponse": 16,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major (6pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Minor (6pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts elective (6pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 1 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "In this unit students critically reflect on their emerging understanding of the range and depth of educators' work and their professional identity as teachers. They build their capacity to capture, articulate and demonstrate their developing practice in a professional portfolio of evidence of their learning across the dimensions of the Australian Professional Standards for Teachers. This includes the three domains of teaching: professional knowledge, professional practice and professional engagement. Drawing on their learning in university coursework and through professional experience in varied education settings, students explore what it means to be engaged in the education profession through consideration of the nature of teachers' and educators' work and of leadership in education. They explore policy and practice involved in the ethical, professional, industrial, legal, emotional, intellectual and physical dimensions of the work of teachers and educators in multiple contexts.",
+                    "UnitCode": "EDF3036",
+                    "UnitName": "Professional studies",
+                    "_id": "587801d230213215439e8d7d",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF2021",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit extends students' knowledge, skills and dispositions relating to mathematics and numeracy education. The unit focuses on the exploration of different pedagogical approaches and strategies in the teaching of mathematics and numeracy to primary school children up to Year 6. Students have opportunities to engage in critical readings on current research and practice in mathematics education and practical learning strategies so they can implement effective student learning in different mathematical topics. There is an emphasis on facilitating children's learning in a variety of sociocultural and educational contexts. Students use and apply learning technologies that are inclusive of all learners, and develop and use creative assessment. These activities are informed by current local and international educational policy and curriculum.",
+                    "UnitCode": "EDF3021",
+                    "UnitName": "Mathematics and numeracy 2",
+                    "_id": "587801cf30213215439e8d73",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF2054",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors primary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF3053",
+                    "UnitName": "Primary professional experience 3A",
+                    "_id": "587801d430213215439e8d83",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major (6pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major (6pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit develops students' understanding of how they can respond to increasing diversity in classrooms based on a range of characteristics and factors including students' physical, social and intellectual characteristics, as well as linguistic, cultural, language, religious and socio-economic factors, students with English as an additional language and differentiate their teaching to meet the needs of student with a range of ability needs including gifted, talented and special needs. Students learn why and how inclusive classroom communities can be created. Students are supported to develop an inclusive disposition to student differences. They develop  knowledge and understanding of repertoire of inclusive strategies for differentiating teaching in order to meet the specific learning needs of students across the full range of abilities and to ensure they can maximise  the learning outcomes and full participation of all students. They also develop and demonstrate broad knowledge and understanding of legislative requirements and teaching strategies that support participation and learning of students with disability.",
+                    "UnitCode": "EDF3211",
+                    "UnitName": "Inclusive education: Teaching diverse learners",
+                    "_id": "587801db30213215439e8d99",
+                    "enjoyRating": 3.787037037,
+                    "enjoyResponse": 71,
+                    "learnRating": 3.672971781,
+                    "learnResponse": 24,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit develops students' understanding of arts education in the primary years in relation to Victorian and Australian curriculum. Specifically, it explores arts education with a focus on music, media, visual arts, dance and drama in the primary years. Students are encouraged to develop their competencies as teachers, artists and researchers in the arts. A focal point of the unit is on nurturing student creativity and critical thinking skills. The unit embraces arts education pedagogy that draws on the perspectives of the generalist primary school teacher, specialist arts teachers and children.",
+                    "UnitCode": "EDF3022",
+                    "UnitName": "Arts education in the primary years",
+                    "_id": "587801cf30213215439e8d74",
+                    "enjoyRating": 2.791666667,
+                    "enjoyResponse": 25,
+                    "learnRating": 2.961111111,
+                    "learnResponse": 13,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 4 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For Early Years Education: EDF3050For Early Years and Primary Education: EDF3052For Primary Education (single and double degrees): EDF3053For Primary and Secondary Health and Physical Education: EDF3057",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors primary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF3054",
+                    "UnitName": "Primary professional experience 3B",
+                    "_id": "587801d530213215439e8d84",
+                    "enjoyRating": 3.697916667,
+                    "enjoyResponse": 45,
+                    "learnRating": 3.399914322,
+                    "learnResponse": 11,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major (6pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major (6pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit further develops students' understanding of the key concepts and practical applications of curriculum, curriculum theory, assessment and evaluation. Students build their capacity to apply their knowledge of assessment strategies including informal and formal, diagnostic, formative and summative approaches, and assessment moderation and its application to assessing and improving student learning in varied contexts. They learn how to provide feedback and report to students and parents using accurate and reliable records of student achievement.",
+                    "UnitCode": "EDF4260",
+                    "UnitName": "Curriculum, assessment and evaluation",
+                    "_id": "587801ec30213215439e8dcf",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit develops students' understandings of the humanities and social sciences learning areas in the Victorian and Australian curriculum. Students explore how humanities, social sciences and social education are taught in various ways in primary schools, including through the subjects geography, history and civics and citizenship, and/or through theme-based or integrated learning that is the approach commonly chosen in primary schools. They also develop advanced knowledge and understanding of various theories and pedagogies involved in teaching these learning areas. They learn and develop the skills of lesson planning and implementation of curriculum, both through disciplinary and interdisciplinary integrated studies. Students explore and evaluate a range of research, teaching resources and educational providers that support the teaching of humanities and social education.",
+                    "UnitCode": "EDF4022",
+                    "UnitName": "Humanities and social education in the primary years",
+                    "_id": "587801e130213215439e8dac",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Gippsland"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF3054",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors primary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF4053",
+                    "UnitName": "Primary professional experience 4A",
+                    "_id": "587801e730213215439e8dbe",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit develops and advances students' understandings of health and wellbeing and physical education and the application of the Victorian Curriculum F-10 and the Australian Curriculum. It provides opportunities for students to critically analyse and engage with health and physical education (HPE) curriculum and pedagogy in the primary years so they can apply this knowledge to their practice. The unit increases students' knowledge, skills and understanding of teaching and learning strategies that ensure student health, wellbeing and physical education. Students use initiative and judgement in demonstrating their professional practice in ways that are developmentally appropriate for the primary years.",
+                    "UnitCode": "EDF4024",
+                    "UnitName": "Health and physical education for wellbeing in the primary curriculum",
+                    "_id": "587801e230213215439e8dae",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (On-campus block of classes)",
+                                "Term 4 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit builds students' capacity to demonstrate knowledge and understanding of research into how students learn, teaching and learning theory and practice and the implications in varied education contexts. Students explore principles, approaches and methods for conducting and applying educational research. They investigate issues such as what 'counts' as research, where research can occur, what is to be researched, how research can be undertaken, why research is important and what constitutes a research community in the context of their particular discipline and specialisation. They learn how to generate and use data ethically to inform their educational work and develop an evidence base for this work.",
+                    "UnitCode": "EDF4100",
+                    "UnitName": "Researching teaching and learning",
+                    "_id": "587801e830213215439e8dc3",
+                    "enjoyRating": 4.5,
+                    "enjoyResponse": 2,
+                    "learnRating": 4.166666667,
+                    "learnResponse": 2,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF2020",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit is the second of two that develop students' understanding of English and literacies learning in the Victorian and Australian curriculum. This unit focuses on developing coherent and advanced knowledge in relation to literacy teaching in a diverse social, cultural and technological world. Building on previous work, students continue to explore and critique various conceptual frameworks and theoretical ideas that help them to understand how children continue to develop various literacy knowledges, skills and understandings. The teaching of literacy is examined from a number of current theoretical perspectives and students develop appropriate pedagogical practices that support children's literacy learning. With a particular focus on the middle and upper primary years, the unit explores effective pedagogies to enhance children's oral language, reading, writing and visual literacies taking into account issues related to information and communication technologies (ICT).",
+                    "UnitCode": "EDF4020",
+                    "UnitName": "English and literacies 2",
+                    "_id": "587801e030213215439e8dab",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit introduces students to advanced theoretical and pedagogical concepts associated with the teaching of science and technology to children in primary school settings. Students analyse critically, evaluate and transform information from a range of curricula, including the Australian primary science curriculum and other international curricula. Specifically students recognise that knowledges are culturally constructed and they research a range of world views about science and technology. Important conceptual scientific ideas and different pedagogical approaches to the teaching of science and technology are critiqued. The preparation and teaching of science and technology programs is undertaken in the context of studying teaching strategies that are appropriate across cultural contexts, for different science and technology concepts and across year levels in primary school, early childhood settings, homes and communities.",
+                    "UnitCode": "EDF4023",
+                    "UnitName": "Science and technology education in the primary years",
+                    "_id": "587801e130213215439e8dad",
+                    "enjoyRating": 4.8125,
+                    "enjoyResponse": 13,
+                    "learnRating": 4.909722222,
+                    "learnResponse": 7,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Gippsland"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF4053",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors primary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF4054",
+                    "UnitName": "Primary professional experience 4B",
+                    "_id": "587801e730213215439e8dbf",
+                    "enjoyRating": 4.125,
+                    "enjoyResponse": 7,
+                    "learnRating": 3.916666667,
+                    "learnResponse": 4,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit develops students' advanced understanding of content and pedagogy for sustainability as a cross-curriculum priority, and primary years science discipline knowledge relevant to the Australian Curriculum and the Victorian Curriculum F-10, including biological, earth and environmental science studies from Foundation to Year 6. Students develop an appreciation for how education for sustainability has emerged as a global priority by exploring research and curriculum content and policy including goals and agreements developed by the United Nations and other education providers in this field. Students develop an understanding of the concepts of environmental studies and sustainability and explore how these concepts are inextricably linked. They learn how to develop integrated approaches to studies of the environment and sustainability and specific related science content across primary school curriculum. Students investigate and understand the cultural, social, economic, scientific, ecological and political factors that influence attitudes and actions towards environment and sustainability. They develop theoretical, discipline-based and pedagogical knowledge and understanding of how to implement whole school approaches and classroom learning experiences for environment and sustainability at different levels of primary education.",
+                    "UnitCode": "EDF4025",
+                    "UnitName": "Studies of science, environment and sustainability",
+                    "_id": "587801e230213215439e8daf",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 1 2017 (On-campus block of classes)",
+                                "Term 3 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit builds students' capacity to research teaching and learning in particular educational contexts. Students apply some of the principles and methods of educational research they have learned about by developing a short literature review related to the proposal developed in EDF4100. They then demonstrate their capacity to generate and use data ethically via a research project related to their particular discipline and specialisation. This is focused on examining practice in an education setting, school or classroom, using methods that may include focus groups, interviews, self-study, action research or participant observation. Finally, students demonstrate a clear and coherent exposition of the knowledge they have gained through the presentation of their findings to their peers and in a written report.",
+                    "UnitCode": "EDF4101",
+                    "UnitName": "Research project in education",
+                    "_id": "587801e830213215439e8dc4",
+                    "enjoyRating": 3.916666667,
+                    "enjoyResponse": 12,
+                    "learnRating": 4.236111111,
+                    "learnResponse": 6,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

@@ -1,0 +1,711 @@
+{
+    "courseAOS": "Industrial Design and Communication Design specialisations and Software Development major",
+    "courseCode": "F2005",
+    "courseName": "Design and Information Technology",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Art, Design and Architecture",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "TAD1101",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit is an introduction to visual cultures from the perspectives of art, design and architecture. Key themes within contemporary visual culture are discussed in terms of aesthetic, technological, historical and ideological contexts. Students develop critical skills in analysing the diverse artefacts and practices of art, design and architecture and communicating their significance in verbal and written forms.",
+                    "UnitCode": "AHT1101",
+                    "UnitName": "Introduction to visual culture in Art Design & Architecture",
+                    "_id": "5877ff9b30213215439e84a8",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must be enrolled in a course owned, or, granted permission by, the faculty of Art Design and Architecture.",
+                    "Proh": "DRW1201",
+                    "SCABand": 1,
+                    "Sypnosis": "An intensive program facilitating the acquisition and development of practical and intellectual skills required by art, design and architecture students in the discipline of drawing. Observation, analysis, selection, interpretation and expression are studied through sequential projects. Manufactured and natural forms including the figure and other models are central to the investigation of proportion, structure, volume and space through line, tone, shape, movement and texture. A range of drawing materials and methods are explored.",
+                    "UnitCode": "DWG1201",
+                    "UnitName": "Drawing 1",
+                    "_id": "5878017a30213215439e8c29",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "FIT1045,FIT1048,FIT1051",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "The world-wide web is one of the most widely-used platforms for building applications. Although all students can be assumed to be experienced users of the web, very few have any clear understanding of the technologies upon which the web is based, and the way in which these technologies affect web-based applications. This unit aims to give students a sound basic knowledge of the web and a range of issues which may be involved in web application development. It will take a strongly practical focus in examining the technology, design and implementation problems a developer needs to address in developing applications for real-world systems. The diversity of web applications means that there are a wide range of issues which may be relevant to the development of any given web site. The unit will aim to give breadth of coverage of these issues, rather than focusing in depth on any particular development task or any specific type of web application.The unit will take a strongly practical focus in examining the technology issues involved, and highlight the key issues which a developer needs to address in developing applications of this kind for real-world systems.",
+                    "UnitCode": "FIT1050",
+                    "UnitName": "Web fundamentals",
+                    "_id": "5878027530213215439e8fae",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Off-campus)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Admission to any Art Design and Architecture course",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "An introduction to occupational health, safety and environmental training within the context of courses within the Faculty of Art and Design, together with an understanding of the historical perspectives and context of safety and environment concerns in the workplace. The difference between hazard and risk, and the process of risk assessment in workplaces.",
+                    "UnitCode": "OHS1000",
+                    "UnitName": "Introduction to art and design health and safety",
+                    "_id": "5878044b30213215439e9691",
+                    "enjoyRating": 4.045454545,
+                    "enjoyResponse": 48,
+                    "learnRating": 3.962286504,
+                    "learnResponse": 88,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "TAD1101 or AHT1101",
+                    "Proh": "TAD1102, TAD2101, TAD2214",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit considers the various strands of European modernism and their legacy in relation to the design disciplines. Key avant-garde movements and practices are studied, with particular consideration given to their ideological, political and cultural contexts and motives. The critical and utopian tendencies of twentieth-century avant-garde practices are considered in terms of their lasting implications for the social role of design. Students will continue to develop a range of approaches to understanding works of design and related issues, while also refining the broader critical and analytical skills necessary to their disciplines.",
+                    "UnitCode": "TDN1002",
+                    "UnitName": "Design and the avant-garde",
+                    "_id": "587804e430213215439e98c6",
+                    "enjoyRating": 3.738636364,
+                    "enjoyResponse": 85,
+                    "learnRating": 3.815568355,
+                    "learnResponse": 55,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "FIT1031 and FIT2078",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit introduces students to fundamentals of computer systems, networks and security. It provides basic knowledge of computer organisation and architecture, operating systems, networking architecture, technology and operation. It introduces the concepts of security goals for protecting common modern computer systems and communication networks from adversaries and the deployment of suitable countermeasures to achieve these goals.",
+                    "UnitCode": "FIT1047",
+                    "UnitName": "Introduction to computer systems, networks and security",
+                    "_id": "5878027430213215439e8fab",
+                    "enjoyRating": 3.880434783,
+                    "enjoyResponse": 118,
+                    "learnRating": 3.864349817,
+                    "learnResponse": 118,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "FIT Elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Completion of 12 points of FIT units.",
+                    "Proh": "FIT2003",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides a practical and theoretical introduction to what it means to be an IT professional today. Students will encounter a range of issues relevant to professional practice in the workplace, as well as an understanding of the wider responsibilities that professionals are called upon to uphold in society. Topics addressed include: organisational and professional communication; mindfulness; teamwork; the nature of the IT professions; the role of professional associations; problem solving and information use; cross-cultural awareness; personal and professional ethics and codes of practice.",
+                    "UnitCode": "FIT1049",
+                    "UnitName": "IT professional practice",
+                    "_id": "5878027530213215439e8fad",
+                    "enjoyRating": 3.482545045,
+                    "enjoyResponse": 188,
+                    "learnRating": 3.664236475,
+                    "learnResponse": 63,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "CDS1001,IDN1001",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "TDN1002",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit covers a range of sociological and critical theories that inform the analysis and interpretation of designed objects and images. Various perspectives of production, consumption and exchange are considered, including theories of the commodity and the gift. The bodies of thought surveyed include Marxist and structuralist perspectives, and subsequent discourses, as well as parallel streams of critique, and attendant linguistic and semiotic theories. Students will develop an enhanced understanding of the systems of objects and images to which designers contribute.",
+                    "UnitCode": "TDN2001",
+                    "UnitName": "Sociologies of design",
+                    "_id": "587804e530213215439e98c7",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "24 points of FIT units",
+                    "Proh": "BUS2021, CPE2003, CSE1204, CSE1205, GCO1813, GCO2601, GCO2852, GCO2826, IMS1001, IMS1002, IMS1805, IMS2071, IMS9001",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit introduces students to systems analysis and design as a problem solving activity, within the framework of a selected methodology. It will focus on contemporary industry practice; investigating understanding and documenting system requirements; a range of design and implementation activities; and professional skills required for systems development.",
+                    "UnitCode": "FIT2001",
+                    "UnitName": "Systems development",
+                    "_id": "5878027630213215439e8fb1",
+                    "enjoyRating": 3.975,
+                    "enjoyResponse": 33,
+                    "learnRating": 3.894432773,
+                    "learnResponse": 33,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "CDS1002,IDN1002",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "One of FIT1040, FIT1045, FIT1048, FIT1051 or equivalent introductory programming unit",
+                    "Proh": "FIT1004, FIT3171",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will provide an introduction to the concepts of database design and usage and the related issues of data management. Students will develop skills in planning, designing, and implementing a data model using an enterprise-scale relational database system (Oracle). Methods and techniques will also be presented to populate, retrieve, update and implement integrity features on data in the implemented database system.",
+                    "UnitCode": "FIT2094",
+                    "UnitName": "Databases",
+                    "_id": "5878027d30213215439e8fcf",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Completion of at least 36 points of study, including one of (FIT1002, FIT1040, FIT1045, FIT1048, FIT1051, ENG1003) (or equivalent) and one of (FIT1049, FIT2003, EDF2005, SCI2010) (or equivalent)",
+                    "Proh": "AFW3043, BEW3640, BUS2176, CIV3205, CPE2006, CSE2203, GCO3807, GEG3104, GSE3003,     FIT3086, MGW2700, MMS2203",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit introduces students to the many concepts, tools and techniques for managing information technology projects. Exploring traditional and agile approaches for managing projects, topics include project lifecycles, project planning, project scheduling, team building, risk management, time and quality management. A case study approach will be used to provide learning opportunities, with an emphasis on the unique aspects of information technology projects.",
+                    "UnitCode": "FIT2002",
+                    "UnitName": "IT project management",
+                    "_id": "5878027630213215439e8fb2",
+                    "enjoyRating": 4.147420635,
+                    "enjoyResponse": 130,
+                    "learnRating": 4.206732203,
+                    "learnResponse": 33,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "CDS2001,IDN2001",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "FIT LEVEL 3 Major Elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "FIT2104 Web database interface OR FIT2081 Mobile application development",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "FIT ELECTIVE LEVEL 2/3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "FIT ELECTIVE LEVEL 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "FIT LEVEL 3 Major Elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": "Not Offered in 2017",
+                    "Preqs": "One of FIT1045, FIT1048, FIT1051 or equivalent",
+                    "Proh": "FIT3063, FIT2016, FIT3033",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit explores the underpinning theories, principles and practices of interface design to achieve usable computer-based systems. It examines issues in the design of system interfaces from a number of perspectives: user, programmer, designer. It explores the application of the relevant theories in practice. The unit will cover topics such as methods and tools for developing effective user interfaces, evaluation methods such as the conduct of usability and heuristic evaluations, design of appropriate interface elements including the design of menus and other interaction styles. The unit will also focus on designing for a diverse range of users and environments.",
+                    "UnitCode": "FIT3175",
+                    "UnitName": "Usability",
+                    "_id": "5878028f30213215439e9015",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "CDS3001,IDN3001",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Prato"
+                            ],
+                            [
+                                "Trimester 2 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "TDN2001",
+                    "Proh": "TAD3214, TAD2214",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit develops the capacity to understand and apply the methodologies of current design research practice. Through using research processes appropriate to their discipline, students will investigate contemporary issues that penetrate the links between design, society and the environment. They will be required to use their research to uncover existing knowledge; use it to articulate and substantiate an argument; and build on it to formulate their own critically informed ideas. Through acquired research skills students will be able to interrogate a range of contemporary design issues drawn from the perceived moral dichotomies of design: useful/useless, social conscience/private indulgence, essential need/unnecessary consumption, luxury/necessity, and so on.",
+                    "UnitCode": "TDN3001",
+                    "UnitName": "Research for design",
+                    "_id": "587804e530213215439e98c9",
+                    "enjoyRating": 3.833333333,
+                    "enjoyResponse": 6,
+                    "learnRating": 4.14869281,
+                    "learnResponse": 40,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students in the Bachelor of Information Technology (C2000) and BCIS (4307): (One of FIT1045, FIT1048 or FIT1051) and FIT1047 and FIT1049 and (one of FIT2001 or FIT2099) and FIT2002 and (one of FIT2094 or FIT3171) and (12 points of FIT units at level 1) and (12 points of FIT units at level 2 or 3) and must be core in the student's degree program and completion of a total of 84 points towards the degree.For students in the BITS, BBIS and BCIS (pre-2016): FIT Undergraduate Common Core units ((FIT1001 and FIT1005) or FIT1031) and ((FIT1040 and one of FIT1035, FIT1008, FIT2034, FIT2071, FIT2076, FIT2081) or FIT1002) and FIT1004 and FIT2001 and FIT2002 and (FIT1003 or FIT2003) and (2 x FIT units at any year level) and (Any 2 FIT 2nd or 3rd year units) and must be core in the student's degree program and completion of a total of 84 points towards the degree.FIT3047 is only available to students enrolled in the Bachelor of Information Technology and Systems, Bachelor of Business Information Systems, Bachelor of Computer and Information Sciences, Bachelor of Information Technology and related double degrees.",
+                    "Proh": "CPE3200, CPE3300, CSE3200, CSE3301, FIT2032, FIT3015, FIT3039, FIT3040, FIT3038, FIT3025, FIT3026, FIT3016, FIT3017, FIT3045, GCO3819, GCO3700, GCO3800, GCO3900, GCO3800A, IMS3000, IMS3501, IMS3502",
+                    "SCABand": 2,
+                    "Sypnosis": "In their final year of study, students are given the opportunity to develop new skills and apply the knowledge and skills they have gained, in the development of an IT application for a real world client. In teams, students design, develop and deliver an IT applications for a client, manage the project through all its development stages, communicate effectively with all project stakeholders and develop project documentation to a professional standard. Students also present their project work to academics and other groups, attend unit seminars, and contribute in a professional and committed manner to the work of their team.FIT3047 is the first of two industry experience units for most majors in the Bachelor of Information Technology and Systems and Bachelor of Information Technology, and in the Bachelor of Computer and Information Sciences and Bachelor of Business Information Systems. After successful completion of this unit, students must enrol in and pass FIT3048 to complete their industry experience project requirements.",
+                    "UnitCode": "FIT3047",
+                    "UnitName": "Industry experience studio project 1",
+                    "_id": "5878028530213215439e8fec",
+                    "enjoyRating": 2.125,
+                    "enjoyResponse": 18,
+                    "learnRating": 2.958333333,
+                    "learnResponse": 18,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "CDS3002,IDN3002",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "TDN3002,TDN3003",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "FIT3047",
+                    "Proh": "CPE3200, CPE3300, CSE3200, CSE3301, FIT2032, FIT3015, FIT3016, FIT3017, FIT3025, FIT3026, FIT3038, FIT3039, FIT3040, FIT3045, GCO3819, GCO3700, GCO3800, GCO3900, GCO3800A, IMS3000, IMS3501, IMS3502",
+                    "SCABand": 2,
+                    "Sypnosis": "In their final year of study, students are given the opportunity to develop new skills and apply the knowledge and skills they have gained, in the development of an IT application for a real world client. In teams, students design, develop and deliver an IT applications for a client, manage the project through all its development stages, communicate effectively with all project stakeholders and develop project documentation to a professional standard. Students also present their project work to academics and other groups, attend unit seminars, and contribute in a professional and committed manner to the work of their team.FIT3048 is the second of two industry experience units for most majors in the Bachelor of Information Technology and Systems, Bachelor of Computer and Information Sciences, Bachelor of Business Information Systems and Bachelor of Information Technology. Students must enrol in and pass FIT3048 after successful completion of FIT3047 to complete their industry experience project requirements.",
+                    "UnitCode": "FIT3048",
+                    "UnitName": "Industry experience studio project 2",
+                    "_id": "5878028530213215439e8fed",
+                    "enjoyRating": 4.2,
+                    "enjoyResponse": 36,
+                    "learnRating": 4.149669312,
+                    "learnResponse": 12,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

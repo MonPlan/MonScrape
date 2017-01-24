@@ -1,0 +1,94 @@
+{
+    "courseAOS": "Graduate Entry",
+    "courseCode": "P3001",
+    "courseName": "Pharmacy",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+    "teachingPeriods": [
+        {
+            "teachingPeriod": "Summer Semester (on entry)  ",
+            "units": [
+                "PAC1001"
+            ]
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "PAC3241 Drug Delivery, Disposition & Dynamics Prereqs: PAC2232"
+                },
+                {
+                    "faculty": "",
+                    "type": "PAC3421 Integrated Therapeutics: Respiratory and gastrointestinal disease Prereqs: PAC2182, PAC2412"
+                },
+                {
+                    "faculty": "",
+                    "type": "PAC3191 Microbiology and Immunology Prereqs: PAC2151"
+                },
+                {
+                    "faculty": "",
+                    "type": "PAC3351 Context for Practice I Prereqs: PAC2331, PAC2342"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "PAC3252 Drug Delivery II Prereqs: PAC2232"
+                },
+                {
+                    "faculty": "",
+                    "type": "PAC3432 Integrated Therapeutics: Infectious Disease Prereqs: PAC3191, PAC2412"
+                },
+                {
+                    "faculty": "",
+                    "type": "Elective - Choose one of PAC3512 Current Aspects Pharmaceutical Research Prereqs: PAC2412, PAC2182, PAC2232 PAC3542 Leadership PAC3522 Applied research (Summer)"
+                },
+                {
+                    "faculty": "",
+                    "type": "PAC3362 Context for Practice II Prereqs: PAC2331, PAC2342"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "PAC4261 Drug delivery and development Prereqs: PAC3241, PAC3252"
+                },
+                "PAC4441",
+                "PAC4451",
+                {
+                    "faculty": "",
+                    "type": "PAC4371 Professional Experience Placement Program Prereqs: PAC3351, PAC3362."
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "PAC4482 Preparation for Practice Prereqs: PAC3421, PAC3432, PAC4441, PAC4451 Co-reqs: PAC4472, PAC4462"
+                },
+                "PAC4472",
+                {
+                    "faculty": "",
+                    "type": "PAC4462 Integrated Therapeutics: Neurology & Oncology Prereqs: PAC4451"
+                },
+                {
+                    "faculty": "",
+                    "type": "PAC4382 Context for Practice III Prereqs: PAC3351, PAC3362, PAC4371"
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

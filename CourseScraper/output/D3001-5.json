@@ -1,0 +1,122 @@
+{
+    "courseAOS": "Bachelor of Education (Honours) in Primary Education",
+    "courseCode": "D3001",
+    "courseName": "Education",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Education",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF1303",
+                {
+                    "faculty": "",
+                    "type": "Education elective"
+                },
+                "EDF1053",
+                "EDF1028",
+                {
+                    "faculty": "",
+                    "type": "Discipline/stream unit 1"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF1304",
+                {
+                    "faculty": "",
+                    "type": "Education elective"
+                },
+                "EDF1054",
+                "EDF1029",
+                {
+                    "faculty": "",
+                    "type": "Discipline/stream unit 2"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "units": [
+                "EDF2210",
+                "EDF2021",
+                "EDF2053",
+                "EDF2028",
+                {
+                    "faculty": "",
+                    "type": "Discipline/stream unit 3"
+                },
+                "EDF2006"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF2031",
+                "EDF2020",
+                "EDF2054",
+                "EDF2029",
+                {
+                    "faculty": "",
+                    "type": "Discipline/stream unit 4"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF3210",
+                "EDF3021",
+                "EDF3053",
+                "EDF3023",
+                {
+                    "faculty": "",
+                    "type": "Discipline/stream unit 5"
+                },
+                "EDF3036"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF3211",
+                "EDF3022",
+                "EDF3054",
+                "EDF3024",
+                {
+                    "faculty": "",
+                    "type": "Discipline/stream unit 6"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF4260",
+                "EDF4022",
+                "EDF4053",
+                "EDF4024",
+                "EDF4100"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF4020",
+                "EDF4023",
+                "EDF4054",
+                "EDF4025",
+                "EDF4101"
+            ],
+            "year": 3
+        }
+    ]
+}

@@ -1,0 +1,1028 @@
+{
+    "courseAOS": "Civil Engineering and Architectural Design Specialisation",
+    "courseCode": "E3009",
+    "courseName": "Engineering and Architectural Design",
+    "courseType": "Bachelor degree/Bachelor degree (honours)",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1090,ENG1001",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Explores the principles, history and methods of perspective and orthographic projection, and engages in the practice of descriptive geometry through the use of contemporary computer technology and computer aided drafting (CAD). Basic techniques of visualisation and the translation of traditional analogue modes of representation into the digital will be introduced, along with technical CAD modelling and drawing skills in both two and three-dimensions.",
+                    "UnitCode": "ARC1301",
+                    "UnitName": "Architecture communications 1",
+                    "_id": "5877ffdf30213215439e85b3",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Foundation Studio introduces architectural design as a process of investigation, critical observation, and experiment. The unit focuses on design as a process engaged with the three-dimensional and material testing of ideas. Projects will be formulated to introduce issues such as scale in relation to the human body, site and environmental contexts, basic techniques of three-dimensional composition and the correct use of architectural drawing conventions.",
+                    "UnitCode": "ARC1001",
+                    "UnitName": "Foundation studio 1",
+                    "_id": "5877ffde30213215439e85b0",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1090,PHS1080",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "VCE Specialist Mathematics or ENG1090 (or equivalent)",
+                    "Proh": "ENG1091, MTH1030, MTH1035",
+                    "SCABand": 2,
+                    "Sypnosis": "Vector algebra and geometry: equations of lines and planes. Linear algebra: matrix operations, up to 3x3 systems of linear equations, eigenvalues and eigenvectors. Calculus: improper integrals, integration by parts. Sequences and series: fundamentals of convergence, Taylor series, use in error analysis. Ordinary differential equations: first order, second order with constant coefficients, repeated roots, simple non-homogeneous cases. Laplace transforms: elementary functions, inversion by tables; shifting; derivatives, applications to ODEs. Multivariable calculus: partial derivatives, gradient and directional derivatives, maxima and minima.",
+                    "UnitCode": "ENG1005",
+                    "UnitName": "Engineering mathematics",
+                    "_id": "5878023630213215439e8eb6",
+                    "enjoyRating": 3.728916952,
+                    "enjoyResponse": 225,
+                    "learnRating": 3.708615101,
+                    "learnResponse": 113,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ARC1301, OHS1000",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit focuses on the development of communication skills and understanding of conceptual, historical and ideological concerns which relate to 2 and 3 dimensional modes of representation. Examining the relationship between 2 dimensional modes of representation and 3 dimensional material and physical outcomes is a primary focus.  Two related themes are explored: methods of digital image production, including visualisation and rendering; and processes of material production and fabrication.",
+                    "UnitCode": "ARC2301",
+                    "UnitName": "Architecture communications 2",
+                    "_id": "5877ffe030213215439e85b8",
+                    "enjoyRating": 3.678571429,
+                    "enjoyResponse": 47,
+                    "learnRating": 3.811594203,
+                    "learnResponse": 47,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ARC1001 and OHS1000",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Building on the basic architectural knowledge and skills attained in Architecture Foundation studio 1, this unit introduces students to a further level of complexity in the processes of investigation, critical observation, and experiment. The synthesis of a range of complex issues inherent in the production of architecture: material, structure, program, site, history and representation is further investigated in relationship to the production of architectural form.Architecture Foundation studio 2 further emphasises the development of architectural designs through the three-dimensional and material testing of ideas. Students will continue the development of two and three-dimensional modes of representation. Studies will focus on developing a more nuanced understanding of design as a visual language and process of cultural production with a focus on social and environmental sustainability.",
+                    "UnitCode": "ARC1002",
+                    "UnitName": "Foundation studio 2",
+                    "_id": "5877ffdf30213215439e85b1",
+                    "enjoyRating": 3.956521739,
+                    "enjoyResponse": 53,
+                    "learnRating": 3.825877826,
+                    "learnResponse": 53,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to the use of Information Technology (IT) in modern engineering practice. Students will learn an object-oriented approach to both computer systems and software engineering for solving engineering problems.Students will work in small teams to develop a mobile application that meets a contemporary need in engineering. The fundamental stages in the software development lifecycle will be introduced, including requirements analysis, design, implementation and verification. Students will use IT tools to support the engineering process.",
+                    "UnitCode": "ENG1003",
+                    "UnitName": "Engineering mobile apps",
+                    "_id": "5878023630213215439e8eb5",
+                    "enjoyRating": 3.662162162,
+                    "enjoyResponse": 306,
+                    "learnRating": 3.75307989,
+                    "learnResponse": 153,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Solid mechanics is concerned with the stressing, deformation and failure of solid materials. This unit conveys some of this fundamental knowledge related to the analysis and design of engineering structures. It builds on aspects taught in the level 1 unit ENG1001. Topics covered include; bending moment diagrams of determinate and indeterminate beam/frame systems, the calculation of normal stresses due to combined bi-axial bending and axial forces (including those resulting from thermal loading); partial and fully plastic section moment capacities; torsion, shear stress and shear flow in beams; and the calculation of deflections in simple determinate beams. The theory of elasticity is then introduced covering; stress and strain at a point, the transformation of stresses and strains and the calculation of principal stresses and strains; the constitutive relationship between elastic stress-strain behaviour; Mohr's circle; and failure criterion with specific reference to pressure vessels.",
+                    "UnitCode": "CIV2206",
+                    "UnitName": "Mechanics of solids",
+                    "_id": "5878015530213215439e8b90",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "None",
+                    "Proh": "ENG1010, ENG1030",
+                    "SCABand": 2,
+                    "Sypnosis": "Fundamentals of electrical, chemical and materials engineering will be introduced and applied to provide technological solutions for real-world problems. Theory underpinning analogue and digital circuit design; energy and mass balance; materials processing and the role of functional materials will be presented. The contribution of each topic to a contemporary engineering application will be demonstrated.Team based projects will highlight the multidisciplinary nature of modern engineering. These concepts will be practiced through hands-on projects carried out by teams. Communication and teamwork skills will be developed through teamwork tasks.",
+                    "UnitCode": "ENG1002",
+                    "UnitName": "Engineering design: cleaner, safer, smarter",
+                    "_id": "5878023530213215439e8eb4",
+                    "enjoyRating": 4.03332106,
+                    "enjoyResponse": 305,
+                    "learnRating": 3.984031778,
+                    "learnResponse": 153,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit focuses on fundamentals of hydraulics. Hydrostatics is first introduced with application to dam and gates. The basic equations of continuity, momentum and energy conservation are derived and applied to the design of pressurised pipelines. Flow in open channels is introduced with application to waterways, aqueducts and pipes flowing partly full; applications include design of spillways and culverts.",
+                    "UnitCode": "CIV2263",
+                    "UnitName": "Water systems",
+                    "_id": "5878015730213215439e8b95",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Mathematical methods (CAS) recommended.",
+                    "Proh": "ENG1602",
+                    "SCABand": 2,
+                    "Sypnosis": "General rules for software development and design. Errors. Data types, variables, expressions, control statements M-files. Numerical techniques: Gauss elimination, solution of non-linear equations, optimisation, curve fitting, numerical calculus, ordinary differential equations.",
+                    "UnitCode": "ENG1060",
+                    "UnitName": "Computing for engineers",
+                    "_id": "5878023730213215439e8eb9",
+                    "enjoyRating": 4.05248538,
+                    "enjoyResponse": 274,
+                    "learnRating": 3.934633702,
+                    "learnResponse": 137,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ENG 2005 Advanced engineering mathematics S2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces the design of steel and timber framed structures in accordance with the design codes. It enables the students to understand the process for the design of steel and timber structures and the background knowledge which leads to the development of the current steel and timber design codes. Students will understand the behaviour of steel and timber structural components under realistic design conditions and relate the knowledge of design to practical design problems in a project-based learning environment.",
+                    "UnitCode": "CIV2225",
+                    "UnitName": "Design of steel and timber structures",
+                    "_id": "5878015630213215439e8b92",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "None",
+                    "Proh": "ENG1020, ENG1040, ENG1050",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit develops a process for the analysis and design of static and dynamic structures and mechanisms using engineered materials. Through a multidisciplinary approach, the fundamentals of mechanical, civil and material engineering will be explained and the basic concepts of loads and motions are introduced.Team based projects will highlight the multidisciplinary nature of modern engineering. These concepts will be practised through hands-on projects carried out by teams. Communication and teamwork skills will be developed through teamwork tasks.",
+                    "UnitCode": "ENG1001",
+                    "UnitName": "Engineering design: lighter, faster, stronger",
+                    "_id": "5878023530213215439e8eb3",
+                    "enjoyRating": 4.127877238,
+                    "enjoyResponse": 248,
+                    "learnRating": 4.097971431,
+                    "learnResponse": 124,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "TAD1101",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit is an introduction to visual cultures from the perspectives of art, design and architecture. Key themes within contemporary visual culture are discussed in terms of aesthetic, technological, historical and ideological contexts. Students develop critical skills in analysing the diverse artefacts and practices of art, design and architecture and communicating their significance in verbal and written forms.",
+                    "UnitCode": "AHT1101",
+                    "UnitName": "Introduction to visual culture in Art Design & Architecture",
+                    "_id": "5877ff9b30213215439e84a8",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "OHS1000, and AHT1101, or ARC1401, or TAD1101 and enrolled in the Bachelor of Architectural Design or Bachelor of Interior Architecture, or permission from Unit Coordinator",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces the history and theory of selected Australian and international architecture since 1968.The unit will also introduce methods for the written, spoken and visual analysis of buildings including site visits, analytical case studies and other forms of analysis. In addition to the theoretical and historical contexts of the buildings studied the unit will investigate their contribution to architectural design.",
+                    "UnitCode": "ARC2401",
+                    "UnitName": "Contemporary architecture",
+                    "_id": "5877ffe030213215439e85b9",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ARC1002, OHS1000",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Architecture Design Studio 3 further refines the process of investigation, critical observation, and experiment integral to architectural practice. Continuing the emphasis on perceptive synthesis of the range of complex issues inherent in the production of architecture: material, structure, program, site, history and representation will be investigated in their relationship to the production of architectural form.Design Studio 3 continues to emphasise the development of architectural designs through the three-dimensional and material testing of ideas. Students will continue the development of two and three-dimensional modes of representation. Studies will focus on developing an increasingly sophisticated understanding of design as a visual language and process of cultural production with a focus on social and environmental sustainability.",
+                    "UnitCode": "ARC2001",
+                    "UnitName": "Architecture Design Studio 3",
+                    "_id": "5877ffdf30213215439e85b5",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ARC2402, OHS1000",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces the history and theory of contemporary urbanism. The subject will also develop methods for the written, spoken and visual analysis of urban settings and their associated architecture including site visits, analytical case studies and other forms of analysis. In addition to the theoretical and historical contexts of the urban settings and associated architecture the subject will investigate their contribution to architectural design knowledge.",
+                    "UnitCode": "ARC3401",
+                    "UnitName": "Architecture and the City",
+                    "_id": "5877ffe230213215439e85bf",
+                    "enjoyRating": 3.6875,
+                    "enjoyResponse": 34,
+                    "learnRating": 3.815306915,
+                    "learnResponse": 34,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Must have passed ARC2401, OHS1000",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces the history and theory of 19th and 20th century Australian and international architecture. The subject will also develop methods for the written, discursive and visual analysis of buildings including site visits, analytical case studies and other forms of analysis. In addition to the theoretical and historical contexts of the buildings studied the subject will investigate their contribution to architectural design.",
+                    "UnitCode": "ARC2402",
+                    "UnitName": "19th and 20th century architecture",
+                    "_id": "5877ffe130213215439e85ba",
+                    "enjoyRating": 4,
+                    "enjoyResponse": 32,
+                    "learnRating": 4.02168616,
+                    "learnResponse": 32,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ARC2001, OHS1000",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Architecture Design Studio 4 continues to expand on the conceptual understanding and skill base of preceding design studios.  The unit elaborates on architectural design as a process of investigation, critical observation, and experiment. It increases the emphasis on design as a synthetic process encompassing a range of complex issues inherent in the production of architecture: material, structure, program, site, history and representation are investigated in their relationship to the production of architectural form.Architecture Design Studio 4 continues to enhance the development of architectural designs through the three-dimensional and material testing of ideas. Studies in the unit will maintain their focus on developing an understanding of design as a visual language and process of cultural production with a focus on social and environmental sustainability.",
+                    "UnitCode": "ARC2002",
+                    "UnitName": "Architecture Design Studio 4",
+                    "_id": "5877ffe030213215439e85b6",
+                    "enjoyRating": 3.6,
+                    "enjoyResponse": 24,
+                    "learnRating": 3.794444444,
+                    "learnResponse": 24,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "CIV3XXX Eng Hydrology S1",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "CIV3XXX Concrete & Masonry S1",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Overview of concepts relating to groundwater resources and seepage, with emphasis on seepage containment in reservoirs, ponds, soil pollution and its avoidance, focusing on soil behaviour and its effect on seepage, groundwater percolation and migration of contaminant in the nearfield of waste containment facilities.  Focus will also be on the function, design and construction of engineered soil barriers to prevent leakage from water reservoirs, ponds or to isolate different types of waste.",
+                    "UnitCode": "CIV3248",
+                    "UnitName": "Groundwater and environmental geomechanics",
+                    "_id": "5878015930213215439e8b9e",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to the field of transport and traffic engineering. The fundamental parameters used to describe deterministic traffic flow behaviour are introduced along with a simple traffic flow model. Stochastic traffic flow behaviour is described via random distributions. Fundamental queuing theory of traffic is briefly introduced. The procedures used to analyse the capacity and level of service are explored for both unsignalised and signalised intersections. The principle of traffic signal operation at isolated intersections is presented. Traffic surveys are discussed and students are introduced to contemporary road safety issues as well. Public transport is considered at the route level concerning the determination of fleet size and factors affecting operational capacity and reliability. Non-motorized transport including cyclists and pedestrians is also considered. In addition, the unit addresses Intelligent Transportation Systems (ITS). Consideration will also be given to the role of communications in the practice of transport and traffic engineers. To enhance students' understanding of the unit content from practical points of view, some experts will be invited to give lectures on their relevant work. Throughout the whole unit, the focus is primarily on surface transport systems and applications of advanced technologies therein.",
+                    "UnitCode": "CIV2282",
+                    "UnitName": "Transport and traffic engineering",
+                    "_id": "5878015730213215439e8b96",
+                    "enjoyRating": 3.838932806,
+                    "enjoyResponse": 112,
+                    "learnRating": 3.995307468,
+                    "learnResponse": 65,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "CIV4XXX Bridge design & assessment S2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ENG1091 or MTH1030 or MTH1031 or ENG1005",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Systematic approaches to engineering data collection, analysis and interpretation. The Scope covers data description and presentation, randomness, discrete probability, continuous probability, conditional probability, Bayes' Theorem, normal distribution, sampling distributions, point estimation, interval estimation, hypothesis testing, linear regression.",
+                    "UnitCode": "CIV3204",
+                    "UnitName": "Engineering investigation",
+                    "_id": "5878015830213215439e8b99",
+                    "enjoyRating": 3.834586466,
+                    "enjoyResponse": 103,
+                    "learnRating": 4.321428571,
+                    "learnResponse": 13,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "CIV2206,CIV2225 and CIV2226",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Loads and load paths for multi-storey structures, including the action of core walls. Design of composite steel-concrete floor systems, beam columns and footings. Matrix structural analysis for the determination of forces and displacements in structures. Relationship between frame analysis software and the technique of matrix analysis. Emphasis on performance issues for buildings which are not related to strength and deflection.",
+                    "UnitCode": "CIV3221",
+                    "UnitName": "Building structures and technology",
+                    "_id": "5878015830213215439e8b9b",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit covers all aspects of geomechanics at an elementary level, as well as basic engineering geology, formation and weathering processes, sedimentary, igneous and metamorphic rocks, soil and rock forming minerals, geological mapping and modelling, site investigations, in-situ testing, engineering classification of soil and rock, weight-volume relationship, and the two/three phase model. It also includes effective stress theory, stresses in a soil mass and shear strength. The unit includes elementary level application of geomechanics knowledge in the analysis and design of shallow and deep foundations.",
+                    "UnitCode": "CIV2242",
+                    "UnitName": "Geomechanics I",
+                    "_id": "5878015730213215439e8b94",
+                    "enjoyRating": 4.013888889,
+                    "enjoyResponse": 129,
+                    "learnRating": 3.772162925,
+                    "learnResponse": 64,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "CIV4xxx Water treatment S1",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "CIV4XXX Project management S1",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ARC2002, OHS1000",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Architecture Design Studio 5 continues to expand and consolidate the conceptual understanding and skill base of preceding design studios.  It continues to elaborate on architectural design as a process of investigation, critical observation, and experiment. It increases the emphasis on design as a synthetic process encompassing a range of complex issues inherent in the production of architecture: material, structure, program, site, history and representation are investigated in their relationship to the production of architectural form.Architecture Design Studio 5 continues the development of architectural designs through the consolidation of three-dimensional and material testing of ideas. Studies in the unit will maintain a focus on developing design as a visual language and process of cultural production with an emphasis on social and environmental sustainability",
+                    "UnitCode": "ARC3001",
+                    "UnitName": "Architecture Design Studio 5",
+                    "_id": "5877ffe130213215439e85bb",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "(CIV3221, CIV3222, CIV3247, CIV3248, CIV3264, CIV3283) or (CIV3248, CIV3221, CIV3285 or CIV3264, CIV3204, CIV3284, CIV3247) or (CIV3248, CIV3285 or CIV3264, ENE3048, ENE3606)",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This is a capstone unit drawing together the material taught in previous units. The objective is to utilise this knowledge to undertake a multi-disciplinary open ended design task for a specified civil engineering development, in groups, mirroring the expectations of working in professional practice. The design project will vary from year to year but will include aspects of structural, water, geomechanics, environmental engineering and transport design with an emphasis on sustainable design.",
+                    "UnitCode": "CIV4212",
+                    "UnitName": "Civil and environmental engineering practice",
+                    "_id": "5878015a30213215439e8ba3",
+                    "enjoyRating": 2.796875,
+                    "enjoyResponse": 70,
+                    "learnRating": 4.152480159,
+                    "learnResponse": 11,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Completion of 120 credit points and level 3 units in chosen area",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "In this unit, each student will be required to undertake a research project from a number of topics offered. These topics in general include one or a combination of design, theoretical, review and investigation works that will make a new contribution to the body of knowledge. Experimental work is only permitted when combining with CIV4211.The student will be supervised by an academic member of staff. The project proposal will be presented as a poster, with the outcomes summarised in either a progress report or research paper and oral presentation.",
+                    "UnitCode": "CIV4210",
+                    "UnitName": "Project A",
+                    "_id": "5878015a30213215439e8ba1",
+                    "enjoyRating": 4.125,
+                    "enjoyResponse": 17,
+                    "learnRating": 4.07708182,
+                    "learnResponse": 59,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "CIV4xxx Road engineering S2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "CIV2242",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Consolidation theory of soils, estimation of consolidation and creep settlements for different types of soils, advanced topics on shear strength of soils and rocks for various drainage conditions, stress-paths and laboratory triaxial tests, determination of drained and undrained shear strength parameters, critical state mechanics and various failure criteria, soil and rock slope analysis, earth pressure theory and design of retaining walls.",
+                    "UnitCode": "CIV3247",
+                    "UnitName": "Geomechanics II",
+                    "_id": "5878015930213215439e8b9d",
+                    "enjoyRating": 3.792067308,
+                    "enjoyResponse": 110,
+                    "learnRating": 4.105288402,
+                    "learnResponse": 63,
+                    "placeholder": false
+                }
+            ],
+            "year": 4
+        }
+    ]
+}

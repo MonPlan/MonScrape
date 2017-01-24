@@ -1,0 +1,284 @@
+{
+    "courseAOS": "Master of Design",
+    "courseCode": "F6002",
+    "courseName": "Design",
+    "courseType": "Master degree",
+    "faculty": "Faculty of Art, Design and Architecture",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (On-campus block of classes)",
+                                "Second semester 2017 (On-campus block of classes)",
+                                "Term 2 2017 (On-campus block of classes)",
+                                "Term 4 2017 (On-campus block of classes)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Off-campus block of classes)",
+                                "Second semester 2017 (Off-campus block of classes)",
+                                "Term 2 2017 (Off-campus block of classes)",
+                                "Term 4 2017 (Off-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ADA1111, ADA3111",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit is developed to introduce non-cognate students in Masters courses to Design Thinking, and to its application within a wide range of problems and situations. These skills and strategies include a range of conceptual and communication approaches, ways to investigate and reconsider the context in which we work and live, as well as potential for innovation.  Design Thinking brings together some approaches that are known in the sciences and humanities, such as analysis and synthesis, but applies them in ways that are particular to a design approach.  Design Thinking can enable a more flexible approach to problems, and a more nuanced engagement with the complex issues of our contemporary world. This unit will introduce students to the key skills and practices associated with Design Thinking, and offer opportunities to explore the application of these basic creativity techniques. The course is delivered partly on-line, with lectures and workshops offering key activities supporting students' learning.",
+                    "UnitCode": "ADA4500",
+                    "UnitName": "Design thinking approaches",
+                    "_id": "5877ff9930213215439e84a1",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (On-campus block of classes)",
+                                "Second semester 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Enrolment in Master of Design (Coursework)",
+                    "Proh": "MDC4001",
+                    "SCABand": 1,
+                    "Sypnosis": "The Design Fundamentals Studio is specifically created to enable non-cognate students within the Master of Design to understand and practice the concepts, theories and skills expected of design enquiry and intervention to solve problems. Students undertake a series of exercises concerned with the processes that underpin the composition and assembling of the elements of form, shape and narrative in response to visual, object, spatial and temporal investigation and problem solving. The acquired skills and knowledge will enable the student to approach advanced design challenges with confidence.",
+                    "UnitCode": "MDC4500",
+                    "UnitName": "Design fundamentals studio",
+                    "_id": "5878038230213215439e936c",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (On-campus block of classes)",
+                                "Second semester 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Enrolment in Master of Design (Coursework)",
+                    "Proh": "VCM4101, VCM4601, VCM4602, MDC4215",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit introduces students to the relevant technical processes that will be drawn upon in subsequent and concurrent studio units within the Master of Design. It includes digital and physical fabrication for design outcomes relative to the nominated studio specialisations of Interaction Design, Multimedia Design and Collaborative Design. The unit focuses on the technical and practical capabilities required for the creation of design prototypes. Students will be introduced to the interdisciplinary nature of design technologies and equipped with fundamental design skills and methods through project work and a series of hands-on exercises. Students develop a repertoire of knowledge through the exploration of the concepts, methodology and vocabulary for production, publishing, presentation and prototyping techniques relative to their studio specialisation.",
+                    "UnitCode": "MDC4550",
+                    "UnitName": "Design technologies and processes",
+                    "_id": "5878038230213215439e936d",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Off-campus)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Admission to any Art Design and Architecture course",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "An introduction to occupational health, safety and environmental training within the context of courses within the Faculty of Art and Design, together with an understanding of the historical perspectives and context of safety and environment concerns in the workplace. The difference between hazard and risk, and the process of risk assessment in workplaces.",
+                    "UnitCode": "OHS1000",
+                    "UnitName": "Introduction to art and design health and safety",
+                    "_id": "5878044b30213215439e9691",
+                    "enjoyRating": 4.045454545,
+                    "enjoyResponse": 48,
+                    "learnRating": 3.962286504,
+                    "learnResponse": 88,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Six credit points in any level 3 theory (TAD) unit",
+                    "Proh": "TAD4521,TAD4522",
+                    "SCABand": 1,
+                    "Sypnosis": "The unit examines methodological approaches to design research, from the scientifically oriented to the phenomenological, the discursive and the poetic.  Attention is given to the way in which the terms of an investigation inevitably shape the material which is discovered.  The range of topics may include techniques in information gathering and efficient management of bibliographic resources, postmodern theory, difference studies, post-structural writing and deconstruction.  The unit ponders the relationship of studio research (i.e. designing innovative objects or spaces or interfaces) to conventional research.",
+                    "UnitCode": "TAD4523",
+                    "UnitName": "Design research methods and seminar",
+                    "_id": "587804e330213215439e98c1",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Selective unit (6 points)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation Studio 1 MDC4201 Interaction Design MMD4001 Multimedia Design MDC4XXX Collaborative Design (12 points)",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "PPR5000",
+                    "UnitName": "Cannot Fetch Data",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Selective unit (6 points)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MDC4201 and MDC4202",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit advances knowledge, methods and principles in interactive system design and focuses on furthering the practical and conceptual skills developed in MDC4201 and MDC4202. In the studio students will be exposed to a broad range of interactive system design methods from holistic thinking and operational thinking to self-organization, and will explore the significance and complexity of contextualization required in systemic approaches in the design process. A major design project encourages students to develop research skills and experience in applying methods and principles of system design to solve complex interaction design issues.",
+                    "UnitCode": "MDC5201",
+                    "UnitName": "Fundamental interaction design studio 3",
+                    "_id": "5878038330213215439e9371",
+                    "enjoyRating": 4.6,
+                    "enjoyResponse": 9,
+                    "learnRating": 4.746031746,
+                    "learnResponse": 10,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "TAD5XXX Exegesis (6 points)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 24,
+                    "EFTSL": 0.5,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MDC5201 or MDC5215, and MDS5031, or with permission from the Course Coordinator",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "The research project studio unit in the Master of Interaction Design aims to consolidate learning from previous studio units and integrate the technical, cognitive and creative skills required to design for industry. By providing opportunities for students to participate in leading industrial projects, designing interactive artefacts, systems or services, students will be exposed to specifically situated problems and evaluate innovative solutions that weave together technology, place and product with specific intents in specific contexts.The unit encourages experimentation and skill development with tangible materials and interactive technology via data gathering, analysis, evaluation and design. Students will produce publication quality designs which examine the extension of physical artefacts and tangible interface as elements of connectivity that help users to mediate between the information world and everyday life.The project supports students in a broad range of interests, including the application of advanced technologies, electronics and programming, physical or virtual interface manipulation, and material and engineering fabrication.",
+                    "UnitCode": "MDC5202",
+                    "UnitName": "Interaction design research project",
+                    "_id": "5878038330213215439e9372",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

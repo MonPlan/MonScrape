@@ -1,0 +1,63 @@
+{
+    "courseAOS": "Master of Public Policy and Management",
+    "courseCode": "B6012",
+    "courseName": "Public Policy and Management",
+    "courseType": "Expert master degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Year 1 Semester 1"
+                },
+                "MGF5923",
+                "MGF5927",
+                {
+                    "faculty": "",
+                    "type": "Mastery knowledge unit from a specified list 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 1"
+                }
+            ]
+        },
+        {
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Year 1 Semester 2"
+                },
+                "MGF5300",
+                "MGF5440",
+                {
+                    "faculty": "",
+                    "type": "Mastery knowledge unit from a specified list 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 2"
+                }
+            ]
+        },
+        {
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Year 2 Semester 1"
+                },
+                "MGF5360",
+                "MGF5370",
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 4"
+                }
+            ]
+        }
+    ]
+}

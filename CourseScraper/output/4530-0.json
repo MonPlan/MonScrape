@@ -1,0 +1,75 @@
+{
+    "courseAOS": "Bachelor of Nutrition and Dietetics (Honours)",
+    "courseCode": "4530",
+    "courseName": "Nutrition and Dietetics",
+    "courseType": "",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "NUT1001",
+                "NUT1010",
+                "NUT1101"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "NUT1002",
+                "NUT1102",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "NUT2001",
+                "NUT2102"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "NUT2002",
+                "NUT2103"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "BND3102",
+                "BND3101"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BND3202",
+                "BND3302"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "BND4082",
+                "BND4092"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BND4102",
+                "BND4402"
+            ],
+            "year": 3
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "courseAOS": "Computer Science in Data Science specialisation",
+    "courseCode": "B2008",
+    "courseName": "Commerce and Computer Science",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                [
+                    "ACC1200",
+                    "ACC1100"
+                ],
+                "ECC1000",
+                "FIT1045",
+                "MAT1830"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "MKC1200",
+                "ETC1000",
+                "FIT1008",
+                "MAT1841"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "MGC1010",
+                "BTC1110",
+                "FIT1047",
+                "FIT2004"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business and Economics elective"
+                },
+                "FIT2014",
+                "FIT1043"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 3"
+                },
+                "FIT2094",
+                "FIT2086"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 4"
+                },
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 5"
+                },
+                "FIT1049",
+                "FIT3179"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 6"
+                },
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 7"
+                },
+                "FIT3163",
+                {
+                    "faculty": "",
+                    "type": "Approved L3 Data Science Elective"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 8 or Commerce elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Capstone unit"
+                },
+                "FIT3164",
+                {
+                    "faculty": "",
+                    "type": "Approved L3 Data Science Elective"
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

@@ -1,0 +1,619 @@
+{
+    "courseAOS": "Banking and Finance specialisation",
+    "courseCode": "B2012",
+    "courseName": "Business Specialist and Arts",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "AFC1100, AFC2000, AFC2100, AFG1300, AFW1300, BFB1300, BFC2000, BFF1300, BFG1300, BFW1300,BFC1001, BFB1001, BFP1001, BFW1001",
+                    "SCABand": 3,
+                    "Sypnosis": "As a foundation, this unit introduces students to the concepts of finance, financial mathematics, investment analysis, the financial system, risk management and the relationship of finances to other commercial disciplines.",
+                    "UnitCode": "BFF1001",
+                    "UnitName": "Foundations of finance",
+                    "_id": "587800f630213215439e8a12",
+                    "enjoyRating": 3.895502646,
+                    "enjoyResponse": 321,
+                    "learnRating": 4.710291859,
+                    "learnResponse": 53,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "EFC1100",
+                    "UnitName": "Cannot Fetch Data",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Minor",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ACF1200,ACF1100",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ETX1100, BUS1100, ETB1100, ETC1000, ETG1102, ETW1000, ETW1102, PMM2020, SCI1020, ETP1100, ETX9000, AFX9510, ETC9000, ETX9000 and students enrolled in course codes 1941, 2224, 3381 or 4423 cannot undertake this unit.",
+                    "SCABand": 2,
+                    "Sypnosis": "Students will learn to use basic statistical techniques and apply them to problems in accounting, finance, management, marketing and business in general. Students should also be able to effectively communicate the results of their analyses. This unit covers descriptive statistics for revealing the information contained in data; probability as a tool for dealing with uncertainty; probability distributions to model business behaviour; confidence interval estimation and hypothesis testing techniques for single populations; analysis of relationships between variables using simple linear regression; and simple tools for forecasting time series data. Excel software will be used.",
+                    "UnitCode": "ETF1100",
+                    "UnitName": "Business statistics",
+                    "_id": "5878025f30213215439e8f59",
+                    "enjoyRating": 3.865972222,
+                    "enjoyResponse": 216,
+                    "learnRating": 3.938020197,
+                    "learnResponse": 108,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Minor",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "BTF1010. No prerequisite for students enrolled in course B20032.",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "Banking Law examines key aspects of the legal regulation of banking in Australia. Topics covered in this lecture include: the current system of banking regulation in Australia the regulation of the \"bank-customer\" relationship recent banking law reforms after the Global Financial Crisis changes to lending regulation and the National Consumer Credit reforms Australia's new personal property securities law and the Personal Properties Securities Act negotiable instruments and cheques electronic banking.",
+                    "UnitCode": "BTF2601",
+                    "UnitName": "Banking law",
+                    "_id": "5878012330213215439e8ac7",
+                    "enjoyRating": 4.045454545,
+                    "enjoyResponse": 51,
+                    "learnRating": 3.876190476,
+                    "learnResponse": 22,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have completed ETX1100 or equivalent before undertaking this unit or must be enrolled in course 3822 or 4412.",
+                    "Proh": "ETC2410, ETC3440, ECC2410",
+                    "SCABand": 2,
+                    "Sypnosis": "Econometrics is a set of research tools employed not only in economics but also in business disciplines. This unit covers the basic tools for estimation in the context of simple and multiple linear regression, the sampling properties of the least squares estimator, statistical inference and hypothesis testing. It also covers regression with dummy variables, model specification issues and estimation problems when least squares assumptions are violated. EViews is used as the software package.",
+                    "UnitCode": "ETF2100",
+                    "UnitName": "Introductory econometrics",
+                    "_id": "5878026030213215439e8f5b",
+                    "enjoyRating": 4.288461538,
+                    "enjoyResponse": 57,
+                    "learnRating": 4.225854701,
+                    "learnResponse": 57,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Minor",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ECC1100, ECG1102, ECW1102, ECB1102, ECS1102",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit uses aggregate demand and supply analysis as a tool for identifying and explaining the business cycle, output growth employment, inflation and the current account deficit. The investigation will illustrate the impact of the macroeconomy on decisions by firms and other economic agents in the economy and the effect of fiscal and monetary policies on business outcomes. Key strategic variables affecting decision making in the macro business environment are interest rates, inflation and the Australian dollar.",
+                    "UnitCode": "ECF1200",
+                    "UnitName": "Macroeconomics",
+                    "_id": "587801a530213215439e8cd9",
+                    "enjoyRating": 4.052631579,
+                    "enjoyResponse": 120,
+                    "learnRating": 4.018243661,
+                    "learnResponse": 120,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed one of the following units: AFF1300, BFF1300, BFB1001, BFC1001, BFF1001, BFP1001 or BFW1001",
+                    "Proh": "AFC3170, BFC3170, AFW2401, BFW2401, AFF2401",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit examines the major risks and issues faced by Australian financial institutions within the context of the global environment. Topics include an introduction to the Australian banking environment, bank performance, management of bank risks including credit, capital, liquidity and interest rate risk, loan pricing, liability management, investment management and capital adequacy.",
+                    "UnitCode": "BFF2401",
+                    "UnitName": "Commercial banking and finance",
+                    "_id": "587800f730213215439e8a15",
+                    "enjoyRating": 4.009433962,
+                    "enjoyResponse": 105,
+                    "learnRating": 4,
+                    "learnResponse": 1,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Minor",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students to complete two units as follows: ECF1100 and ETF1100 or ECC1000 and ETC1000 or ETB1100 and ECW1101 or ECW1101 and ETW1000.",
+                    "Proh": "AFF2631, BFF2631, BFG2631, BFP2631, BFW2631, AFF2140, BFB2140, BFC2140, BFW2140.",
+                    "SCABand": 3,
+                    "Sypnosis": "The aim of this unit is to introduce students to the theory and application of why and how value enhancing corporate financial decisions are made and implemented. With the emphasis on publicly listed companies, topics covered include; the corporate objective of management; investment evaluation models; valuation of equity and debt instruments; sources and types of funding; issues in risk and return; portfolio theory; asset pricing models; issues in capital structure and dividend policy; and the efficiency of capital markets. The unit is designed to ensure students gain the necessary skill set for making value-changing financial decisions to maximise firm value.",
+                    "UnitCode": "BFF2140",
+                    "UnitName": "Corporate finance 1",
+                    "_id": "587800f730213215439e8a13",
+                    "enjoyRating": 4.545180723,
+                    "enjoyResponse": 153,
+                    "learnRating": 3.956856683,
+                    "learnResponse": 107,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "BFF3111 Personal financial planning OR BFF3351 Investment banking",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed one of the following before undertaking this unit: AFF2631, BFF2631, AFG2631, BFG2631, AFW2631, BFW2631, AFF3121, AFW3044, BFB2140, BFC2140, BFF2140, BFP2140, BFW2140",
+                    "Proh": "AFW3046, AFW3121, BFW3121, AFG3121, BFG3121, AFF3121",
+                    "SCABand": 3,
+                    "Sypnosis": "On completion of this unit students should be able to demonstrate an understanding of the conceptual foundations of modern portfolio theory, using pricing models and other techniques in the valuation of securities; appreciate the effect of market efficiency on the valuation process; measure portfolio risk and determine performance benchmarks; and be able to take an applied perspective on investment management and analysis.",
+                    "UnitCode": "BFF3121",
+                    "UnitName": "Investments and portfolio management",
+                    "_id": "587800f830213215439e8a19",
+                    "enjoyRating": 3.72826087,
+                    "enjoyResponse": 115,
+                    "learnRating": 4.214285714,
+                    "learnResponse": 17,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed AFF2401, BFF2401, BFW2401 or AFW2401 before undertaking this unit.",
+                    "Proh": "AFW3331, BFW3331, AFX3871, BFX3871, AFF3331",
+                    "SCABand": 3,
+                    "Sypnosis": "The international monetary system, the international parity conditions, the foreign exchange market, international financing strategies and techniques, the Euromarkets, and multinational banking.",
+                    "UnitCode": "BFF3331",
+                    "UnitName": "International banking and finance",
+                    "_id": "587800f930213215439e8a1b",
+                    "enjoyRating": 4.214285714,
+                    "enjoyResponse": 36,
+                    "learnRating": 3.750642479,
+                    "learnResponse": 115,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed AFF2401, BFF2401, BFW2401 or AFW2401 before undertaking this unit.",
+                    "Proh": "AFW3651, BFW3651, AFF3651",
+                    "SCABand": 3,
+                    "Sypnosis": "The role of treasury, coordination and management of the treasury operation, quantitative and qualitative risk analysis, risk management process and hedging techniques, role and mechanics of derivative products, performance measurement and evaluation.",
+                    "UnitCode": "BFF3651",
+                    "UnitName": "Treasury management",
+                    "_id": "587800f930213215439e8a1d",
+                    "enjoyRating": 4.041666667,
+                    "enjoyResponse": 19,
+                    "learnRating": 4.138888889,
+                    "learnResponse": 36,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed AFF2401, BFF2401, BFW2401 or AFW2401 before undertaking this unit.",
+                    "Proh": "AFW3841, BFW3841, AFF3841",
+                    "SCABand": 3,
+                    "Sypnosis": "Lending environment; decision making and organisation of lending, lending policies and controls; behavioural aspects of decision making and decision makers; retail, commercial and corporate lending; business expansions; off balance sheet lending; loan management and problem loans.",
+                    "UnitCode": "BFF3841",
+                    "UnitName": "Credit analysis and lending management",
+                    "_id": "587800f930213215439e8a1e",
+                    "enjoyRating": 4.102272727,
+                    "enjoyResponse": 81,
+                    "learnRating": 3.902136752,
+                    "learnResponse": 19,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have completed one of the following units: BFB1001, BFC1001, BFF1001, BFP1001, BFW1001 PLUS one of the following units:  BFB2140, BFC2140, BFF2140, BFP2140, BFW2140",
+                    "Proh": "AFF3751, BFF3751",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit examines the institutional features of futures and options markets, the use of futures, options and other derivatives in arbitraging, trading and hedging, and prices of these instruments.",
+                    "UnitCode": "BFF2751",
+                    "UnitName": "Derivatives 1",
+                    "_id": "587800f830213215439e8a17",
+                    "enjoyRating": 4.083333333,
+                    "enjoyResponse": 30,
+                    "learnRating": 4.053294574,
+                    "learnResponse": 88,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have completed 102 credit points and passed BFB3121 or BBF3121 or BFF3331 or BFF3651 or BFF3841 and BFB2140 or BFC2140 or BFP2140 or BFW2140 and BFC2751 or BFF2751.",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit is intended to contextualise student's acquired knowledge for solving problems in real world domestic and global situations in banking and finance. As a capstone unit, it should be studied in the final semester of the Bachelor of Banking and Finance, as it draws upon and integrates learning from previous units studied. Students will be exposed to choices and conflicts requiring judgement and thus appreciate the role of the banking and finance industry within society.",
+                    "UnitCode": "BFF3999",
+                    "UnitName": "Financial institutions and society",
+                    "_id": "587800f930213215439e8a1f",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

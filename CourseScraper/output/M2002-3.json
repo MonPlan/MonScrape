@@ -1,0 +1,69 @@
+{
+    "courseAOS": "Bachelor of Radiation Sciences",
+    "courseCode": "M2002",
+    "courseName": "Health Sciences",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "BMA1011",
+                "HSC1100",
+                "HSC1200",
+                "BMS1031"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BMA1012",
+                "HSC1300",
+                "HSC1400",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "HSC2100",
+                "HSC2200",
+                "HSC2300",
+                "PSY1011"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "PBH2001",
+                "RAD2001",
+                "RTS2001",
+                "PSY1022"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "RAD3002",
+                "RAD3061",
+                "RTS3001",
+                "RTS4104"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "RAD3092",
+                "RTS4101",
+                "RTS4103",
+                "RTS4105"
+            ],
+            "year": 2
+        }
+    ]
+}

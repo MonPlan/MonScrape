@@ -1,0 +1,46 @@
+{
+    "courseCode": "B6013",
+    "courseName": "Master of Business Law",
+    "courseAOS": "",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+              "ACF5903",
+              "ECF5953",
+              "ETF5900",
+              "MGF5962"
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+              "BTF5000",
+              "BFF5902",
+              "BTF5904",
+              "BTF5001"
+          ]
+        }, {
+          "code": "S1-01",
+          "year": 1,
+          "units": [
+              {"type": "Mastery Knowledge Unit", "faculty": "Faculty of Business and Economics"},
+              "BFF5021",
+              {"type": "Application Studies Unit", "faculty": "Faculty of Business and Economics"},
+              {"type": "Application Studies Unit", "faculty": "Faculty of Business and Economics"}                            
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 1,
+          "units": [
+              "BTF5801",
+              {"type": "Mastery Knowledge Unit", "faculty": "Faculty of Business and Economics"},
+              {"type": "Application Studies Unit", "faculty": "Faculty of Business and Economics"},
+              {"type": "Application Studies Unit", "faculty": "Faculty of Business and Economics"}                            
+          ]
+        }
+    ]
+}

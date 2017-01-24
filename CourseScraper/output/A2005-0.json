@@ -1,0 +1,149 @@
+{
+    "courseAOS": "Visual arts specialisation",
+    "courseCode": "A2005",
+    "courseName": "Arts and Fine Art",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Arts",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "VPR1011",
+                "DWG1201",
+                "AHT1101",
+                {
+                    "faculty": "",
+                    "type": "Arts Major 1"
+                },
+                "OHS1000"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "VPR1012",
+                "VPR1113",
+                "AHT1102",
+                {
+                    "faculty": "",
+                    "type": "Arts Major 2"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "VPR2011",
+                {
+                    "faculty": "",
+                    "type": "Workshop elective in Drawing, Film, Glass, Jewellery, Painting, Photography, Printmaking or Sculpture"
+                },
+                "AHT2102",
+                {
+                    "faculty": "",
+                    "type": "Arts Major 3"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "VPR2012",
+                {
+                    "faculty": "",
+                    "type": "Workshop elective in Drawing, Film, Glass, Jewellery, Painting, Photography, Printmaking or Sculpture"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Minor 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major 4"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "VPR3011",
+                {
+                    "faculty": "",
+                    "type": "Workshop elective in Drawing, Film, Glass, Jewellery, Painting, Photography, Printmaking or Sculpture"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Minor 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major 5"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "VPR3012",
+                {
+                    "faculty": "",
+                    "type": "AHT level 2/3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major 6"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Arts Minor 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts elective 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts elective 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major 7"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Arts Minor 4"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts elective 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts elective 4"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major 8"
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

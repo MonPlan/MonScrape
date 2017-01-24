@@ -1,0 +1,131 @@
+{
+    "courseAOS": "Marketing specialisation",
+    "courseCode": "B2013",
+    "courseName": "Business and Business Specialist",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                [
+                    "ACF1200",
+                    "ACF1100"
+                ],
+                "MGF1010",
+                "ECF1100",
+                "MKF1120"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BTF1010",
+                "BFF1001",
+                "MKF2111",
+                "ETF1100"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 1"
+                },
+                "EFC1100",
+                "MKF2801",
+                "MKF2121"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 2"
+                },
+                "MKF1120",
+                "MKF3121",
+                "MKF2131"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business Major 4"
+                },
+                "MKF3131",
+                "MKF3461"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 5"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business Major 6"
+                },
+                "BTF3181",
+                {
+                    "faculty": "",
+                    "type": "Marketing elective unit selected from a list"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 7"
+                },
+                "ETF1100",
+                {
+                    "faculty": "",
+                    "type": "Marketing elective unit selected from a list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Marketing elective unit selected from a list"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 8 or Business elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Capstone unit"
+                },
+                [
+                    "ACF1200",
+                    "ACF1100"
+                ],
+                "MGF1010"
+            ],
+            "year": 3
+        }
+    ]
+}

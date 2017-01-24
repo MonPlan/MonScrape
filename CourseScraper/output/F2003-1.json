@@ -1,0 +1,64 @@
+{
+    "courseAOS": "Bachelor of Fine Art",
+    "courseCode": "F2003",
+    "courseName": "Fine Art",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Art, Design and Architecture",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "FNA1111",
+                "AHT1101",
+                "DWG1201",
+                "OHS1000"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "FNA1112",
+                "AHT1102",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "FNA2111",
+                "AHT2102",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "FNA2112",
+                "Elective",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "FNA3111",
+                "Elective",
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "FNA3112",
+                "Elective",
+                "Elective"
+            ],
+            "year": 2
+        }
+    ]
+}

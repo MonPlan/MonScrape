@@ -1,0 +1,1324 @@
+{
+    "courseAOS": "Chemical Engineering specialisation",
+    "courseCode": "L3002",
+    "courseName": "Laws and Engineering",
+    "courseType": "Bachelor degree (honours)/Bachelor degree (honours)",
+    "faculty": "Faculty of Law",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "The unit examines the foundation and structure of the institutions and processes of the Australian legal system, including legal practice as a distinctive element within the Australian legal process.  It introduces the sources of authoritative law - statutes, delegated legislation and judicial precedents.  A case series is used to demonstrate the evolution of the common law within the constraints of the doctrine and practice of precedent.  The unit provides foundational knowledge and skills in the interpretation of judicial precedents and legislation and their application in legal problem-solving.  Students develop fundamental skills in legal research and legal writing.",
+                    "UnitCode": "LAW1111",
+                    "UnitName": "Foundations of Law",
+                    "_id": "587802e430213215439e915d",
+                    "enjoyRating": 4,
+                    "enjoyResponse": 14,
+                    "learnRating": 3.174366969,
+                    "learnResponse": 156,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "The unit introduces the general doctrines, principles and aims of the criminal law and criminal justice system, introduces the roles of civil and criminal laws in relation to harms to the person, and examines the law relating to fatal and non-fatal offences against people. It analyses sentencing and access to compensation for victims of crime.",
+                    "UnitCode": "LAW1114",
+                    "UnitName": "Criminal law 1",
+                    "_id": "587802e630213215439e9160",
+                    "enjoyRating": 4.5,
+                    "enjoyResponse": 24,
+                    "learnRating": 4.174603175,
+                    "learnResponse": 16,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ENG1001 Engineering Design: lighter, faster, stronger OR ENG1002",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Law",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1090,PHS1080,ENG1091",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Law",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1090,PHS1080",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students who commenced their LLB (Hons) course in 2015 or later:Students in LLB(Hons)/BE(Hons) (L3002):LAW1111 Foundations of LawAll other single or double degree LLB(Hons) students:LAW1111 Foundations of LawLAW1114 Criminal Law 1",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "The unit will introduce the basic principles of public law, government and statutory interpretation in Australian law.  The unit will investigate the range of legal devices whereby Australia is governed, and will introduce key ideas pertaining to public legal entities, including the Crown.  Fundamental principles of public law will be considered, together with the broader contexts in which they arise and operate.  So will fundamental, constitutional relationships between each of Parliament, the executive and the judiciary.  The unit will also deal with statutory interpretation in depth, beginning with the fundamental constitutional principle of parliamentary supremacy, and exploring how the rules and principles of statutory interpretation flow from an understanding of the constitutional relationship between Parliament and the judiciary.",
+                    "UnitCode": "LAW1112",
+                    "UnitName": "Public law and statutory interpretation",
+                    "_id": "587802e530213215439e915e",
+                    "enjoyRating": 2.872727273,
+                    "enjoyResponse": 156,
+                    "learnRating": 3.804656415,
+                    "learnResponse": 139,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students who commenced their LLB (Hons) course in 2015 or later:  LAW1111 and LAW1114",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "The unit commences with an introductory study of the role and objectives of torts law in redressing and compensating civil wrongs, and its relationship with statutory compensation schemes. Students examine the intentional torts of false imprisonment and, trespass to land, the strict liability tort of and nuisance, and the unintentional tort of negligence. There is a detailed study of the elements of the tort of negligence - namely, duty of care, breach of duty, causation, defences and the assessment of damages - and the particular problems raised by negligently caused mental harm and pure economic loss. Students will also consider the principles and rationale of vicarious liability. Throughout the unit, students will explore the impact of statutory law reform, in particular the civil liability reforms, on torts law, in the broader context of how civil wrongs should be redressed.",
+                    "UnitCode": "LAW1113",
+                    "UnitName": "Torts",
+                    "_id": "587802e530213215439e915f",
+                    "enjoyRating": 4.142857143,
+                    "enjoyResponse": 139,
+                    "learnRating": 4.277777778,
+                    "learnResponse": 24,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ENG1002 OR ENG1001",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ENG1091",
+                    "UnitName": "Cannot Fetch Data",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "For students who commenced their LLB course prior to 2015: LAW2100",
+                    "SCABand": 3,
+                    "Sypnosis": "Contract law addresses the concepts, principles and rules used to determine the existence and content of binding promises and their enforcement or defeasibility in a market economy. It also involves a consideration of the underlying policy considerations. Contract law is taught in two units: Contract A and Contract B. Contract A covers the introduction to contract law, the formation of contracts (including capacity and formalities), privity of contract, estoppel, and the incorporation, construction and validity of contractual terms.",
+                    "UnitCode": "LAW2101",
+                    "UnitName": "Contract A",
+                    "_id": "587802e630213215439e9162",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students who commenced their LLB (Hons) course in 2015 or later:LAW1111; LAW1114 and LAW2101For students who commenced their LLB course prior to 2015:  LAW1100 OR LAW1101 and LAW1102 or LAW1104; LAW2100 or LAW2101 and LAW2102",
+                    "Proh": "For students who commenced their LLB course prior to 2015:  LAW3400",
+                    "SCABand": 3,
+                    "Sypnosis": "The unit examines theories of private property, the concept and categories of real and personal property; the interface between contractual and property rights; the nature of types of property right including freehold and leasehold estates, easements and mortgages; modes of creating and transferring the rights in law and equity; possession as a source of title.",
+                    "UnitCode": "LAW2112",
+                    "UnitName": "Property A",
+                    "_id": "587802e730213215439e9165",
+                    "enjoyRating": 3.642857143,
+                    "enjoyResponse": 38,
+                    "learnRating": 3.193263608,
+                    "learnResponse": 51,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to the use of Information Technology (IT) in modern engineering practice. Students will learn an object-oriented approach to both computer systems and software engineering for solving engineering problems.Students will work in small teams to develop a mobile application that meets a contemporary need in engineering. The fundamental stages in the software development lifecycle will be introduced, including requirements analysis, design, implementation and verification. Students will use IT tools to support the engineering process.",
+                    "UnitCode": "ENG1003",
+                    "UnitName": "Engineering mobile apps",
+                    "_id": "5878023630213215439e8eb5",
+                    "enjoyRating": 3.662162162,
+                    "enjoyResponse": 306,
+                    "learnRating": 3.75307989,
+                    "learnResponse": 153,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Science",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "CHM1031, CHM1051, ENG1070",
+                    "SCABand": 2,
+                    "Sypnosis": "CHM1011 has been designed such that some previous understanding of chemistry is presumed, but is also underpinned by a support structure for those who are relatively new to the subject. The curriculum focuses on general and physical chemistry principles which in turn complements the synthetic chemistry topics discussed in the subsequent unit, CHM1022. On completion of CHM1011, students will have gained an understanding of how atoms and molecules interact with each other and how this affects their bonding, reactivity, 3D structure and physical properties. A number of important topics such as stoichiometry, intermolecular forces, thermodynamics, kinetics, equilibria, and electrochemistry will be developed in order to prepare students for a deeper exploration of chemistry. The concepts developed within the workshops and tutorials are complemented through a laboratory program where students will have the opportunity to develop analytical techniques and design their own experiments to solve a range of chemical problems.",
+                    "UnitCode": "CHM1011",
+                    "UnitName": "Chemistry I",
+                    "_id": "5878014d30213215439e8b71",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students who commenced their LLB (Hons) course in 2015 or later: LAW1111; LAW1114; LAW2101 and LAW2112For students who commenced their LLB course prior to 2015: LAW1100 OR LAW1101 and LAW1102 or LAW1104; LAW2101",
+                    "Proh": "For students who commenced their LLB course prior to 2015: LAW2100",
+                    "SCABand": 3,
+                    "Sypnosis": "Contract law addresses the concepts, principles and rules used to determine the existence and content of binding promises and their enforcement or defeasibility in a market economy. It also addresses the underlying policy considerations. Contract B builds upon Contract A, which covers the formation and terms of a contract. Contract B covers the performance of contracts, the discharge of contracts by termination or frustration, legal and equitable remedies for breach of contract, and vitiating factors under the unwritten law and statute.",
+                    "UnitCode": "LAW2102",
+                    "UnitName": "Contract B",
+                    "_id": "587802e630213215439e9163",
+                    "enjoyRating": 4.058823529,
+                    "enjoyResponse": 183,
+                    "learnRating": 3.68984127,
+                    "learnResponse": 165,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students who commenced their LLB (Hons) course in 2015 or later:Single degree LLB Hons students:LAW1111 Foundations of LawLAW1114 Criminal Law 1LAW2101 Contract ALAW1113 TortsDouble degree LLB Hons students:LAW1111 Foundations of LawLAW1114 Criminal Law 1LAW1112 Public Law and Statutory InterpretationLAW2112 Property ALAW2101 Contract ALAW1113 TortsFor students who commenced their LLB course prior to 2015:LAW1100 or LAW1101 and LAW1102 or LAW1104",
+                    "Proh": "For students who commenced their LLB course prior to 2015: LAW3200",
+                    "SCABand": 3,
+                    "Sypnosis": "The unit examines the Victorian and Commonwealth Constitutions; advanced principles regarding separation of judicial powers at State and Commonwealth levels; Australian federalism and inter-governmental relations, including the distribution of legislative and fiscal powers between the Commonwealth and the States, inconsistency of laws, and intergovernmental immunities; some principal Commonwealth legislative powers; limitations on governmental power, including selected express and implied constitutional rights and freedoms, and critical analysis of techniques and principles of constitutional interpretation.",
+                    "UnitCode": "LAW2111",
+                    "UnitName": "Constitutional law",
+                    "_id": "587802e630213215439e9164",
+                    "enjoyRating": 3.865853659,
+                    "enjoyResponse": 165,
+                    "learnRating": 3.693287037,
+                    "learnResponse": 38,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Mathematical methods (CAS) recommended.",
+                    "Proh": "ENG1602",
+                    "SCABand": 2,
+                    "Sypnosis": "General rules for software development and design. Errors. Data types, variables, expressions, control statements M-files. Numerical techniques: Gauss elimination, solution of non-linear equations, optimisation, curve fitting, numerical calculus, ordinary differential equations.",
+                    "UnitCode": "ENG1060",
+                    "UnitName": "Computing for engineers",
+                    "_id": "5878023730213215439e8eb9",
+                    "enjoyRating": 4.05248538,
+                    "enjoyResponse": 274,
+                    "learnRating": 3.934633702,
+                    "learnResponse": 137,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Introduce fundamentals and applications of heat and mass transfer. Develop an understanding of the mechanisms and mathematical representation of conduction, convection and radiation heat transfer and convective mass transfer. Gain an appreciation for the analogies between heat and mass transfer using dimensional analysis. Understand and apply concepts of local and overall heat and mass transfer coefficients including boiling heat transfer to simple problems. Calculation of overall heat transfer coefficient and heat transfer area using Log Mean Temperature Difference (LMTD) and Number of Transfer Unit (NTU) method. Gain an understanding of molecular diffusion in gases, solids, and liquids and develop methods to use these concepts in problem solving. Perform experiments to illustrate the concepts of heat and mass transfer.",
+                    "UnitCode": "CHE2163",
+                    "UnitName": "Heat and mass transfer",
+                    "_id": "5878014330213215439e8b46",
+                    "enjoyRating": 3.710072595,
+                    "enjoyResponse": 114,
+                    "learnRating": 3.602507057,
+                    "learnResponse": 64,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Law elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students who commenced their LLB (Hons) course in 2015 or later:LAW1111; LAW1114; LAW1112; LAW1113; LAW2101; LAW2102; LAW2112; LAW2111For students who commenced their LLB course prior to 2015:LAW1100 OR LAW1101 and LAW1102 or LAW1104; LAW2102",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "The unit critically examines the body of legal rules that govern the formation, management, financing and winding up of Australian corporations. Specific topics include: choice of the corporate business form, formation and characteristics of a corporation, the corporate constitution, corporate finance, share structure and membership, constitution and powers of the corporate organisation (board and general meeting), corporate authority, governance of the corporation, directors' duties, shareholders' remedies, administration and winding up of the corporation.",
+                    "UnitCode": "LAW3112",
+                    "UnitName": "Corporations law",
+                    "_id": "587802e830213215439e9169",
+                    "enjoyRating": 3.825,
+                    "enjoyResponse": 49,
+                    "learnRating": 4.141025641,
+                    "learnResponse": 37,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students who commenced their LLB (Hons) course in 2015 or later:LAW1111; LAW1114; LAW1112; LAW1113; LAW2101; LAW2102; LAW2112; LAW2111For students who commenced their LLB course prior to 2015:LAW1100 OR LAW1101 and LAW1102 or LAW1104; LAW2100 OR LAW2101 and LAW2102",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit introduces students to the nature and function of equity in the modern Australian legal system. Students learn about the relationship between equity and the common law, and study the key doctrines of equity.  These include: breach of confidence, fiduciary relationships and breach of fiduciary duty, third party liability and tracing, personal and proprietary remedies in equity and equitable defences.",
+                    "UnitCode": "LAW3111",
+                    "UnitName": "Equity",
+                    "_id": "587802e830213215439e9168",
+                    "enjoyRating": 4.12962963,
+                    "enjoyResponse": 54,
+                    "learnRating": 3.857583774,
+                    "learnResponse": 25,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ENG2091",
+                    "UnitName": "Cannot Fetch Data",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "24 credit points",
+                    "Proh": "MAE2404, MEC2404",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit develops the students' physical understanding of fluid statics and fluid flow and the interaction of fluid forces with solids.Topics include hydrostatics, Reynolds transport theorem, continuity and momentum equations, control volume analysis, the Bernoulli equation, viscous pipe flow, pumps, dimensional analysis, boundary layers, flow measurement techniques and applications of fluid forces in flow - lift and drag.",
+                    "UnitCode": "CHE2161",
+                    "UnitName": "Mechanics of fluids",
+                    "_id": "5878014230213215439e8b44",
+                    "enjoyRating": 4.159188034,
+                    "enjoyResponse": 64,
+                    "learnRating": 4.833333333,
+                    "learnResponse": 2,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students who commenced their LLB (Hons) course in 2015 or later:LAW1111; LAW1114; LAW1112; LAW1113; LAW2101; LAW2102; LAW2112; LAW2111For students who commenced their LLB course prior to 2015:LAW1100 or Law1101 and LAW1102 or LAW1104; LAW2100 or LAW2101 and LAW2102 ; LAW3401 or LAW2112",
+                    "Proh": "LAW3400",
+                    "SCABand": 3,
+                    "Sypnosis": "Building on Property A, the unit examines proprietary interests that arise through the operation of equity, and co-ownership of land and goods. It then examines the Torrens System of registered title to land and the Transfer of Land Act 1958 (Vic), including: the registration process; the meaning and purpose of indefeasible title: fraud and other exceptions to indefeasibility: the compensation provisions; status and enforceability of unregistered interests; the caveat system; and the priority rules for registered and unregistered interests.",
+                    "UnitCode": "LAW3402",
+                    "UnitName": "Property B",
+                    "_id": "587802e830213215439e916c",
+                    "enjoyRating": 3.814814815,
+                    "enjoyResponse": 185,
+                    "learnRating": 4.5,
+                    "learnResponse": 6,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commercial law elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "CHE2113, CHE2140",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will introduce students to the fundamentals of material and energy balances through a systematic treatment of:  single and multiple unit operations, reactive and non-reactive processes, recycle and by-pass, extent of reactions, equations of state, vapour-liquid phase equilibrium, solid-liquid phase equilibrium, internal energy and enthalpy changes for process fluids undergoing specified changes in temperature, pressure, phase, reactions and chemical compositions and computer aided simulation of process flow diagrams. A process simulation software will be used to aid in the solution of more complex systems.",
+                    "UnitCode": "CHE2162",
+                    "UnitName": "Material and energy balances",
+                    "_id": "5878014330213215439e8b45",
+                    "enjoyRating": 3.546016484,
+                    "enjoyResponse": 127,
+                    "learnRating": 3.979996929,
+                    "learnResponse": 32,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "CHE2164 Thermodynamics S1,2Or ENG2091",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Law elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Law elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Law elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "CHE2164",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit covers thermodynamics from a chemical engineering viewpoint. Content will cover basic concepts and the use of: thermodynamic functions such as free energy, enthalpy, and entropy; estimation of properties of pure compounds and mixtures; description of solution thermodynamics and its applications, equilibrium phase diagrams and chemical reaction equilibria.",
+                    "UnitCode": "CHE3161",
+                    "UnitName": "Chemistry and chemical thermodynamics",
+                    "_id": "5878014430213215439e8b4b",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "CHE2162, CHE2163",
+                    "Proh": "CHE3102",
+                    "SCABand": 2,
+                    "Sypnosis": "A comprehensive treatment of the fundamentals of separation processes of interest to the chemical industry is covered. The fundamental principles of mass transfer are introduced and extended to include principles of interfacial mass transfer and simultaneous heat and mass transfer. General mass and energy balances are derived for equilibrium staged processes. The applications of these principles are made to the unit operations of distillation (binary and multi-component), liquid-liquid extraction, gas-liquid absorption and stripping, adsorption and ion-exchange, and membrane separation processes.",
+                    "UnitCode": "CHE3165",
+                    "UnitName": "Separation processes",
+                    "_id": "5878014530213215439e8b4f",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students who commenced their LLB (Hons) course in 2015 or later:LAW1111 Foundations of Law;LAW1114 Criminal Law 1;LAW1112 Public Law and Statutory Interpretation;LAW1113 Torts;LAW2112 Property A;LAW2101 Contract A;LAW2102 Contract B;LAW2111 Constitutional Law;LAW3112 Corporations Law;For students who commenced their LLB course prior to 2015:LAW1100 OR LAW1101 and LAW1102 or LAW1104",
+                    "Proh": "LAW3100",
+                    "SCABand": 3,
+                    "Sypnosis": "Administrative law is the branch of public law that regulates the exercise of power by the executive arm of government.  This unit introduces students to the structure of government administration, the sources of administrative discretion and the systems that have been developed to permit the review of the exercise of administrative discretion by administrative decision-makers. The unit compares review of the 'merits' of administrative actions, by administrative tribunals, with review of their 'legality', by courts, pursuant to judicial review. The unit examines the judicial review of administrative action both at common law and under statute and has particular regard to the grounds of review; the courts' jurisdiction to entertain applications for review; the possession, by potential applicants for review, of standing; and the remedies available pursuant to a successful judicial review application. The unit aims, particularly, to develop students' practical skills in interpreting statutes.",
+                    "UnitCode": "LAW4331",
+                    "UnitName": "Administrative law",
+                    "_id": "5878030530213215439e91c9",
+                    "enjoyRating": 4.083333333,
+                    "enjoyResponse": 109,
+                    "learnRating": 4.066666667,
+                    "learnResponse": 11,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students who commenced their LLB (Hons) course in 2015 or later:LAW1111; LAW1114; LAW1112; LAW1113; LAW2101; LAW2102; LAW2112; LAW2111; LAW3111For students who commenced their LLB course prior to 2015:LAW1100 OR LAW1101 and LAW1102 or LAW1104",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "The unit introduces students to the nature and function of trusts in the modern Australian legal system. Students learn how trusts are used and learn the rules governing their existence. In particular, the rules governing the creation and administration of trusts, and the rights and obligations of parties to trusts are taught.",
+                    "UnitCode": "LAW4170",
+                    "UnitName": "Trusts",
+                    "_id": "587802f330213215439e918e",
+                    "enjoyRating": 4.225,
+                    "enjoyResponse": 113,
+                    "learnRating": 5,
+                    "learnResponse": 1,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "CHE2163, CHE2164",
+                    "Proh": "CHE3109",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will develop four important inter-related themes associated with the detailed design of chemical equipment and processes. These themes are process safety, mechanical integrity, equipment selection, and process operability (including piping and instrumentation). These themes will be developed using a mixture of lectures and project-orientated learning activities, which will involve computer simulation and at least one plant visit.",
+                    "UnitCode": "CHE3166",
+                    "UnitName": "Process design",
+                    "_id": "5878014530213215439e8b50",
+                    "enjoyRating": 3.605978261,
+                    "enjoyResponse": 103,
+                    "learnRating": 4.004628377,
+                    "learnResponse": 48,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "CHE2163, CHE2164",
+                    "Proh": "CHE3101, CHE4102",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit aims to develop a fundamental understanding of chemical reaction kinetics and reactor design, including: fundamentals of design of ideal reactors rate laws, collection and analysis of rate data, stoichiometry isothermal reactor design multiple reactions, reaction mechanisms and pathways an introduction to bio-reaction engineering non-isothermal reactor design catalysis and catalytic reactors.",
+                    "UnitCode": "CHE3164",
+                    "UnitName": "Reaction engineering",
+                    "_id": "5878014430213215439e8b4e",
+                    "enjoyRating": 4.1171875,
+                    "enjoyResponse": 95,
+                    "learnRating": 3.86483734,
+                    "learnResponse": 46,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students who commenced their LLB (Hons) course in 2015 or later:LAW1111; LAW1114; LAW1112; LAW1113; LAW2101; LAW2102; LAW2112; LAW2111For students who commenced their LLB course prior to 2015:LAW1100 or LAW1101 and LAW1102 or LAW1104; LAW3300 or LAW3301 and LAW3302",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit involves a critical examination of the general principles and the rules of evidence and the use of evidence law as a method of ensuring fair trials: theoretical perspectives - reliability, libertarian, disciplinary principles, evidentiary law reform; rules and principles governing the proof of facts in civil and criminal trials; relevance and admissibility; kinds of evidence; competence and compellability; privilege; examination of witnesses disposition and character similar fact evidence; options of the accused; hearsay and exceptions to the rule; res gestae; confessions and admissions; illegally obtained evidence; corroboration; identification; opinion evidence.",
+                    "UnitCode": "LAW4323",
+                    "UnitName": "Evidence",
+                    "_id": "5878030330213215439e91c1",
+                    "enjoyRating": 3.684210526,
+                    "enjoyResponse": 42,
+                    "learnRating": 4.079365079,
+                    "learnResponse": 15,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "LAW1111 Foundations of LawLAW1114 Criminal Law 1LAW2101 Contract ALAW2112 Property ALAW1112 Public Law and Statutory InterpretationLAW1113 TortsLAW2102 Contract BLAW2111 Constitutional Law",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "The unit reviews the general principles and aims of the criminal law and criminal justice system in light of Australia's international obligations and building upon the units previously studied including contract, property and corporations law.  It examines principles of criminal responsibility including corporate criminal responsibility, and offences against the property interests of a range of legal persons.  It also examines drug offences, as well as the significant role criminal laws play in regulating behaviour through strict liability and inchoate offences. It then considers procedural steps in the criminal process, including the role of discretion and mechanisms for accountability.",
+                    "UnitCode": "LAW4332",
+                    "UnitName": "Criminal law and procedure 2",
+                    "_id": "5878030630213215439e91ca",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "CHE4113, CHE4164",
+                    "SCABand": 2,
+                    "Sypnosis": "An introduction to the role of engineers in the context of their employment in industry and their interaction with the wider community. Students will obtain an understanding of triple bottom line reporting as a driver for management, involving financial, environmental and the social impact of business. Financial management will include project management, project risk, market analysis, project costing and finance and financial indicators. Environmental management will look at the approval process for new projects and on-going environmental improvement strategies. Social management will look at company organisation, the role of unions, occupational health and safety law and safety management.",
+                    "UnitCode": "CHE4161",
+                    "UnitName": "Engineer in society",
+                    "_id": "5878014630213215439e8b54",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "A minimum of 120 credit points including CHE2161, CHE2162, CHE2163 and CHE2164",
+                    "Proh": "CHE4118, CHE4164",
+                    "SCABand": 2,
+                    "Sypnosis": "Development and conduct of a specific research or other open-ended project, which may involve literature search, experimental design, equipment design, equipment commissioning, experimentation, troubleshooting, problem solving, data gathering, analysis and interpretation of data, oral and written reporting.",
+                    "UnitCode": "CHE4180",
+                    "UnitName": "Chemical engineering project",
+                    "_id": "5878014730213215439e8b5b",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "Summer semester B (starts January) 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students who commenced their LLB (Hons) course in 2015 or later:LAW1111; LAW1114; LAW1112; LAW1113; LAW2101; LAW2102; LAW2112; LAW2111For students who commenced their LLB course prior to 2015:LAW1100 or LAW1101 and LAW1102 or LAW1104",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "The focus of the unit is the major steps in litigation. Using the Rules of the Supreme Court of Victoria, the chronology of a civil proceeding from the decision to sue until the matter is ready for trial is examined.",
+                    "UnitCode": "LAW4303",
+                    "UnitName": "Litigation and dispute resolution",
+                    "_id": "587802fe30213215439e91b1",
+                    "enjoyRating": 3.9,
+                    "enjoyResponse": 31,
+                    "learnRating": 3.451496388,
+                    "learnResponse": 46,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students who commenced their LLB (Hons) course in 2015 or later:LAW1111; LAW1114; LAW1112; LAW1113; LAW2101; LAW2102; LAW2112; LAW2111For students who commenced their LLB course prior to 2015:LAW1100 or LAW1101 and LAW1102 or LAW1104; LAW2100 or LAW2101 and LAW2102; LAW2200 or LAW2201 and LAW2202",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit provides a practical and critical introduction to ethical decision-making and the law and codes of professional responsibility in lawyering. It introduces different ethical approaches to legal practice, focusing on the justifications for, and criticisms of, the traditional adversarial advocate approach and alternatives to it in the context of different areas of practice. The unit also examines the way that lawyers' ethics and conduct are regulated and set out in legal principles and codes.Students will be encouraged to develop awareness of their own ethical orientation and expected to apply varied ethical approaches to hypothetical scenarios. They will be expected to identify and resolve ethical issues that arise in legal practice using the law of lawyering. Students will also be expected to critically assess the way lawyers' ethics are regulated in the context of multiple approaches to legal ethics and disparate practice contexts.",
+                    "UnitCode": "LAW4309",
+                    "UnitName": "Lawyers ethics in practice",
+                    "_id": "5878030030213215439e91b7",
+                    "enjoyRating": 3.416666667,
+                    "enjoyResponse": 46,
+                    "learnRating": 3.560185185,
+                    "learnResponse": 21,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "CHE2161",
+                    "Proh": "CHE3104",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides a thorough introduction to particle technology. The unit begins with understanding particle characterisation, the fluid mechanics of single and multi-particle systems and particulate fluidization. The physics underlying powder flow will be covered to enable introductory hopper design. Common powder processing operations will be studied, selected from powder mixing/segregation, sedimentation, dewatering and size enlargement.",
+                    "UnitCode": "CHE4162",
+                    "UnitName": "Particle technology",
+                    "_id": "5878014630213215439e8b55",
+                    "enjoyRating": 4.072860963,
+                    "enjoyResponse": 70,
+                    "learnRating": 4.051552288,
+                    "learnResponse": 21,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "CHE2161, CHE2162, CHE2163, CHE2164, (CHE3163 or ENE3608), CHE3165, CHE3166, and (CHE4161 or CHE4164).",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Students work in teams on the design and evaluation of a process plant for a specified duty. This is a capstone design unit drawing together the skills and knowledge previously developed in the areas of detailed design of chemical equipment and processes, process safety, mechanical integrity, equipment selection, process operability (including piping and instrumentation), environmental impact and economic evaluation.",
+                    "UnitCode": "CHE4170",
+                    "UnitName": "Design project",
+                    "_id": "5878014630213215439e8b57",
+                    "enjoyRating": 3.7275,
+                    "enjoyResponse": 98,
+                    "learnRating": 4.007260101,
+                    "learnResponse": 35,
+                    "placeholder": false
+                }
+            ],
+            "year": 4
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Law Research Project elective*",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Law Elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "A minimum of 120 credit points including CHE2161, CHE2162, CHE2163 and CHE2164",
+                    "Proh": "CHE4118, CHE4164",
+                    "SCABand": 2,
+                    "Sypnosis": "Development and conduct of a specific research or other open-ended project, which may involve literature search, experimental design, equipment design, equipment commissioning, experimentation, troubleshooting, problem solving, data gathering, analysis and interpretation of data, oral and written reporting.",
+                    "UnitCode": "CHE4180",
+                    "UnitName": "Chemical engineering project",
+                    "_id": "5878014730213215439e8b5b",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "CHE2161, ENG1060 and [ENG2091 or (MTH2010 and MTH2032) or (MTH2015 and MTH2032) or ENG2005",
+                    "Proh": "CHE4163",
+                    "SCABand": 2,
+                    "Sypnosis": "Fundamental principles of transport phenomena, Newton's law of viscosity, Fourier's law of heat conduction and Fick's law of diffusion.  Transfer coefficients (viscosity, thermal conductivity and diffusivity).  Newtonian and Non-Newtonian fluids, conservation laws (mass, momentum and energy) and steady state shell mass, momentum and energy balances.  Numerical solution of partial differential equations, classification of equations (finite differences and finite elements) and incorporation of boundary conditions into numerical solutions.  Utilise computer packages to solve complex, realistic chemical engineering problems in fluid flow and transport phenomena.",
+                    "UnitCode": "CHE3167",
+                    "UnitName": "Transport phenomena and numerical methods",
+                    "_id": "5878014530213215439e8b51",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 5
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Law Elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Law Elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "CHE2161, CHE2162, CHE2163, CHE2164, (CHE3163 or ENE3608), CHE3165, CHE3166, and (CHE4161 or CHE4164).",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Students work in teams on the design and evaluation of a process plant for a specified duty. This is a capstone design unit drawing together the skills and knowledge previously developed in the areas of detailed design of chemical equipment and processes, process safety, mechanical integrity, equipment selection, process operability (including piping and instrumentation), environmental impact and economic evaluation.",
+                    "UnitCode": "CHE4170",
+                    "UnitName": "Design project",
+                    "_id": "5878014630213215439e8b57",
+                    "enjoyRating": 3.7275,
+                    "enjoyResponse": 98,
+                    "learnRating": 4.007260101,
+                    "learnResponse": 35,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ENG2091 or (MTH2010 and MTH2032) or ENG2005",
+                    "Proh": "CHE3107, CHE4110",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides a thorough introduction to process control and simulation. The unit begins with understanding disturbances, why disturbances need to be controlled and possible responses of various systems to a disturbance. The selection of which variables to control, which variables to manipulate and approaches to interactions are covered, together with the most important types of control loops and computer control systems. Topics include common control scenarios - feed back, feed forward, and cascade systems; ratio control; tuning of PID controllers; single loop and multiple loop systems;  interactions and decoupling; process simulation and advanced process control.",
+                    "UnitCode": "CHE3162",
+                    "UnitName": "Process control",
+                    "_id": "5878014430213215439e8b4c",
+                    "enjoyRating": 3.874456522,
+                    "enjoyResponse": 91,
+                    "learnRating": 4.037393162,
+                    "learnResponse": 37,
+                    "placeholder": false
+                }
+            ],
+            "year": 5
+        }
+    ]
+}

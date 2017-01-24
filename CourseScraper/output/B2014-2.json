@@ -1,0 +1,125 @@
+{
+    "courseAOS": "Finance specialisation [BComm major cannot be Finance]",
+    "courseCode": "B2014",
+    "courseName": "Commerce and Commerce Specialist",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "MGC1010",
+                "MKC1200",
+                [
+                    "ACC1200",
+                    "ACC1100"
+                ],
+                "BFC1001"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                [
+                    "ACC1200",
+                    "ACC1100"
+                ],
+                "BTC1110",
+                "ECC1000",
+                "ETC1000"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 1"
+                },
+                "ETC1000",
+                "BFC2340",
+                "BFC2140"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business and Economics elective"
+                },
+                "BFC2240",
+                "ECC1100"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 4"
+                },
+                "ETC3460",
+                "ETC2410"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 5"
+                },
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 6"
+                },
+                "BFC3240",
+                "BFC2751"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 7"
+                },
+                "ECC1000",
+                "BFC3140",
+                "BFC3540"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 8 or Commerce elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Capstone unit"
+                },
+                "BFC3999",
+                "BFC3340"
+            ],
+            "year": 3
+        }
+    ]
+}

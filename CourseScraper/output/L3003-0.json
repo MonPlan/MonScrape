@@ -1,0 +1,186 @@
+{
+    "courseAOS": "Bachelor of Laws (Honours) and Bachelor of Arts",
+    "courseCode": "L3003",
+    "courseName": "Laws and Arts",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Law",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "LAW1111",
+                "LAW1114",
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts minor"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "LAW1112",
+                "LAW1113",
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts minor"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "LAW2101",
+                "LAW2112",
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts minor"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "LAW2102",
+                "LAW2111",
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts minor"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts elective -overload or Summer semester"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "LAW3112",
+                "LAW3111",
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts major"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "LAW3402",
+                {
+                    "faculty": "",
+                    "type": "Commercial law elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts elective -overload or Summer semester"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Law elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Law elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts elective"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "LAW4331",
+                "LAW4170",
+                {
+                    "faculty": "",
+                    "type": "Law elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Law elective"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "LAW4323",
+                "LAW4332",
+                {
+                    "faculty": "",
+                    "type": "Law Research Project elective*"
+                },
+                {
+                    "faculty": "",
+                    "type": "Law Elective"
+                }
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "LAW4303",
+                "LAW4309",
+                {
+                    "faculty": "",
+                    "type": "Law Elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Law Elective"
+                }
+            ],
+            "year": 4
+        }
+    ]
+}

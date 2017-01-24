@@ -1,0 +1,99 @@
+{
+    "courseAOS": "Bachelor of Education (Honours) in Primary and Secondary Health and Physical Education",
+    "courseCode": "D3001",
+    "courseName": "Education",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Education",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF1303",
+                "EDF1071",
+                "EDF1055",
+                "EDF1206",
+                "EDF1171"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF1304",
+                "EDF1072",
+                "EDF1056",
+                "EDF1205",
+                "EDF1172"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF2210",
+                "EDF2071",
+                "EDF2053",
+                "EDF2214",
+                "EDF2171",
+                "EDF2173"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF2006",
+                "EDF2072",
+                "EDF2054",
+                "EDF2213",
+                "EDF2172"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF3212",
+                "EDF3071",
+                "EDF3057",
+                "EDF3072",
+                "EDF3171"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF3211",
+                "EDF3213",
+                "EDF3054",
+                "EDF3216",
+                "EDF3172",
+                "EDF3073"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF4100",
+                "EDF4260",
+                "EDF4053",
+                "EDF4266",
+                "EDF4803"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF4101",
+                "EDF4006",
+                "EDF4056",
+                "EDF4267",
+                "EDF4804"
+            ],
+            "year": 3
+        }
+    ]
+}

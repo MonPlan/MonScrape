@@ -1,0 +1,149 @@
+{
+    "courseAOS": "Ethnomusicology and Musicology specialisation",
+    "courseCode": "A2004",
+    "courseName": "Arts and Music",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Arts",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Minor"
+                },
+                {
+                    "faculty": "",
+                    "type": "ATS1XXX Music Specialisation 1"
+                },
+                "ATS1899"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Minor"
+                },
+                {
+                    "faculty": "",
+                    "type": "ATS1XXX Music Specialisation 2"
+                },
+                "ATS1346"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Minor"
+                },
+                "ATS2804",
+                "ATS1345"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Minor"
+                },
+                "ATS2805",
+                "ATS1900"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts elective"
+                },
+                "ATS2901",
+                [
+                    "ATS2060",
+                    "ATS2687"
+                ]
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts elective"
+                },
+                "ATS2902",
+                {
+                    "faculty": "",
+                    "type": "ATS2333 Jazz History or ATS2331/ATS2332 Music Overseas Study Program or ATS2900 Writing about music: Headlines and hashtags"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts elective"
+                },
+                "ATS3144",
+                "ATS3094"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts elective"
+                },
+                "ATS3153",
+                "ATS3061"
+            ],
+            "year": 3
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "courseAOS": "Materials Engineering specialisation",
+    "courseCode": "L3002",
+    "courseName": "Laws and Engineering",
+    "courseType": "Bachelor degree (honours)/Bachelor degree (honours)",
+    "faculty": "Faculty of Law",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "LAW1111",
+                "LAW1114",
+                {
+                    "faculty": "",
+                    "type": "ENG1001 Engineering Design: lighter, faster, stronger OR ENG1002"
+                },
+                [
+                    "ENG1090",
+                    "PHS1080",
+                    "ENG1091"
+                ],
+                [
+                    "ENG1090",
+                    "PHS1080"
+                ]
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "LAW1112",
+                "LAW1113",
+                {
+                    "faculty": "",
+                    "type": "ENG1002 Engineering design: cleaner, safer, smarter OR ENG1001"
+                },
+                "ENG1091"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "LAW2101",
+                "LAW2112",
+                "ENG1003",
+                "MTE2544"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "LAW2102",
+                "LAW2111",
+                "ENG1060",
+                "ENG2091",
+                {
+                    "faculty": "",
+                    "type": "Law elective"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "LAW3112",
+                "LAW3111",
+                "MTE2541",
+                "MTE2546"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "LAW3402",
+                {
+                    "faculty": "",
+                    "type": "Commercial law elective"
+                },
+                "MTE2542",
+                "MTE2545",
+                {
+                    "faculty": "",
+                    "type": "Law elective"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Law elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Law elective"
+                },
+                "MTE3543",
+                "MTE3542"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "LAW4331",
+                "LAW4170",
+                "MTE3545",
+                "MTE3546"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "LAW4323",
+                "LAW4332",
+                "MTE3541",
+                "MTE4525"
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "LAW4303",
+                "LAW4309",
+                "MTE3547",
+                "MTE4526"
+            ],
+            "year": 4
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Law Research Project elective*"
+                },
+                {
+                    "faculty": "",
+                    "type": "Law Elective"
+                },
+                "MTE4572",
+                "MTE4571"
+            ],
+            "year": 5
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Law Elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Law Elective"
+                },
+                "MTE4573",
+                {
+                    "faculty": "",
+                    "type": "Mat eng elective"
+                }
+            ],
+            "year": 5
+        }
+    ]
+}

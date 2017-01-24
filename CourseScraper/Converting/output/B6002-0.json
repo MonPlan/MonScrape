@@ -1,0 +1,194 @@
+{
+    "courseAOS": "",
+    "courseCode": "B6002",
+    "courseName": "Master of Accounting",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit covers theoretical and practical issues relevant to forensic accounting and fraud examination. Forensic accounting is the application of investigative and analytical skills to resolve financial issues in a manner that meets standards required by courts of law. Fraud examination is the process used to resolve allegations of fraud through the accumulation of evidence, including the investigation of systems and internal controls, and the detection of fraud circumstances. The unit examines the investigative process as well as an array of tools and techniques used to investigate financial forensic issues and fraud. Topics include: methods and techniques used by forensic accountants to collect, analyse and report relevant information for supporting cases to be presented in court; the nature, prevention, detection and investigation of different types of fraud, including: financial statement fraud, fraud against the organisation, consumer fraud, and e-commerce fraud.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "If students are enrolled in course 0503 there are no prerequisites. For students enrolled in other courses the prerequisite is ACF5953.",
+                    "Prohibitions": "AFF5120, AFX5120, ACF5120, AFF5130",
+                    "SCABand": 3,
+                    "UnitCode": "ACF5120",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Forensic accounting and fraud examination"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The extent to which accounting theories provide a basis for determining the content of external financial reports and resolving accounting controversies. The subject will provide students with the opportunity to further develop skills of analysis, evaluation and synthesis in the areas of financial accounting and reporting and in the process create an awareness of some current developments in accounting regulation.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "If students are enrolled in course 0503 there are no prerequisites.For students enrolled in other courses, the prerequisite is ACF5953.",
+                    "Prohibitions": "ACC5150, AFF5150",
+                    "SCABand": 3,
+                    "UnitCode": "ACF5150",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Financial reporting issues"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Mastery Knowledge Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "In today's business environment the accountant engages with the organisation's senior managers and contributes to strategy formulation and implementation. This unit focuses on the concepts and techniques of business strategy formulation and how management accounting information systems act as a corporate control system providing information for strategic decisions.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "If students are enrolled in course 0503 there are no prerequisites. If students are enrolled in course 0748, 0790, 0826, 3843 or 4402 prerequisite is ACF5955.",
+                    "Prohibitions": "AFF5100, ACC5100",
+                    "SCABand": 3,
+                    "UnitCode": "ACF5100",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Strategic management accounting"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The focus of this unit is on the process of business valuation. Topics include capital markets issues, evaluation of industry profitability, accounting analysis including evaluation of earnings management techniques, preparation of pro-forma statements, forecasting, bankruptcy analysis, and business valuation techniques.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "If students are enrolled in courses 0503, 0504, 3818, 4401 and 4412 there are no prerequisites. If students are enrolled in course 4435 the prerequisites are ACF5903, ECF5953 and ETF5900. For students enrolled in other courses the prerequisite is ACF5953.",
+                    "Prohibitions": "ACC5130, AFF5090, AFF5130",
+                    "SCABand": 3,
+                    "UnitCode": "ACF5130",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Financial statement analysis and business valuation"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Mastery Knowledge Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The objective of this unit is to introduce students to the business aspects of integrated enterprise systems. Enterprise systems are configurable business information systems that integrate information across multiple enterprise functions and business units, support key enterprise processes, and provide an enterprise wide view of business performance. Topics include systems and technology background, business processes and process reengineering, integration of core financial and logistics processes, enterprise wide reporting, and techniques for assessing enterprise productivity and enterprise dynamics. A well-known integrated enterprise system will be extensively used in this unit.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "If students are enrolled in course B6002, 0503 or 4401 there are no prerequisites.For students enrolled in other courses, the prerequisite is ACF5904 or ACF5958.",
+                    "Prohibitions": "BUS5700, FIT5101, AFX5330",
+                    "SCABand": 3,
+                    "UnitCode": "ACF5330",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Integrated systems for business enterprises"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Capstone Experience",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

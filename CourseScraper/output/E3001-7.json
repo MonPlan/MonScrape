@@ -1,0 +1,110 @@
+{
+    "courseAOS": "Bachelor of Mechatronics Engineering (Honours)",
+    "courseCode": "E3001",
+    "courseName": "Engineering",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ENG1001",
+                "ENG1005",
+                {
+                    "faculty": "",
+                    "type": "ENG1090 (if required) or PHS1080 (if required) or 1 st year engineering elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Elective If two foundation units are required then this elective is used to complete the second of ENG1090 and PHS1080 ,"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ENG1002",
+                "ENG1003",
+                "ENG1060",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "ECE2xxx Electrical circuits"
+                },
+                "MEC2402",
+                "ECE2071",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ENG2005",
+                "TRC2201",
+                "TRC2001",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "TRC3000",
+                "TRC3200",
+                "TRC3500",
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "ECE3xxx Analogue electronics"
+                },
+                {
+                    "faculty": "",
+                    "type": "TRC3xxx Thermo-fluids and power systems"
+                },
+                "TRC3600",
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "TRC4000",
+                "TRC4800",
+                "MEC4418",
+                "Elective"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "TRC4001",
+                {
+                    "faculty": "",
+                    "type": "TRC4xxx Mechatronics and manufacturing"
+                },
+                {
+                    "faculty": "",
+                    "type": "Mechatronics technical elective"
+                },
+                "Elective"
+            ],
+            "year": 3
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "courseAOS": "Bachelor of Computer Science in Data Science",
+    "courseCode": "C2001",
+    "courseName": "Computer Science",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Information Technology",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "FIT1045",
+                "MAT1830",
+                "FIT1047",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "FIT1008",
+                "MAT1841",
+                "FIT1043",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "FIT2004",
+                "FIT2094",
+                "FIT2086",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "FIT1049",
+                "FIT2014",
+                "Elective",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "FIT3163",
+                {
+                    "faculty": "",
+                    "type": "Approved level 3 data science elective"
+                },
+                "Elective",
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "FIT3164",
+                {
+                    "faculty": "",
+                    "type": "Approved level 3 data science elective"
+                },
+                "FIT3179",
+                "Elective"
+            ],
+            "year": 2
+        }
+    ]
+}

@@ -1,0 +1,1118 @@
+{
+    "courseAOS": "Aerospace Engineering and Finance specialisations",
+    "courseCode": "E3003",
+    "courseName": "Engineering and Commerce Specialist",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "None",
+                    "Proh": "ENG1020, ENG1040, ENG1050",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit develops a process for the analysis and design of static and dynamic structures and mechanisms using engineered materials. Through a multidisciplinary approach, the fundamentals of mechanical, civil and material engineering will be explained and the basic concepts of loads and motions are introduced.Team based projects will highlight the multidisciplinary nature of modern engineering. These concepts will be practised through hands-on projects carried out by teams. Communication and teamwork skills will be developed through teamwork tasks.",
+                    "UnitCode": "ENG1001",
+                    "UnitName": "Engineering design: lighter, faster, stronger",
+                    "_id": "5878023530213215439e8eb3",
+                    "enjoyRating": 4.127877238,
+                    "enjoyResponse": 248,
+                    "learnRating": 4.097971431,
+                    "learnResponse": 124,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1090,PHS1080,ENG1005",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ACC1200,ACC1100",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "AFC1100, AFC2000, AFC2100, AFG1300, AFW1300, BFB1300, BFC2000, BFF1300, BFG1300, BFW1300,BFB1001, BFF1001, BFP1001, BFW1001",
+                    "SCABand": 3,
+                    "Sypnosis": "As a foundation, this unit introduces students to the concepts of finance, financial mathematics, investment analysis, the financial system, risk management and the relationship of finances to other commercial disciplines.",
+                    "UnitCode": "BFC1001",
+                    "UnitName": "Foundations of finance",
+                    "_id": "587800f130213215439e89fd",
+                    "enjoyRating": 4.076642336,
+                    "enjoyResponse": 234,
+                    "learnRating": 4.066666667,
+                    "learnResponse": 16,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1090,PHS1080",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "None",
+                    "Proh": "ENG1010, ENG1030",
+                    "SCABand": 2,
+                    "Sypnosis": "Fundamentals of electrical, chemical and materials engineering will be introduced and applied to provide technological solutions for real-world problems. Theory underpinning analogue and digital circuit design; energy and mass balance; materials processing and the role of functional materials will be presented. The contribution of each topic to a contemporary engineering application will be demonstrated.Team based projects will highlight the multidisciplinary nature of modern engineering. These concepts will be practiced through hands-on projects carried out by teams. Communication and teamwork skills will be developed through teamwork tasks.",
+                    "UnitCode": "ENG1002",
+                    "UnitName": "Engineering design: cleaner, safer, smarter",
+                    "_id": "5878023530213215439e8eb4",
+                    "enjoyRating": 4.03332106,
+                    "enjoyResponse": 305,
+                    "learnRating": 3.984031778,
+                    "learnResponse": 153,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "VCE Specialist Mathematics or ENG1090 (or equivalent)",
+                    "Proh": "ENG1091, MTH1030, MTH1035",
+                    "SCABand": 2,
+                    "Sypnosis": "Vector algebra and geometry: equations of lines and planes. Linear algebra: matrix operations, up to 3x3 systems of linear equations, eigenvalues and eigenvectors. Calculus: improper integrals, integration by parts. Sequences and series: fundamentals of convergence, Taylor series, use in error analysis. Ordinary differential equations: first order, second order with constant coefficients, repeated roots, simple non-homogeneous cases. Laplace transforms: elementary functions, inversion by tables; shifting; derivatives, applications to ODEs. Multivariable calculus: partial derivatives, gradient and directional derivatives, maxima and minima.",
+                    "UnitCode": "ENG1005",
+                    "UnitName": "Engineering mathematics",
+                    "_id": "5878023630213215439e8eb6",
+                    "enjoyRating": 3.728916952,
+                    "enjoyResponse": 225,
+                    "learnRating": 3.708615101,
+                    "learnResponse": 113,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "The nature and scope of economics; different economic systems; economic policy analysis and evaluation; main bodies of economic thought; examples of household, business and government economic decision problems; consumer choice, product demand and factor supply; enterprise choice, product supply and factor demand; market analyses of contemporary issues; competitive market long run equilibrium; market power; market failure and concerns for efficiency and equity; government involvement in the Australian economy.",
+                    "UnitCode": "ECC1000",
+                    "UnitName": "Principles of microeconomics",
+                    "_id": "5878018530213215439e8c58",
+                    "enjoyRating": 3.954545455,
+                    "enjoyResponse": 177,
+                    "learnRating": 3.966738983,
+                    "learnResponse": 177,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ETG1102, ETW1000, ETW1102, ETX1100, ETX9000, FIT1006, STA1010",
+                    "SCABand": 2,
+                    "Sypnosis": "Presentation and analysis of grouped and ungrouped data using tables, charts and measures of location and dispersion; standardisation techniques, including index numbers, with application to share price indices and the CPI; analysis of relationships between variables using simple and multiple regression; extensions to multiple regression, including nonlinear and categorical explanatory variables and time series data with applications to forecasting; main ideas of probability theory as a foundation for statistical inference; concept of sampling as a way of capturing uncertainty about data; estimators and their properties; constructing and interpreting confidence intervals; fundamentals of hypothesis testing, testing hypotheses about the mean, difference between means and the slope, including analysis of variance.",
+                    "UnitCode": "ETC1000",
+                    "UnitName": "Business and economic statistics",
+                    "_id": "5878025130213215439e8f1e",
+                    "enjoyRating": 4.122807018,
+                    "enjoyResponse": 121,
+                    "learnRating": 4.018583856,
+                    "learnResponse": 121,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to the use of Information Technology (IT) in modern engineering practice. Students will learn an object-oriented approach to both computer systems and software engineering for solving engineering problems.Students will work in small teams to develop a mobile application that meets a contemporary need in engineering. The fundamental stages in the software development lifecycle will be introduced, including requirements analysis, design, implementation and verification. Students will use IT tools to support the engineering process.",
+                    "UnitCode": "ENG1003",
+                    "UnitName": "Engineering mobile apps",
+                    "_id": "5878023630213215439e8eb5",
+                    "enjoyRating": 3.662162162,
+                    "enjoyResponse": 306,
+                    "learnRating": 3.75307989,
+                    "learnResponse": 153,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MEC2403",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides students with the necessary skills and knowledge in solid mechanics to confidently analyse and design engineering components and structures with particular reference to the aerospace industry. Each part of the unit contrasts theory and practical application in order to impart a practical appreciation of the knowledge gained. The role of approximate methods of analysis and their interaction with practical situations is highlighted. Constant use is made of real life problems from the aerospace industry",
+                    "UnitCode": "MAE2401",
+                    "UnitName": "Aircraft structures 1",
+                    "_id": "5878036030213215439e92f1",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed one of the following units: AFC2000, BFC2000, AFC1100 (pre 2009), AFC2100 (pre 2009), BFB1001, BFC1001, BFF1001, BFP1001, BFW1001 OR be enrolled in course B6014 or 4439 prior to undertaking this unit.",
+                    "Proh": "AFC2340",
+                    "SCABand": 3,
+                    "Sypnosis": "Topics covered in this unit include: an introduction to mathematics of finance, rates of interest, rates of discount, present and accumulated value of cash flows under fixed and variable rates of interest, equation of value, applications to debt and retirement income stream markets, in particular the Australian annuity, short-term money market and capital markets; factors affecting accumulation under the Superannuation Guarantee Scheme; economic factors affecting the yield curve, zero coupon bonds, zero coupon bond yield curve, pricing bonds, bond yields, callable bonds, effect of tax on yield, annuity bonds, hybrids, CGB futures and options on futures, interest rate risk management by immunisation, stochastic models for cash flows and stochastic rates of interest, calculation of moments of present values and accumulations, arbitrage-free asset pricing, hedging, optimal conversion of lump sum to a retirement income stream.",
+                    "UnitCode": "BFC2340",
+                    "UnitName": "Debt markets and fixed income securities",
+                    "_id": "587800f230213215439e8a00",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students to complete two units as follows: ECF1100 and ETF1100; or ECC1000 and ETC1000; or ETB1100 and ECB1101; or ECW1101 and ETW1000 or ETW1102; or ECP1100 and ETP1100.",
+                    "Proh": "AFF2631, BFF2631, AFG2631, BFG2631, AFW2631, BFB2631, BFP2631, BFW2631, AFW3044, AFC2140, BFB2140, BFF2140, BFP2140, BFW2140.",
+                    "SCABand": 3,
+                    "Sypnosis": "The aim of the unit is to introduce students to the theory and application of why and how value enhancing corporate financial decisions are made and implemented. With the emphasis on publicly listed companies, topics covered include; the corporate objective of management, investment evaluation models, valuation of equity and debt instruments, sources and types of funding, issues in risk and return, portfolio theory, asset pricing models, issues in capital structure and dividend policy and the efficiency of capital markets. The unit is designed to ensure students with the necessary skill set for making value-changing financial decisions to maximise firm value.",
+                    "UnitCode": "BFC2140",
+                    "UnitName": "Corporate finance 1",
+                    "_id": "587800f130213215439e89fe",
+                    "enjoyRating": 4.354545455,
+                    "enjoyResponse": 118,
+                    "learnRating": 3.712383812,
+                    "learnResponse": 75,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Mathematical methods (CAS) recommended.",
+                    "Proh": "ENG1602",
+                    "SCABand": 2,
+                    "Sypnosis": "General rules for software development and design. Errors. Data types, variables, expressions, control statements M-files. Numerical techniques: Gauss elimination, solution of non-linear equations, optimisation, curve fitting, numerical calculus, ordinary differential equations.",
+                    "UnitCode": "ENG1060",
+                    "UnitName": "Computing for engineers",
+                    "_id": "5878023730213215439e8eb9",
+                    "enjoyRating": 4.05248538,
+                    "enjoyResponse": 274,
+                    "learnRating": 3.934633702,
+                    "learnResponse": 137,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "MAE2xxx Aircraft performance",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed one of the following: AFC2140, BFC2140, AFC1100 (pre 2009) and AFC2100 (pre 2009) before undertaking this unit.",
+                    "Proh": "AFC2240, ACC3230",
+                    "SCABand": 3,
+                    "Sypnosis": "Topics include asset classes and returns, portfolio theory, asset pricing models, security valuation processes and techniques, market efficiency and behavioural finance, portfolio performance evaluations, hedge funds and the CFA Institute code of ethics and standards of professional conduct.",
+                    "UnitCode": "BFC2240",
+                    "UnitName": "Equities and investment analysis",
+                    "_id": "587800f230213215439e89ff",
+                    "enjoyRating": 3.88,
+                    "enjoyResponse": 106,
+                    "learnRating": 4.207021998,
+                    "learnResponse": 118,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ECC1000 is recommended",
+                    "Proh": "ECF1200, ECG1102, ECS1102, ECW1102",
+                    "SCABand": 3,
+                    "Sypnosis": "The scope of macroeconomics and its microeconomic underpinnings; aggregation problems; partial equilibrium and general equilibrium analysis; the circular flow of income as a general equilibrium model; the mutual dependence of financial flows and flows of goods and services; sectoral composition of aggregate demand; business and investment behaviour; government spending and taxation; external balance and determination of current and capital accounts; labour market and aggregate supply; money, credit, and the conduct of monetary policy; inflation and unemployment; macroeconomic effects of deregulation in Australia.",
+                    "UnitCode": "ECC1100",
+                    "UnitName": "Principles of macroeconomics",
+                    "_id": "5878018630213215439e8c59",
+                    "enjoyRating": 4.025,
+                    "enjoyResponse": 154,
+                    "learnRating": 3.913793776,
+                    "learnResponse": 154,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ENG2006",
+                    "UnitName": "Cannot Fetch Data",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "TRC2201",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces second year mechanical engineering students to the concepts of time, space, coordinate systems, particles, rigid bodies, forces, work, energy and Newton's Laws of Motion. Students will be taught the fundamentals of kinematics and kinetics of rigid bodies and systems of particles and to carry out dynamic analysis to balance systems with rotating and reciprocating masses. Students will also be introduced to 3-dimensional dynamics of rigid bodies. The fundamentals of mechanical vibration, analysis and synthesis of planar mechanisms and experimental modeling will complete the unit.",
+                    "UnitCode": "MEC2401",
+                    "UnitName": "Dynamics I",
+                    "_id": "5878038730213215439e937d",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed one of the following units: ECC2410, ETC2410, ETC3440, ETC4344, MTH2232, ETX9344 or be granted permission, or must be enrolled in Course 3822 or 4412.",
+                    "Proh": "ETF3300",
+                    "SCABand": 3,
+                    "Sypnosis": "The specification, estimation and testing of asset pricing models, including the capital asset pricing model and extensions; the statistical characteristics of financial data emphasising skewness, kurtosis and volatility aspects; volatility models such as ARCH models of financial time series, with applications to stock prices, derivatives, and exchange rates including the forecast performance of these models.",
+                    "UnitCode": "ETC3460",
+                    "UnitName": "Financial econometrics",
+                    "_id": "5878025630213215439e8f30",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ETC1000 or must be enrolled in course 3822 or 4412 or 4439",
+                    "Proh": "ETC2400, ETC3440, ECC2410",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit introduces students to the empirical analysis of relationships between economic variables. The approach is based on linear regression theory, and emphasises 'hands on' data analysis. Topics studied will include properties of least squares estimators, hypothesis testing, the choice of appropriate functional form, the use of dummy variables, issues around modelling survey data and the problems of serial correlation, heteroscedasticity and multicollinearity.",
+                    "UnitCode": "ETC2410",
+                    "UnitName": "Introductory econometrics",
+                    "_id": "5878025230213215439e8f20",
+                    "enjoyRating": 3.971153846,
+                    "enjoyResponse": 114,
+                    "learnRating": 4.000993401,
+                    "learnResponse": 114,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides the discipline basis for applications in energy, power and heat transfer. It is the core unit in the discipline of thermal sciences, providing a basic level of knowledge and problem solving capability in thermodynamics and heat transfer. The thermal sciences disciplines are central to mechanical and aerospace engineering, being used in the design and analysis of energy conversion devices and systems. Inevitably, in those conversion processes involving heat, analysis and consequent design requires an understanding of the basic heat transfer mechanisms. Thus, the unit is core to understanding aircraft propulsion and computational heat and fluid flow at later year levels.",
+                    "UnitCode": "MAE2402",
+                    "UnitName": "Thermodynamics and heat transfer",
+                    "_id": "5878036030213215439e92f2",
+                    "enjoyRating": 4.645833333,
+                    "enjoyResponse": 43,
+                    "learnRating": 4.1,
+                    "learnResponse": 18,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MEC2404",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit develops the student's physical and analytical understanding of the bases for aerodynamic flows and translates that into the ability to formulate, analyse and solve aerodynamic problems. It covers an introduction to the concept of a fluid and the continuum hypothesis. Definition of aerodynamic variables and coefficients. Introduction and description of fluid flow kinematics, and the application of this knowledge to the design and use of pumps, fans and compressors. Introduction of conservation principles and their application to the development of the governing equations for incompressible inviscid aerodynamic flows based on the ideas of control mass and control volume. Development of Bernoulli's equation. Solution of the governing Laplace equation for fundamental potential flows and the application of the principle of superposition to derive the solution of complex aerodynamic flows. Development and application of thin airfoil theory for infinite wings, and lifting line theory for finite wings. Introduction to the panel method for the analyses of general three-dimensional incompressible inviscid flow over twisted and delta wings.",
+                    "UnitCode": "MAE2404",
+                    "UnitName": "Aerodynamics I",
+                    "_id": "5878036130213215439e92f4",
+                    "enjoyRating": 4.15,
+                    "enjoyResponse": 15,
+                    "learnRating": 3.669980507,
+                    "learnResponse": 35,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "AFC2140 or BFC2140",
+                    "Proh": "AFW2341, BFW2341, BFF2341,AFC3240",
+                    "SCABand": 2,
+                    "Sypnosis": "Topics covered in this unit include the international financial system and the various types of exchange rate systems that exist around the world. Also included is the theory of the determination of exchange rates, as well as an analysis of the extent to which these theories hold in practice. A major topic area is the measurement and management of firms' foreign exchange rate risk, including theory relating to the importance of hedging against exchange risks, and the complexities involved in assessing and managing exchange rate risks in a globally connected world. In discussing the management of foreign currency transactions, the use of hedging tools such as currency futures, options and swaps is covered. The final topic is international portfolio management.",
+                    "UnitCode": "BFC3240",
+                    "UnitName": "International finance",
+                    "_id": "587800f330213215439e8a04",
+                    "enjoyRating": 4.222222222,
+                    "enjoyResponse": 95,
+                    "learnRating": 4.082258819,
+                    "learnResponse": 98,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have completed one of the following units: BFB1001, BFC1001, BFF1001, BFP1001 or BFW1001 PLUS one of the following units: BFB2140, BFC2140, BFF2140, BFP2140 or BFW2140",
+                    "Proh": "AFC3340, AFF3751, BFF3751",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit examines the institutional features of futures and options markets, the use of futures, options and other derivatives in arbitraging, trading and hedging, and prices of these instruments.",
+                    "UnitCode": "BFC2751",
+                    "UnitName": "Derivatives 1",
+                    "_id": "587800f330213215439e8a01",
+                    "enjoyRating": 4.075,
+                    "enjoyResponse": 45,
+                    "learnRating": 3.899218947,
+                    "learnResponse": 106,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MAE2404 and 18 engineering credit points at level two",
+                    "Proh": "MEC3451",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit develops further the students' physical understanding and analytical skills by including compressibility effects and the viscous nature of aerodynamic flows and translates that into the ability to formulate, analyse and solve very general aerodynamic problems. It covers control volume analysis of steady, one-dimensional, linear and nonlinear compressible flows. Nozzle flows. Steady, supersonic, two-dimensional linear and nonlinear flows. Linearized compressible subsonic and supersonic flow. Introduction to transonic and hypersonic flow. Control volume analysis of viscous incompressible flow, boundary layer flow and free shear flows like jets and wakes, including momentum integral analysis, similarity analysis and similarity solutions of these equations as they pertain to wall bounded and free shear flows. Application of this knowledge to simple design problems.",
+                    "UnitCode": "MAE3401",
+                    "UnitName": "Aerodynamics II",
+                    "_id": "5878036130213215439e92f6",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "(MTH2021 and MTH2032) or ENG2091 or ENG2092 or ENG2005 and MEC2401",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces the student to the fundamental aspects in flight dynamics. The requirements and associated equations for static equilibrium and trim are developed.  Further, these equations are treated to describe longitudinal static stability and lateral static stability. Performance and flying handling will be introduced.  The equations of motion of a rigid vehicle are developed, together with the solution of these and introduction to state space model.  The role of small perturbations, aerodynamic force and moment derivatives, aerodynamic control inputs will be established, together with linearized equations.  The description of aircraft attitude and Euler angles are presented.  The basis and formulations for lateral and longitudinal dynamics and stability will be developed. Control of aircrafts will also be introduced.",
+                    "UnitCode": "MAE3404",
+                    "UnitName": "Flight vehicle dynamics",
+                    "_id": "5878036230213215439e92f8",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "AFC2140 or BFC2140",
+                    "Proh": "AFC3140",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit extends corporate finance concepts introduced in BFC2140. Topics include equity financing, asset pricing and cost of capital, risk management, real options, capital structure, mergers and acquisitions, corporate governance and international corporate finance.",
+                    "UnitCode": "BFC3140",
+                    "UnitName": "Corporate finance 2",
+                    "_id": "587800f330213215439e8a02",
+                    "enjoyRating": 4.196078431,
+                    "enjoyResponse": 98,
+                    "learnRating": 4.055921053,
+                    "learnResponse": 45,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed one of the following before undertaking this unit: AFC2140, BFC2140, AFC2240, BFC2240, AFC2340, BFC2340.",
+                    "Proh": "AFC3540",
+                    "SCABand": 3,
+                    "Sypnosis": "Topics include the development and application of financial spreadsheets, Excel and Visual Basic programming in financial modelling, modelling company financial statements, fixed income securities analysis, asset allocation and portfolio analysis, optimization using Solver, technical analysis of financial markets, Interest rate models, option pricing models, numerical methods and risk management models.",
+                    "UnitCode": "BFC3540",
+                    "UnitName": "Modelling in finance",
+                    "_id": "587800f430213215439e8a07",
+                    "enjoyRating": 4.671875,
+                    "enjoyResponse": 53,
+                    "learnRating": 3.894675926,
+                    "learnResponse": 29,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "MEC3xxx Computer-aided design",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MAE2402 and MAE3401",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit builds on concepts in MAE3401 and relates aircraft and rocket engines to the laws of thermodynamics, various fuel-air power cycles, their real behaviour plus fuel and combustion chemistry. Efficiency and performance of aircraft engines based on piston and gas turbine platforms is examined along with piston and turboprop engines and propeller design for subsonic speed. For jets and turbofan engines, nozzle design for transonic to supersonic speed is covered, as are supersonic engines. The unit concludes with an introduction to rocket motors and their design and performance for both atmospheric and space flight.",
+                    "UnitCode": "MAE3405",
+                    "UnitName": "Flight vehicle propulsion",
+                    "_id": "5878036230213215439e92f9",
+                    "enjoyRating": 4.833333333,
+                    "enjoyResponse": 20,
+                    "learnRating": 3.904040404,
+                    "learnResponse": 20,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have completed 102 credit points and passed BFC2751 or BFF2751 or BFW2751 or BFC3240 or BFC3540 and BFB2140 or BFC2140 or BFP2140 or BFW2140 and BFC2751 or BFF2751.",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit is intended to contextualise students' acquired knowledge for solving problems in real world domestic and global situations. As a capstone unit, it should be studied in the final semester of the finance major as it draws upon and integrates learning from previous units studied. The unit encourages students to recognise that finance is a powerful tool for solving our common problems, and increasing the general wellbeing, but may give rise to ethical dilemmas. Students will be exposed to choices and conflicts requiring judgement and thus appreciate that finance can play an important role in helping society achieve it's goals.",
+                    "UnitCode": "BFC3999",
+                    "UnitName": "Finance and society",
+                    "_id": "587800f430213215439e8a08",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed one of the following units:  BFC2751 or BFF2751",
+                    "Proh": "AFF3751, BFF3751, AFC3340",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit highlights the institutional aspects, as well as the pricing and modelling, of individual derivatives contracts, including futures and forwards, options and swaps. In addition, explanations are provided of the markets where derivatives are traded and how investors evaluate contract payoffs. Examples will also be provided to show how derivatives models and principles are applied to real-world problems.",
+                    "UnitCode": "BFC3340",
+                    "UnitName": "Derivatives 2",
+                    "_id": "587800f330213215439e8a05",
+                    "enjoyRating": 4.1875,
+                    "enjoyResponse": 32,
+                    "learnRating": 4.101920251,
+                    "learnResponse": 95,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MAE2401",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit aims to develop an understanding of the analytical methodologies used in strength and stiffness assessment of aircraft structures. The unit will develop an understanding of the translation of aerodynamic and ground loading on aircraft wings and fuselage to the overall airframe.  An understanding of the concept of structural idealisation and constraint will be developed along with real-world limitations. The principles of stressed skin construction will be considered in detail. The unit aims to develop an understanding of the analysis and design of structural problems common in the aerospace industry. It will provide students with the tools necessary to analyse aircraft structures.",
+                    "UnitCode": "MAE3407",
+                    "UnitName": "Aircraft structures II",
+                    "_id": "5878036330213215439e92fb",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "MAE4xxx Flight vehicle design",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "MAE4xxx Aerospace computational mechanics",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "18 engineering credit points at level three",
+                    "Proh": "MAE4901",
+                    "SCABand": 2,
+                    "Sypnosis": "Students undertake a self-guided learning task in the form of a project.Projects may be a single semester or (in conjunction with MEC4402) a full year in length [Enrolment by Departmental approval only]. Projects will consist of either a design, theoretical, or experimental investigation. The project may be undertaken either within the Department or externally with a company or research organization. In either case, an academic member of staff will act as the supervisor. While some projects may benefit from group based work it is expected that students will work individually on each project.NB. Before work is started on the project a safety induction and risk assessment process will be completed.",
+                    "UnitCode": "MEC4401",
+                    "UnitName": "Final year project",
+                    "_id": "5878038a30213215439e938d",
+                    "enjoyRating": 3.939393939,
+                    "enjoyResponse": 30,
+                    "learnRating": 4.086022311,
+                    "learnResponse": 25,
+                    "placeholder": false
+                }
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MAE3404",
+                    "Proh": "TRC3600, MEC3457",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit commences with the modelling of various dynamic engineering systems, followed by the analysis of their transient and steady-state responses. More sophisticated analytical methods such as root locus and frequency response will be explored and will build the foundation for controller design in the future. Modelling via state-space methods will also be briefly covered.",
+                    "UnitCode": "MAE3408",
+                    "UnitName": "Aerospace control",
+                    "_id": "5878036330213215439e92fc",
+                    "enjoyRating": 3.916666667,
+                    "enjoyResponse": 19,
+                    "learnRating": 3.166666667,
+                    "learnResponse": 12,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": "Not Offered in 2017",
+                    "Preqs": "(MAE1041 or MAE2405) and MAE3401",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit covers a more advanced study of the aerodynamics of aircraft wings and aerofoil sections than introduced in previous units. Topics are covered in sufficient depth that students will understand the essential aerodynamic principles applied to aircraft wing design. The notable features of wing and airfoil aerodynamics are outlined, including transition and the analysis of viscous flows. Methods for the analysis and prediction of airfoil and finite wing aerodynamics are covered, together with an introduction to procedures for quantitative design.",
+                    "UnitCode": "MAE4409",
+                    "UnitName": "Wing design",
+                    "_id": "5878036430213215439e9300",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MAE3407",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will explain why aircraft structures/components fail, how engineers can learn from such failure and design to prevent it. Both fundamental and applied aspects of failure of aircraft structural components will be covered. The unit will detail the damage tolerance design philosophy, and how it fits into airworthiness requirements as described in the relevant Standard (JSSG 2006). The unit focuses on how fracture mechanics principles and modern fatigue crack growth laws are used to meet JSSG2006. To illustrate the effect of cracking on service aircraft we will consider flaw growth in a range of aircraft undergoing both in-service flight loading and full scale fatigue tests.",
+                    "UnitCode": "MAE4408",
+                    "UnitName": "Damage tolerance and airworthiness",
+                    "_id": "5878036430213215439e92ff",
+                    "enjoyRating": 2.75,
+                    "enjoyResponse": 12,
+                    "learnRating": 4.5,
+                    "learnResponse": 2,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MEC4401",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "In this unit, together with MEC4401, students undertake a self-guided learning task in the form of a project. It is a full year project of either a major design, theoretical, or experimental investigation. The project may be undertaken either within the department or externally with a company or research organisation. In either case, an academic member of staff will act as the supervisor. While some projects may benefit from group based work it is expected that students will work individually on each project.",
+                    "UnitCode": "MEC4402",
+                    "UnitName": "Final year project - Thesis",
+                    "_id": "5878038b30213215439e938e",
+                    "enjoyRating": 4.116477273,
+                    "enjoyResponse": 49,
+                    "learnRating": 4.383493188,
+                    "learnResponse": 47,
+                    "placeholder": false
+                }
+            ],
+            "year": 4
+        }
+    ]
+}

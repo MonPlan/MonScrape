@@ -1,0 +1,102 @@
+{
+    "courseAOS": "Bachelor of Marketing ",
+    "courseCode": "B2003",
+    "courseName": "Business Specialist",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "MKF1120",
+                "ACF1200",
+                "ECF1100",
+                "ETF1100"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "MGF1010",
+                "MKF2111",
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "MKF2801",
+                "MKF2121",
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "MKF2131",
+                {
+                    "faculty": "",
+                    "type": "Marketing elective unit from specified list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "MKF3121",
+                "MKF3461",
+                {
+                    "faculty": "",
+                    "type": "Marketing elective unit from specified list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "MKF3131",
+                "BTF3181",
+                {
+                    "faculty": "",
+                    "type": "Marketing elective unit from specified list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 2
+        }
+    ]
+}

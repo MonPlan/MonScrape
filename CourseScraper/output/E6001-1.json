@@ -1,0 +1,77 @@
+{
+    "courseAOS": "Master of Advanced Engineering (2 years) - Entry level 1",
+    "courseCode": "E6001",
+    "courseName": "Advanced Engineering",
+    "courseType": "Expert master degree",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ENG5001",
+                {
+                    "faculty": "",
+                    "type": "Part B. Enhancement unit"
+                },
+                {
+                    "faculty": "",
+                    "type": "Part C. Technical elective unit"
+                },
+                {
+                    "faculty": "",
+                    "type": "Part C. Technical elective unit"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ENG5002",
+                {
+                    "faculty": "",
+                    "type": "Part B. Enhancement unit"
+                },
+                {
+                    "faculty": "",
+                    "type": "Part C. Technical elective unit"
+                },
+                {
+                    "faculty": "",
+                    "type": "Part C. Technical elective unit"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Part D. Discipline core unit"
+                },
+                {
+                    "faculty": "",
+                    "type": "Part D. Discipline core unit"
+                },
+                "ENG9001",
+                "ENG5003"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Part D. Discipline core unit"
+                },
+                {
+                    "faculty": "",
+                    "type": "Part D. Discipline core unit"
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

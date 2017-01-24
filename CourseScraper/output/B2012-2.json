@@ -1,0 +1,137 @@
+{
+    "courseAOS": "International business specialisation",
+    "courseCode": "B2012",
+    "courseName": "Business Specialist and Arts",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "units": [
+                "BTF1010",
+                "MGF1010",
+                [
+                    "ACF1100",
+                    "ACF1200"
+                ],
+                "ECF1100"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "units": [
+                "MKF1120",
+                "ETF1100",
+                "MGF2351",
+                "BFF1001"
+            ],
+            "year": 1
+        },
+        {
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Study Abroad BEX3012 Industry based learning project (12 points) BEX3112 Industry based learning project (12 points) BEX3350 Investigative project in business BEX3450 Investigative project in business (12 points)"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                "ACF2400",
+                "MGF3681",
+                "ETX2250"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                "BEX3000",
+                {
+                    "faculty": "",
+                    "type": "BIB elective unit (replaces BEH unit credited towards BA) drawn from international business stream units"
+                }
+            ],
+            "year": 2
+        }
+    ]
+}

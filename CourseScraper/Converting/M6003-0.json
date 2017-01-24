@@ -1,0 +1,44 @@
+{
+    "courseCode": "M6003",
+    "courseName": "Master of Biomedical and Health Science",
+    "courseAOS": "",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+              "BMS5001",
+              "BMS5002"
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+              ["BMS5003", "BMS25004", "BMS5005", "BMS5006", "BMS5007"],
+              ["BMS5003", "BMS25004", "BMS5005", "BMS5006", "BMS5007"],
+              ["BMS5003", "BMS25004", "BMS5005", "BMS5006", "BMS5007"],
+              ["BMS5003", "BMS25004", "BMS5005", "BMS5006", "BMS5007"]
+          ]
+        }, {
+          "code": "S2-SS-02",
+          "year": 1,
+          "units": [
+              "BMS5008"
+          ]
+        }, {
+          "code": "S1-01",
+          "year": 1,
+          "units": [
+              "BMS5009"
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 1,
+          "units": [
+              "BMS5010"
+          ]
+        }
+    ]
+}

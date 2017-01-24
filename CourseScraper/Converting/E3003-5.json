@@ -1,0 +1,110 @@
+{
+    "courseCode": "E3003",
+    "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist",
+    "courseAOS": "Aerospace Engineering/Finance",
+    "faculty": "Faculty of Engineering",
+    "courseType": "Double Undergraduate",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+            ["ENG1001","ENG1002"],
+            ["ENG1003","ENG1005"],
+            "ENG1060",
+            "ETC1000"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+            ["ENG1002","ENG1001"],
+            ["ENG1003","ENG1005"],
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Engineering"
+            },
+            "ECC1000"
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 1,
+          "units": [
+            "CHM1011",
+            "CHE2161",
+            "BFC1001",
+            "ECC1100"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 1,
+          "units": [
+            "CHE2162",
+            "ENG2005",
+            "ETC2410",
+            "BFC2140"
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 2,
+          "units": [
+            "CHE2164",
+            "CHE3167",
+            ["ACC100", "ACC1200"],
+            "BFC3140"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 2,
+          "units": [
+            "CHE3161",
+            "CHE3162",
+            "BFC3540",
+            "BFC2751"
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 3,
+          "units": [
+            "CHE3161",
+            "CHE3165",
+            "BFC3540",
+            "BFC2751"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 3,
+          "units": [
+            "CHE3166",
+            "CHE3164",
+            "BFC3240",
+            "BFC3340"
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 4,
+          "units": [
+            "CHE4161",
+            "CHE4180",
+            "BFC2240"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 4,
+          "units": [
+            "CHE4162",
+            "CHE4170",
+            "BFC3999"
+          ]
+        }
+    ]
+}

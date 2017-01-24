@@ -1,0 +1,151 @@
+{
+    "courseAOS": "6 Point Practical Project",
+    "courseCode": "M6025",
+    "courseName": "Master of Biomedical and Health Science",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "To be taken concurrently with MPH5041 together they are prerequisites for clinical epidemiology elective units.Contents: rates, sources of data, descriptive & analytical epidemiology, epidemiological study designs, critical appraisal of literature, screening, prevention, exposure assessment, outbreak investigation, confounding & bias.Students are expected to be competent at mathematics to a year 7 level",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "MPH5040",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Off-campus)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introductory epidemiology"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "EMP5002",
+                    "UnitName": "Cannot Fetch Data"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "EMP5005",
+                    "UnitName": "Cannot Fetch Data"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "EMP5014",
+                    "UnitName": "Cannot Fetch Data"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "EMP5003",
+                    "UnitName": "Cannot Fetch Data"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "EMP5004",
+                    "UnitName": "Cannot Fetch Data"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "EMP5007",
+                    "UnitName": "Cannot Fetch Data"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "EMP5009",
+                    "UnitName": "Cannot Fetch Data"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "EMP5010",
+                    "UnitName": "Cannot Fetch Data"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "EMP5015",
+                    "UnitName": "Cannot Fetch Data"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 2
+        }
+    ]
+}

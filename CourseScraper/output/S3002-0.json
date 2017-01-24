@@ -1,0 +1,170 @@
+{
+    "courseAOS": "Bachelor of Science Advanced \u2013 Research (Honours)",
+    "courseCode": "S3002",
+    "courseName": "Science Advanced - Research",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Science",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science Major Approved Level 1 Sequence 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "Approved Level 1 Sequence 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "One of: STA1010, MTH1020, MTH1030 or elective Or science unit if already taken as part of another level one sequence (this unit can be taken in either semester one or two)"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science Major Approved Level 1 Sequence 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "Approved Level 1 Sequence 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science elective"
+                },
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science Major Level 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Minor or second major"
+                },
+                "Elective",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science Major Level 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Minor or second major"
+                },
+                "SCI2015",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science Major Level 3 (Research project unit)"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science Major Level 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Extended major or second major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Extended major or second major"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science Major Level 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science Major Level 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Extended major or second major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Extended major or second major"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Honours"
+                },
+                {
+                    "faculty": "",
+                    "type": "Honours"
+                },
+                {
+                    "faculty": "",
+                    "type": "Honours"
+                },
+                {
+                    "faculty": "",
+                    "type": "Honours"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Honours"
+                },
+                {
+                    "faculty": "",
+                    "type": "Honours"
+                },
+                {
+                    "faculty": "",
+                    "type": "Honours"
+                },
+                {
+                    "faculty": "",
+                    "type": "Honours"
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

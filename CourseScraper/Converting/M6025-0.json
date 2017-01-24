@@ -1,0 +1,52 @@
+{
+    "courseCode": "M6025",
+    "courseName": "Master of Biomedical and Health Science",
+    "courseAOS": "6 Point Practical Project",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+              "MPH5040",
+              "EMP5002"
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+              "EMP5005",
+              "EMP5014"
+          ]
+        }, {
+          "code": "S1-01",
+          "year": 1,
+          "units": [
+              "EMP5003",
+              "EMP5004"
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 1,
+          "units": [
+              "EMP5007",
+              "EMP5009"
+          ]
+        }, {
+          "code": "S1-01",
+          "year": 2,
+          "units": [
+              "EMP5010",
+              {"type": "Elective", "faculty":"Faculty of Medicine, Nursing and Health Sciences"}
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 2,
+          "units": [
+              "EMP5015",
+              {"type": "Elective", "faculty":"Faculty of Medicine, Nursing and Health Sciences"}              
+          ]
+        }
+    ]
+}

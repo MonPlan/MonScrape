@@ -1,0 +1,894 @@
+{
+    "courseAOS": "Actuarial Science and Computer Science specialisations",
+    "courseCode": "B2009",
+    "courseName": "Commerce Specialist and Computer Science",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ETG1102, ETW1000, ETW1102, ETX1100, ETX9000, FIT1006, STA1010",
+                    "SCABand": 2,
+                    "Sypnosis": "Presentation and analysis of grouped and ungrouped data using tables, charts and measures of location and dispersion; standardisation techniques, including index numbers, with application to share price indices and the CPI; analysis of relationships between variables using simple and multiple regression; extensions to multiple regression, including nonlinear and categorical explanatory variables and time series data with applications to forecasting; main ideas of probability theory as a foundation for statistical inference; concept of sampling as a way of capturing uncertainty about data; estimators and their properties; constructing and interpreting confidence intervals; fundamentals of hypothesis testing, testing hypotheses about the mean, difference between means and the slope, including analysis of variance.",
+                    "UnitCode": "ETC1000",
+                    "UnitName": "Business and economic statistics",
+                    "_id": "5878025130213215439e8f1e",
+                    "enjoyRating": 4.122807018,
+                    "enjoyResponse": 121,
+                    "learnRating": 4.018583856,
+                    "learnResponse": 121,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "The nature and scope of economics; different economic systems; economic policy analysis and evaluation; main bodies of economic thought; examples of household, business and government economic decision problems; consumer choice, product demand and factor supply; enterprise choice, product supply and factor demand; market analyses of contemporary issues; competitive market long run equilibrium; market power; market failure and concerns for efficiency and equity; government involvement in the Australian economy.",
+                    "UnitCode": "ECC1000",
+                    "UnitName": "Principles of microeconomics",
+                    "_id": "5878018530213215439e8c58",
+                    "enjoyRating": 3.954545455,
+                    "enjoyResponse": 177,
+                    "learnRating": 3.966738983,
+                    "learnResponse": 177,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "VCE Mathematics Methods or Specialist Mathematics units 3 & 4 with a study score of 25 or MTH1010.Note: For 2016 Further Mathematics with a study score of 35 will be accepted.",
+                    "Proh": "FIT1029",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces programming fundamentals and the Python language to students. The unit provides a foundational understanding of program design and implementation of algorithms to solve simple problems. Fundamental programming control structures, built in and complex datatypes and mechanisms for modularity will be presented in Python.Topics covered will include basic input and output, program control structures, basic data structures and modular program structure. Problem-solving strategies and techniques for algorithm development, iteration and recursion, algorithm efficiency and the limitations of algorithms will be introduced.",
+                    "UnitCode": "FIT1045",
+                    "UnitName": "Algorithms and programming fundamentals in python",
+                    "_id": "5878027430213215439e8fa9",
+                    "enjoyRating": 3.47826087,
+                    "enjoyResponse": 90,
+                    "learnRating": 3.390116526,
+                    "learnResponse": 45,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "VCE Specialist Mathematics or Mathematical Methods units 3 and 4 with a study score of at least 25 or Further maths with a study score of at least 35.",
+                    "Proh": "MAT1077, MTH1112",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces fundamental discrete mathematics topics including combinatorics, sets, relations and functions; methods of logic and proof, especially proof by induction; probability theory, Bayes' theorem; recursion; recurrence relations; trees and other graphs. It establishes the mathematical basis required for studies in Computer Science and Software Engineering.",
+                    "UnitCode": "MAT1830",
+                    "UnitName": "Discrete mathematics for computer science",
+                    "_id": "5878036a30213215439e9317",
+                    "enjoyRating": 3.7,
+                    "enjoyResponse": 14,
+                    "learnRating": 4.00299062,
+                    "learnResponse": 44,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ECC1000 is recommended",
+                    "Proh": "ECF1200, ECG1102, ECS1102, ECW1102",
+                    "SCABand": 3,
+                    "Sypnosis": "The scope of macroeconomics and its microeconomic underpinnings; aggregation problems; partial equilibrium and general equilibrium analysis; the circular flow of income as a general equilibrium model; the mutual dependence of financial flows and flows of goods and services; sectoral composition of aggregate demand; business and investment behaviour; government spending and taxation; external balance and determination of current and capital accounts; labour market and aggregate supply; money, credit, and the conduct of monetary policy; inflation and unemployment; macroeconomic effects of deregulation in Australia.",
+                    "UnitCode": "ECC1100",
+                    "UnitName": "Principles of macroeconomics",
+                    "_id": "5878018630213215439e8c59",
+                    "enjoyRating": 4.025,
+                    "enjoyResponse": 154,
+                    "learnRating": 3.913793776,
+                    "learnResponse": 154,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ACB1002, AFF1121, ACF1121, AFG1002, ACG1002, AFC1030, AFW1002, ACW1002, ACF1100, ACP1100.",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit provides students with an introduction to financial accounting guided by the Conceptual Framework and Accounting Standards. Emphasis is placed on accounting processes, practices and policies that enable financial statements to be prepared. Students will integrate theoretical and technical knowledge learned and exercise judgement to explore accounting issues.",
+                    "UnitCode": "ACC1100",
+                    "UnitName": "Introduction to financial accounting",
+                    "_id": "5877ff8230213215439e8447",
+                    "enjoyRating": 4.463636364,
+                    "enjoyResponse": 120,
+                    "learnRating": 4.344208038,
+                    "learnResponse": 120,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "((One of FIT1040, ECE2071, FIT1002) and FIT1029) or FIT1045Students beginning FIT1008 are assumed to be able to: Identify the main components of an algorithm (variables, operators, expressions, etc), and write the algorithm associated to the specification of a simple problem. Be able to translate a simple algorithm into a program containing variable declarations, selection, repetition, and lists and/or arrays.",
+                    "Proh": "CSE1303, CSC1030, FIT1015, FIT2085",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to core problem-solving, analytical skills, and methodologies useful for developing flexible, robust, and maintainable software. In doing this it covers a range of conceptual levels, from high-level algorithms and data-structures, down to the machine models and simple assembly language programming. Topics include data types; data structures; algorithms; algorithmic complexity; recursion; and translation to assembly language.",
+                    "UnitCode": "FIT1008",
+                    "UnitName": "Introduction to computer science",
+                    "_id": "5878027130213215439e8fa1",
+                    "enjoyRating": 3.970238095,
+                    "enjoyResponse": 135,
+                    "learnRating": 4.002233684,
+                    "learnResponse": 68,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "VCE Specialist Mathematics or Mathematical Methods units 3 and 4 with a study score of at least 25 or Further maths with a study score of at least 35.",
+                    "Proh": "ENG1090, MTH1020, MAT2003",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit covers linear algebra (vectors, equations of lines and planes, solutions of simultaneous equations, determinates, Gauss elimination, Gauss-Jordan method), calculus topics (differentiation, parametric differentiation, fundamental theorem of calculus, and numerical integration), an introduction to multivariable calculus (functions of several variables, partial derivatives, tangent planes and directional derivatives), and the construction of splines and Taylor series expansions are also covered.",
+                    "UnitCode": "MAT1841",
+                    "UnitName": "Continuous mathematics for computer science",
+                    "_id": "5878036a30213215439e9318",
+                    "enjoyRating": 4.045454545,
+                    "enjoyResponse": 88,
+                    "learnRating": 4.132481962,
+                    "learnResponse": 47,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed ETC1000 or must be enrolled in course 3822 or 4412.",
+                    "Proh": "ETF2700, ECC2440. Students are also prohibited from enrolling in ETC2440 if they have passed both MTH2010 and MTH2021.",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit introduces mathematical techniques that are invaluable tools for econometrics, economics, finance, and business. Topics covered include matrix algebra, linear simultaneous equations and the LU decomposition, eigenvalues and the Schur decomposition, random vectors; optimisation, including the Lagrange multiplier method, partial differentiation, multiple integration, difference and differential equations. Some emphasis will be given to the use of computer programs for performing matrix calculations.",
+                    "UnitCode": "ETC2440",
+                    "UnitName": "Mathematics for economics and business",
+                    "_id": "5878025330213215439e8f23",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ETC1000 or must be enrolled in course 3822 or 4412 or 4439",
+                    "Proh": "ETC2400, ETC3440, ECC2410",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit introduces students to the empirical analysis of relationships between economic variables. The approach is based on linear regression theory, and emphasises 'hands on' data analysis. Topics studied will include properties of least squares estimators, hypothesis testing, the choice of appropriate functional form, the use of dummy variables, issues around modelling survey data and the problems of serial correlation, heteroscedasticity and multicollinearity.",
+                    "UnitCode": "ETC2410",
+                    "UnitName": "Introductory econometrics",
+                    "_id": "5878025230213215439e8f20",
+                    "enjoyRating": 3.971153846,
+                    "enjoyResponse": 114,
+                    "learnRating": 4.000993401,
+                    "learnResponse": 114,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "FIT1031 and FIT2078",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit introduces students to fundamentals of computer systems, networks and security. It provides basic knowledge of computer organisation and architecture, operating systems, networking architecture, technology and operation. It introduces the concepts of security goals for protecting common modern computer systems and communication networks from adversaries and the deployment of suitable countermeasures to achieve these goals.",
+                    "UnitCode": "FIT1047",
+                    "UnitName": "Introduction to computer systems, networks and security",
+                    "_id": "5878027430213215439e8fab",
+                    "enjoyRating": 3.880434783,
+                    "enjoyResponse": 118,
+                    "learnRating": 3.864349817,
+                    "learnResponse": 118,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "One of FIT1008, FIT1015, FIT2085 or CSE1303 and 6 points of Level 1 mathematics.",
+                    "Proh": "CSE2304, FIT2009",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to problem solving concepts and techniques fundamental to the science of programming. In doing this it covers problem specification, algorithmic design, analysis and implementation. Detailed topics include analysis of best, average and worst-case time and space complexity; introduction to numerical algorithms; recursion; advanced data structures such as heaps and B-trees; hashing; sorting algorithms; searching algorithms; graph algorithms; and numerical computing.",
+                    "UnitCode": "FIT2004",
+                    "UnitName": "Algorithms and data structures",
+                    "_id": "5878027630213215439e8fb3",
+                    "enjoyRating": 4.077380952,
+                    "enjoyResponse": 49,
+                    "learnRating": 3.920413012,
+                    "learnResponse": 25,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students to complete two units as follows: ECF1100 and ETF1100; or ECC1000 and ETC1000; or ETB1100 and ECB1101; or ECW1101 and ETW1000 or ETW1102; or ECP1100 and ETP1100.",
+                    "Proh": "AFF2631, BFF2631, AFG2631, BFG2631, AFW2631, BFB2631, BFP2631, BFW2631, AFW3044, AFC2140, BFB2140, BFF2140, BFP2140, BFW2140.",
+                    "SCABand": 3,
+                    "Sypnosis": "The aim of the unit is to introduce students to the theory and application of why and how value enhancing corporate financial decisions are made and implemented. With the emphasis on publicly listed companies, topics covered include; the corporate objective of management, investment evaluation models, valuation of equity and debt instruments, sources and types of funding, issues in risk and return, portfolio theory, asset pricing models, issues in capital structure and dividend policy and the efficiency of capital markets. The unit is designed to ensure students with the necessary skill set for making value-changing financial decisions to maximise firm value.",
+                    "UnitCode": "BFC2140",
+                    "UnitName": "Corporate finance 1",
+                    "_id": "587800f130213215439e89fe",
+                    "enjoyRating": 4.354545455,
+                    "enjoyResponse": 118,
+                    "learnRating": 3.712383812,
+                    "learnResponse": 75,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must complete one of the following units: ETC1000, ETW1000, ETX1100, FIT1006 or STA1010 before undertaking this unit",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit focuses on the tools for a large, digital data world, including the building blocks for business analytics, modern insurance and risk assessment.  A computational approach is employed to teach the concepts of statistics, and decision making in the presence of uncertainty.  An important aspect will be to develop skills for compiling data from multiple sources to support better decisions and models. Topics covered will include simulation and randomisation methods, decision and credibility theory, data wrangling and visualisation, methods for time series, Bayesian analysis and models for risk and loss distributions.",
+                    "UnitCode": "ETC2420",
+                    "UnitName": "Statistical thinking",
+                    "_id": "5878025230213215439e8f21",
+                    "enjoyRating": 3.111111111,
+                    "enjoyResponse": 27,
+                    "learnRating": 3.348679099,
+                    "learnResponse": 27,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "One of FIT1045, FIT1048, FIT1051, ENG1003 or an equivalent introductory programming unit or (FIT1040 and FIT1029), and one of MAT1830, MTH1030, ENG1005 or equivalent.Students are expected to have basic competence in computer programming.",
+                    "Proh": "CSE2303",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces formal languages, models of computation, and computational complexity. It looks at what computers can and cannot compute. Topics include finite state automata, regular expressions, grammars, pushdown automata, computable functions, Turing machines, polynomial-time reductions, complexity classes P and NP, and NP-completeness. Skills at writing formal proofs will be developed.",
+                    "UnitCode": "FIT2014",
+                    "UnitName": "Theory of computation",
+                    "_id": "5878027730213215439e8fb6",
+                    "enjoyRating": 3.990909091,
+                    "enjoyResponse": 113,
+                    "learnRating": 4.035453272,
+                    "learnResponse": 57,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Completion of 12 points of FIT units.",
+                    "Proh": "FIT2003",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides a practical and theoretical introduction to what it means to be an IT professional today. Students will encounter a range of issues relevant to professional practice in the workplace, as well as an understanding of the wider responsibilities that professionals are called upon to uphold in society. Topics addressed include: organisational and professional communication; mindfulness; teamwork; the nature of the IT professions; the role of professional associations; problem solving and information use; cross-cultural awareness; personal and professional ethics and codes of practice.",
+                    "UnitCode": "FIT1049",
+                    "UnitName": "IT professional practice",
+                    "_id": "5878027530213215439e8fad",
+                    "enjoyRating": 3.482545045,
+                    "enjoyResponse": 188,
+                    "learnRating": 3.664236475,
+                    "learnResponse": 63,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "BFC2000",
+                    "UnitName": "Cannot Fetch Data",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed one of the following units: AFC2000, BFC2000, AFC1100 (pre 2009), AFC2100 (pre 2009), BFB1001, BFC1001, BFF1001, BFP1001, BFW1001 OR be enrolled in course B6014 or 4439 prior to undertaking this unit.",
+                    "Proh": "AFC2340",
+                    "SCABand": 3,
+                    "Sypnosis": "Topics covered in this unit include: an introduction to mathematics of finance, rates of interest, rates of discount, present and accumulated value of cash flows under fixed and variable rates of interest, equation of value, applications to debt and retirement income stream markets, in particular the Australian annuity, short-term money market and capital markets; factors affecting accumulation under the Superannuation Guarantee Scheme; economic factors affecting the yield curve, zero coupon bonds, zero coupon bond yield curve, pricing bonds, bond yields, callable bonds, effect of tax on yield, annuity bonds, hybrids, CGB futures and options on futures, interest rate risk management by immunisation, stochastic models for cash flows and stochastic rates of interest, calculation of moments of present values and accumulations, arbitrage-free asset pricing, hedging, optimal conversion of lump sum to a retirement income stream.",
+                    "UnitCode": "BFC2340",
+                    "UnitName": "Debt markets and fixed income securities",
+                    "_id": "587800f230213215439e8a00",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "(ENG1003 and ENG1060) or one of FIT1045, FIT1048, FIT1051, FIT1008 or FIT2071",
+                    "Proh": "FIT2024",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to object-oriented design principles and their application to the construction of quality software. Students will learn the fundamental concepts that underlie modern object-oriented languages, and will learn how to implement their designs using at least one. Students will also learn how to use standard notation to illustrate their designs.",
+                    "UnitCode": "FIT2099",
+                    "UnitName": "Object oriented design and implementation",
+                    "_id": "5878027e30213215439e8fd4",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "BCS Approved L3 Elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed ETC1000, or be enrolled in course 4439.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will introduce students to basic financial and stochastic techniques used in actuarial work, and will give an overview of some of the areas in which actuaries are currently involved. The student will be introduced to the basic concepts involved in assessing and pricing future risks and pricing insurance products, using past data.",
+                    "UnitCode": "ETC2430",
+                    "UnitName": "Actuarial statistics",
+                    "_id": "5878025230213215439e8f22",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation unit 1 from a list",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "FIT1008",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Ability to code in differently constructed programming languages is analogous to speaking in different natural languages with varying grammars. Similar to natural languages, programming languages from different paradigms (styles) vary in their expressiveness and efficiency. One programming language may require many screens-full of complex code to accomplish a task for which another requires but a few expressive lines of code. Therefore, understanding the design principles of programming languages enables computational problems to be implemented in drastically different and powerful ways; leading, in some cases, to solutions that are more elegant, correct, maintainable, efficient and/or extensible.This unit examines a selection of programming languages and paradigms and explores the evolution of language design from low-level paradigms that are closer to the execution model of the machine, to more high-level declarative paradigms that allow programmers to model a problem precisely rather than specify its solution. The unit covers paradigms such as functional and logic programming, comparing and contrasting them to programming styles that students are already familiar with, including object-oriented, imperative and procedural programming paradigms. Topics include specification and data-modeling techniques (covering types and polymorphism, mutability-versus-purity, state management, and side-effects) and different models of execution such as strict-versus-lazy evaluation.The unit provides practical experience with a variety of non-procedural, non-object-oriented programming languages and discusses the influence of programming language theory on the design of current main-stream computer languages, and how the theory translates to practice.",
+                    "UnitCode": "FIT2102",
+                    "UnitName": "Programming paradigms",
+                    "_id": "5878027f30213215439e8fd7",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": "Not Offered in 2017",
+                    "Preqs": "FIT2004 and FIT2102",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This advanced unit builds on the concepts learnt in introductory algorithms and data structures study. It covers the latest algorithmic paradigms and problem-solving techniques required to address real-world programming challenges. It explores, in depth, the design and analysis of space-efficient/compact data structures and effective problem solving strategies to be used with them. Topics include advanced sorting and searching algorithms, succinct/compact trees, string and graph data structures, advanced hashing and table lookup methods",
+                    "UnitCode": "FIT3155",
+                    "UnitName": "Advanced data structures and algorithms",
+                    "_id": "5878028b30213215439e9004",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation unit 2 from a list",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation unit 3 from a list",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": "Not Offered in 2017",
+                    "Preqs": "FIT2004",
+                    "Proh": "FIT3144",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides practical experience in researching, designing, developing and testing a substantial computer science project. Projects are generally software-based, although sometimes they may involve hardware development or investigation of theory. Projects cover the whole process of software (or hardware) development, from analysis through design to implementation and testing. Comprehensive written documentation on the project is required. Students are assigned in groups to a project supervisor. There are no lectures in this unit, although students will be expected meet weekly with their project supervisor, and attend 2-hour project management seminars during the first six weeks.The unit is the first part of a 12-credit point project sequence; the second part and exit point for the project is FIT3162.",
+                    "UnitCode": "FIT3161",
+                    "UnitName": "Computer science project 1",
+                    "_id": "5878028d30213215439e9009",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "BCS Approved L3 Elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Specialisation unit 4 from a list",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "AFC2340 or ETC2430 or BFC2340 or by permission.",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "The modelling and valuation of cash flows dependent on death, survival, or other uncertain risks.",
+                    "UnitCode": "ETC3530",
+                    "UnitName": "Contingencies in insurance and pensions",
+                    "_id": "5878025630213215439e8f34",
+                    "enjoyRating": 4.033333333,
+                    "enjoyResponse": 36,
+                    "learnRating": 4.172888386,
+                    "learnResponse": 36,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": "Not Offered in 2017",
+                    "Preqs": "FIT3161",
+                    "Proh": "FIT3144",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides practical experience in researching, designing, developing and testing a non-trivial computer science project. Projects are generally software-based, although sometimes they may involve hardware development or investigation of theory. Projects cover the whole process of software (or hardware) development, from analysis through design to implementation and testing. Comprehensive written documentation on the project is required. Students are assigned in groups to a project supervisor. There are no lectures in this unit, although students will be expected to attend regular meetings with their project supervisor.The unit is the second part of a 12-credit point project sequence; the first part and entry point for the project is FIT3161.",
+                    "UnitCode": "FIT3162",
+                    "UnitName": "Computer science project 2",
+                    "_id": "5878028d30213215439e900a",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "FIT2004C or C++ programming language",
+                    "Proh": "FIT4001, CSE4333",
+                    "SCABand": 2,
+                    "Sypnosis": "Modern computer systems contain parallelism in both hardware and software. This unit covers parallelism in both general purpose and application specific computer architectures and the programming paradigms that allow parallelism to be exploited in software. The unit examines shared memory and message passing paradigms in hardware and software; concurrency, multithreading and synchronicity; parallel, clustered and distributed supercomputing models, languages and software tools and development environments. Students will program in these paradigms.",
+                    "UnitCode": "FIT3143",
+                    "UnitName": "Parallel computing",
+                    "_id": "5878028a30213215439e8ffd",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

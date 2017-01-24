@@ -1,0 +1,115 @@
+{
+    "courseCode": "E3003",
+    "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist",
+    "courseAOS": "Environmental Engineering/Finance",
+    "faculty": "Faculty of Engineering",
+    "courseType": "Double Undergraduate",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+            ["ENG1001","ENG1002"],
+            ["ENG1003","ENG1005"],
+            "ENG1060",
+            "ETC1000"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+            ["ENG1002","ENG1001"],
+            ["ENG1003","ENG1005"],
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Engineering"
+            },
+            "ECC1000"
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 1,
+          "units": [
+            "ECC2800",
+            "BIO2011",
+            "BFC1001",
+            "ECC1100"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 1,
+          "units": [
+            "ENG2055",
+            "CHE2162",
+            "ETC2410",
+            "BFC2140"
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 2,
+          "units": [
+            "ENG3048",
+            "CIV2263",
+            ["ACC100", "ACC1200"],
+            "BFC3140"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 2,
+          "units": [
+            "CHE2164",
+            "ENE2403",
+            "BFC3540",
+            "BFC2751"
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 3,
+          "units": [
+            "CIV3248",
+            {
+              "type": "Environmental Enginering Elective",
+              "faculty": "Faculty of Engineering"
+            },
+            "BFC3540",
+            "BFC2751"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 3,
+          "units": [
+            "ENE3606",
+            "CIV3285",
+            "BFC3240",
+            "BFC3340"
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 4,
+          "units": [
+            "CIV4286",
+            "CIV4210",
+            "ENE4608",
+            "BFC2240"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 4,
+          "units": [
+            "CIV4286",
+            "BTX3100",
+            "CIV4212",
+            "BFC3999"
+          ]
+        }
+    ]
+}

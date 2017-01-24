@@ -1,0 +1,640 @@
+{
+    "courseAOS": "Ethnomusicology and Musicology specialisation",
+    "courseCode": "B2022",
+    "courseName": "Commerce and Music",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ACC1200,ACC1100",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "The nature and scope of economics; different economic systems; economic policy analysis and evaluation; main bodies of economic thought; examples of household, business and government economic decision problems; consumer choice, product demand and factor supply; enterprise choice, product supply and factor demand; market analyses of contemporary issues; competitive market long run equilibrium; market power; market failure and concerns for efficiency and equity; government involvement in the Australian economy.",
+                    "UnitCode": "ECC1000",
+                    "UnitName": "Principles of microeconomics",
+                    "_id": "5878018530213215439e8c58",
+                    "enjoyRating": 3.954545455,
+                    "enjoyResponse": 177,
+                    "learnRating": 3.966738983,
+                    "learnResponse": 177,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ATS1XXX Music Specialisation 1",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit is the first of a sequence of four units that integrates the development of aural skills with the theoretical understanding of music through listening, analysis, performance, notation and composition. It introduces students to the study and practical application of fundamental theoretical concepts in either the Western art music or jazz tradition. Areas of study include identifying and understanding timbre, intervals, chords, metre, rhythm, tonality, scales, melodies, chord function and part writing.",
+                    "UnitCode": "ATS1899",
+                    "UnitName": "Music theory and ear training 1",
+                    "_id": "5878000030213215439e863e",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MKB1200, MKF1120, MKG1120, MKW1120",
+                    "SCABand": 3,
+                    "Sypnosis": "Have you ever wondered what marketing is all about? This unit is designed to introduce students to the essential elements of marketing. It encompasses marketing's role in a dynamic business environment and leads students to understand how organisations use the principles of marketing to meet the needs of their customers and achieve their objectives. This unit provides a foundation for those students seeking to pursue further study of specialist marketing units; however it covers the broad scope of marketing sufficient for those students undertaking only one marketing unit.",
+                    "UnitCode": "MKC1200",
+                    "UnitName": "Principles of marketing",
+                    "_id": "587803cb30213215439e949f",
+                    "enjoyRating": 3.962962963,
+                    "enjoyResponse": 163,
+                    "learnRating": 3.450036075,
+                    "learnResponse": 47,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ETG1102, ETW1000, ETW1102, ETX1100, ETX9000, FIT1006, STA1010",
+                    "SCABand": 2,
+                    "Sypnosis": "Presentation and analysis of grouped and ungrouped data using tables, charts and measures of location and dispersion; standardisation techniques, including index numbers, with application to share price indices and the CPI; analysis of relationships between variables using simple and multiple regression; extensions to multiple regression, including nonlinear and categorical explanatory variables and time series data with applications to forecasting; main ideas of probability theory as a foundation for statistical inference; concept of sampling as a way of capturing uncertainty about data; estimators and their properties; constructing and interpreting confidence intervals; fundamentals of hypothesis testing, testing hypotheses about the mean, difference between means and the slope, including analysis of variance.",
+                    "UnitCode": "ETC1000",
+                    "UnitName": "Business and economic statistics",
+                    "_id": "5878025130213215439e8f1e",
+                    "enjoyRating": 4.122807018,
+                    "enjoyResponse": 121,
+                    "learnRating": 4.018583856,
+                    "learnResponse": 121,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ATS1XXX Music Specialisation 2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "Through the study of selected musics from around the world, this unit explores the ways in which culture shapes the philosophies, techniques, organising principles and concepts of musical performance. By analysing performers, audiences, texts and technologies, the unit also investigates specific musical practices in order to generate broader questions about music. How do musicians learn? What does music tell us about culture? What is the musical event? These are some of the questions that will be examined in the unit. The unit is open to all students with an interest in music. No prior musical experience required.",
+                    "UnitCode": "ATS1346",
+                    "UnitName": "Music and culture",
+                    "_id": "5877fffe30213215439e8633",
+                    "enjoyRating": 3.880952381,
+                    "enjoyResponse": 60,
+                    "learnRating": 4.026666667,
+                    "learnResponse": 60,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MGB1010, MGF1010, MGG1010, MGP1010, MGW1010",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit offers a critical introduction to fundamental questions in the discipline of management. What is management? What do managers do, and how do I become a good manager? What are the effects of management practice on employees and their experience of being managed? Key contemporary issues of globalisation and cultural diversity, ethics and social responsibility affect the answers to these questions and are therefore woven throughout the curriculum. The unit draws upon a range of sources - academic, practical, popular cultural - to engage students in multiple ways of knowing about management.",
+                    "UnitCode": "MGC1010",
+                    "UnitName": "Introduction to management",
+                    "_id": "5878039b30213215439e93ce",
+                    "enjoyRating": 3.754716981,
+                    "enjoyResponse": 137,
+                    "learnRating": 3.94212963,
+                    "learnResponse": 18,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "BTB1010, BTF1010, BTG1200, BTP1010, BTW1200, LAW2100, LAW2102",
+                    "SCABand": 3,
+                    "Sypnosis": "An introduction to legal studies and to the legal system of Australia with special emphasis on commercial aspects. The laws of negligence as it affects business and the professional is introduced, and aspects of the law of contract, consumer law, agency, partnership, trusts and an introduction to companies of relevance to commerce.",
+                    "UnitCode": "BTC1110",
+                    "UnitName": "Commercial law",
+                    "_id": "5878012130213215439e8abf",
+                    "enjoyRating": 3.631578947,
+                    "enjoyResponse": 172,
+                    "learnRating": 4.3,
+                    "learnResponse": 31,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Twelve credit points of first-year Arts units.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "From coffee houses to opera houses, people from all classes of society in the nineteenth century participated in a wide range of musical activities. This unit studies the private, public and commercial institutions that supported the composition and performance of music in the nineteenth century and the changes to social structures and advances in technology that made such music-making possible. By examining key musical styles across a range of genres, the unit also explores the rise of the scholarly study of music that emerged in the nineteenth century, a development that fuelled numerous debates between composers, critics and the public over musical taste.",
+                    "UnitCode": "ATS2804",
+                    "UnitName": "From the erotic to the exotic: Music in the nineteenth century",
+                    "_id": "5878004130213215439e8741",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "Through the study of selected representative musical works from the Western art music canon, this unit explores the historical conditions under which music was produced and the purposes it served for composers, performers, patrons and the public. Musical works are studied in terms of their historical, structural and stylistic characteristics.",
+                    "UnitCode": "ATS1345",
+                    "UnitName": "Music and history",
+                    "_id": "5877fffe30213215439e8632",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 1",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Business and Economics elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Twelve credit points of first-year Arts units.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit explores how notions of identity and place are constructed and negotiated through music. What is the role of music in producing ethnic, regional, national and even transnational identities? What can we learn about the politics of musical performance in diasporic contexts? How does music contribute to our identities as sexual and gendered beings? How is music used as a focus for discursive evocations of place? These and other questions are explored through a series of case studies that include the critical analysis of readings, musical examples and ethnographic films.",
+                    "UnitCode": "ATS2805",
+                    "UnitName": "Music, identity and place",
+                    "_id": "5878004130213215439e8742",
+                    "enjoyRating": 4.791666667,
+                    "enjoyResponse": 18,
+                    "learnRating": 4.804945055,
+                    "learnResponse": 18,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ATS1899",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit is the second of a sequence of four units that integrates the development of aural skills with the theoretical understanding of music through listening, analysis, performance, notation and composition. It expands on the skills and knowledge developed in ATS1899 Music theory and ear training 1 through the study and practical application of fundamental theoretical concepts in either the Western art music or jazz tradition. Areas of study include identifying and understanding chords and their function, voice leading, melody harmonisation and phrase structure.",
+                    "UnitCode": "ATS1900",
+                    "UnitName": "Music theory and ear training 2",
+                    "_id": "5878000130213215439e863f",
+                    "enjoyRating": 3.666666667,
+                    "enjoyResponse": 41,
+                    "learnRating": 3.552083333,
+                    "learnResponse": 41,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ATS1900This unit is only available to students enrolled in a Bachelor of Music single or double degree.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit is the third of a sequence of four units that integrates the development of aural skills with the theoretical understanding of music through listening, analysis, performance, notation and composition. It further expands on the skills and knowledge developed in ATS1900 Music theory and ear training 2 through the study and practical application of theoretical concepts in either the Western art music or jazz tradition. Students study advanced analytical and compositional procedures of tonal music through critical listening, study and analysis of representative works. Students undertake analysis, harmony and aural exercises to consolidate the understanding of functional harmony.",
+                    "UnitCode": "ATS2901",
+                    "UnitName": "Music theory and ear training 3",
+                    "_id": "5878004830213215439e875f",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ATS2060,ATS2687",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 4",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 5",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ATS2901This unit is only available to students enrolled in a Bachelor of Music single or double degree.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit is the fourth and final of a sequence of four units that integrates the development of aural skills with the theoretical understanding of music through listening, analysis, performance, notation and composition. It consolidates the skills and knowledge developed in ATS2901 Music theory and ear training 3 through the study and practical application of theoretical concepts in either the Western art music or jazz tradition. Further study of advanced analytical and compositional procedures in representative works incorporates the analysis and recognition of chromatic harmony, voice leading techniques and different structural levels.",
+                    "UnitCode": "ATS2902",
+                    "UnitName": "Music theory and ear training 4",
+                    "_id": "5878004830213215439e8760",
+                    "enjoyRating": 3.5,
+                    "enjoyResponse": 22,
+                    "learnRating": 3.627946128,
+                    "learnResponse": 22,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ATS2333 Jazz History or ATS2331/ATS2332 Music Overseas Study Program or ATS2900 Writing about music: Headlines and hashtags",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 6",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 7",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": "Not Offered in 2017",
+                    "Preqs": "Twelve credit points of second-year Arts units.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "The unit provides students with the opportunity to engage with the Internet, both as a source of information and as a medium for the dissemination of music research. Through a series of lectures, students learn about basic research methodologies (for example, observation/participation-observation, interviewing, the use photography, video and sound recordings, and so forth), as well as some of the ways in which music scholars use contemporary technology in research projects and in the dissemination of research findings. By applying the skills learned in class, students then undertake a research project to document a particular music setting or performance group. Following, students use original research data to construct an ethnographic website that incorporates texts, still and moving images, and sound recordings.",
+                    "UnitCode": "ATS3144",
+                    "UnitName": "Music research in the digital age",
+                    "_id": "5878006330213215439e87c1",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Twelve credit points of second-year Arts units.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit examines fundamental concepts and business practices of the Australian music industry, focusing on the practical knowledge and transferable skills required to commence and maintain a professional career in the music industry. It explores the interaction of music and culture mediated through business institutions and includes an introduction to self-management, copyright, record companies and the recording process. Attention is paid to the Australian music industry and some comparison with overseas practices is made.",
+                    "UnitCode": "ATS3094",
+                    "UnitName": "The music business: How to be successful in the music industry",
+                    "_id": "5878005b30213215439e87a4",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commerce Major 8 or Commerce elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Capstone unit",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Twelve credit points of second-year Arts units.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "The unit allows students to devise and undertake an independent music research project under supervision and follow it through to completion at the end of the semester. Possible projects may include archival work, the construction of a musical instrument, the preparation of a series of radio programs, the organisation of an exhibition or the preparation of a journal article.",
+                    "UnitCode": "ATS3153",
+                    "UnitName": "Music research project",
+                    "_id": "5878006430213215439e87c8",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Twelve credit points of second-year Arts units.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit explores select twentieth- and twenty-first-century musics in Australia. By examining various socio-political perspectives, such as multiculturalism, the unit also investigates the cultural impact of music in the Australia as well as the way in which individuals and groups engage in musical practices.",
+                    "UnitCode": "ATS3061",
+                    "UnitName": "Music in Australia",
+                    "_id": "5878005530213215439e8790",
+                    "enjoyRating": 4.25,
+                    "enjoyResponse": 6,
+                    "learnRating": 4.416666667,
+                    "learnResponse": 6,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

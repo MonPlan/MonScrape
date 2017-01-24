@@ -1,0 +1,46 @@
+{
+    "courseCode": "E6001",
+    "courseName": "Master of Advanced Engineering",
+    "courseAOS": "Mechanical Engineering",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+         {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+              "ENG5001",
+              {"type": "Enhancement Unit", "faculty": "Faculty of Engineering"},
+              {"type": "Technical Elective Unit", "faculty": "Faculty of Engineering"},
+              {"type": "Technical Elective Unit", "faculty": "Faculty of Engineering"}
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+              "ENG5002",
+              {"type": "Enhancement Unit", "faculty": "Faculty of Engineering"},
+              {"type": "Technical Elective Unit", "faculty": "Faculty of Engineering"},
+              {"type": "Technical Elective Unit", "faculty": "Faculty of Engineering"}
+          ]
+        }, {
+          "code": "S1-01",
+          "year": 1,
+          "units": [
+              "MEC5882",
+              "MEC5883",
+              "ENG5003",
+              "ENG5005"
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 1,
+          "units": [
+              "MEC5881",
+              "MEC5884",
+              "ENG5004",
+              "ENG5006"
+          ]
+        }
+    ]
+}
