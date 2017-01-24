@@ -1,0 +1,1593 @@
+[
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Health Science (Honours)",
+                "code": "3971-0"
+            }
+        ],
+        "courseCode": "3971",
+        "courseName": "Bachelor degree (honours) - 1 year Health Science",
+        "managingFaculty": "Faculty of Medicine, Nursing and Health Sciences"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Health Science (Honours)",
+                "code": "4520-0"
+            }
+        ],
+        "courseCode": "4520",
+        "courseName": "Bachelor degree (honours) - 1 year Health Science",
+        "managingFaculty": "Faculty of Medicine, Nursing and Health Sciences"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Nutrition and Dietetics (Honours)",
+                "code": "4530-0"
+            }
+        ],
+        "courseCode": "4530",
+        "courseName": " Nutrition and Dietetics",
+        "managingFaculty": "Faculty of Medicine, Nursing and Health Sciences"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Arts",
+                "code": "A2000-0"
+            }
+        ],
+        "courseCode": "A2000",
+        "courseName": "Bachelor of Arts",
+        "managingFaculty": "Faculty of Arts"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "International relations specialisation",
+                "code": "A2001-0"
+            },
+            {
+                "aosName": "International studies specialisation",
+                "code": "A2001-1"
+            }
+        ],
+        "courseCode": "A2001",
+        "courseName": "Bachelor of Global Studies",
+        "managingFaculty": "Faculty of Arts"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Composition specialisation",
+                "code": "A2003-0"
+            },
+            {
+                "aosName": "Creative Music Technology specialisation",
+                "code": "A2003-1"
+            },
+            {
+                "aosName": "Ethnomusicology and Musicology specialisation",
+                "code": "A2003-2"
+            },
+            {
+                "aosName": "Performance specialisation",
+                "code": "A2003-3"
+            }
+        ],
+        "courseCode": "A2003",
+        "courseName": "Bachelor of Music",
+        "managingFaculty": "Faculty of Arts"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Ethnomusicology and Musicology specialisation",
+                "code": "A2004-0"
+            },
+            {
+                "aosName": "Music Performance, Music Composition and Creative Music Technology specialisations",
+                "code": "A2004-1"
+            }
+        ],
+        "courseCode": "A2004",
+        "courseName": "Bachelor degree/Bachelor degree Arts and Music",
+        "managingFaculty": "Faculty of Arts"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Visual arts specialisation",
+                "code": "A2005-0"
+            }
+        ],
+        "courseCode": "A2005",
+        "courseName": "Bachelor degree/Bachelor degree Arts and Fine Art",
+        "managingFaculty": "Faculty of Arts"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Business",
+                "code": "B2000-0"
+            }
+        ],
+        "courseCode": "B2000",
+        "courseName": "Bachelor of Business",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Accounting",
+                "code": "B2003-0"
+            },
+            {
+                "aosName": "Bachelor of Marketing ",
+                "code": "B2003-3"
+            }
+        ],
+        "courseCode": "B2003",
+        "courseName": "Bachelor of Business Specialist",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Actuarial Science",
+                "code": "B2004-0"
+            },
+            {
+                "aosName": "Bachelor of Economics degree with the Mathematical Economics and Econometrics stream ",
+                "code": "B2004-1"
+            },
+            {
+                "aosName": "Bachelor of Economics with the Economics and Economic Policy stream",
+                "code": "B2004-2"
+            },
+            {
+                "aosName": "Bachelor of Finance",
+                "code": "B2004-3"
+            }
+        ],
+        "courseCode": "B2004",
+        "courseName": "Bachelor of Commerce Specialist",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Global Cultural Literacies specialisation",
+                "code": "B2006-0"
+            },
+            {
+                "aosName": "International relations specialisation",
+                "code": "B2006-1"
+            },
+            {
+                "aosName": "International studies specialisation",
+                "code": "B2006-2"
+            }
+        ],
+        "courseCode": "B2006",
+        "courseName": "Bachelor degree/Bachelor degree Commerce and Global Studies",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Accountancy specialisation",
+                "code": "B2007-0"
+            },
+            {
+                "aosName": "Finance and economics specialisation",
+                "code": "B2007-1"
+            },
+            {
+                "aosName": "Marketing practice specialisation",
+                "code": "B2007-2"
+            }
+        ],
+        "courseCode": "B2007",
+        "courseName": "Bachelor of Business Administration",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Computer Science in Data Science specialisation",
+                "code": "B2008-0"
+            },
+            {
+                "aosName": "Computer Science specialisation",
+                "code": "B2008-1"
+            }
+        ],
+        "courseCode": "B2008",
+        "courseName": "Bachelor degree/Bachelor degree Commerce and Computer Science",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Actuarial Science and Computer Science in Data Science specialisations ",
+                "code": "B2009-0"
+            },
+            {
+                "aosName": "Actuarial Science and Computer Science specialisations",
+                "code": "B2009-1"
+            },
+            {
+                "aosName": "Economics and Computer Science in Data Science specialisations",
+                "code": "B2009-2"
+            },
+            {
+                "aosName": "Economics and Computer Science specialisations",
+                "code": "B2009-3"
+            },
+            {
+                "aosName": "Finance and Computer Science in Data Science specialisations",
+                "code": "B2009-4"
+            },
+            {
+                "aosName": "Finance and Computer Science specialisations",
+                "code": "B2009-5"
+            }
+        ],
+        "courseCode": "B2009",
+        "courseName": "Bachelor degree/Bachelor degree Commerce Specialist and Computer Science",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Accounting specialisation",
+                "code": "B2012-0"
+            },
+            {
+                "aosName": "Banking and Finance specialisation",
+                "code": "B2012-1"
+            },
+            {
+                "aosName": "Marketing specialisation",
+                "code": "B2012-3"
+            }
+        ],
+        "courseCode": "B2012",
+        "courseName": "Bachelor degree/Bachelor degree Business Specialist and Arts",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Accounting specialisation",
+                "code": "B2013-0"
+            },
+            {
+                "aosName": "Banking and Finance specialisation",
+                "code": "B2013-1"
+            },
+            {
+                "aosName": "Marketing specialisation",
+                "code": "B2013-4"
+            }
+        ],
+        "courseCode": "B2013",
+        "courseName": "Bachelor degree/Bachelor degree Business and Business Specialist",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Actuarial Science specialisation [BComm major cannot be Actuarial studies]",
+                "code": "B2014-0"
+            },
+            {
+                "aosName": "Economics and Economic policy specialisation [BComm major cannot be Economics]",
+                "code": "B2014-1"
+            },
+            {
+                "aosName": "Finance specialisation [BComm major cannot be Finance]",
+                "code": "B2014-2"
+            },
+            {
+                "aosName": "Mathematical economics and econometrics specialisation [BComm major cannot be Economics or Econometrics]",
+                "code": "B2014-3"
+            }
+        ],
+        "courseCode": "B2014",
+        "courseName": "Bachelor degree/Bachelor degree Commerce and Commerce Specialist",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Actuarial Science",
+                "code": "B2016-0"
+            },
+            {
+                "aosName": "Economics specialisation",
+                "code": "B2016-1"
+            },
+            {
+                "aosName": "Finance specialisation",
+                "code": "B2016-2"
+            }
+        ],
+        "courseCode": "B2016",
+        "courseName": "Bachelor degree/Bachelor degree Commerce Specialist and Science",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Business and Bachelor of Information Technology",
+                "code": "B2017-0"
+            }
+        ],
+        "courseCode": "B2017",
+        "courseName": "Bachelor degree/Bachelor degree Business and Information Technology",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Accounting specialisation",
+                "code": "B2018-0"
+            },
+            {
+                "aosName": "Banking and Finance specialisation",
+                "code": "B2018-1"
+            },
+            {
+                "aosName": "Marketing specialisation",
+                "code": "B2018-2"
+            }
+        ],
+        "courseCode": "B2018",
+        "courseName": "Bachelor degree/Bachelor degree Business Specialist and Information Technology",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Business and Bachelor of Arts",
+                "code": "B2019-0"
+            }
+        ],
+        "courseCode": "B2019",
+        "courseName": "Bachelor degree/Bachelor degree Business and Arts",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Commerce and Bachelor of Arts",
+                "code": "B2020-0"
+            }
+        ],
+        "courseCode": "B2020",
+        "courseName": "Bachelor degree/Bachelor degree Commerce and Arts",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Commerce and Bachelor of Biomedical Science",
+                "code": "B2021-0"
+            }
+        ],
+        "courseCode": "B2021",
+        "courseName": "Bachelor degree/Bachelor degree Commerce and Biomedical Science",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Ethnomusicology and Musicology specialisation",
+                "code": "B2022-0"
+            },
+            {
+                "aosName": "Music performance, Music composition and Creative music technology specialisations",
+                "code": "B2022-1"
+            }
+        ],
+        "courseCode": "B2022",
+        "courseName": "Bachelor degree/Bachelor degree Commerce and Music",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Commerce and Bachelor of Science",
+                "code": "B2023-0"
+            }
+        ],
+        "courseCode": "B2023",
+        "courseName": "Bachelor degree/Bachelor degree Commerce and Science",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Actuarial Science specialisation",
+                "code": "B2024-0"
+            },
+            {
+                "aosName": "Economics specialisation",
+                "code": "B2024-1"
+            },
+            {
+                "aosName": "Finance specialisation ",
+                "code": "B2024-2"
+            }
+        ],
+        "courseCode": "B2024",
+        "courseName": "Bachelor degree/Bachelor degree Commerce Specialist and Arts",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Commerce and Bachelor of Information Technology",
+                "code": "B2025-0"
+            }
+        ],
+        "courseCode": "B2025",
+        "courseName": "Bachelor degree/Bachelor degree Commerce and Information Technology",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Master of Accounting ",
+                "code": "B6002-0"
+            }
+        ],
+        "courseCode": "B6002",
+        "courseName": "Master of Accounting",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Master of Applied Finance",
+                "code": "B6003-0"
+            }
+        ],
+        "courseCode": "B6003",
+        "courseName": "Master of Applied Finance",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Master of Banking and Finance",
+                "code": "B6004-0"
+            }
+        ],
+        "courseCode": "B6004",
+        "courseName": "Master of Banking and Finance",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Master of Business",
+                "code": "B6005-0"
+            }
+        ],
+        "courseCode": "B6005",
+        "courseName": "Master of Business",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Master of Management",
+                "code": "B6009-0"
+            }
+        ],
+        "courseCode": "B6009",
+        "courseName": "Master of Management",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Master of Professional Accounting",
+                "code": "B6011-0"
+            }
+        ],
+        "courseCode": "B6011",
+        "courseName": "Master of Professional Accounting",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Master of Business Law",
+                "code": "B6013-0"
+            }
+        ],
+        "courseCode": "B6013",
+        "courseName": "Master of Business Law",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Master of Actuarial Studies",
+                "code": "B6014-0"
+            }
+        ],
+        "courseCode": "B6014",
+        "courseName": "Master of Actuarial Studies",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Master of Professional Accounting and Master of Business Law",
+                "code": "B6015-0"
+            }
+        ],
+        "courseCode": "B6015",
+        "courseName": "Master degree/Master degree Professional Accounting and Business Law",
+        "managingFaculty": "Faculty of Business and Economics"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Information Technology",
+                "code": "C2000-0"
+            }
+        ],
+        "courseCode": "C2000",
+        "courseName": "Bachelor of Information Technology",
+        "managingFaculty": "Faculty of Information Technology"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Computer Science",
+                "code": "C2001-0"
+            },
+            {
+                "aosName": "Bachelor of Computer Science in Data Science",
+                "code": "C2001-1"
+            }
+        ],
+        "courseCode": "C2001",
+        "courseName": "Bachelor of Computer Science",
+        "managingFaculty": "Faculty of Information Technology"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Information Technology and Bachelor of Arts",
+                "code": "C2002-0"
+            }
+        ],
+        "courseCode": "C2002",
+        "courseName": "Bachelor degree/Bachelor degree Information Technology and Arts",
+        "managingFaculty": "Faculty of Information Technology"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Information Technology and Bachelor of Science",
+                "code": "C2003-0"
+            }
+        ],
+        "courseCode": "C2003",
+        "courseName": "Bachelor degree/Bachelor degree Information Technology and Science",
+        "managingFaculty": "Faculty of Information Technology"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Education (Honours) in Early Years and Primary Education",
+                "code": "D3001-0"
+            },
+            {
+                "aosName": "Bachelor of Education (Honours) in Early Years Education",
+                "code": "D3001-1"
+            },
+            {
+                "aosName": "Bachelor of Education (Honours) in Primary and Secondary Education",
+                "code": "D3001-2"
+            },
+            {
+                "aosName": "Bachelor of Education (Honours) in Primary and Secondary Health and Physical Education",
+                "code": "D3001-3"
+            },
+            {
+                "aosName": "Bachelor of Education (Honours) in Primary and Secondary Special Education",
+                "code": "D3001-4"
+            },
+            {
+                "aosName": "Bachelor of Education (Honours) in Secondary Health and Physical Education",
+                "code": "D3001-6"
+            }
+        ],
+        "courseCode": "D3001",
+        "courseName": "Bachelor of Education (honours)",
+        "managingFaculty": "Faculty of Education"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Primary Education specialisation",
+                "code": "D3002-0"
+            },
+            {
+                "aosName": "Secondary Education specialisation",
+                "code": "D3002-1"
+            }
+        ],
+        "courseCode": "D3002",
+        "courseName": "Bachelor of  Education and Arts (double)",
+        "managingFaculty": "Faculty of Education"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Primary Education specialisation",
+                "code": "D3003-0"
+            },
+            {
+                "aosName": "Secondary Education specialisation",
+                "code": "D3003-1"
+            }
+        ],
+        "courseCode": "D3003",
+        "courseName": "Bachelor of  Education and Commerce (double)",
+        "managingFaculty": "Faculty of Education"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Primary Education specialisation and Ethnomusicology and Musicology specialisation",
+                "code": "D3004-0"
+            },
+            {
+                "aosName": "Primary Education specialisation and one of Music Performance, Music Composition or Creative Music Technology",
+                "code": "D3004-1"
+            },
+            {
+                "aosName": "Secondary Education specialisation  and Ethnomusicology and Musicology specialisation",
+                "code": "D3004-2"
+            },
+            {
+                "aosName": "Secondary Education specialisation and one of Music Performance, Music Composition or Creative Music Technology",
+                "code": "D3004-3"
+            }
+        ],
+        "courseCode": "D3004",
+        "courseName": "Bachelor of  Education and Music (double)",
+        "managingFaculty": "Faculty of Education"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Primary Education specialisation",
+                "code": "D3005-0"
+            },
+            {
+                "aosName": "Secondary Education specialisation",
+                "code": "D3005-1"
+            }
+        ],
+        "courseCode": "D3005",
+        "courseName": "Bachelor of  Education and Science (double)",
+        "managingFaculty": "Faculty of Education"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Primary Education specialisation",
+                "code": "D3006-0"
+            },
+            {
+                "aosName": "Secondary Education specialisation",
+                "code": "D3006-1"
+            }
+        ],
+        "courseCode": "D3006",
+        "courseName": "Bachelor of  Education and Fine Art (double)",
+        "managingFaculty": "Faculty of Education"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Primary Education specialisation",
+                "code": "D3007-0"
+            },
+            {
+                "aosName": "Secondary Education specialisation",
+                "code": "D3007-1"
+            }
+        ],
+        "courseCode": "D3007",
+        "courseName": "Bachelor of  Education and Business (double)",
+        "managingFaculty": "Faculty of Education"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Primary Education specialisation",
+                "code": "D3008-0"
+            },
+            {
+                "aosName": "Secondary Education specialisation",
+                "code": "D3008-1"
+            }
+        ],
+        "courseCode": "D3008",
+        "courseName": "Bachelor of  Education and Computer Science (double)",
+        "managingFaculty": "Faculty of Education"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Primary Education specialisation",
+                "code": "D3009-0"
+            },
+            {
+                "aosName": "Secondary Education specialisation",
+                "code": "D3009-1"
+            }
+        ],
+        "courseCode": "D3009",
+        "courseName": "Bachelor of  Education and Information Technology (double)",
+        "managingFaculty": "Faculty of Education"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Aerospace Engineering (Honours)",
+                "code": "E3001-0"
+            },
+            {
+                "aosName": "Bachelor of Chemical Engineering (Honours)",
+                "code": "E3001-1"
+            },
+            {
+                "aosName": "Bachelor of Civil Engineering (Honours)",
+                "code": "E3001-2"
+            },
+            {
+                "aosName": "Bachelor of Electrical and Computer Systems Engineering (Honours)",
+                "code": "E3001-3"
+            },
+            {
+                "aosName": "Bachelor of Environmental Engineering (Honours)",
+                "code": "E3001-4"
+            },
+            {
+                "aosName": "Bachelor of Materials Engineering (Honours)",
+                "code": "E3001-5"
+            },
+            {
+                "aosName": "Bachelor of Mechanical Engineering (Honours)",
+                "code": "E3001-6"
+            },
+            {
+                "aosName": "Bachelor of Mechatronics Engineering (Honours)",
+                "code": "E3001-7"
+            },
+            {
+                "aosName": "Bachelor of Mining Engineering (Honours)",
+                "code": "E3001-8"
+            },
+            {
+                "aosName": "Bachelor of Software Engineering (Honours)",
+                "code": "E3001-9"
+            }
+        ],
+        "courseCode": "E3001",
+        "courseName": "Bachelor of Engineering (honours)",
+        "managingFaculty": "Faculty of Engineering"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Aerospace Engineering specialisation",
+                "code": "E3002-0"
+            },
+            {
+                "aosName": "Chemical Engineering specialisation",
+                "code": "E3002-1"
+            },
+            {
+                "aosName": "Civil Engineering specialisation",
+                "code": "E3002-2"
+            },
+            {
+                "aosName": "Electrical and Computer Systems Engineering specialisation",
+                "code": "E3002-3"
+            },
+            {
+                "aosName": "Environmental Engineering specialisation",
+                "code": "E3002-4"
+            },
+            {
+                "aosName": "Materials Engineering specialisation",
+                "code": "E3002-5"
+            },
+            {
+                "aosName": "Mechanical Engineering specialisation",
+                "code": "E3002-6"
+            },
+            {
+                "aosName": "Mechatronics Engineering specialisation",
+                "code": "E3002-7"
+            },
+            {
+                "aosName": "Software Engineering specialisation",
+                "code": "E3002-8"
+            }
+        ],
+        "courseCode": "E3002",
+        "courseName": "Bachelor of  Engineering and Arts (double)",
+        "managingFaculty": "Faculty of Engineering"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Aerospace Engineering and Actuarial Science specialisations",
+                "code": "E3003-0"
+            },
+            {
+                "aosName": "Aerospace Engineering and Economics and Economic Policy specialisations",
+                "code": "E3003-1"
+            },
+            {
+                "aosName": "Aerospace Engineering and Finance specialisations",
+                "code": "E3003-2"
+            },
+            {
+                "aosName": "Aerospace Engineering and Mathematical Economics and Econometrics specialisations",
+                "code": "E3003-3"
+            },
+            {
+                "aosName": "Chemical Engineering and Actuarial Science specialisations",
+                "code": "E3003-4"
+            },
+            {
+                "aosName": "Chemical Engineering and Economics and Economic Policy specialisations",
+                "code": "E3003-5"
+            },
+            {
+                "aosName": "Chemical Engineering and Finance specialisations",
+                "code": "E3003-6"
+            },
+            {
+                "aosName": "Chemical Engineering and Mathematical Economics and Econometrics specialisations",
+                "code": "E3003-7"
+            },
+            {
+                "aosName": "Civil Engineering and Actuarial Science specialisations",
+                "code": "E3003-8"
+            },
+            {
+                "aosName": "Civil Engineering and Economics and Economic Policy specialisations",
+                "code": "E3003-9"
+            },
+            {
+                "aosName": "Civil Engineering and Finance specialisations",
+                "code": "E3003-10"
+            },
+            {
+                "aosName": "Civil Engineering and Mathematical Economics and Econometrics specialisations",
+                "code": "E3003-11"
+            },
+            {
+                "aosName": "Electrical and Computer Systems Engineering and Actuarial Science specialisations",
+                "code": "E3003-12"
+            },
+            {
+                "aosName": "Electrical and Computer Systems Engineering and Economics and Economic Policy specialisations",
+                "code": "E3003-13"
+            },
+            {
+                "aosName": "Electrical and Computer Systems Engineering and Finance specialisations",
+                "code": "E3003-14"
+            },
+            {
+                "aosName": "Electrical and Computer Systems Engineering and Mathematical Economics and Econometrics specialisations",
+                "code": "E3003-15"
+            },
+            {
+                "aosName": "Environmental Engineering and Actuarial Science specialisations",
+                "code": "E3003-16"
+            },
+            {
+                "aosName": "Environmental Engineering and Economics and Economic Policy specialisations",
+                "code": "E3003-17"
+            },
+            {
+                "aosName": "Environmental Engineering and Finance specialisations",
+                "code": "E3003-18"
+            },
+            {
+                "aosName": "Environmental Engineering and Mathematical Economics and Econometrics specialisations",
+                "code": "E3003-19"
+            },
+            {
+                "aosName": "Materials Engineering and Actuarial Science specialisations",
+                "code": "E3003-20"
+            },
+            {
+                "aosName": "Materials Engineering and Economics and Economic Policy specialisations",
+                "code": "E3003-21"
+            },
+            {
+                "aosName": "Materials Engineering and Finance specialisations",
+                "code": "E3003-22"
+            },
+            {
+                "aosName": "Materials Engineering and Mathematical Economics and Econometrics specialisations",
+                "code": "E3003-23"
+            },
+            {
+                "aosName": "Mechanical Engineering and Actuarial Science specialisations",
+                "code": "E3003-24"
+            },
+            {
+                "aosName": "Mechanical Engineering and Economics and Economic Policy specialisations",
+                "code": "E3003-25"
+            },
+            {
+                "aosName": "Mechanical Engineering and Finance specialisation",
+                "code": "E3003-26"
+            },
+            {
+                "aosName": "Mechanical Engineering and Mathematical Economics and Econometrics specialisations",
+                "code": "E3003-27"
+            },
+            {
+                "aosName": "Mechatronics Engineering and Actuarial Science specialisations",
+                "code": "E3003-28"
+            },
+            {
+                "aosName": "Mechatronics Engineering and Economics and Economic Policy specialisations",
+                "code": "E3003-29"
+            },
+            {
+                "aosName": "Mechatronics Engineering and Finance specialisations",
+                "code": "E3003-30"
+            },
+            {
+                "aosName": "Mechatronics Engineering and Mathematical Economics and Econometrics specialisations",
+                "code": "E3003-31"
+            },
+            {
+                "aosName": "Software Engineering and Actuarial Science specialisations",
+                "code": "E3003-32"
+            },
+            {
+                "aosName": "Software Engineering and Economics and Economic Policy specialisations",
+                "code": "E3003-33"
+            },
+            {
+                "aosName": "Software Engineering and Finance specialisations",
+                "code": "E3003-34"
+            },
+            {
+                "aosName": "Software Engineering and Mathematical Economics and Econometrics specialisations",
+                "code": "E3003-35"
+            }
+        ],
+        "courseCode": "E3003",
+        "courseName": "Bachelor of  Engineering and Commerce Specialist (double)",
+        "managingFaculty": "Faculty of Engineering"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Chemical Engineering specialisation",
+                "code": "E3004-0"
+            },
+            {
+                "aosName": "Civil Engineering specialisation",
+                "code": "E3004-1"
+            },
+            {
+                "aosName": "Electrical and Computer Systems Engineering specialisation",
+                "code": "E3004-2"
+            },
+            {
+                "aosName": "Materials Engineering specialisation",
+                "code": "E3004-3"
+            },
+            {
+                "aosName": "Mechanical Engineering specialisation",
+                "code": "E3004-4"
+            }
+        ],
+        "courseCode": "E3004",
+        "courseName": "Bachelor of  Engineering and Biomedical Science (double)",
+        "managingFaculty": "Faculty of Engineering"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Aerospace Engineering specialisation",
+                "code": "E3005-0"
+            },
+            {
+                "aosName": "Chemical Engineering specialisation",
+                "code": "E3005-1"
+            },
+            {
+                "aosName": "Civil Engineering specialisation",
+                "code": "E3005-2"
+            },
+            {
+                "aosName": "Electrical and Computer Systems Engineering specialisation",
+                "code": "E3005-3"
+            },
+            {
+                "aosName": "Environmental Engineering specialisation",
+                "code": "E3005-4"
+            },
+            {
+                "aosName": "Materials Engineering specialisation",
+                "code": "E3005-5"
+            },
+            {
+                "aosName": "Mechanical Engineering specialisation",
+                "code": "E3005-6"
+            },
+            {
+                "aosName": "Mechatronics Engineering specialisation",
+                "code": "E3005-7"
+            },
+            {
+                "aosName": "Software Engineering specialisation",
+                "code": "E3005-8"
+            }
+        ],
+        "courseCode": "E3005",
+        "courseName": "Bachelor of  Engineering and Commerce (double)",
+        "managingFaculty": "Faculty of Engineering"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Aerospace Engineering specialisation",
+                "code": "E3007-0"
+            },
+            {
+                "aosName": "Chemical Engineering specialisation",
+                "code": "E3007-1"
+            },
+            {
+                "aosName": "Civil Engineering specialisation",
+                "code": "E3007-2"
+            },
+            {
+                "aosName": "Electrical and Computer Systems Engineering specialisation",
+                "code": "E3007-3"
+            },
+            {
+                "aosName": "Environmental Engineering specialisation",
+                "code": "E3007-4"
+            },
+            {
+                "aosName": "Materials Engineering specialisation",
+                "code": "E3007-5"
+            },
+            {
+                "aosName": "Mechanical Engineering specialisation",
+                "code": "E3007-6"
+            },
+            {
+                "aosName": "Mechatronics Engineering specialisation",
+                "code": "E3007-7"
+            },
+            {
+                "aosName": "Software Engineering specialisation",
+                "code": "E3007-8"
+            }
+        ],
+        "courseCode": "E3007",
+        "courseName": "Bachelor of  Engineering and Science (double)",
+        "managingFaculty": "Faculty of Engineering"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Civil Engineering and Architectural Design Specialisation",
+                "code": "E3009-0"
+            }
+        ],
+        "courseCode": "E3009",
+        "courseName": "Bachelor degree/Bachelor degree (honours) Engineering and Architectural Design",
+        "managingFaculty": "Faculty of Engineering"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Master of Advanced Engineering (1 year) - Entry level 2",
+                "code": "E6001-0"
+            },
+            {
+                "aosName": "Master of Advanced Engineering (2 years) - Entry level 1",
+                "code": "E6001-1"
+            }
+        ],
+        "courseCode": "E6001",
+        "courseName": "Master of Advanced Engineering",
+        "managingFaculty": "Faculty of Engineering"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Industrial Design and Communication Design specialisations",
+                "code": "F2004-0"
+            }
+        ],
+        "courseCode": "F2004",
+        "courseName": "Bachelor degree/Bachelor degree Design and Business",
+        "managingFaculty": "Faculty of Art, Design and Architecture"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Industrial Design and Communication Design specialisations and Games Development major",
+                "code": "F2005-0"
+            },
+            {
+                "aosName": "Industrial Design and Communication Design specialisations and Multimedia Development major",
+                "code": "F2005-1"
+            },
+            {
+                "aosName": "Industrial Design and Communication Design specialisations and Software Development major",
+                "code": "F2005-2"
+            }
+        ],
+        "courseCode": "F2005",
+        "courseName": "Bachelor degree/Bachelor degree Design and Information Technology",
+        "managingFaculty": "Faculty of Art, Design and Architecture"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Visual arts specialisation and Games Development major",
+                "code": "F2006-0"
+            },
+            {
+                "aosName": "Visual arts specialisation and Multimedia Development major",
+                "code": "F2006-1"
+            }
+        ],
+        "courseCode": "F2006",
+        "courseName": "Bachelor degree/Bachelor degree Fine Art and Information Technology",
+        "managingFaculty": "Faculty of Art, Design and Architecture"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Visual arts specialisation",
+                "code": "F2007-0"
+            }
+        ],
+        "courseCode": "F2007",
+        "courseName": "Bachelor degree/Bachelor degree Fine Art and Business",
+        "managingFaculty": "Faculty of Art, Design and Architecture"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Interior Architecture (Honours)",
+                "code": "F3001-0"
+            }
+        ],
+        "courseCode": "F3001",
+        "courseName": "Bachelor of Interior Architecture (honours)",
+        "managingFaculty": "Faculty of Art, Design and Architecture"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Master of Architecture",
+                "code": "F6001-0"
+            }
+        ],
+        "courseCode": "F6001",
+        "courseName": "Professional entry master degree Architecture",
+        "managingFaculty": "Faculty of Art, Design and Architecture"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Master of Design",
+                "code": "F6002-0"
+            }
+        ],
+        "courseCode": "F6002",
+        "courseName": "Master of Design",
+        "managingFaculty": "Faculty of Art, Design and Architecture"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Aerospace Engineering specialisation",
+                "code": "L3002-0"
+            },
+            {
+                "aosName": "Chemical Engineering specialisation",
+                "code": "L3002-1"
+            },
+            {
+                "aosName": "Civil Engineering specialisation",
+                "code": "L3002-2"
+            },
+            {
+                "aosName": "Electrical and Computer Systems Engineering specialisation",
+                "code": "L3002-3"
+            },
+            {
+                "aosName": "Materials Engineering specialisation",
+                "code": "L3002-4"
+            },
+            {
+                "aosName": "Mechanical Engineering specialisation",
+                "code": "L3002-5"
+            }
+        ],
+        "courseCode": "L3002",
+        "courseName": "Bachelor of  Laws and Engineering (double)",
+        "managingFaculty": "Faculty of Law"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Laws (Honours) and Bachelor of Arts",
+                "code": "L3003-0"
+            }
+        ],
+        "courseCode": "L3003",
+        "courseName": "Bachelor of  Laws and Arts (double)",
+        "managingFaculty": "Faculty of Law"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Laws (Honours) and Bachelor of Commerce",
+                "code": "L3005-0"
+            }
+        ],
+        "courseCode": "L3005",
+        "courseName": "Bachelor of  Laws and Commerce (double)",
+        "managingFaculty": "Faculty of Law"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Ethnomusicology and Musicology specialisation",
+                "code": "L3006-0"
+            },
+            {
+                "aosName": "Music Performance, Music Composition and Creative Music Technology specialisations",
+                "code": "L3006-1"
+            }
+        ],
+        "courseCode": "L3006",
+        "courseName": "Bachelor of  Laws and Music (double)",
+        "managingFaculty": "Faculty of Law"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Laws (Honours) and Bachelor of Science",
+                "code": "L3007-0"
+            }
+        ],
+        "courseCode": "L3007",
+        "courseName": "Bachelor of  Laws and Science (double)",
+        "managingFaculty": "Faculty of Law"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Laws (Honours) and Bachelor of Global Studies",
+                "code": "L3009-0"
+            }
+        ],
+        "courseCode": "L3009",
+        "courseName": "Bachelor of  Laws and Global Studies (double)",
+        "managingFaculty": "Faculty of Law"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Nutrition Science",
+                "code": "M2001-0"
+            }
+        ],
+        "courseCode": "M2001",
+        "courseName": "Bachelor of Nutrition Science",
+        "managingFaculty": "Faculty of Medicine, Nursing and Health Sciences"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Emergency Health and Paramedic Practice",
+                "code": "M2002-0"
+            },
+            {
+                "aosName": "Bachelor of Human Services",
+                "code": "M2002-1"
+            },
+            {
+                "aosName": "Bachelor of Public Health Science",
+                "code": "M2002-2"
+            },
+            {
+                "aosName": "Bachelor of Radiation Sciences",
+                "code": "M2002-3"
+            }
+        ],
+        "courseCode": "M2002",
+        "courseName": "Bachelor of Health Sciences",
+        "managingFaculty": "Faculty of Medicine, Nursing and Health Sciences"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Biomedical Science ",
+                "code": "M2003-0"
+            }
+        ],
+        "courseCode": "M2003",
+        "courseName": "Bachelor of Biomedical Science",
+        "managingFaculty": "Faculty of Medicine, Nursing and Health Sciences"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Nursing",
+                "code": "M2006-0"
+            }
+        ],
+        "courseCode": "M2006",
+        "courseName": "Bachelor of Nursing",
+        "managingFaculty": "Faculty of Medicine, Nursing and Health Sciences"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Occupational Therapy (Honours)",
+                "code": "M3001-0"
+            }
+        ],
+        "courseCode": "M3001",
+        "courseName": "Bachelor of Occupational Therapy (honours)",
+        "managingFaculty": "Faculty of Medicine, Nursing and Health Sciences"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Physiotherapy (Honours)",
+                "code": "M3002-0"
+            }
+        ],
+        "courseCode": "M3002",
+        "courseName": "Bachelor of Physiotherapy (honours)",
+        "managingFaculty": "Faculty of Medicine, Nursing and Health Sciences"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Biomedical Science Advanced (Honours)",
+                "code": "M3004-0"
+            }
+        ],
+        "courseCode": "M3004",
+        "courseName": "Bachelor of Biomedical Science Advanced (honours)",
+        "managingFaculty": "Faculty of Medicine, Nursing and Health Sciences"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Psychology (Honours)",
+                "code": "M3005-0"
+            }
+        ],
+        "courseCode": "M3005",
+        "courseName": "Bachelor of Psychology (honours)",
+        "managingFaculty": "Faculty of Medicine, Nursing and Health Sciences"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Radiography and Medical Imaging (Honours)",
+                "code": "M3006-0"
+            }
+        ],
+        "courseCode": "M3006",
+        "courseName": "Bachelor of Radiography and Medical Imaging (honours)",
+        "managingFaculty": "Faculty of Medicine, Nursing and Health Sciences"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Medicine and Surgery (Graduate entry)",
+                "code": "M6018-0"
+            }
+        ],
+        "courseCode": "M6018",
+        "courseName": "Bachelor degree/Master degree Medical Science and Medicine",
+        "managingFaculty": "Faculty of Medicine, Nursing and Health Sciences"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Drug discovery biology specialisation",
+                "code": "P2001-0"
+            },
+            {
+                "aosName": "Formulation science specialisation",
+                "code": "P2001-1"
+            },
+            {
+                "aosName": "Medicinal chemistry specialisation",
+                "code": "P2001-2"
+            }
+        ],
+        "courseCode": "P2001",
+        "courseName": "Bachelor of Pharmaceutical Science",
+        "managingFaculty": "Faculty of Pharmacy and Pharmaceutical Sciences"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Drug discovery biology specialisation",
+                "code": "P3002-0"
+            },
+            {
+                "aosName": "Formulation science specialisation",
+                "code": "P3002-1"
+            },
+            {
+                "aosName": "Medicinal chemistry specialisation",
+                "code": "P3002-2"
+            }
+        ],
+        "courseCode": "P3002",
+        "courseName": "Bachelor of Pharmaceutical Science Advanced (honours)",
+        "managingFaculty": "Faculty of Pharmacy and Pharmaceutical Sciences"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Pharmacy (Honours) / Master of Pharmacy ",
+                "code": "P6001-0"
+            }
+        ],
+        "courseCode": "P6001",
+        "courseName": "Bachelor degree/Master degree Pharmacy",
+        "managingFaculty": "Faculty of Pharmacy and Pharmaceutical Sciences"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Science",
+                "code": "S2000-0"
+            }
+        ],
+        "courseCode": "S2000",
+        "courseName": "Bachelor of Science",
+        "managingFaculty": "Faculty of Science"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Global Cultural Literacies specialisation",
+                "code": "S2003-0"
+            },
+            {
+                "aosName": "International relations specialisation",
+                "code": "S2003-1"
+            },
+            {
+                "aosName": "International studies specialisation",
+                "code": "S2003-2"
+            }
+        ],
+        "courseCode": "S2003",
+        "courseName": "Bachelor degree/Bachelor degree Science and Global Studies",
+        "managingFaculty": "Faculty of Science"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Computer Science specialisation",
+                "code": "S2004-0"
+            },
+            {
+                "aosName": "Data Science specialisation",
+                "code": "S2004-1"
+            }
+        ],
+        "courseCode": "S2004",
+        "courseName": "Bachelor degree/Bachelor degree Science and Computer Science",
+        "managingFaculty": "Faculty of Science"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Ethnomusicology and Musicology specialisation",
+                "code": "S2005-0"
+            },
+            {
+                "aosName": "Music Performance, Music Composition and Creative Music Technology specialisations",
+                "code": "S2005-1"
+            }
+        ],
+        "courseCode": "S2005",
+        "courseName": "Bachelor degree/Bachelor degree Science and Music",
+        "managingFaculty": "Faculty of Science"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Science and Bachelor of Arts",
+                "code": "S2006-0"
+            }
+        ],
+        "courseCode": "S2006",
+        "courseName": "Bachelor degree/Bachelor degree Science and Arts",
+        "managingFaculty": "Faculty of Science"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Science and Bachelor of Biomedical Science",
+                "code": "S2007-0"
+            }
+        ],
+        "courseCode": "S2007",
+        "courseName": "Bachelor degree/Bachelor degree Science and Biomedical Science",
+        "managingFaculty": "Faculty of Science"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Science Advanced \u2013 Global Challenges (Honours)",
+                "code": "S3001-0"
+            }
+        ],
+        "courseCode": "S3001",
+        "courseName": "Bachelor of Science Advanced - Global Challenges (honours)",
+        "managingFaculty": "Faculty of Science"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Bachelor of Science Advanced \u2013 Research (Honours)",
+                "code": "S3002-0"
+            }
+        ],
+        "courseCode": "S3002",
+        "courseName": "Bachelor of Science Advanced - Research (honours)",
+        "managingFaculty": "Faculty of Science"
+    },
+    {
+        "courseAOS": [
+            {
+                "aosName": "Master of Environment and Sustainability",
+                "code": "S6002-0"
+            }
+        ],
+        "courseCode": "S6002",
+        "courseName": "Master of Environment and Sustainability",
+        "managingFaculty": "Faculty of Science"
+    }
+]

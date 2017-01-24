@@ -1,0 +1,112 @@
+{
+    "courseCode": "E3003",
+    "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist",
+    "courseAOS": "Mechnical Engineering/Actuarial Science",
+    "faculty": "Faculty of Engineering",
+    "courseType": "Double Undergraduate",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+            ["ENG1001","ENG1002"],
+            ["ENG1003","ENG1005"],
+            "ENG1060",
+            "ETC1000"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+            ["ENG1002","ENG1001"],
+            ["ENG1003","ENG1005"],
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Engineering"
+            },
+            "ETC2410"
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 1,
+          "units": [
+            "MEC2403",
+            "MEC2401",
+            "ETC2430",
+            "ECC1100"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 1,
+          "units": [
+            "MEC2404",
+            "ENG2005",
+            "BFC2140",
+            "ETC2420"
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 2,
+          "units": [
+            "MEC2402",
+            "MEC3456",
+            "BFC2000",
+            "ETC2440"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 2,
+          "units": [
+            "MEC3457",
+            "MEC2405",
+            ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"],
+            "ACC1100"
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 3,
+          "units": [
+            "MEC3455",
+            "MEC3451",
+            "BFC2340",
+            ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"]
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 3,
+          "units": [
+            "MEC3453",
+            "MEC3416",
+            "ETC2520",
+            ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"]
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 4,
+          "units": [
+            "MEC4408",
+            "MEC4404",
+            "MEC4401",
+            "ECC1000"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 4,
+          "units": [
+            "MEC4426",
+            "MEC4407",
+            "MEC4402",
+            "ETC3530"
+          ]
+        }
+    ]
+}

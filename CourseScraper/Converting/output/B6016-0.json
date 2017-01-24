@@ -1,0 +1,251 @@
+{
+    "courseAOS": "",
+    "courseCode": "B6016",
+    "courseName": "Master of Business Administration",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The foundation of long-term leadership effectiveness is a sound understanding of one's self, and frameworks to manage one's self in the long run throughout the leadership journey. This unit explores each individual's values, behaviours and ways of thinking with a mind to understanding the diversity and unique contribution of self and others. Methods of analytical reasoning to address business problems and interpret and produce clear and sound arguments, as well as strategies to support a critical inquiry approach to the learning and research activities throughout the program, will be developed.The challenges of leading and managing change in complex times, and the dynamic ethical challenges that leaders are likely to encounter in their roles are also addressed. Frameworks for organisational leadership and ethical decision-making will be introduced, along with the recognition of the obstacles that prevent success and result in poor decisions and outcomes.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "MBA5111",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Leadership 1: Critical thinking"
+                },
+                {
+                    "CreditPoints": 12,
+                    "Description": "Topic 1 - Business models and strategyBusiness models describe how organisations are configured to create, deliver and appropriate value. In the modern world, technology and globalisation are among the primary forces disrupting existing models in every sector of the economy, and executive leadership requires an understanding of this complexity. New systems that combine hardware, sensors, data storage, microprocessors, software, and connectivity impact industry structure and the nature of competition; businesses are increasingly facing new competitive opportunities and threats. Industry boundaries are being reshaped and entirely new industries are being created. This unit introduces and examines business models, the infrastructure and technologies of business, forces of change in the business and competitive environment, the impact on business models and business strategy initiatives and responses.Topic 2: Markets and customersMarkets and customers focuses on analysing markets, customer behaviour and related business strategy, and on developing and executing marketing strategy. In an interactive digital environment, consumer and organisational buying behaviour is critically altered, and appropriate models of marketing are required. The unit explores market orientation, market research and analysis, marketing planning and marketing implementation in a range of contemporary contexts, including industrial and consumer markets and private and public sectors. It also looks at the contribution of marketing activity and thinking to other business functions and activities, including stakeholder and relationship strategy, and takes a strategic approach to marketing leadership.Topic 3: Financial and managerial accountingProfessional managers in every discipline need to understand the role of the accounting function in organisations. Financial and managerial accounting introduces the processes and techniques that enable managers to plan and control organisational activities and make informed, value-enhancing decisions. From a strategic perspective, the topic explores financial performance by introducing a range of techniques used by internal and external stakeholders to assess firm value. It also explores the role of accounting in planning, decision making and performance evaluation, and introduces a range of tools to understand cost behaviour, product pricing, budgeting and performance measurement.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "MBA5112",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "MBA 1"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The MBA Labs: Strategy project reflects the innovative, applied and research-oriented ethos of Monash University. The MBA Labs will function as a business laboratory, in which ideas are tried and tested, critiqued and improved. The spirit of discovery, enterprise and progress will be evident in the process and the outcomes; the cycle of practice and reflection will exemplify the experience.In the first MBA applied consulting project, students integrate their knowledge of Module 1 to address the opportunities and/or challenges of host business organisations. Under the supervision of their professors, and with the support of a nominated project sponsor, student teams identify a significant strategic issue for their host organisation, and combine their strategy, marketing and accounting knowledge to tackle the issue. The output is a presentation and report for the sponsor.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "MBA5113",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "MBA Labs: Strategy project"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "MBA5211",
+                    "UnitName": "Cannot Fetch Data"
+                },
+                {
+                    "CreditPoints": 12,
+                    "Description": "Topic 1: Operations and project managementThe success of practising managers in designing and delivering project outcomes in their roles is a critical factor in their career success. In high-technology environments, shorter product and service cycles require a leadership focus on agility, quality and flexibility. This unit provides students with the concepts, techniques and tools to design, analyse and improve their operational and project management capabilities. To manage complex projects effectively, students will study and practice the roles of initiating, scoping, coordinating and implementing complex projects in dynamic situations. The pedagogy will include a range of cases and applications. Design thinking is increasingly influential in the field of innovation and organisational development, and will be an integral part of the unit.Topic 2: Economics and societyThe economic lens for reasoning in business is a critical understanding for practising executives and business leaders. In a turbulent, global economy, tackling macroeconomic challenges such as sustainable models, demographic shifts, climate change and income inequality demands economic literacy. This unit covers the main macroeconomic and microeconomic issues for business organisations, including market structures, supply and demand functions and pricing concepts. The importance of social relationships to economics is addressed, and the relationship between economics and politics is explored in the area of the regulatory environment. To access the most advanced ideas in this broad-based field, the unit will draw on the expertise and experience of university colleagues in relevant faculties and related research centres where required.Topic 3: Business financeBusiness finance introduces the resourcing theories and practices that contribute to the sustainable, strategic management of organisations. The unit takes a value-impacting approach to interrelated issues of investment, financing, budgeting and operations. Drawing on cross-disciplinary perspectives and recent advances in theory and practice, Business finance develops frameworks for analysis and decision-making of relevance to executives and managers in contemporary organisations. The unit examines how financial and economic information is used to gain forward intelligence on the ability of the organisation to create sustainable value. An experiential, case-based pedagogy is adopted.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "MBA5112",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "MBA5212",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "MBA 2"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The rapid rate of technological change in an increasingly knowledge-based society highlights the need for advanced technological capability, innovative thinking and practice, and entrepreneurial capability. For management students, a sound understanding of the application of science and engineering technologies to social and economic problems is necessary to function in sophisticated, technology-led business environments. The unit will draw on the expertise and experience of colleagues in a range of university faculties and research centres to provide an overview of cutting-edge developments, and related issues such as managing commercialisation and intellectual property, in fields such as life sciences, medical devices, information systems, energy, materials science and nanotechnology.The complex technological business environment requires modern executives to understand innovation processes and to develop both an entrepreneurial mindset and entrepreneurial competencies. Through the application of innovative thinking and techniques, the unit advances the entrepreneurship agenda at individual, organisational and institutional levels.A minor project integrates the streams in the unit in a practical application.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "MBA5212",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "MBA5213",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Technology, innovation and entrepreneurship"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "Leaders and professionals in organisations face a broad spectrum of issues and problems that require an integrated analytical framework to negotiate more strategically and achieve more consistent outcomes. Negotiating to create a shared environment, trust and value becomes a critical skill of organisational leaders in complex and dynamic situations. Using interactive simulations, students will learn multiple tactics and gain practical evidence-based recommendations founded on empirical research.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "MBA5211",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "MBA5311",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Leadership 3: Influence and negotiations"
+                },
+                {
+                    "CreditPoints": 12,
+                    "Description": "Topic 1: Organisational transformationExternal and internal environmental change can require organisations to respond with major adjustments to their structure, processes and identity. Organisational change management programs can be complex and difficult; when the situation calls for fundamental and rapid adaptation, the transformation agenda becomes high-level, strategic and immediate.Understanding the systemic relationships between mission, values, strategy, technology, systems and culture requires a deep understanding of organisational behaviour and design. To lead a review and reinvention of an organisation facing critical challenges demands a thorough knowledge of transformation processes. This unit explores and integrates the political, leadership, strategy and integration processes and capabilities required for successful transformation.Topic 2: Business analyticsUnderstanding the sources, uses and value of the flow of information through an organisation can give executives a competitive advantage and drive their innovation. Firms can leverage deep insights into business performance to enhance their value proposition and competitiveness. Business analytics focuses on providing students with a managerial knowledge of the tools, methods and practices used to understand the vast amounts of data available to businesses, and its use in forecasting and in making strategic and operational business decisions. Descriptive and predictive analytics are explored, data mining and data visualisation techniques are addressed, and a wide range of cases are used to demonstrate the application of models and techniques.Topic 3: Global business strategyIn a globalising world, conducting business is increasingly complex. Organisation leaders require robust models to understand globalisation and the implications for 21st century firms. Companies must understand the political, economic and social environments in which they operate. To engage globally, executives need to address a range of critical issues relating to the internationalisation of their business. These include marketing internationally, choosing locations for key activities, new ways of organising international business, and processes for managing across borders.The aim of the unit is to prepare students to manage effectively in a global, interconnected world. it examines the changing international environment for business, the dynamics of international competition, international relations and government-business interactions and the principles and practices of global business strategy. Further, the unit helps the student to develop the ethical and cross-cultural mindset and competence to succeed in global business. Cases and applications address models of global business and the management of innovation in multinational companies and settings; expert policy-makers and practitioners in the field will contribute to the unit.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "MBA5212",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "MBA5312",
+                    "UnitLocationTP": "Not Offered in 2017",
+                    "UnitName": "MBA 3"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The MBA Labs: Technology and entrepreneurship project reflects the innovative, applied and research-oriented ethos of Monash University. The MBA Labs will function as a business laboratory, in which ideas are tried and tested, critiqued and improved. The spirit of discovery, enterprise and progress will be evident in the process and the outcomes; the cycle of practice and reflection will exemplify the experience.In the second MBA applied consulting project, students integrate their knowledge of Modules 1 and 2 to address the opportunities and/or challenges of host business organisations. Under the supervision of their professors, and with the support of a nominated project sponsor, student teams identify a significant innovation/entrepreneurship issue for their host organisation in a high-technology sector, and combine their accumulated knowledge of management theory and consulting practice to tackle the issue. The project may have a commercial or community purpose. As an alternative to working with a host, student teams may regard MBA Labs: Technology and entrepreneurship project as an incubator and propose their own venture. The output is a presentation and report for the sponsor.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "MBA5213",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "MBA5313",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "MBA Labs: Technology and entrepreneurship project"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "In MBA Seminars, students will elect three MBA Seminars and develop a minor applied project report that combines their knowledge bases. A wide range of seminars will be offered, reflecting the specialist research and practice knowledge of faculty in Monash Business School and other faculties. Students will access cutting-edge research ideas by Monash and visiting professors; engage with leading practitioners and policy-makers; customise their program according to their intellectual and professional interests; and integrate new theory and contemporary practice for deeper insights.The MBA Seminars will provide faculty with opportunities to work on their areas of specialist research interest with MBA students, practitioners in the field, and project host organisations. The applied project - or minor - will bring a critical, integrative practice dimension to the topic.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "MBA5312",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "MBA5412",
+                    "UnitLocationTP": "Not Offered in 2017",
+                    "UnitName": "MBA Seminars"
+                },
+                {
+                    "CreditPoints": 12,
+                    "Description": "The MBA Labs: International business project reflects the innovative, applied and research-oriented ethos of Monash University. The MBA Labs will function as a business laboratory, in which ideas are tried and tested, critiqued and improved. The spirit of discovery, enterprise and progress will be evident in the process and the outcomes; the cycle of practice and reflection will exemplify the experience.In the third MBA applied consulting project, students integrate their knowledge of earlier modules to address the opportunities and/or challenges of host business organisations in an international marketplace. Under the supervision of their professors, and with the support of a nominated project sponsor, student teams identify a significant strategic issue for their host organisation in an international market. Desk and field research is undertaken in the domestic market before further work is conducted in the international market; students combine their accumulated knowledge of management theory and consulting practice to tackle the issues. As an alternative to working with a host organisation, student teams may regard MBA Labs: International business project as an incubator and propose an international project for their own venture. The output is a presentation and report for the sponsor.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "MBA5312",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "MBA5413",
+                    "UnitLocationTP": "Not Offered in 2017",
+                    "UnitName": "MBA Labs: International business project"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The integration and consolidation of prior learning is the chief aim of the Strategy capstone unit. Taking an executive-level approach to developing the strategic capabilities required of general managers and business leaders, this unit focuses on building the competencies to leverage knowledge across a wide range of business disciplines and functions. Drawing on multiple disciplines including accounting, finance, marketing, HR, data analysis and project management - as well as on the experiences of students in their strategy, enterprise and international business projects - the unit enables students to synthesise their understanding and leverage their acquired skills in strategy analysis, development and execution. Cases, simulations, leaders' forums and engagement with industry experts and practitioners will form part of the pedagogy.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "MBA5312",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "MBA5415",
+                    "UnitLocationTP": "Not Offered in 2017",
+                    "UnitName": "Strategy capstone"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "In a highly-competitive job market, Monash MBA graduates must have a clear, strategic personal and professional development plan to challenge successfully for new career positions or promotions. Leveraging the lessons of the suite of Leadership units, and integrating the experiences and insights from the full range of MBA units and projects is a central purpose of this final Leadership unit. Building a successful and rewarding career demands the ability to reflect on the learning journey, engage with executives and potential employers with confidence, and communicate the value and impact one can bring to an organisation. A series of seminars, workshops, exercises and individual coaching meetings will provide students with the competencies to achieve their potential.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "MBA5311",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "MBA5411",
+                    "UnitLocationTP": "Not Offered in 2017",
+                    "UnitName": "Leadership 4: Personal and professional development"
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

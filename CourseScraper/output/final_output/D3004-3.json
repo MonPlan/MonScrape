@@ -1,0 +1,1084 @@
+{
+    "courseAOS": "Secondary Education specialisation and one of Music Performance, Music Composition or Creative Music Technology",
+    "courseCode": "D3004",
+    "courseName": "Education and Music",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Education",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Enrolment in a Faculty of Education course",
+                    "Proh": "EDF1301",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit introduces contemporary learning theories that enable students to reflect on their own learning experiences in order to understand how others learn. From the perspective of broader educational settings (school, community, early childhood settings, home), the important questions of what learning is, how and why learning occurs, what quality learning might be and what influences learning, are discussed and reflected upon. Through examination of different theoretical perspectives and contexts, this unit focuses on building an understanding of what can influence learning and offers skill building in academic learning. Ideas closely associated with learning, including motivation, engagement and ability are also considered. The unit encourages students to begin constructing deep knowledge about the relationship between learning and educational inquiry.",
+                    "UnitCode": "EDF1303",
+                    "UnitName": "Understanding learning and learners",
+                    "_id": "587801bd30213215439e8d3e",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ATS1XXX Music Specialisation 1",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF1055",
+                    "UnitName": "Secondary professional experience 1A",
+                    "_id": "587801b830213215439e8d2c",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit is the first of a sequence of four units that integrates the development of aural skills with the theoretical understanding of music through listening, analysis, performance, notation and composition. It introduces students to the study and practical application of fundamental theoretical concepts in either the Western art music or jazz tradition. Areas of study include identifying and understanding timbre, intervals, chords, metre, rhythm, tonality, scales, melodies, chord function and part writing.",
+                    "UnitCode": "ATS1899",
+                    "UnitName": "Music theory and ear training 1",
+                    "_id": "5878000030213215439e863e",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "Through the study of selected representative musical works from the Western art music canon, this unit explores the historical conditions under which music was produced and the purposes it served for composers, performers, patrons and the public. Musical works are studied in terms of their historical, structural and stylistic characteristics.",
+                    "UnitCode": "ATS1345",
+                    "UnitName": "Music and history",
+                    "_id": "5877fffe30213215439e8632",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF1303",
+                    "Proh": "EDF1302",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit builds on the focus in EDF1303 (Understanding learning and learners) to introduce contemporary approaches to teaching and their impact on learning. It enables students to demonstrate an understanding of curriculum and its role in teaching and learning in educational settings. Students are facilitated to demonstrate knowledge and skills in a range of teaching strategies including effective teaching models and assessment strategies that promote learning. Students develop knowledge and skills to engage in meaningful and respectful relationships with learners, their families and communities, in order to support learning.",
+                    "UnitCode": "EDF1304",
+                    "UnitName": "Understanding teaching for learning",
+                    "_id": "587801bd30213215439e8d3f",
+                    "enjoyRating": 4.185714286,
+                    "enjoyResponse": 317,
+                    "learnRating": 4.09097277,
+                    "learnResponse": 106,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ATS1XXX Music Specialisation 2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF1055",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF1056",
+                    "UnitName": "Secondary professional experience 1B",
+                    "_id": "587801b830213215439e8d2d",
+                    "enjoyRating": 4.316176471,
+                    "enjoyResponse": 88,
+                    "learnRating": 4.211508467,
+                    "learnResponse": 44,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ATS1899",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit is the second of a sequence of four units that integrates the development of aural skills with the theoretical understanding of music through listening, analysis, performance, notation and composition. It expands on the skills and knowledge developed in ATS1899 Music theory and ear training 1 through the study and practical application of fundamental theoretical concepts in either the Western art music or jazz tradition. Areas of study include identifying and understanding chords and their function, voice leading, melody harmonisation and phrase structure.",
+                    "UnitCode": "ATS1900",
+                    "UnitName": "Music theory and ear training 2",
+                    "_id": "5878000130213215439e863f",
+                    "enjoyRating": 3.666666667,
+                    "enjoyResponse": 41,
+                    "learnRating": 3.552083333,
+                    "learnResponse": 41,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "Through the study of selected musics from around the world, this unit explores the ways in which culture shapes the philosophies, techniques, organising principles and concepts of musical performance. By analysing performers, audiences, texts and technologies, the unit also investigates specific musical practices in order to generate broader questions about music. How do musicians learn? What does music tell us about culture? What is the musical event? These are some of the questions that will be examined in the unit. The unit is open to all students with an interest in music. No prior musical experience required.",
+                    "UnitCode": "ATS1346",
+                    "UnitName": "Music and culture",
+                    "_id": "5877fffe30213215439e8633",
+                    "enjoyRating": 3.880952381,
+                    "enjoyResponse": 60,
+                    "learnRating": 4.026666667,
+                    "learnResponse": 60,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 6,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF1303EDF1304",
+                    "Proh": "EDF2002",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit builds on students' initial education studies to further develop and practise their knowledge and skills in planning for teaching, collaborating with peers and building positive and productive classroom environments. One focus is on understanding the professional responsibilities teachers have with respect to developing their practice, and building and sustaining educational relationships with students, professional colleagues, administrators, parents and members of the community in diverse educational settings. Another focus is developing and applying the practical teaching knowledge and skills students are acquiring in their course and during professional experience. Unit learning and assessment tasks require students to engage with contemporary issues in teaching, to develop a critical position on these issues, and to consider the practical applications of this position in their teaching practice now and into the future.",
+                    "UnitCode": "EDF2005",
+                    "UnitName": "Professional responsibilities, practice and relationships",
+                    "_id": "587801bf30213215439e8d42",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Successful completion of at least 12 credit points of education units",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "In this unit students develop their knowledge and understanding of key priorities in education connected to their various education contexts, the Australian Curriculum and expectations of the Australian Professional Standards for Teachers. The unit includes exploration of cross-curriculum priorities including Asia and Australia's engagement with Asia, education for sustainability, and Aboriginal and Torres Strait Islander peoples, histories and cultures. Through a range of research and inquiry-based methodologies, and through investigations of exemplars of teaching and learning in schools in local and global contexts, students build their understanding of professional practice and education priorities. Students learn how to develop strategies for teaching diverse learners including Aboriginal and Torres Strait Islander students. The unit also focuses on how to implement the critical areas of literacy, numeracy and the use of information and communication technologies (ICTs) in schools.",
+                    "UnitCode": "EDF2006",
+                    "UnitName": "Education priorities",
+                    "_id": "587801bf30213215439e8d43",
+                    "enjoyRating": 4.058823529,
+                    "enjoyResponse": 29,
+                    "learnRating": 4.025925926,
+                    "learnResponse": 29,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF1056",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF2055",
+                    "UnitName": "Secondary professional experience 2A",
+                    "_id": "587801c630213215439e8d56",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ATS1900This unit is only available to students enrolled in a Bachelor of Music single or double degree.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit is the third of a sequence of four units that integrates the development of aural skills with the theoretical understanding of music through listening, analysis, performance, notation and composition. It further expands on the skills and knowledge developed in ATS1900 Music theory and ear training 2 through the study and practical application of theoretical concepts in either the Western art music or jazz tradition. Students study advanced analytical and compositional procedures of tonal music through critical listening, study and analysis of representative works. Students undertake analysis, harmony and aural exercises to consolidate the understanding of functional harmony.",
+                    "UnitCode": "ATS2901",
+                    "UnitName": "Music theory and ear training 3",
+                    "_id": "5878004830213215439e875f",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Education",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ATS2060,ATS2687",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ATS2XXX Music Specialisation 3",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 6,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF2005",
+                    "Proh": "EDF3006",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit focuses on significant aspects of adolescent development and the implications for teachers. Students further their understanding of psychological research into adolescent development and are encouraged to develop critical perspectives in this field. The unit considers psychological, motivational, social, cognitive, biological and sociocultural perspectives of adolescent development and learning. Students inquire into interpersonal and teaching strategies for teaching and learning with adolescents based on contemporary knowledge of adolescent development.",
+                    "UnitCode": "EDF2007",
+                    "UnitName": "Adolescent development and learning",
+                    "_id": "587801c030213215439e8d44",
+                    "enjoyRating": 3.652083333,
+                    "enjoyResponse": 69,
+                    "learnRating": 3.743901515,
+                    "learnResponse": 35,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Successful completion of at least 12 credit points of education units",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit examines the concept and process of becoming a specialist teacher. It focuses on the identity, knowledge, practices and professional learning of a teacher with expertise grounded in a particular disciplinary tradition. Using different frameworks to explore the nature of disciplinary knowledge, the unit enables students to think critically and creatively about the relationship between their developing disciplinary knowledge and their emerging work as specialist teachers. Students examine how the curriculum organises and represents knowledge in ways that are both specialised and interdisciplinary. They explore how teachers help students develop knowledge, capabilities and skills both within and beyond subject specialism boundaries in ways that meet the needs of a diverse range of students in an ever-changing world. Students develop broad knowledge and understanding of legislative requirements and teaching strategies that support participation and learning of students with disabilities. The unit provides a range of conceptual and practical ideas and resources from which students can build further understandings and capacities in their ongoing professional learning as specialist teachers.",
+                    "UnitCode": "EDF2008",
+                    "UnitName": "Becoming a specialist teacher",
+                    "_id": "587801c030213215439e8d45",
+                    "enjoyRating": 3.862068966,
+                    "enjoyResponse": 59,
+                    "learnRating": 3.954415954,
+                    "learnResponse": 59,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF2055",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF2056",
+                    "UnitName": "Secondary professional experience 2B",
+                    "_id": "587801c630213215439e8d57",
+                    "enjoyRating": 4.464285714,
+                    "enjoyResponse": 43,
+                    "learnRating": 4.435763889,
+                    "learnResponse": 22,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ATS3XXX Music Specialisation 4",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ATS2333 Jazz History or ATS2331/ATS2332 Music Overseas Study Program or ATS2900 Writing about music: Headlines and hashtags",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ATS2901This unit is only available to students enrolled in a Bachelor of Music single or double degree.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit is the fourth and final of a sequence of four units that integrates the development of aural skills with the theoretical understanding of music through listening, analysis, performance, notation and composition. It consolidates the skills and knowledge developed in ATS2901 Music theory and ear training 3 through the study and practical application of theoretical concepts in either the Western art music or jazz tradition. Further study of advanced analytical and compositional procedures in representative works incorporates the analysis and recognition of chromatic harmony, voice leading techniques and different structural levels.",
+                    "UnitCode": "ATS2902",
+                    "UnitName": "Music theory and ear training 4",
+                    "_id": "5878004830213215439e8760",
+                    "enjoyRating": 3.5,
+                    "enjoyResponse": 22,
+                    "learnRating": 3.627946128,
+                    "learnResponse": 22,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Course commenced prior to 2014:Must have passed 3 units in EDF1303, EDF1304, EDF2003, EDF2004, EDF2005, EDF3002Course commenced in or after 2014:EDF2005 and EDF2007",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit inquires into the challenges of achieving equity in schooling and education in diverse social and cultural contexts. It critically engages with a combination of sociological theory, contemporary policy documents and accounts of innovative practice in schools and communities to explore the ways in which curriculum and teaching and learning strategies can be ethically responsive to centralised government policy and local and community needs. International policy developments and trends in multicultural education are examined, as well as local, state and national responses. Cultural, linguistic, religious, socioeconomic, intellectual and physical differences among all students are studied in relation to creating equitable and inclusive learning environments. The unit builds understanding of the histories, cultures and identities of Aboriginal and Torres Strait Islander people and explores how this understanding in educators can productively contribute to experiences of schooling for all young Australians.",
+                    "UnitCode": "EDF3009",
+                    "UnitName": "Schooling, education and equity: Local and global perspectives",
+                    "_id": "587801ce30213215439e8d71",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Successful completion of at least 24 credit points of education units.",
+                    "Proh": "EDF2004",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit examines a range of curriculum theories and uses this knowledge as a framework for exploring the work that teachers do to develop responsive curriculum and innovative practice. Through an examination of a range of innovative practices that engage diverse student populations, the unit explores the ways in which teachers in schools transform centralised curriculum documents and bring curriculum 'to life'. In association with this exploration, students investigate a range of issues that include maximising learner motivation in schools, engagement through curriculum development and innovative practice, developing community-based curriculas and practices, and teachers seeing themselves as 'curriculum workers' and the implication of this for their professional identity. Students draw on their emerging understandings of curriculum policies, issues and innovation to develop practices that are inclusive, exciting and educational.",
+                    "UnitCode": "EDF3010",
+                    "UnitName": "Curriculum development and innovative practice",
+                    "_id": "587801ce30213215439e8d72",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF2056",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF3055",
+                    "UnitName": "Secondary professional experience 3A",
+                    "_id": "587801d530213215439e8d85",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ATS3XXX Music Specialisation 5",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Twelve credit points of second-year Arts units.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit examines fundamental concepts and business practices of the Australian music industry, focusing on the practical knowledge and transferable skills required to commence and maintain a professional career in the music industry. It explores the interaction of music and culture mediated through business institutions and includes an introduction to self-management, copyright, record companies and the recording process. Attention is paid to the Australian music industry and some comparison with overseas practices is made.",
+                    "UnitCode": "ATS3094",
+                    "UnitName": "The music business: How to be successful in the music industry",
+                    "_id": "5878005b30213215439e87a4",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF2007",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit enables students to develop knowledge, skills and understandings of how to engage with young and adolescent learners across discipline areas through their language and literacy practices. Drawing on a range of Australian and international research literature, and linking theory and practice, students work collaboratively and individually to develop deep understandings of language and literacy (including numerical literacy) as complex social, cultural, political and technological practices that develop in multiple contexts, in and out of schools and classrooms. They apply their emerging knowledge and skills in these areas to creatively and critically inquire into a range of educational scenarios involving literacy development and learning. Students learn about and undertake ethnographic research into their own literacy practices, and those of students and teachers in diverse educational contexts. In learning from research and through conducting their own inquiries, students develop an appreciation of how language and literacy practices play key roles in mediating diverse learners' identities, relationships and understandings of the world.",
+                    "UnitCode": "EDF3007",
+                    "UnitName": "Developing multiple literacies in education",
+                    "_id": "587801cd30213215439e8d70",
+                    "enjoyRating": 3.21875,
+                    "enjoyResponse": 83,
+                    "learnRating": 3.442445352,
+                    "learnResponse": 42,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Education elective (6 pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF3055",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF3056",
+                    "UnitName": "Secondary professional experience 3B",
+                    "_id": "587801d530213215439e8d86",
+                    "enjoyRating": 4.277777778,
+                    "enjoyResponse": 34,
+                    "learnRating": 4.28968254,
+                    "learnResponse": 17,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ATS3XXX Music Specialisation 6",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Arts",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Twelve credit points of second-year Arts units.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit explores select twentieth- and twenty-first-century musics in Australia. By examining various socio-political perspectives, such as multiculturalism, the unit also investigates the cultural impact of music in the Australia as well as the way in which individuals and groups engage in musical practices.",
+                    "UnitCode": "ATS3061",
+                    "UnitName": "Music in Australia",
+                    "_id": "5878005530213215439e8790",
+                    "enjoyRating": 4.25,
+                    "enjoyResponse": 6,
+                    "learnRating": 4.416666667,
+                    "learnResponse": 6,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (On-campus block of classes)",
+                                "Term 4 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit builds students' capacity to demonstrate knowledge and understanding of research into how students learn, teaching and learning theory and practice and the implications in varied education contexts. Students explore principles, approaches and methods for conducting and applying educational research. They investigate issues such as what 'counts' as research, where research can occur, what is to be researched, how research can be undertaken, why research is important and what constitutes a research community in the context of their particular discipline and specialisation. They learn how to generate and use data ethically to inform their educational work and develop an evidence base for this work.",
+                    "UnitCode": "EDF4100",
+                    "UnitName": "Researching teaching and learning",
+                    "_id": "587801e830213215439e8dc3",
+                    "enjoyRating": 4.5,
+                    "enjoyResponse": 2,
+                    "learnRating": 4.166666667,
+                    "learnResponse": 2,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "EDF3001EDF5422",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit builds upon students' existing knowledge of curriculum, through an exploration of recent developments in curriculum, assessment, evaluation and education policy in local and national contexts. Students critically engage with various theoretical views relating to curriculum and assessment and their relationship to policy. A key focus of this unit is investigating what makes particular curricula and assessment approaches have greater or lesser educative value and the impacts of policy in these areas. Consequently, the political and ethical dimensions inherent in all curricula are explored, as are the linkages between curricula, assessment, reporting, evaluation and the quality of student learning. This unit promotes the importance of developing the professional capacity of educators to make critical judgments in terms of curriculum planning, action and evaluation, and the development of assessment that promotes high quality student learning.",
+                    "UnitCode": "EDF4004",
+                    "UnitName": "Curriculum, assessment and education policy",
+                    "_id": "587801e030213215439e8da9",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "EDF4055 Secondary professional experience 4A and EDF4056 Secondary professional experience 4B 25 days (0 pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "EDF5XXX Method unit 1A (6 pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "EDF5XXX Method unit 2A (6 pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 1 2017 (On-campus block of classes)",
+                                "Term 3 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit builds students' capacity to research teaching and learning in particular educational contexts. Students apply some of the principles and methods of educational research they have learned about by developing a short literature review related to the proposal developed in EDF4100. They then demonstrate their capacity to generate and use data ethically via a research project related to their particular discipline and specialisation. This is focused on examining practice in an education setting, school or classroom, using methods that may include focus groups, interviews, self-study, action research or participant observation. Finally, students demonstrate a clear and coherent exposition of the knowledge they have gained through the presentation of their findings to their peers and in a written report.",
+                    "UnitCode": "EDF4101",
+                    "UnitName": "Research project in education",
+                    "_id": "587801e830213215439e8dc4",
+                    "enjoyRating": 3.916666667,
+                    "enjoyResponse": 12,
+                    "learnRating": 4.236111111,
+                    "learnResponse": 6,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit prepares students for their transition from initial teacher education to their professional practice as teachers. Drawing on a range of research literature and the knowledge, skills and professional experiences developed during all years of their course, students are inducted into the notion of what it means to be engaged in the teaching profession through consideration of the nature of teachers' work and of leadership in education. This includes the ethical, professional, industrial, legal, emotional, intellectual and personal dimensions of the work of teachers and educational leaders. Students gather evidence of and critically reflect on their emerging professional identity as practitioners, and on the Graduate Teaching Standards and graduate attributes they have developed that enable them to be skilled teachers and potential education leaders. They explore the ways in which they can engage with and initiate professional communities of educators in and beyond their immediate professional settings. Students develop understanding of the process of applying for positions and transitioning to the profession in ways that enhance and improve their employability. They continue to develop their literacy, numeracy and information and communication technology (ICT) skills and knowledge through synthesising a variety of theoretical and practical perspectives they have encountered throughout their course.",
+                    "UnitCode": "EDF4006",
+                    "UnitName": "Transition and professional engagement",
+                    "_id": "587801e030213215439e8daa",
+                    "enjoyRating": 3.553571429,
+                    "enjoyResponse": 71,
+                    "learnRating": 3.541987179,
+                    "learnResponse": 36,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "EDF4057 Secondary professional experience 4C and EDF4058 Secondary professional experience 4D 25 days (0 pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "EDF5XXX Method unit 1B (6 pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "EDF5XXX Method unit 2B (6 pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

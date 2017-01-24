@@ -1,0 +1,140 @@
+{
+    "courseAOS": "International Students",
+    "courseCode": "P3001",
+    "courseName": "Pharmacy",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "PHR1011",
+                "PHR1021",
+                "PHR1031"
+            ],
+            "year": -2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "PHR1012 Professional Practice II Prereqs: PHR1011"
+                },
+                {
+                    "faculty": "",
+                    "type": "PHR1022 How Medicines Work II (18 credit points) Prereqs: PHR1021"
+                }
+            ],
+            "year": -2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "PHR2011 Professional Practice III Prereqs: PHR1012, PHR1022, PHR 1031"
+                },
+                {
+                    "faculty": "",
+                    "type": "PHR2021 How Medicines Work III Prereqs: PHR1012, PHR1022, PHR1031"
+                },
+                {
+                    "faculty": "",
+                    "type": "PHR2041 Respiratory & gastrointestinal disease Co-req: PHR2011,PHR2021"
+                },
+                {
+                    "faculty": "",
+                    "type": "PHR2141 Endocrinology & Renal Co-req: PHR2011, PHR2021"
+                }
+            ],
+            "year": -1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "PHR2012 Professional Practice IV (12 credit points) Prereqs: PHR2011"
+                },
+                {
+                    "faculty": "",
+                    "type": "PHR2042 Cardiovascular Prereqs: PHR2041, PHR2141"
+                },
+                {
+                    "faculty": "",
+                    "type": "PHR2142 Dermatology & Pain Prereqs: PHR2041, PHR2141"
+                }
+            ],
+            "year": -1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "PHR3011 Professional Practice V Prereqs: PHR2011"
+                },
+                {
+                    "faculty": "",
+                    "type": "PHR3041 Mental Health Prereqs: PHR2042, PHR2142"
+                },
+                {
+                    "faculty": "",
+                    "type": "PHR3141 Microbiology & Infectious Disease (12 credit points) Prereqs: PHR2042, PHR2142"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "PHR3042 Neurology & Ophthamology Prereqs: PHR3041, PHR3141, PHR3011"
+                },
+                {
+                    "faculty": "",
+                    "type": "PHR3142 Integration & ICU (12 credit points) Prereqs: PHR3041, PHR3141, PHR3011"
+                },
+                {
+                    "faculty": "",
+                    "type": "PHR5052 Inquiry & Innovation I Co-req: PHR3042, PHR3142"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "PHR5051 Inquiry & Innovation II (18 credit points) Prereqs: PHR5052"
+                },
+                {
+                    "faculty": "",
+                    "type": "PHR5052 Inquiry & Innovation I Co-req: PHR3042, PHR3142"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "PHR4042 Haematology Oncology Prereqs: PHR5051"
+                },
+                {
+                    "faculty": "",
+                    "type": "PHR4142 Transplant Prereqs: PHR5051"
+                },
+                {
+                    "faculty": "",
+                    "type": "PHR4242 Integrated Care (12 credit points) Prereqs: PHR5051"
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "courseAOS": "Bachelor of Health Science (Honours)",
+    "courseCode": "4520",
+    "courseName": "Health Science",
+    "courseType": "Bachelor degree (honours) - 1 year",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "HSC4001",
+                "HSC4011"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "HSC4002"
+            ],
+            "year": 0
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "courseCode": "E3003",
+    "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist",
+    "courseAOS": "Materials Engineering/Mathematical Economics and Econometrics",
+    "faculty": "Faculty of Engineering",
+    "courseType": "Double Undergraduate",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+            ["ENG1001","ENG1002"],
+            ["ENG1003","ENG1005"],
+            "ENG1060",
+            "ETC1000"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+            ["ENG1002","ENG1001"],
+            ["ENG1003","ENG1005"],
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Engineering"
+            },
+            "ECC1000"
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 1,
+          "units": [
+            "MTE2541",
+            "MTE2544",
+            "ECC2000",
+            "ECC1100"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 1,
+          "units": [
+            "MTE2542",
+            "ENG2005",
+            ["ECC2010", "ECC2360", "ECC2600","ECC3660","ECC3670","ECC3690","ECC3710", "ECC3830"],
+            "ETC2410"
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 2,
+          "units": [
+            "MTE3541",
+            "MTE2546",
+            ["ETC2460 & ETC2520","ETC2440 & ECC2610","MTH1020 & MTH1030","MTH1030 & MTC2010/MTC2021"],
+            ["ECC2010", "ECC2360", "ECC2600","ECC3660","ECC3670","ECC3690","ECC3710", "ECC3830"]
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 2,
+          "units": [
+            "MTE3545",
+            "MTE2545",
+            ["ETC2460 & ETC2520","ETC2440 & ECC2610","MTH1020 & MTH1030","MTH1030 & MTC2010/MTC2021"],
+            ["ECC3660","ECC3670","ECC3690","ECC3710", "ECC3830"]
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 3,
+          "units": [
+            "MTE3543",
+            "MTE3542",
+            ["ECC3660","ECC3670","ECC3690","ECC3710", "ECC3830"],
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Business and Economics"
+            }
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 3,
+          "units": [
+            "MTE3547",
+            "MTE3546",
+            "ECC3840",
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Business and Economics"
+            }
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 4,
+          "units": [
+            "MTE4571",
+            "MTE4525",
+            "MTE4572",
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Business and Economics"
+            }
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 4,
+          "units": [
+            {
+              "type": "Material Engineering Elective",
+              "faculty": "Faculty of Engineering"
+            },
+            "MTE4526",
+            "MTE4573",
+            "ETC3400"
+          ]
+        }
+    ]
+}

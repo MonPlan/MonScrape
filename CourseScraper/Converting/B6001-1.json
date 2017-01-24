@@ -1,0 +1,51 @@
+{
+    "courseCode": "B6001",
+    "courseName": "Master of Applied Economics and Econometrics",
+    "courseAOS": "Applied Economics and Econometrics",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+              "ECF5410",
+              "ECF5421",
+              ["ECC5900", "ECF5927"],
+              ["ECC5901", "ECF5923"]
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+              ["ETC5341", "ETF5320"],
+              {"type": "Mastery Knowledge Unit", "faculty": "Faculty of Business and Economics"},
+              ["ETF2100", "ETC2410"],
+              ["ETF2700", "ETC2440", "ETF2121"]
+          ]
+        }, {
+          "code": "S1-01",
+          "year": 1,
+          "units": [
+              {"type": "Mastery Knowledge Unit", "faculty": "Faculty of Business and Economics"},
+              "ETF5200",
+              {"type": "Application Studies Unit", "faculty": "Faculty of Business and Economics"}
+                            
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 1,
+          "units": [
+              {"type": "Application Studies Unit", "faculty": "Faculty of Business and Economics"},
+              {"type": "Application Studies Unit", "faculty": "Faculty of Business and Economics"},
+              {"type": "Application Studies Unit", "faculty": "Faculty of Business and Economics"}              
+          ]
+        }, {
+            "code": "FY-01",
+            "year": 1,
+            "units": [
+                "ECF5060"
+            ]
+        }
+    ]
+}

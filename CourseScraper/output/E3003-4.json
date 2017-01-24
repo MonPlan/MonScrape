@@ -1,0 +1,138 @@
+{
+    "courseAOS": "Chemical Engineering and Actuarial Science specialisations",
+    "courseCode": "E3003",
+    "courseName": "Engineering and Commerce Specialist",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ENG1001",
+                "CHM1011",
+                "ETC1000",
+                "ECC1000",
+                [
+                    "ENG1090",
+                    "PHS1080"
+                ]
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                [
+                    "ENG1090",
+                    "PHS1080",
+                    "ENG1005"
+                ],
+                {
+                    "faculty": "",
+                    "type": "ENG1005 S1,2 if not already completed or1 st year eng elective Or ENG1060"
+                },
+                "ECC1100",
+                "ACC1100"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ENG1003",
+                {
+                    "faculty": "",
+                    "type": "ENG1060 Computing for engineers S1,2 Or ENG2005"
+                },
+                "ETC2440",
+                "ETC2410"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ENG1002",
+                "CHE2163",
+                "BFC2140",
+                "ETC2420"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ENG2005",
+                "CHE2161",
+                "BFC2000",
+                "BFC2340"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "CHE2162",
+                {
+                    "faculty": "",
+                    "type": "CHE2164 Thermodynamics S1,2 Or CHE3167"
+                },
+                "ETC2430",
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 1 from a list"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "CHE3161",
+                "CHE3165",
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 2 from a list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 3 from a list"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "CHE3166",
+                "CHE3164",
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 4 from a list"
+                },
+                "ETC3530"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "CHE4161",
+                "CHE4180",
+                "CHE4180",
+                "CHE3167"
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "CHE4162",
+                "CHE4170",
+                "CHE4170",
+                "CHE3162"
+            ],
+            "year": 4
+        }
+    ]
+}

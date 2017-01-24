@@ -1,0 +1,44 @@
+{
+    "courseCode": "D6003",
+    "courseName": "Master of Counselling",
+    "courseAOS": "",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Education",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+              "EDF4530",
+              "EDF4532"
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+              "EDF4531",
+              "EDF4533"
+          ]
+        }, {
+          "code": "S1-01",
+          "year": 1,
+          "units": [
+              "EDF5530",
+              "EDF5532"
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 1,
+          "units": [
+              "EDF5531",
+              "EDF5533"
+          ]
+        }, {
+            "code": "FY-01",
+            "year": 1,
+            "units": [
+                "EDF5534"
+            ]
+        }
+    ]
+}

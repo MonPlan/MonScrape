@@ -1,0 +1,105 @@
+{
+    "courseAOS": "Bachelor of Actuarial Science",
+    "courseCode": "B2004",
+    "courseName": "Commerce Specialist",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ECC1000",
+                "ETC1000",
+                "ACC1100",
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ECC1100",
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ETC2410",
+                "ETC2440",
+                "BFC1001",
+                "BFC2340"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ETC2430",
+                "ETC2420",
+                "BFC2140",
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 1 selected from a list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 2 selected from a list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 3 selected from a list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 4 selected from a list"
+                },
+                "ETC3530",
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 2
+        }
+    ]
+}

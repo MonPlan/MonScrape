@@ -1,0 +1,932 @@
+{
+    "courseAOS": "Visual arts specialisation and Multimedia Development major",
+    "courseCode": "F2006",
+    "courseName": "Fine Art and Information Technology",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Art, Design and Architecture",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Entry into Bachelor of Visual Arts course",
+                    "Proh": "VPR1001, VPR1002",
+                    "SCABand": 1,
+                    "Sypnosis": "This is a core unit in the Visual Practices sequence, and is one of four 1st year units. This unit provides students with an exploration of a broad range of approaches to production methodologies in contemporary visual art for those wishing to work in the arts industry. Topics are delivered in an intensive series of workshop environments and will include experimentation with a range of materials, techniques and conceptual approaches. Students will be encouraged to develop inventive solutions to a series of projects set around a variety of themes and concepts appropriate to each workshop. Teaching methods involve technical demonstrations, critical dialogue, class discussion and evaluation. Safe and sustainable approaches to fabrication techniques and materials are promoted as core values in the unit.",
+                    "UnitCode": "VPR1011",
+                    "UnitName": "Visual practices 1",
+                    "_id": "587804f630213215439e990f",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must be enrolled in a course owned, or, granted permission by, the faculty of Art Design and Architecture.",
+                    "Proh": "DRW1201",
+                    "SCABand": 1,
+                    "Sypnosis": "An intensive program facilitating the acquisition and development of practical and intellectual skills required by art, design and architecture students in the discipline of drawing. Observation, analysis, selection, interpretation and expression are studied through sequential projects. Manufactured and natural forms including the figure and other models are central to the investigation of proportion, structure, volume and space through line, tone, shape, movement and texture. A range of drawing materials and methods are explored.",
+                    "UnitCode": "DWG1201",
+                    "UnitName": "Drawing 1",
+                    "_id": "5878017a30213215439e8c29",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "TAD1101",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit is an introduction to visual cultures from the perspectives of art, design and architecture. Key themes within contemporary visual culture are discussed in terms of aesthetic, technological, historical and ideological contexts. Students develop critical skills in analysing the diverse artefacts and practices of art, design and architecture and communicating their significance in verbal and written forms.",
+                    "UnitCode": "AHT1101",
+                    "UnitName": "Introduction to visual culture in Art Design & Architecture",
+                    "_id": "5877ff9b30213215439e84a8",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "FIT2015, DIS1911",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit is an introduction to the techniques, frameworks and processes comprising 3D modelling and 3D imaging. Foundations of 3D aims to give students an understanding of 3D modelling by developing skills in 3D model creation for a variety of contexts, including 3D prototyping, 3D visualisation and 3D modelling for games and animation. Students will communicate their knowledge of 3D theory through the production of designs that demonstrate geometrical modelling, texture mapping, virtual lighting techniques, camera positioning, and rendering procedures.",
+                    "UnitCode": "FIT1033",
+                    "UnitName": "Foundations of 3D",
+                    "_id": "5878027230213215439e8fa4",
+                    "enjoyRating": 4.1,
+                    "enjoyResponse": 32,
+                    "learnRating": 3.979707792,
+                    "learnResponse": 32,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Off-campus)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Admission to any Art Design and Architecture course",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "An introduction to occupational health, safety and environmental training within the context of courses within the Faculty of Art and Design, together with an understanding of the historical perspectives and context of safety and environment concerns in the workplace. The difference between hazard and risk, and the process of risk assessment in workplaces.",
+                    "UnitCode": "OHS1000",
+                    "UnitName": "Introduction to art and design health and safety",
+                    "_id": "5878044b30213215439e9691",
+                    "enjoyRating": 4.045454545,
+                    "enjoyResponse": 48,
+                    "learnRating": 3.962286504,
+                    "learnResponse": 88,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Entry into Bachelor of Visual Arts course",
+                    "Proh": "VPR1002, VPR1001",
+                    "SCABand": 1,
+                    "Sypnosis": "This is a core unit in the Visual Practices sequence, and is one of four 1st year units. This unit provides students with a further exploration of a broad range of approaches to production methodologies in contemporary visual art for those wishing to work in the arts industry. Topics are delivered in an intensive series of workshop environments and will include experimentation with a range of materials, techniques and conceptual approaches. Students will be encouraged to develop inventive solutions to a series of projects set around a variety of themes and concepts appropriate to each workshop. Teaching methods involve technical demonstrations, critical dialogue, class discussion and evaluation. Safe and sustainable approaches to fabrication techniques and materials are promoted as core values in the unit.",
+                    "UnitCode": "VPR1012",
+                    "UnitName": "Visual practices 2",
+                    "_id": "587804f630213215439e9910",
+                    "enjoyRating": 4,
+                    "enjoyResponse": 7,
+                    "learnRating": 3.777777778,
+                    "learnResponse": 6,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Entry into Bachelor of Visual Arts course",
+                    "Proh": "VPR1001, VPR1002",
+                    "SCABand": 1,
+                    "Sypnosis": "Research Practices is a core unit in the Visual Arts sequence and is one of four 1st year units. This unit is a practice driven, workshop based unit which explores varied drawing methodologies and ways they can contribute to a research practice in visual culture. It is designed to develop, challenge and expand how students think about making artwork and to develop research skills. A series of individual and collaborative exercises and projects are presented as starting points that, when navigated, foster creative research skills and develop students' material skills. The main emphasis of this class is to demonstrate how thinking operates through making. Fabrication processes in the workshop can be in any medium from across two- and/or three-dimensional works, to sound and performance. The aim of these exercises is to have a generative influence on production, creating a pool of ideas, strategies, forms and processes for students to draw on and develop as they progress through the course. Teaching methodology involves critical dialogue, classroom discussion and peer review. This unit presents a broad range of approaches to contemporary art and its institutions for those wishing to work in the arts industry as artists, curators, arts writers, educators or practitioners. Research Practices encourages an experimental approach to conceptual and material outcomes. Safe and sustainable approaches to fabrication and materials are core values in the unit.",
+                    "UnitCode": "VPR1113",
+                    "UnitName": "Research practices",
+                    "_id": "587804f730213215439e9911",
+                    "enjoyRating": 3.833333333,
+                    "enjoyResponse": 6,
+                    "learnRating": 3.409722222,
+                    "learnResponse": 7,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "TAD1102",
+                    "SCABand": 1,
+                    "Sypnosis": "The aesthetic, spiritual and ideological energies of the industrial period in painting, furniture, advertising, metalwork and so on. The meaning of works of art and design and the meaning of the standard survey which is traditionally constructed to explain the patterns of art history.",
+                    "UnitCode": "AHT1102",
+                    "UnitName": "Modernism and the avant-garde",
+                    "_id": "5877ff9c30213215439e84a9",
+                    "enjoyRating": 3.038461538,
+                    "enjoyResponse": 48,
+                    "learnRating": 3.368899782,
+                    "learnResponse": 48,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides Creative Computing students with foundation skills relevant to all other Creative Computing (Multimedia Development) major units. This unit covers the basics of information graphic, digital graphic and motion graphic editing and introduces the fundamentals of web production with CSS and HTML 5. The unit content will introduce students to some of the key conceptual, technical and craft issues related to digital media production, and give them the opportunity to create media products based on their own practice based research.",
+                    "UnitCode": "FIT1046",
+                    "UnitName": "Creative computing foundations",
+                    "_id": "5878027430213215439e8faa",
+                    "enjoyRating": 4.205882353,
+                    "enjoyResponse": 58,
+                    "learnRating": 4.229487179,
+                    "learnResponse": 58,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Completion of DWG1201, VPR1011, VPR1012 and VPR1113",
+                    "Proh": "VPR2001",
+                    "SCABand": 1,
+                    "Sypnosis": "Research Practices Advanced is a core unit in the Visual Arts sequence, and is the first of the two 2nd year units. This unit is a practice driven, workshop based unit which develops a variety of methodologies and their contribution to a research practice in visual culture. It is designed to further develop, challenge and expand how students think about making artwork and to synthesise research interests, building on VPR1113. A series of individual and collaborative exercises and projects are presented to extend and further foster creative research skills and consolidate students' material skills. The main emphasis of this class is to demonstrate how thinking operates through making. Fabrication processes in the workshop can be in any medium from across two- and/or three-dimensional works, to sound and performance. The aim of these exercises is to further extend each student's capacity for production, creating a pool of ideas, strategies, forms and processes for students to draw on and develop as they progress through the course. Teaching methodology involves critical dialogue, classroom discussion and peer review. This unit presents a broad range of approaches to contemporary art and its institutions for those wishing to work in the arts industry as artists, curators, arts writers, educators or practitioners. Research Practices encourages an experimental approach to conceptual, material and public outcomes. Safe and sustainable approaches to fabrication and materials are core values in the unit.",
+                    "UnitCode": "VPR2011",
+                    "UnitName": "Research practices advanced",
+                    "_id": "587804f830213215439e9914",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "FINE ART WORKSHOP 1",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "12 credit points at first year level in Art history and theory, or Theory of Art and Design, Visual Culture or permission from Unit Coordinator.",
+                    "Proh": "TAD2112, TAD3102, TAD3112",
+                    "SCABand": 1,
+                    "Sypnosis": "International Art 1945-1990 covers the art produced in the second half of the 20th century and its relevance to contemporary practice. Various actions, interventions and critiques of institutions, museums and the art market will be considered, as well as feminist, queer and non-Western perspectives. An objective of the unit is to reach an understanding of the way art-historical discourses promote and exclude certain practices and practitioners (especially due to gender, race, sexuality and location), with an emphasis on incorporating recent research on artists who were previously excluded from the historical \"canon\".",
+                    "UnitCode": "AHT2102",
+                    "UnitName": "International art 1945-1990",
+                    "_id": "5877ff9d30213215439e84ad",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "FIT1045 Introduction to algorithms and programming OR FIT1048 Foundations of C++ OR FIT1051 Programming foundations",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Prato"
+                            ],
+                            [
+                                "Second semester 2017 (Off-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "VPR2011",
+                    "Proh": "VPR2002",
+                    "SCABand": 1,
+                    "Sypnosis": "This is a core unit in the Visual Arts and is second of the two 2nd year units. The unit provides students with a broad range of approaches to cultural production for those wishing to work in the visual arts industry across a diverse range of professional platforms. This unit introduces students to various professional processes and outcomes that contemporary visual artists engage and exhibit in. The workshop-driven classes incorporate theoretical and historical perspectives on these gallery-based modes. This unit introduces various steps required to make art public from: studio-based processes; the engagement of critical feedback; administrative processes associated with gallery-based exhibition; installing an artwork; and contextualising the artwork in a considered theoretical and curatorial framework. The workshop program facilitates a support structure for the development and consolidation of experimental approaches to conceptual and material outcomes of burgeoning research interests. Students are required to investigate and develop individual and collaborative solutions to a series of creative public outcomes. Teaching methodology involves lectures, fieldtrips, critical dialogue, class discussion and peer review. Safe and sustainable approaches to fabrication techniques and materials are promoted as core values in the unit.",
+                    "UnitCode": "VPR2012",
+                    "UnitName": "Professional practice",
+                    "_id": "587804f930213215439e9915",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "FINE ART WORKSHOP 2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "FIT1031 and FIT2078",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit introduces students to fundamentals of computer systems, networks and security. It provides basic knowledge of computer organisation and architecture, operating systems, networking architecture, technology and operation. It introduces the concepts of security goals for protecting common modern computer systems and communication networks from adversaries and the deployment of suitable countermeasures to achieve these goals.",
+                    "UnitCode": "FIT1047",
+                    "UnitName": "Introduction to computer systems, networks and security",
+                    "_id": "5878027430213215439e8fab",
+                    "enjoyRating": 3.880434783,
+                    "enjoyResponse": 118,
+                    "learnRating": 3.864349817,
+                    "learnResponse": 118,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "FIT1033 or DIS1911",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit builds upon the skills, techniques and theory introduced in FIT1033 Foundations of 3D and extends their research and skills in 3D character design and motion capture technologies for games and 3D animation. Students will be introduced to advanced techniques for character detailing (modelling and texturing) character animation (motion capture systems) and 3D environmental design. The theoretical and practical considerations contributing to the conceptualisation and preparation of 3D characters for animation sequences will constitute a key focus of this unit.",
+                    "UnitCode": "FIT2087",
+                    "UnitName": "Advanced 3D",
+                    "_id": "5878027c30213215439e8fc9",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "24 points of FIT units",
+                    "Proh": "BUS2021, CPE2003, CSE1204, CSE1205, GCO1813, GCO2601, GCO2852, GCO2826, IMS1001, IMS1002, IMS1805, IMS2071, IMS9001",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit introduces students to systems analysis and design as a problem solving activity, within the framework of a selected methodology. It will focus on contemporary industry practice; investigating understanding and documenting system requirements; a range of design and implementation activities; and professional skills required for systems development.",
+                    "UnitCode": "FIT2001",
+                    "UnitName": "Systems development",
+                    "_id": "5878027630213215439e8fb1",
+                    "enjoyRating": 3.975,
+                    "enjoyResponse": 33,
+                    "learnRating": 3.894432773,
+                    "learnResponse": 33,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "One of FIT1040, FIT1045, FIT1048, FIT1051 or equivalent introductory programming unit",
+                    "Proh": "FIT1004, FIT3171",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will provide an introduction to the concepts of database design and usage and the related issues of data management. Students will develop skills in planning, designing, and implementing a data model using an enterprise-scale relational database system (Oracle). Methods and techniques will also be presented to populate, retrieve, update and implement integrity features on data in the implemented database system.",
+                    "UnitCode": "FIT2094",
+                    "UnitName": "Databases",
+                    "_id": "5878027d30213215439e8fcf",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Completion of 12 points of FIT units.",
+                    "Proh": "FIT2003",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides a practical and theoretical introduction to what it means to be an IT professional today. Students will encounter a range of issues relevant to professional practice in the workplace, as well as an understanding of the wider responsibilities that professionals are called upon to uphold in society. Topics addressed include: organisational and professional communication; mindfulness; teamwork; the nature of the IT professions; the role of professional associations; problem solving and information use; cross-cultural awareness; personal and professional ethics and codes of practice.",
+                    "UnitCode": "FIT1049",
+                    "UnitName": "IT professional practice",
+                    "_id": "5878027530213215439e8fad",
+                    "enjoyRating": 3.482545045,
+                    "enjoyResponse": 188,
+                    "learnRating": 3.664236475,
+                    "learnResponse": 63,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "FIT1046",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Creative computing studio 1 builds upon the skills learnt in Creative computing foundations and introduces students to digital graphic and video technologies for the web. The basics of web design and production introduced in Creative computing foundations are extended in this unit. Students will undertake projects that integrate a range of multimedia resources to design and develop original digital images, motion graphic sequences and interactive webpages. In their final assignment, students will collaborate in groups of two or three to realise their multimedia creation.",
+                    "UnitCode": "FIT2091",
+                    "UnitName": "Creative computing studio 1",
+                    "_id": "5878027d30213215439e8fcc",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Completion of at least 36 points of study, including one of (FIT1002, FIT1040, FIT1045, FIT1048, FIT1051, ENG1003) (or equivalent) and one of (FIT1049, FIT2003, EDF2005, SCI2010) (or equivalent)",
+                    "Proh": "AFW3043, BEW3640, BUS2176, CIV3205, CPE2006, CSE2203, GCO3807, GEG3104, GSE3003,     FIT3086, MGW2700, MMS2203",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit introduces students to the many concepts, tools and techniques for managing information technology projects. Exploring traditional and agile approaches for managing projects, topics include project lifecycles, project planning, project scheduling, team building, risk management, time and quality management. A case study approach will be used to provide learning opportunities, with an emphasis on the unique aspects of information technology projects.",
+                    "UnitCode": "FIT2002",
+                    "UnitName": "IT project management",
+                    "_id": "5878027630213215439e8fb2",
+                    "enjoyRating": 4.147420635,
+                    "enjoyResponse": 130,
+                    "learnRating": 4.206732203,
+                    "learnResponse": 33,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Completion of 24 points of level 2 or 3 FIT units",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will focus on research into the latest developments in the field of information technology, including innovative technology developments involving human computer interaction, information visualisation of complex data and emerging interface techniques. Students will learn valuable research and communication skills as they investigate and share with their peers the impact of emergent technologies and interfaces on society. The content presented in the lectures will focus on grand challenges in the field of information technology and on emerging trends. Students will apply their theoretical understanding to a practical project negotiated with the lecturer using a learning contract.",
+                    "UnitCode": "FIT3146",
+                    "UnitName": "Emergent technologies and interfaces",
+                    "_id": "5878028a30213215439e9000",
+                    "enjoyRating": 4,
+                    "enjoyResponse": 15,
+                    "learnRating": 3.783333333,
+                    "learnResponse": 15,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": "Not Offered in 2017",
+                    "Preqs": "FIT1033 and FIT2091",
+                    "Proh": "FIT3008",
+                    "SCABand": 2,
+                    "Sypnosis": "Advanced visual effects builds upon the skills learnt in Creative computing foundations, Creative computing studio 1 and Foundations of 3D, developing an understanding of the multimedia development process, tools and techniques as applied to advanced time based media manipulation in multimedia content production. It introduces students to a range of techniques by which video can be manipulated and enhanced after the original material has been recorded by combining it with 2D and 3D CGI elements.",
+                    "UnitCode": "FIT3156",
+                    "UnitName": "Advanced visual effects",
+                    "_id": "5878028c30213215439e9005",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "FIT2091",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Creative computing studio 2 consolidates the digital media skills introduced in Creative computing foundations and extended in Creative computing studio 1. The focus on the development of high level digital media skills in vector graphic editing, digital image manipulation and JavaScript equips students undertaking this unit to enter higher-level units in the Multimedia Development major, minor and extended major.",
+                    "UnitCode": "FIT2092",
+                    "UnitName": "Creative computing studio 2",
+                    "_id": "5878027d30213215439e8fcd",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "VPR2012 and 1 department approved elective",
+                    "Proh": "VPR3001",
+                    "SCABand": 1,
+                    "Sypnosis": "This is a core unit in the Visual Arts sequence and is first of the two 3rd year units. The unit provides students with an advanced perspective on the various modes of publication available to cultural practitioners engaged in Visual Art. This unit gives students an opportunity to incorporate theoretical frameworks that reflect and expand upon a breadth of fields that include education, business, information technology or the liberal arts into their production of visual culture. This unit asks students to develop self-directed strategies that extend upon traditional gallery based exhibition modes. These modes might include: artists' books, editioned objects; site-based research and exhibiting; digital broadcast; collaborative, social and/or performative processes; curatorial contexts; and creative arts writing. The workshop program encourages an experimental and critical approach to conceptual and material outcomes whilst providing opportunities to cultivate curatorial, critical writing and administrative skills. Students are required to initiate individual and collaborative solutions to a series of creative public outcomes. Teaching methodology involves lectures, fieldtrips, critical dialogue, class discussion and peer-review. Safe and sustainable approaches to fabrication techniques and materials are promoted as core values in the unit.",
+                    "UnitCode": "VPR3011",
+                    "UnitName": "Professional practice advanced",
+                    "_id": "587804f930213215439e9918",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "FINE ART WORKSHOP 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "FIT1033 or DIS1911",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "FIT3169 introduces students to immersive environment design and production principles using game engine prototyping software. Building upon the 3D creation and editing skills in the prerequisite unit FIT1033 Foundations of 3D, students will learn how to create game levels, import assets (models, sounds, animations), extend supplied code (JavaScript) to visualise interactive virtual environments for a range of applications and devices.",
+                    "UnitCode": "FIT3169",
+                    "UnitName": "Immersive environments",
+                    "_id": "5878028e30213215439e900f",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students in course 3334: ((FIT1040 or FIT1002) and FIT1004 and FIT1031 and FIT2001 and FIT2002 and (FIT1003 or FIT2003)) and ((FIT2026 and FIT2072) or FIT2049)For students in course 3806: FIT2017, FIT3003 and FIT3020For students in course 3750: FIT2026, FIT2072 and FIT3020For students commencing study in 2016: FIT2092 or (FIT2073 and FIT2096)",
+                    "Proh": "MMS3404, MMS3407",
+                    "SCABand": 2,
+                    "Sypnosis": "The principal development process focus of the unit will be on the social, legal and business context in which multimedia and games development companies must operate. Students will work actively in teams on the development of a multimedia or games application or exhibit. Project teams will use project planning/management skills, and design and build a prototype of the project using appropriate software processes and methodologies. Students will integrate multimedia, programming and technical knowledge in the development process. Requirements are fulfilled by the team producing an identified set of deliverables. The team must ensure that each deliverable is completed on schedule.",
+                    "UnitCode": "FIT3039",
+                    "UnitName": "Studio project 1",
+                    "_id": "5878028330213215439e8fe7",
+                    "enjoyRating": 5,
+                    "enjoyResponse": 1,
+                    "learnRating": 5,
+                    "learnResponse": 1,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "VPR3011 and 2 department approved electives",
+                    "Proh": "VPR3002",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit is the last and culminating unit in the Visual Practices sequence and is second of the two 3rd year units. In this unit emphasis is placed on independent cultural research and its relation to a broader collaborative or group context in the public realm. Students develop a creative, expressive and critical project that utilises advanced conceptualisation and material manipulation, engaging with the artwork as part of a chain of production, reception, distribution and publics. Students develop individual programs in conjunction with the lecturers that reflect their evolving cultural practice and professional direction. The program focuses on clear articulation of concepts and their publication in the written form as a supplement to the student's Visual Practice. Detailed analysis and discussion of students' work takes place primarily through personal tuition with lecturers, peer-based critique and experimenting with various modes of public presentation. This unit provides a stimulating and supportive environment through the introduction of a supervised studio and bridges this to independent professional practice in the broader arts arena. This unit contextualises individual practice within various public platforms that require different modes of group and/or collaborative modes of engagement. The work produced culminates in an end of year exhibition of a professional standard, preparing students for entry into the professional world as cultural producer in broad array of Visual Arts disciplines, or the pursuit of further studies at a higher level.",
+                    "UnitCode": "VPR3012",
+                    "UnitName": "Visual practices 3",
+                    "_id": "587804fa30213215439e9919",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Elective chosen from AHT 2/3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "FIT3039",
+                    "Proh": "MMS3408",
+                    "SCABand": 2,
+                    "Sypnosis": "Students will work actively in teams on the development of a multimedia or games application or exhibit. Using project planning/management skills along with other development procedures, students must then deliver a functional multimedia system or game, along with all requisite documentation, which integrates multimedia, programming, and technical knowledge in the development process. Requirements are fulfilled by the team producing an identified set of deliverables, usually a progress report, full system documentation, and functional project. The team must ensure that each deliverable is completed on schedule, with each member of the team demonstrating a significant contribution to the overall effort.",
+                    "UnitCode": "FIT3040",
+                    "UnitName": "Studio project 2",
+                    "_id": "5878028330213215439e8fe8",
+                    "enjoyRating": 4.357142857,
+                    "enjoyResponse": 14,
+                    "learnRating": 4.174603175,
+                    "learnResponse": 14,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

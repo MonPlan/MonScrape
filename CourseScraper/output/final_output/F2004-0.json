@@ -1,0 +1,592 @@
+{
+    "courseAOS": "Industrial Design and Communication Design specialisations",
+    "courseCode": "F2004",
+    "courseName": "Design and Business",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Art, Design and Architecture",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "CDS1001,IDN1001",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "TAD1101",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit is an introduction to visual cultures from the perspectives of art, design and architecture. Key themes within contemporary visual culture are discussed in terms of aesthetic, technological, historical and ideological contexts. Students develop critical skills in analysing the diverse artefacts and practices of art, design and architecture and communicating their significance in verbal and written forms.",
+                    "UnitCode": "AHT1101",
+                    "UnitName": "Introduction to visual culture in Art Design & Architecture",
+                    "_id": "5877ff9b30213215439e84a8",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must be enrolled in a course owned, or, granted permission by, the faculty of Art Design and Architecture.",
+                    "Proh": "DRW1201",
+                    "SCABand": 1,
+                    "Sypnosis": "An intensive program facilitating the acquisition and development of practical and intellectual skills required by art, design and architecture students in the discipline of drawing. Observation, analysis, selection, interpretation and expression are studied through sequential projects. Manufactured and natural forms including the figure and other models are central to the investigation of proportion, structure, volume and space through line, tone, shape, movement and texture. A range of drawing materials and methods are explored.",
+                    "UnitCode": "DWG1201",
+                    "UnitName": "Drawing 1",
+                    "_id": "5878017a30213215439e8c29",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Off-campus)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Admission to any Art Design and Architecture course",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "An introduction to occupational health, safety and environmental training within the context of courses within the Faculty of Art and Design, together with an understanding of the historical perspectives and context of safety and environment concerns in the workplace. The difference between hazard and risk, and the process of risk assessment in workplaces.",
+                    "UnitCode": "OHS1000",
+                    "UnitName": "Introduction to art and design health and safety",
+                    "_id": "5878044b30213215439e9691",
+                    "enjoyRating": 4.045454545,
+                    "enjoyResponse": 48,
+                    "learnRating": 3.962286504,
+                    "learnResponse": 88,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "CDS1002,IDN1002",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "TAD1101 or AHT1101",
+                    "Proh": "TAD1102, TAD2101, TAD2214",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit considers the various strands of European modernism and their legacy in relation to the design disciplines. Key avant-garde movements and practices are studied, with particular consideration given to their ideological, political and cultural contexts and motives. The critical and utopian tendencies of twentieth-century avant-garde practices are considered in terms of their lasting implications for the social role of design. Students will continue to develop a range of approaches to understanding works of design and related issues, while also refining the broader critical and analytical skills necessary to their disciplines.",
+                    "UnitCode": "TDN1002",
+                    "UnitName": "Design and the avant-garde",
+                    "_id": "587804e430213215439e98c6",
+                    "enjoyRating": 3.738636364,
+                    "enjoyResponse": 85,
+                    "learnRating": 3.815568355,
+                    "learnResponse": 55,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MKB1200, MKC1200, MKG1120, MKP1120, MKW1120",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit provides students with an introduction to the discipline of marketing. It encompasses marketing's role in a dynamic organisational environment and introduces students to the concepts and strategies employed by marketers to create value for organisations and their stakeholders. The unit provides a foundation for those students seeking to pursue further study in marketing, however it also provides an insight into the interrelationship between marketing and other disciplines.",
+                    "UnitCode": "MKF1120",
+                    "UnitName": "Marketing theory and practice",
+                    "_id": "587803cd30213215439e94ab",
+                    "enjoyRating": 4.213043478,
+                    "enjoyResponse": 166,
+                    "learnRating": 3.940952975,
+                    "learnResponse": 49,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "CDS2001,IDN2001",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "TDN1002",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit covers a range of sociological and critical theories that inform the analysis and interpretation of designed objects and images. Various perspectives of production, consumption and exchange are considered, including theories of the commodity and the gift. The bodies of thought surveyed include Marxist and structuralist perspectives, and subsequent discourses, as well as parallel streams of critique, and attendant linguistic and semiotic theories. Students will develop an enhanced understanding of the systems of objects and images to which designers contribute.",
+                    "UnitCode": "TDN2001",
+                    "UnitName": "Sociologies of design",
+                    "_id": "587804e530213215439e98c7",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ECB1101, ECC1000, ECG1101, ECP1100, ECS1101, ECW1101, PMM2020",
+                    "SCABand": 3,
+                    "Sypnosis": "Economics as an area of knowledge. Economics in a business degree. Understanding economic policy. An analysis of markets: supply and demand; consumer behaviour; firm behaviour; cost of production and profit maximisation; behaviour of firms in different market structures; evaluation of market capitalist economic systems, economic efficiency, market failure, government failure; current economic policies, competition policy, privatisation and the funding of education.",
+                    "UnitCode": "ECF1100",
+                    "UnitName": "Microeconomics",
+                    "_id": "587801a430213215439e8cd8",
+                    "enjoyRating": 3.688311688,
+                    "enjoyResponse": 205,
+                    "learnRating": 3.745326328,
+                    "learnResponse": 205,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ACF1200,ACF1100",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "AFC1100, AFC2000, AFC2100, AFG1300, AFW1300, BFB1300, BFC2000, BFF1300, BFG1300, BFW1300,BFC1001, BFB1001, BFP1001, BFW1001",
+                    "SCABand": 3,
+                    "Sypnosis": "As a foundation, this unit introduces students to the concepts of finance, financial mathematics, investment analysis, the financial system, risk management and the relationship of finances to other commercial disciplines.",
+                    "UnitCode": "BFF1001",
+                    "UnitName": "Foundations of finance",
+                    "_id": "587800f630213215439e8a12",
+                    "enjoyRating": 3.895502646,
+                    "enjoyResponse": 321,
+                    "learnRating": 4.710291859,
+                    "learnResponse": 53,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students enrolled in course code 0816 must be granted permission to undertake this unit.",
+                    "Proh": "BTB1010, BTP1010, BTC1110, BTG1200, BTW1200",
+                    "SCABand": 3,
+                    "Sypnosis": "Liability for defective products; liability for misleading advice or information; contract law; agency law; partnership law; introduction to company law; company officers' duties.",
+                    "UnitCode": "BTF1010",
+                    "UnitName": "Business law",
+                    "_id": "5878012330213215439e8ac5",
+                    "enjoyRating": 3.974226804,
+                    "enjoyResponse": 211,
+                    "learnRating": 3.887235527,
+                    "learnResponse": 43,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MGB1010, MGC1010, MGG1010, MGP1010, MGW1010",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit offers a critical introduction to fundamental questions in the discipline of management. What is management? What do managers do, and how do I become a good manager? What are the effects of management practice on employees and their experience of being managed? Key contemporary issues of globalisation and cultural diversity, ethics and social responsibility affect the answers to these questions and are therefore woven throughout the curriculum. The unit draws upon a range of sources - academic, practical, popular cultural - to engage students in multiple ways of knowing about management.",
+                    "UnitCode": "MGF1010",
+                    "UnitName": "Introduction to management",
+                    "_id": "5878039e30213215439e93dc",
+                    "enjoyRating": 3.914285714,
+                    "enjoyResponse": 161,
+                    "learnRating": 4.1706434,
+                    "learnResponse": 53,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "CDS3001,IDN3001",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Prato"
+                            ],
+                            [
+                                "Trimester 2 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "TDN2001",
+                    "Proh": "TAD3214, TAD2214",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit develops the capacity to understand and apply the methodologies of current design research practice. Through using research processes appropriate to their discipline, students will investigate contemporary issues that penetrate the links between design, society and the environment. They will be required to use their research to uncover existing knowledge; use it to articulate and substantiate an argument; and build on it to formulate their own critically informed ideas. Through acquired research skills students will be able to interrogate a range of contemporary design issues drawn from the perceived moral dichotomies of design: useful/useless, social conscience/private indulgence, essential need/unnecessary consumption, luxury/necessity, and so on.",
+                    "UnitCode": "TDN3001",
+                    "UnitName": "Research for design",
+                    "_id": "587804e530213215439e98c9",
+                    "enjoyRating": 3.833333333,
+                    "enjoyResponse": 6,
+                    "learnRating": 4.14869281,
+                    "learnResponse": 40,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ETX1100, BUS1100, ETB1100, ETC1000, ETG1102, ETW1000, ETW1102, PMM2020, SCI1020, ETP1100, ETX9000, AFX9510, ETC9000, ETX9000 and students enrolled in course codes 1941, 2224, 3381 or 4423 cannot undertake this unit.",
+                    "SCABand": 2,
+                    "Sypnosis": "Students will learn to use basic statistical techniques and apply them to problems in accounting, finance, management, marketing and business in general. Students should also be able to effectively communicate the results of their analyses. This unit covers descriptive statistics for revealing the information contained in data; probability as a tool for dealing with uncertainty; probability distributions to model business behaviour; confidence interval estimation and hypothesis testing techniques for single populations; analysis of relationships between variables using simple linear regression; and simple tools for forecasting time series data. Excel software will be used.",
+                    "UnitCode": "ETF1100",
+                    "UnitName": "Business statistics",
+                    "_id": "5878025f30213215439e8f59",
+                    "enjoyRating": 3.865972222,
+                    "enjoyResponse": 216,
+                    "learnRating": 3.938020197,
+                    "learnResponse": 108,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "CDS3002,IDN3002",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "TDN3002,TDN3003",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Business Major 1",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Business Major 2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Business Major 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Business Major 4",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Business Major 5",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Business Major 6",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Business Major 7",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Business Major 8 or Business elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Capstone unit",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "courseCode": "D6007",
+    "courseName": "Master of Education and Developmental Psychology",
+    "courseAOS": "",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Education",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+              "EDF5720",
+              "EDF5722"
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+              "EDF5721",
+              "EDF5723"
+          ]
+        }, {
+          "code": "FY-01",
+          "year": 1,
+          "units": [
+              "EDF5731"
+          ]
+        }, {
+          "code": "S1-01",
+          "year": 1,
+          "units": [
+              "EDF5732",
+              "EDF5741"
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 1,
+          "units": [
+              "EDF5733",
+              "EDF5742"
+          ]
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "courseCode": "E3003",
+    "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist",
+    "courseAOS": "Electrical and Computer Systems Engineering/Actuarial Science",
+    "faculty": "Faculty of Engineering",
+    "courseType": "Double Undergraduate",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+            ["ENG1001","ENG1002"],
+            ["ENG1003","ENG1005"],
+            "ENG1060",
+            "ETC1000"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+            ["ENG1002","ENG1001"],
+            ["ENG1003","ENG1005"],
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Engineering"
+            },
+            "ETC2410"
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 1,
+          "units": [
+            "ENG2005",
+            "ECE2071",
+            "ETC2430",
+            "ECC1100"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 1,
+          "units": [
+            "ECE2191",
+            "ECE2072",
+            "BFC2140",
+            "ETC2420"
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 2,
+          "units": [
+            "ECE3073",
+            "ECE2131",
+            "BFC2000",
+            "ETC2440"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 2,
+          "units": [
+            "ECE2111",
+            "ECE3161",
+            ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"],
+            "ACC1100"
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 3,
+          "units": [
+            "ECE2132",
+            "ECE3141",
+            "BFC2340",
+            ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"]
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 3,
+          "units": [
+            "ECE3121",
+            "ECE3091",
+            "ETC2520",
+            ["ETC3400", "ETC3410", "ETC3420", "ETC3430", "ETC3460", "ETC3510"]
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 4,
+          "units": [
+            {
+              "type": "ECE Faculty Elective",
+              "faculty": "Faculty of Engineering"
+            },
+            "ECE4094",
+            "ECE4099",
+            "ECC1000"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 4,
+          "units": [
+            {
+              "type": "ECE Faculty Elective",
+              "faculty": "Faculty of Engineering"
+            },
+            "ECE4095",
+            "ECE4151",
+            "ETC3530"
+          ]
+        }
+    ]
+}

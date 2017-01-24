@@ -1,0 +1,106 @@
+{
+    "courseAOS": "Bachelor of Art History and Curating",
+    "courseCode": "F2003",
+    "courseName": "Fine Art",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Art, Design and Architecture",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "AHT1101",
+                "DWG1201",
+                {
+                    "faculty": "",
+                    "type": "One of DIS1704, MKF1120, ATS1279, ATS1298, ATS1903, ATS1305, ATS1254, ATS1328, ATS1329"
+                },
+                "Elective",
+                "OHS1000"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "AHT1102",
+                "PHO1204",
+                {
+                    "faculty": "",
+                    "type": "One of DIS1704, MKF1120, ATS1279, ATS1298, ATS1903, ATS1305, ATS1254, ATS1328, ATS1329"
+                },
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "AHT2102",
+                {
+                    "faculty": "",
+                    "type": "AHT2105 Contemporary international art OR AHT2602 Art criticism and curatorship"
+                },
+                "Elective",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "One of AHT2801, AHT2138, AHT2025, AHT2137, AHT2440, AHT2120, AHT2740, AHT2530, AHT2130"
+                },
+                {
+                    "faculty": "",
+                    "type": "One of AHT2801, AHT2138, AHT2025, AHT2137, AHT2440, AHT2120, AHT2740, AHT2530, AHT2130"
+                },
+                {
+                    "faculty": "",
+                    "type": "One of ATS2790, ATS2517, ATS2436, ATS2983, ATS2962, ATS2405, ATS2355"
+                },
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "teachingPeriod": "Summer",
+            "units": [
+                "AHT3000"
+            ]
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "One of AHT3801, AHT3138, AHT3025, AHT3137, AHT3440, AHT3120, AHT3740, AHT3530, AHT3130"
+                },
+                {
+                    "faculty": "",
+                    "type": "AHT3105 Contemporary international art OR AHT3602 Art criticism and curatorship"
+                },
+                "Elective",
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "One of AHT3801, AHT3138, AHT3025, AHT3137, AHT3440, AHT3120, AHT3740, AHT3530, AHT3130"
+                },
+                "AHT3030",
+                {
+                    "faculty": "",
+                    "type": "One of ATS3923, ATS3063, ATS3437, ATS3763, ATS3969, ATS3419, ATS3361"
+                },
+                "Elective"
+            ],
+            "year": 2
+        }
+    ]
+}

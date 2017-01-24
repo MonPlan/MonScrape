@@ -1,0 +1,244 @@
+{
+    "courseAOS": "",
+    "courseCode": "B6003",
+    "courseName": "Master of Applied Finance",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit evaluates and applies contemporary approaches used to analyse and price financial assets including: security and market performance measures multifactor asset pricing fundamental valuation technical analysis fixed income and hybrid securities forward interest rates and swaps investing and hedging with futures, options and other derivatives pricing risk credit derivatives",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Students must have passed AFF9350 or BFF5935, or be enrolled in course 3818, 3850 or 4412 before undertaking this unit.",
+                    "Prohibitions": "AFF5040",
+                    "SCABand": 3,
+                    "UnitCode": "BFF5040",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Advanced security analysis"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit analyses the characteristics, uses and behaviour of financial markets. Topics include: types and users of financial markets financial crises global risk international ratings international debt and equity markets derivative markets credit derivatives specialised sources of international finance regulation of international markets",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "AFF5230",
+                    "SCABand": 3,
+                    "UnitCode": "BFF5230",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Global financial markets"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit focuses on funds management styles and philosophies; approaches to implementing investment strategies for funds design and decision making; practical allocation of assets across and within different markets (industries); market sector volatilities and risk management; and performance measurement. Current academic research and trends in the industry are also considered from local and global funds management perspectives.The topics include: portfolio investment styles, philosophies, mandates and policies capital market expectations asset allocation and portfolio optimisation management of fixed income portfolios international diversification alternative investments quantitative portfolio factor models portfolio monitoring and rebalancing portfolio performance, attribution and evaluation.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "AFF5270",
+                    "SCABand": 3,
+                    "UnitCode": "BFF5270",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Funds management"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit covers statistics econometrics tools to: analyse and model the key characteristics of empirical distributions of asset returns; model and estimate the simple capital asset pricing model and its extensions; and test for various financial market hypotheses. It includes modelling, estimating and analysing time series properties of stationary and non-stationary financial data: and modelling and estimating simple and multivariate long-run relationships among financial variables; and conducting Granger causality testing. It also includes modelling and estimation of ARCH/GARCH volatilities and time-varying risk premium on financial assets; and estimation of value-at-risks and expected shortfalls of assets and portfolios. Students will be requested to work through a number of questions and projects with a broad range of financial data sets.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Students must be enrolled in course 3818, 3850 or 4412, or must have passed AFF9641, BFF5925 or AFF9250.",
+                    "Prohibitions": "ETC3460, ETC5346, ETF3300, ETF9300",
+                    "SCABand": 3,
+                    "UnitCode": "ETF5930",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Financial econometrics"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit examines the concept of mergers and acquisitions from two perspectives - the relevant areas of finance and the basic taxation, accounting and legal issues.  The aim is to provide students with a practical understanding of this major corporate strategy. The finance issues will involve an examination of basic theory and empirical findings associated with mergers and acquisitions, the valuation of firms under a range of techniques, the structuring of bids from a financing perspective and defensive strategies. The taxation, accounting and legal issues include a review of the taxation effects from the position of both the bidder and the target's shareholders, the legal responsibilities of the Board and senior management of both target and bidder companies, the role of the Takeover Panel in relation to both defensive and negotiating strategies, the use of independent experts, the application of the Trade Practices Act and the effect of the accounting asset impairment tests.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "AFF5580",
+                    "SCABand": 3,
+                    "UnitCode": "BFF5580",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Mergers and acquisitions"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit covers five pillars of corporate treasury management: corporate finance (financing, investment, dividend payout) debt and equity markets and product design liquidity/net working capital management risk transfer, retention and management (exchange rate risk, interest rate risk, credit risk, and loan concentration risk) managing corporate treasury as a strategic unit.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "AFF5250",
+                    "SCABand": 3,
+                    "UnitCode": "BFF5250",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Corporate treasury management"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit examines how options and futures can be used for hedging risk in the process of risk management. Several aspects of risk management are examined, including the reasons why investors indulge in this activity, how value is created via risk management, and the firm-wide approach to risk management (given that any firm is exposed to a wide variety of risks). Once the importance of risk management has been established, emphasis turns to the use of derivatives (futures and options) to manage risk. To understand how they are used to manage risk, the unit also considers the characteristics and pricing of these instruments, including some exotic versions.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "AFF5290, AFF3751, BFF3751, AFF9150",
+                    "SCABand": 3,
+                    "UnitCode": "BFF5915",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Options, futures and risk management"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit is intended to consolidate and apply the technical learning achieved in the core units of the Master of Applied Finance, to attain real industry experiences. This will be achieved by using a selection of targeted case studies that highlight the issues likely to be encountered in industry.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "AFF5040 or BFF5040",
+                    "Prohibitions": "AFF5300",
+                    "SCABand": 3,
+                    "UnitCode": "BFF5300",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Case studies in finance"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "courseAOS": "Bachelor of Emergency Health and Paramedic Practice",
+    "courseCode": "M2002",
+    "courseName": "Health Sciences",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "BMA1011",
+                "HSC1100",
+                "HSC1200",
+                "EPP1011"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BMA1012",
+                "HSC1300",
+                "HSC1400",
+                "EPP1012"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "HSC2100",
+                "HSC2200",
+                "HSC2300",
+                "EPP2011"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EPP2012",
+                "EPP2022",
+                "EPP2032",
+                "EPP2042"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EPP3011",
+                "EPP3021",
+                "EPP3031",
+                "EPP3030"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EPP3012",
+                "EPP3022",
+                "EPP3032"
+            ],
+            "year": 2
+        }
+    ]
+}

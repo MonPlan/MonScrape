@@ -1,0 +1,51 @@
+{
+    "courseAOS": "Master of Applied Finance",
+    "courseCode": "B6003",
+    "courseName": "Applied Finance",
+    "courseType": "Expert master degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "BFF5580",
+                "BFF5230",
+                "BFF5270",
+                "ETF5930"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BFF5040",
+                "BFF5250",
+                "BFF5915",
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 1"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "BFF5300",
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 4"
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

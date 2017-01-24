@@ -1,0 +1,107 @@
+{
+    "courseAOS": "Visual arts specialisation and Games Development major",
+    "courseCode": "F2006",
+    "courseName": "Fine Art and Information Technology",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Art, Design and Architecture",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "VPR1011",
+                "DWG1201",
+                "AHT1101",
+                "FIT1033",
+                "OHS1000"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "VPR1012",
+                "VPR1113",
+                "AHT1102",
+                "FIT1048"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "VPR2011",
+                {
+                    "faculty": "",
+                    "type": "FINE ART WORKSHOP 1"
+                },
+                "AHT2102",
+                "FIT1047"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "VPR2012",
+                {
+                    "faculty": "",
+                    "type": "FINE ART WORKSHOP 2"
+                },
+                "FIT1049",
+                "FIT2073"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "FIT2001 Systems development OR FIT2099 Object-oriented analysis, design and implementation"
+                },
+                "FIT2094",
+                {
+                    "faculty": "",
+                    "type": "FIT Elective"
+                },
+                "FIT2096"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "FIT2002",
+                "FIT3146",
+                "FIT3145",
+                "FIT2097"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "VPR3011",
+                {
+                    "faculty": "",
+                    "type": "FINE ART WORKSHOP 3"
+                },
+                "FIT3094",
+                "FIT3039"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "VPR3012",
+                {
+                    "faculty": "",
+                    "type": "elective chosen from AHT 2/3"
+                },
+                "FIT3040"
+            ],
+            "year": 3
+        }
+    ]
+}

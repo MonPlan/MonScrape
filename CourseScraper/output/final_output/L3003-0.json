@@ -1,0 +1,753 @@
+{
+    "courseAOS": "Bachelor of Laws (Honours) and Bachelor of Arts",
+    "courseCode": "L3003",
+    "courseName": "Laws and Arts",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Law",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "The unit examines the foundation and structure of the institutions and processes of the Australian legal system, including legal practice as a distinctive element within the Australian legal process.  It introduces the sources of authoritative law - statutes, delegated legislation and judicial precedents.  A case series is used to demonstrate the evolution of the common law within the constraints of the doctrine and practice of precedent.  The unit provides foundational knowledge and skills in the interpretation of judicial precedents and legislation and their application in legal problem-solving.  Students develop fundamental skills in legal research and legal writing.",
+                    "UnitCode": "LAW1111",
+                    "UnitName": "Foundations of Law",
+                    "_id": "587802e430213215439e915d",
+                    "enjoyRating": 4,
+                    "enjoyResponse": 14,
+                    "learnRating": 3.174366969,
+                    "learnResponse": 156,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "The unit introduces the general doctrines, principles and aims of the criminal law and criminal justice system, introduces the roles of civil and criminal laws in relation to harms to the person, and examines the law relating to fatal and non-fatal offences against people. It analyses sentencing and access to compensation for victims of crime.",
+                    "UnitCode": "LAW1114",
+                    "UnitName": "Criminal law 1",
+                    "_id": "587802e630213215439e9160",
+                    "enjoyRating": 4.5,
+                    "enjoyResponse": 24,
+                    "learnRating": 4.174603175,
+                    "learnResponse": 16,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts minor",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students who commenced their LLB (Hons) course in 2015 or later:Students in LLB(Hons)/BE(Hons) (L3002):LAW1111 Foundations of LawAll other single or double degree LLB(Hons) students:LAW1111 Foundations of LawLAW1114 Criminal Law 1",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "The unit will introduce the basic principles of public law, government and statutory interpretation in Australian law.  The unit will investigate the range of legal devices whereby Australia is governed, and will introduce key ideas pertaining to public legal entities, including the Crown.  Fundamental principles of public law will be considered, together with the broader contexts in which they arise and operate.  So will fundamental, constitutional relationships between each of Parliament, the executive and the judiciary.  The unit will also deal with statutory interpretation in depth, beginning with the fundamental constitutional principle of parliamentary supremacy, and exploring how the rules and principles of statutory interpretation flow from an understanding of the constitutional relationship between Parliament and the judiciary.",
+                    "UnitCode": "LAW1112",
+                    "UnitName": "Public law and statutory interpretation",
+                    "_id": "587802e530213215439e915e",
+                    "enjoyRating": 2.872727273,
+                    "enjoyResponse": 156,
+                    "learnRating": 3.804656415,
+                    "learnResponse": 139,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students who commenced their LLB (Hons) course in 2015 or later:  LAW1111 and LAW1114",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "The unit commences with an introductory study of the role and objectives of torts law in redressing and compensating civil wrongs, and its relationship with statutory compensation schemes. Students examine the intentional torts of false imprisonment and, trespass to land, the strict liability tort of and nuisance, and the unintentional tort of negligence. There is a detailed study of the elements of the tort of negligence - namely, duty of care, breach of duty, causation, defences and the assessment of damages - and the particular problems raised by negligently caused mental harm and pure economic loss. Students will also consider the principles and rationale of vicarious liability. Throughout the unit, students will explore the impact of statutory law reform, in particular the civil liability reforms, on torts law, in the broader context of how civil wrongs should be redressed.",
+                    "UnitCode": "LAW1113",
+                    "UnitName": "Torts",
+                    "_id": "587802e530213215439e915f",
+                    "enjoyRating": 4.142857143,
+                    "enjoyResponse": 139,
+                    "learnRating": 4.277777778,
+                    "learnResponse": 24,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts minor",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "For students who commenced their LLB course prior to 2015: LAW2100",
+                    "SCABand": 3,
+                    "Sypnosis": "Contract law addresses the concepts, principles and rules used to determine the existence and content of binding promises and their enforcement or defeasibility in a market economy. It also involves a consideration of the underlying policy considerations. Contract law is taught in two units: Contract A and Contract B. Contract A covers the introduction to contract law, the formation of contracts (including capacity and formalities), privity of contract, estoppel, and the incorporation, construction and validity of contractual terms.",
+                    "UnitCode": "LAW2101",
+                    "UnitName": "Contract A",
+                    "_id": "587802e630213215439e9162",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students who commenced their LLB (Hons) course in 2015 or later:LAW1111; LAW1114 and LAW2101For students who commenced their LLB course prior to 2015:  LAW1100 OR LAW1101 and LAW1102 or LAW1104; LAW2100 or LAW2101 and LAW2102",
+                    "Proh": "For students who commenced their LLB course prior to 2015:  LAW3400",
+                    "SCABand": 3,
+                    "Sypnosis": "The unit examines theories of private property, the concept and categories of real and personal property; the interface between contractual and property rights; the nature of types of property right including freehold and leasehold estates, easements and mortgages; modes of creating and transferring the rights in law and equity; possession as a source of title.",
+                    "UnitCode": "LAW2112",
+                    "UnitName": "Property A",
+                    "_id": "587802e730213215439e9165",
+                    "enjoyRating": 3.642857143,
+                    "enjoyResponse": 38,
+                    "learnRating": 3.193263608,
+                    "learnResponse": 51,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts minor",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students who commenced their LLB (Hons) course in 2015 or later: LAW1111; LAW1114; LAW2101 and LAW2112For students who commenced their LLB course prior to 2015: LAW1100 OR LAW1101 and LAW1102 or LAW1104; LAW2101",
+                    "Proh": "For students who commenced their LLB course prior to 2015: LAW2100",
+                    "SCABand": 3,
+                    "Sypnosis": "Contract law addresses the concepts, principles and rules used to determine the existence and content of binding promises and their enforcement or defeasibility in a market economy. It also addresses the underlying policy considerations. Contract B builds upon Contract A, which covers the formation and terms of a contract. Contract B covers the performance of contracts, the discharge of contracts by termination or frustration, legal and equitable remedies for breach of contract, and vitiating factors under the unwritten law and statute.",
+                    "UnitCode": "LAW2102",
+                    "UnitName": "Contract B",
+                    "_id": "587802e630213215439e9163",
+                    "enjoyRating": 4.058823529,
+                    "enjoyResponse": 183,
+                    "learnRating": 3.68984127,
+                    "learnResponse": 165,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students who commenced their LLB (Hons) course in 2015 or later:Single degree LLB Hons students:LAW1111 Foundations of LawLAW1114 Criminal Law 1LAW2101 Contract ALAW1113 TortsDouble degree LLB Hons students:LAW1111 Foundations of LawLAW1114 Criminal Law 1LAW1112 Public Law and Statutory InterpretationLAW2112 Property ALAW2101 Contract ALAW1113 TortsFor students who commenced their LLB course prior to 2015:LAW1100 or LAW1101 and LAW1102 or LAW1104",
+                    "Proh": "For students who commenced their LLB course prior to 2015: LAW3200",
+                    "SCABand": 3,
+                    "Sypnosis": "The unit examines the Victorian and Commonwealth Constitutions; advanced principles regarding separation of judicial powers at State and Commonwealth levels; Australian federalism and inter-governmental relations, including the distribution of legislative and fiscal powers between the Commonwealth and the States, inconsistency of laws, and intergovernmental immunities; some principal Commonwealth legislative powers; limitations on governmental power, including selected express and implied constitutional rights and freedoms, and critical analysis of techniques and principles of constitutional interpretation.",
+                    "UnitCode": "LAW2111",
+                    "UnitName": "Constitutional law",
+                    "_id": "587802e630213215439e9164",
+                    "enjoyRating": 3.865853659,
+                    "enjoyResponse": 165,
+                    "learnRating": 3.693287037,
+                    "learnResponse": 38,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts minor",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts elective -overload or Summer semester",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students who commenced their LLB (Hons) course in 2015 or later:LAW1111; LAW1114; LAW1112; LAW1113; LAW2101; LAW2102; LAW2112; LAW2111For students who commenced their LLB course prior to 2015:LAW1100 OR LAW1101 and LAW1102 or LAW1104; LAW2102",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "The unit critically examines the body of legal rules that govern the formation, management, financing and winding up of Australian corporations. Specific topics include: choice of the corporate business form, formation and characteristics of a corporation, the corporate constitution, corporate finance, share structure and membership, constitution and powers of the corporate organisation (board and general meeting), corporate authority, governance of the corporation, directors' duties, shareholders' remedies, administration and winding up of the corporation.",
+                    "UnitCode": "LAW3112",
+                    "UnitName": "Corporations law",
+                    "_id": "587802e830213215439e9169",
+                    "enjoyRating": 3.825,
+                    "enjoyResponse": 49,
+                    "learnRating": 4.141025641,
+                    "learnResponse": 37,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students who commenced their LLB (Hons) course in 2015 or later:LAW1111; LAW1114; LAW1112; LAW1113; LAW2101; LAW2102; LAW2112; LAW2111For students who commenced their LLB course prior to 2015:LAW1100 OR LAW1101 and LAW1102 or LAW1104; LAW2100 OR LAW2101 and LAW2102",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit introduces students to the nature and function of equity in the modern Australian legal system. Students learn about the relationship between equity and the common law, and study the key doctrines of equity.  These include: breach of confidence, fiduciary relationships and breach of fiduciary duty, third party liability and tracing, personal and proprietary remedies in equity and equitable defences.",
+                    "UnitCode": "LAW3111",
+                    "UnitName": "Equity",
+                    "_id": "587802e830213215439e9168",
+                    "enjoyRating": 4.12962963,
+                    "enjoyResponse": 54,
+                    "learnRating": 3.857583774,
+                    "learnResponse": 25,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts major",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students who commenced their LLB (Hons) course in 2015 or later:LAW1111; LAW1114; LAW1112; LAW1113; LAW2101; LAW2102; LAW2112; LAW2111For students who commenced their LLB course prior to 2015:LAW1100 or Law1101 and LAW1102 or LAW1104; LAW2100 or LAW2101 and LAW2102 ; LAW3401 or LAW2112",
+                    "Proh": "LAW3400",
+                    "SCABand": 3,
+                    "Sypnosis": "Building on Property A, the unit examines proprietary interests that arise through the operation of equity, and co-ownership of land and goods. It then examines the Torrens System of registered title to land and the Transfer of Land Act 1958 (Vic), including: the registration process; the meaning and purpose of indefeasible title: fraud and other exceptions to indefeasibility: the compensation provisions; status and enforceability of unregistered interests; the caveat system; and the priority rules for registered and unregistered interests.",
+                    "UnitCode": "LAW3402",
+                    "UnitName": "Property B",
+                    "_id": "587802e830213215439e916c",
+                    "enjoyRating": 3.814814815,
+                    "enjoyResponse": 185,
+                    "learnRating": 4.5,
+                    "learnResponse": 6,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Commercial law elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts major",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts elective -overload or Summer semester",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Law elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Law elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students who commenced their LLB (Hons) course in 2015 or later:LAW1111 Foundations of Law;LAW1114 Criminal Law 1;LAW1112 Public Law and Statutory Interpretation;LAW1113 Torts;LAW2112 Property A;LAW2101 Contract A;LAW2102 Contract B;LAW2111 Constitutional Law;LAW3112 Corporations Law;For students who commenced their LLB course prior to 2015:LAW1100 OR LAW1101 and LAW1102 or LAW1104",
+                    "Proh": "LAW3100",
+                    "SCABand": 3,
+                    "Sypnosis": "Administrative law is the branch of public law that regulates the exercise of power by the executive arm of government.  This unit introduces students to the structure of government administration, the sources of administrative discretion and the systems that have been developed to permit the review of the exercise of administrative discretion by administrative decision-makers. The unit compares review of the 'merits' of administrative actions, by administrative tribunals, with review of their 'legality', by courts, pursuant to judicial review. The unit examines the judicial review of administrative action both at common law and under statute and has particular regard to the grounds of review; the courts' jurisdiction to entertain applications for review; the possession, by potential applicants for review, of standing; and the remedies available pursuant to a successful judicial review application. The unit aims, particularly, to develop students' practical skills in interpreting statutes.",
+                    "UnitCode": "LAW4331",
+                    "UnitName": "Administrative law",
+                    "_id": "5878030530213215439e91c9",
+                    "enjoyRating": 4.083333333,
+                    "enjoyResponse": 109,
+                    "learnRating": 4.066666667,
+                    "learnResponse": 11,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students who commenced their LLB (Hons) course in 2015 or later:LAW1111; LAW1114; LAW1112; LAW1113; LAW2101; LAW2102; LAW2112; LAW2111; LAW3111For students who commenced their LLB course prior to 2015:LAW1100 OR LAW1101 and LAW1102 or LAW1104",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "The unit introduces students to the nature and function of trusts in the modern Australian legal system. Students learn how trusts are used and learn the rules governing their existence. In particular, the rules governing the creation and administration of trusts, and the rights and obligations of parties to trusts are taught.",
+                    "UnitCode": "LAW4170",
+                    "UnitName": "Trusts",
+                    "_id": "587802f330213215439e918e",
+                    "enjoyRating": 4.225,
+                    "enjoyResponse": 113,
+                    "learnRating": 5,
+                    "learnResponse": 1,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Law elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Law elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students who commenced their LLB (Hons) course in 2015 or later:LAW1111; LAW1114; LAW1112; LAW1113; LAW2101; LAW2102; LAW2112; LAW2111For students who commenced their LLB course prior to 2015:LAW1100 or LAW1101 and LAW1102 or LAW1104; LAW3300 or LAW3301 and LAW3302",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit involves a critical examination of the general principles and the rules of evidence and the use of evidence law as a method of ensuring fair trials: theoretical perspectives - reliability, libertarian, disciplinary principles, evidentiary law reform; rules and principles governing the proof of facts in civil and criminal trials; relevance and admissibility; kinds of evidence; competence and compellability; privilege; examination of witnesses disposition and character similar fact evidence; options of the accused; hearsay and exceptions to the rule; res gestae; confessions and admissions; illegally obtained evidence; corroboration; identification; opinion evidence.",
+                    "UnitCode": "LAW4323",
+                    "UnitName": "Evidence",
+                    "_id": "5878030330213215439e91c1",
+                    "enjoyRating": 3.684210526,
+                    "enjoyResponse": 42,
+                    "learnRating": 4.079365079,
+                    "learnResponse": 15,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "LAW1111 Foundations of LawLAW1114 Criminal Law 1LAW2101 Contract ALAW2112 Property ALAW1112 Public Law and Statutory InterpretationLAW1113 TortsLAW2102 Contract BLAW2111 Constitutional Law",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "The unit reviews the general principles and aims of the criminal law and criminal justice system in light of Australia's international obligations and building upon the units previously studied including contract, property and corporations law.  It examines principles of criminal responsibility including corporate criminal responsibility, and offences against the property interests of a range of legal persons.  It also examines drug offences, as well as the significant role criminal laws play in regulating behaviour through strict liability and inchoate offences. It then considers procedural steps in the criminal process, including the role of discretion and mechanisms for accountability.",
+                    "UnitCode": "LAW4332",
+                    "UnitName": "Criminal law and procedure 2",
+                    "_id": "5878030630213215439e91ca",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Law Research Project elective*",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Law Elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "Summer semester B (starts January) 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students who commenced their LLB (Hons) course in 2015 or later:LAW1111; LAW1114; LAW1112; LAW1113; LAW2101; LAW2102; LAW2112; LAW2111For students who commenced their LLB course prior to 2015:LAW1100 or LAW1101 and LAW1102 or LAW1104",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "The focus of the unit is the major steps in litigation. Using the Rules of the Supreme Court of Victoria, the chronology of a civil proceeding from the decision to sue until the matter is ready for trial is examined.",
+                    "UnitCode": "LAW4303",
+                    "UnitName": "Litigation and dispute resolution",
+                    "_id": "587802fe30213215439e91b1",
+                    "enjoyRating": 3.9,
+                    "enjoyResponse": 31,
+                    "learnRating": 3.451496388,
+                    "learnResponse": 46,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Law",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students who commenced their LLB (Hons) course in 2015 or later:LAW1111; LAW1114; LAW1112; LAW1113; LAW2101; LAW2102; LAW2112; LAW2111For students who commenced their LLB course prior to 2015:LAW1100 or LAW1101 and LAW1102 or LAW1104; LAW2100 or LAW2101 and LAW2102; LAW2200 or LAW2201 and LAW2202",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit provides a practical and critical introduction to ethical decision-making and the law and codes of professional responsibility in lawyering. It introduces different ethical approaches to legal practice, focusing on the justifications for, and criticisms of, the traditional adversarial advocate approach and alternatives to it in the context of different areas of practice. The unit also examines the way that lawyers' ethics and conduct are regulated and set out in legal principles and codes.Students will be encouraged to develop awareness of their own ethical orientation and expected to apply varied ethical approaches to hypothetical scenarios. They will be expected to identify and resolve ethical issues that arise in legal practice using the law of lawyering. Students will also be expected to critically assess the way lawyers' ethics are regulated in the context of multiple approaches to legal ethics and disparate practice contexts.",
+                    "UnitCode": "LAW4309",
+                    "UnitName": "Lawyers ethics in practice",
+                    "_id": "5878030030213215439e91b7",
+                    "enjoyRating": 3.416666667,
+                    "enjoyResponse": 46,
+                    "learnRating": 3.560185185,
+                    "learnResponse": 21,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Law Elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Law Elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 4
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "courseAOS": "Bachelor of Finance",
+    "courseCode": "B2004",
+    "courseName": "Commerce Specialist",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ECC1000",
+                "ETC1000",
+                [
+                    "ACC1200",
+                    "ACC1100"
+                ],
+                "BFC1001"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ECC1100",
+                "BFC2140",
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ETC2410",
+                "BFC2340",
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BFC2751",
+                "BFC2240",
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "BFC3140",
+                "BFC3540",
+                "ETC3460",
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BFC3340",
+                "BFC3999",
+                "BFC3240",
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 2
+        }
+    ]
+}

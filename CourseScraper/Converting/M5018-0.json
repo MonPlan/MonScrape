@@ -1,0 +1,28 @@
+{
+    "courseCode": "M5018",
+    "courseName": "Graduate Diploma of Occupational and Environmental Health",
+    "courseAOS": "",
+    "courseType": "Graduate Diploma",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+              "MPH5241",
+              "MPH5243",
+              "MPH5040",
+              "MPH5242"
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+              "MPH5222",
+              "MPH5244",
+              "MPH5203",
+              "MPH5276"
+          ]
+        }
+    ]
+}

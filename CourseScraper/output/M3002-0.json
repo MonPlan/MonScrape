@@ -1,0 +1,71 @@
+{
+    "courseAOS": "Bachelor of Physiotherapy (Honours)",
+    "courseCode": "M3002",
+    "courseName": "Physiotherapy",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "PTY1011"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "PTY1022"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "PTY2031"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "PTY2042"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "PTY3051"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "PTY3162",
+                "PTY3262",
+                "PTY3362",
+                "PTY3462"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "PTY4171",
+                "PTY4172"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "PTY4281",
+                "PTY4282",
+                "PTY4283"
+            ],
+            "year": 3
+        }
+    ]
+}

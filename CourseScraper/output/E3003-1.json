@@ -1,0 +1,156 @@
+{
+    "courseAOS": "Aerospace Engineering and Economics and Economic Policy specialisations",
+    "courseCode": "E3003",
+    "courseName": "Engineering and Commerce Specialist",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ENG1001",
+                [
+                    "ENG1090",
+                    "PHS1080",
+                    "ENG1005"
+                ],
+                "ECC1000",
+                "ETC1000",
+                [
+                    "ENG1090",
+                    "PHS1080"
+                ]
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ENG1002",
+                "ENG1005",
+                "ECC1100",
+                "ETC2410"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ENG1003",
+                "MAE2401",
+                "ECC2000",
+                "ECC2010"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ENG1060",
+                {
+                    "faculty": "",
+                    "type": "MAE2xxx Aircraft performance"
+                },
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 1 selected from list A"
+                },
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 2 selected from list A"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ENG2006",
+                "MEC2401",
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 3 selected from list A"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business and Economics elective"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "MAE2402",
+                "MAE2404",
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 4 selected from list A or B"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business and Economics elective"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "MAE3401",
+                "MAE3404",
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 5 selected from list A or B"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business and Economics elective"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "MEC3xxx Computer-aided design"
+                },
+                "MAE3405",
+                "ECC3690",
+                {
+                    "faculty": "",
+                    "type": "Business and Economics elective"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "MAE3407",
+                {
+                    "faculty": "",
+                    "type": "MAE4xxx Flight vehicle design"
+                },
+                {
+                    "faculty": "",
+                    "type": "MAE4xxx Aerospace computational mechanics"
+                },
+                "MEC4401"
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "MAE3408",
+                "MAE4409",
+                "MAE4408",
+                "MEC4402"
+            ],
+            "year": 4
+        }
+    ]
+}

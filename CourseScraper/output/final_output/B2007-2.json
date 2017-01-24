@@ -1,0 +1,585 @@
+{
+    "courseAOS": "Marketing practice specialisation",
+    "courseCode": "B2007",
+    "courseName": "Business Administration",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ACB1100,ACB1200",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ECF1100, ECG1101, ECP1100, ECW1101, ECS1101",
+                    "SCABand": 3,
+                    "Sypnosis": "An introduction to the study of economics; consumer behaviour; demand and supply and the operation of markets; market efficiency and welfare; welfare effects of international trade; public sector economics; the behaviour of firms and the organisation of an industry; market structures - perfect competition and monopoly; economies of the labour market.",
+                    "UnitCode": "ECB1101",
+                    "UnitName": "Introductory microeconomics",
+                    "_id": "5878018330213215439e8c4d",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MGC1010, MGF1010, MGG1010, MGP1010, MGW1010",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit offers a critical introduction to fundamental questions in the discipline of management. What is management? What do managers do, and how do I become a good manager? What are the effects of management practice on employees and their experience of being managed? Key contemporary issues of globalisation and cultural diversity, ethics and social responsibility affect the answers to these questions and are therefore woven throughout the curriculum. The unit draws upon a range of sources - academic, practical, popular cultural - to engage students in multiple ways of knowing about management.",
+                    "UnitCode": "MGB1010",
+                    "UnitName": "Introduction to management",
+                    "_id": "5878039a30213215439e93ca",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MKC1200, MKF1120, MKW1120, MKG1120, MKP1120",
+                    "SCABand": 3,
+                    "Sypnosis": "Principles of marketing introduces students to the broad discipline of marketing. It encompasses marketing's role in a dynamic business environment and introduces students to the concepts and strategies employed by marketers. The aim of the unit is to provide students with the conceptual skills necessary to identify and solve marketing problems. The unit provides a foundation for those students seeking to pursue further study in marketing; however it covers the broad scope of marketing for those students undertaking only one marketing unit.",
+                    "UnitCode": "MKB1200",
+                    "UnitName": "Principles of marketing",
+                    "_id": "587803c930213215439e9495",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students enrolled in course code 0816 must be granted permission to undertake this unit.",
+                    "Proh": "BTC1110, BTG1200, BTW1200, BTF1010, BTP1010",
+                    "SCABand": 3,
+                    "Sypnosis": "Liability for defective products; liability for misleading advice or information; contract law; agency law; partnership law; introduction to company law; company officers' duties.",
+                    "UnitCode": "BTB1010",
+                    "UnitName": "Commercial Law",
+                    "_id": "5878012030213215439e8aba",
+                    "enjoyRating": 4.315789474,
+                    "enjoyResponse": 31,
+                    "learnRating": 4.203267974,
+                    "learnResponse": 29,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "BUS1100, PMM2020, ETC1000, ETG1102, ETW1000, ETX1100, SCI1020, STA1010, ETW1102",
+                    "SCABand": 3,
+                    "Sypnosis": "Introduction to spreadsheeting. Descriptive statistics. Elementary probability. Discrete and continuous probability distributions. Statistical inference. Simple linear regression and correlation. Forecasting and time series. Index numbers.",
+                    "UnitCode": "ETB1100",
+                    "UnitName": "Business statistics",
+                    "_id": "5878025130213215439e8f1c",
+                    "enjoyRating": 4.107142857,
+                    "enjoyResponse": 35,
+                    "learnRating": 4.037037037,
+                    "learnResponse": 35,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed MGP1010 or MGF1010 or MGW1010 or MGB1010 or MGG1010 before undertaking this unit.",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit is designed to develop students' awareness of current theoretical perspectives on and of empirical evaluations of organisational initiatives designed to foster wellbeing at both the individual and organisational level. The unit will provide a macro-level framework for examining an organisation's social, ethical and environmental responsibility, followed by an examination of organisational level approaches to wellness including work/life initiatives and OH&S initiatives. At the micro-level the unit will address strategies the individual employees may use to manage their own state of wellness.",
+                    "UnitCode": "MGW3210",
+                    "UnitName": "Organisational wellness",
+                    "_id": "587803b730213215439e944a",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MKB1200 or MKP1120",
+                    "Proh": "MKP2600, MKW2600",
+                    "SCABand": 3,
+                    "Sypnosis": "Tourism marketing provides students with a broad understanding of how key marketing concepts and theories can be applied to the tourism sector.",
+                    "UnitCode": "MKB2600",
+                    "UnitName": "Tourism marketing",
+                    "_id": "587803ca30213215439e949a",
+                    "enjoyRating": 3.2,
+                    "enjoyResponse": 24,
+                    "learnRating": 3.316666667,
+                    "learnResponse": 15,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MGB1010 or MGC1010 or MGF1010 or MGG1010 or MGP1010 or MGW1010",
+                    "Proh": "MGC2230, MGF2111, MGG2230, MGW2230",
+                    "SCABand": 3,
+                    "Sypnosis": "Students gain an understanding of factors affecting the behaviour of people in work settings. The unit focuses on individual, group, and total organisational human factors influencing the effectiveness of organisations including: the nature of organisations in the global context; individual behaviour including perception, attitudes, values and personality, motivation and performance; group behaviour in organisations including the properties and management of groups, leaders and leadership, organisational power, influence, communication, conflict and decision making; organisational structure; organisational culture; change; the formal and informal organisation.",
+                    "UnitCode": "MGB2230",
+                    "UnitName": "Organisational behaviour",
+                    "_id": "5878039a30213215439e93cb",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MGB1010 or MGC1010 or MGF1010 or MGG1010 or MGP1010 or MGW1010",
+                    "Proh": "MGC2430, MGF2661, MGG2430, MGW2430",
+                    "SCABand": 3,
+                    "Sypnosis": "Analysis of the strategic role of HRM in organisations, human resource planning, job design, staffing, performance management, training and development, reward systems, legal issues in employment, HR information systems, and the contribution of HRM to competitive advantage.",
+                    "UnitCode": "MGB2430",
+                    "UnitName": "Human resource management",
+                    "_id": "5878039a30213215439e93cc",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MKB1200",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "Consumer behaviour explores the internal psychological factors that influence consumers in both the B2C and B2B contexts. It also provides a broad understanding of the potential for external social factors to influence the purchase decisions and behaviours of consumers. The concepts covered in this unit offer insight into the ways in which organisational strategies and tactics are shaped by two-way dialogue with consumers.",
+                    "UnitCode": "MKB2402",
+                    "UnitName": "Consumer behaviour",
+                    "_id": "587803c930213215439e9496",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MKB1200",
+                    "Proh": "MKP2720",
+                    "SCABand": 3,
+                    "Sypnosis": "Marketing research provides students with a broad understanding of the entire marketing research process. This includes understanding the marketing research decision process, research design, sampling, data collection, data analysis and how to prepare a marketing research proposal and report.",
+                    "UnitCode": "MKB2420",
+                    "UnitName": "Marketing research methods",
+                    "_id": "587803c930213215439e9497",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MKB1200",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit introduces the students to retailing from a management perspective. This includes the evolution of retailing; retail organisations and their structure; retail environment and the challenges; formulating and implementing retail strategy; merchandise management; retail pricing and communication mix; transportation and logistics; customer service; store location, layout and presentation; retail performance measurement.",
+                    "UnitCode": "MKB2500",
+                    "UnitName": "Retail management principles",
+                    "_id": "587803c930213215439e9498",
+                    "enjoyRating": 4.25,
+                    "enjoyResponse": 27,
+                    "learnRating": 4.013888889,
+                    "learnResponse": 17,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MKB1200",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "A brand is much more than a logo, a symbol, a sign or device, or simply the result of clever advertising. It helps to communicate value and create and deliver that value. Branding is a promise of value for customers. It helps to attract and, if it is true and accurate, keep customers. It provides an extra element of understanding or meaning, for customers as they form opinions and make purchase decisions from a variety of competing offerings. There is strong industry demand for graduates with a thorough understanding of branding. While this unit is primarily for students undertaking a major in marketing it is offered to any student with a prerequisite of an introductory marketing unit.",
+                    "UnitCode": "MKB2521",
+                    "UnitName": "Brand management",
+                    "_id": "587803ca30213215439e9499",
+                    "enjoyRating": 3.875,
+                    "enjoyResponse": 17,
+                    "learnRating": 3.232142857,
+                    "learnResponse": 24,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Elective Level 1, 2 or 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Elective Level 2 or 3",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MKB2402",
+                    "Proh": "MKC3460, MKF3461, MKG2460, MKW2460",
+                    "SCABand": 3,
+                    "Sypnosis": "The primary aim of this unit is to explore the use of marketing communication to build and sustain brands, based on knowledge of how communication works; the institutions which participate in the process and practical business processes necessary to achieve and measure defined communication goals. In particular, students will be able to understand the integrated nature of communication and develop a full appreciation of advertising, sales promotion, public relations, publicity and direct marketing in a digital and contemporary environment.",
+                    "UnitCode": "MKB3461",
+                    "UnitName": "Marketing communication",
+                    "_id": "587803ca30213215439e949c",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Elective Level 1, 2 or 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MKB1200",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "Services marketing provides students with a broad understanding of the application of marketing concepts and theories to the services sector. This includes understanding service design and delivery, customer service, service quality measurement and internal marketing.",
+                    "UnitCode": "MKB3301",
+                    "UnitName": "Services Marketing",
+                    "_id": "587803ca30213215439e949b",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MGB1010 or MGC1010 or MGF1010 or MGG1010 or MGP1010 or MGW1010 and 96 credit points.",
+                    "Proh": "MGP3684, MGC3110, MGW3401, MGF3401, MGG3401",
+                    "SCABand": 3,
+                    "Sypnosis": "Business environments including markets, critical success factors, and strategies employed to gain a competitive advantage; the nature of strategic management; the analysis and interpretation of business environments; the nature of competition, relative position of firms, individual strategies and their relationship to critical success factors; strengths and weaknesses related to production, logistics, finance, research and development, marketing, administration etc.; the role of structure, controls, rewards, culture and leadership in implementation.",
+                    "UnitCode": "MGB3684",
+                    "UnitName": "Business strategy",
+                    "_id": "5878039a30213215439e93cd",
+                    "enjoyRating": 3.958333333,
+                    "enjoyResponse": 27,
+                    "learnRating": 3.826187378,
+                    "learnResponse": 137,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Elective Level 1, 2 or 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "International marketing explores the application of marketing concepts and theories to the international environment. It also provides a broad understanding of how economic, political, geographic, demographic, cultural and other international factors influence marketing strategy. The concepts covered in this unit offer insight into the relative value of alternative marketing strategies in different international markets.",
+                    "UnitCode": "MKB3531",
+                    "UnitName": "International marketing",
+                    "_id": "587803ca30213215439e949d",
+                    "enjoyRating": 3.6,
+                    "enjoyResponse": 15,
+                    "learnRating": 3.623809524,
+                    "learnResponse": 18,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MKB1200",
+                    "Proh": "MKF3881",
+                    "SCABand": 3,
+                    "Sypnosis": "Digital marketing explores different aspects of the digital landscape and how to integrate digital technologies into the marketing mix. It also provides a broad understanding of the various digital marketing tools, and the application of these tools in the rapidly changing digital environment.",
+                    "UnitCode": "MKB3881",
+                    "UnitName": "Digital marketing",
+                    "_id": "587803cb30213215439e949e",
+                    "enjoyRating": 3.625,
+                    "enjoyResponse": 18,
+                    "learnRating": 4.000256586,
+                    "learnResponse": 163,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        }
+    ]
+}

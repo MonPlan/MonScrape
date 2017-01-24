@@ -1,0 +1,113 @@
+{
+    "courseAOS": "Bachelor of Civil Engineering (Honours)",
+    "courseCode": "E3001",
+    "courseName": "Engineering",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ENG1001",
+                "ENG1005",
+                {
+                    "faculty": "",
+                    "type": "ENG1090 (if required) or PHS1080 (if required) or 1 st year engineering elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Elective If two foundation units are required then this elective is used to complete the second of ENG1090 and PHS1080 ,"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ENG1002",
+                "ENG1003",
+                "ENG1060",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "CIV2206",
+                "CIV2225",
+                "CIV2263",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ENG2005",
+                "CIV2242",
+                "CIV2282",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "CIV3248",
+                "CIV3221",
+                {
+                    "faculty": "",
+                    "type": "CIV3XXX Engineering hydrology"
+                },
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "CIV3204",
+                {
+                    "faculty": "",
+                    "type": "CIV3xxx Design of concrete and masonry structures"
+                },
+                "CIV3247",
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "CIV4210",
+                {
+                    "faculty": "",
+                    "type": "CIV4xxx Project management for civil engineers"
+                },
+                {
+                    "faculty": "",
+                    "type": "CIV4xxx Bridge design and assessment"
+                },
+                "Elective"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "CIV4212",
+                {
+                    "faculty": "",
+                    "type": "CIV4xxx Road engineering"
+                },
+                {
+                    "faculty": "",
+                    "type": "CIV4xxx Water treatment"
+                },
+                "Elective"
+            ],
+            "year": 3
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "courseCode": "P6002",
+    "courseName": "Master of Clinical Pharmacy",
+    "courseAOS": "Coursework Stream",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+              "PGC5101",
+              {"type": "Elective", "faculty": "Faculty of Pharmacy and Pharmaceutical Sciences"}
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+              "PGC5102",
+              {"type": "Elective", "faculty": "Faculty of Pharmacy and Pharmaceutical Sciences"}
+          ]
+        }, {
+          "code": "S1-01",
+          "year": 1,
+          "units": [
+              {"type": "Elective", "faculty": "Faculty of Pharmacy and Pharmaceutical Sciences"},
+              {"type": "Elective", "faculty": "Faculty of Pharmacy and Pharmaceutical Sciences"}
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 1,
+          "units": [
+              {"type": "Elective", "faculty": "Faculty of Pharmacy and Pharmaceutical Sciences"},
+              "PGC5119"              
+          ]
+        }
+    ]
+}

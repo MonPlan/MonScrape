@@ -1,0 +1,370 @@
+{
+    "courseAOS": "Master of Business Law",
+    "courseCode": "B6013",
+    "courseName": "Business Law",
+    "courseType": "Expert master degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "AFX9003, GSB9004, MBA9004 AND students enrolled in any of the following courses are prohibited: 0790, 0826, 3843, 4402, 0503, 3850, 4401.",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit examines accounting as an information system.  It will introduce students to accounting principles and reporting practices from a users perspective. The information requirements of two main groups are examined - external users such as owners, shareholders, investors, potential investors, and internal users such as managers. This unit provides students with an introduction to accounting and an understanding of the preparation, presentation and interpretation of financial statements.  In particular, emphasis is placed on an understanding of various business structures including control and reporting aspects of new businesses, processes, practices and policies that enable the financial performance and financial position of an entity, as displayed by the balance sheet, income statement and statement of cash flows, to be measured, analysed and interpreted.  Managerial accounting issues are also presented, with particular emphasis on cost management, cost behaviour, budgeting and performance measurement.",
+                    "UnitCode": "ACF5903",
+                    "UnitName": "Accounting for business",
+                    "_id": "5877ff8a30213215439e8466",
+                    "enjoyRating": 4.187389771,
+                    "enjoyResponse": 243,
+                    "learnRating": 4.149541541,
+                    "learnResponse": 122,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ECG9101, ECG5901, ECF9530",
+                    "SCABand": 3,
+                    "Sypnosis": "Microeconomics: scarcity; economic choice; economic systems; economic ideology; demand and supply analysis; consumer behaviour and elasticity; costs of production and profit maximisation; perfect competition and monopoly. Macroeconomics: aggregate demand and aggregate supply; Keynesian versus Neoclassical approaches; the money market and monetary policy; the government budget deficit and fiscal policy; the foreign exchange market and exchange rate policy; unemployment and inflation; the current and capital accounts.",
+                    "UnitCode": "ECF5953",
+                    "UnitName": "Economics",
+                    "_id": "587801aa30213215439e8cef",
+                    "enjoyRating": 4.264367816,
+                    "enjoyResponse": 379,
+                    "learnRating": 4.229244131,
+                    "learnResponse": 379,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "AFX9510, ETC1000, ETG1102, ETW1000, ETW1102, ETX1100 and ETC9000.",
+                    "SCABand": 3,
+                    "Sypnosis": "Students will learn to use basic statistical techniques and apply them to problems in accounting, finance, management, marketing, and business in general. Students should also be able to effectively communicate the results of their analyses. This unit covers descriptive statistics for revealing the information contained in data; probability as a tool for dealing with uncertainty; probability distributions to model business behaviour; confidence interval estimation and hypothesis testing techniques for single populations; analysis of relationships between variables using simple linear regression; and simple tools for forecasting time series data. Applications to critical analysis of business and economic data will be emphasised. Excel software will be used.",
+                    "UnitCode": "ETF5900",
+                    "UnitName": "Business statistics",
+                    "_id": "5878026630213215439e8f74",
+                    "enjoyRating": 4.583333333,
+                    "enjoyResponse": 409,
+                    "learnRating": 4.536632822,
+                    "learnResponse": 409,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MGX5962, MGX9600, MGX5960, MGG9600, MGG5960, MGX9602 and students enrolled in course 0105, 2099, 2778, 1065 or 0028.",
+                    "SCABand": 3,
+                    "Sypnosis": "The overall aim of this unit is to introduce pre-experience students to the range of activities associated with the management of individuals, groups and the organisation. In order to achieve this aim the content will cover several key areas of management. For example, the current challenges facing managers in a turbulent environment, the role of the individual, the importance of teamwork, managing conflict and effective decision making. Finally the role of corporate culture and ethics. Students undertaking this unit should expect to experience a variety of activities in order to challenge the content as prescribed above. These activities will include interactive case studies and application of the theory to 'real' world examples through group presentations.",
+                    "UnitCode": "MGF5962",
+                    "UnitName": "Principles of management",
+                    "_id": "587803aa30213215439e9412",
+                    "enjoyRating": 4.161764706,
+                    "enjoyResponse": 77,
+                    "learnRating": 4.415343915,
+                    "learnResponse": 16,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MGX5320, BTX5000",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit provides students with an appreciation of best corporate governance practices from a global perspective. It considers the reasons for the interest in corporate governance and compares and contrasts the various international corporate governance systems and best practice models; roles and functions of the board of directors, board committees and the board's relationship with management are explored from both a legal and management perspective; empirical studies of the relationship between corporate governance and corporate performance, and the role and legal duties of directors in takeover and insolvency contexts. Corporate governance issues in Asia are also analysed.",
+                    "UnitCode": "BTF5000",
+                    "UnitName": "Corporate governance",
+                    "_id": "5878012430213215439e8acb",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "AFF9020",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit is designed to introduce the concept of risk as a business philosophy and to introduce students to the Australian Risk Management Standard, AS/NZS/ISO31000:2009. It will look at the evolution of risk, the requirements for risk management, the risk management process and steps, and the application of risk management.",
+                    "UnitCode": "BFF5902",
+                    "UnitName": "Introduction to risk principles",
+                    "_id": "587800fe30213215439e8a30",
+                    "enjoyRating": 3.763888889,
+                    "enjoyResponse": 80,
+                    "learnRating": 4.017460317,
+                    "learnResponse": 25,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "BTF5903, BTM5903, BTG9270, BTX9020, MBA9002, BTX5140, BTX9030 and students enrolled in course 3843, B6002 or B6011",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit examines business law in practice including negotiation techniques, applying contract law, legal risk management techniques, applying the law of negligence, and statutory consumer law. It also looks at protections including occupational health and safety, and choosing the most appropriate business form and complying with requirements, applying corporations law, the law of partnerships, and agency and sole traders.",
+                    "UnitCode": "BTF5904",
+                    "UnitName": "Law and commercial decisions",
+                    "_id": "5878012730213215439e8adc",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "Regulatory oversight and control are increasingly shaping the development of economies and business. Managing business regulation and compliance is a fundamental component of every business operation whether these regulations are by law or self-regulatory. This unit will provide a framework for understanding regulation, government and industry regulators and the range of regulatory methods employed to achieve law enforcement and compliance with business regulation.Adopting a case study approach, students will explore the meanings and limitations of regulation in different economic and business contexts such as corporations, environment and sustainability, corporate social responsibility, financial services, taxation and workplaces in Australia and regulation practice in the Asia Pacific region.",
+                    "UnitCode": "BTF5001",
+                    "UnitName": "Business regulation and compliance",
+                    "_id": "5878012430213215439e8acc",
+                    "enjoyRating": 3.8,
+                    "enjoyResponse": 9,
+                    "learnRating": 4.072522523,
+                    "learnResponse": 75,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Mastery knowledge unit choice 1",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "AFF9020 or BFF5902",
+                    "Proh": "AFF5021",
+                    "SCABand": 3,
+                    "Sypnosis": "The management of risk is a multi-dimensional activity that entails a range of disciplines and thought processes to ensure that resilience is created and maintained within the firm. There needs to be an understanding by business students of the range of activities and events that can be exposed by the application of risk management techniques and processes. This unit includes detailed analysis of a series of case studies drawn from real life events that encompass the holistic nature of risk within a firm and/or society. If appropriate, they may be presented and discussed by an industry practitioner. The unit is designed to bring all facets of the specialisation together.",
+                    "UnitCode": "BFF5021",
+                    "UnitName": "Case studies in risk management",
+                    "_id": "587800fa30213215439e8a20",
+                    "enjoyRating": 4.078125,
+                    "enjoyResponse": 62,
+                    "learnRating": 4.073086043,
+                    "learnResponse": 81,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Application studies unit 1",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Application studies unit 2",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Evening)",
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "It is recommended that this unit be undertaken in the last semester of study for the Master of Business Law.",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit requires students to formulate a research topic on a business law related area of study and complete an approximately 8,000 word research project. Seminars will be conducted at which students will present progress and final reports on their research projects. The seminars will also include practical research and academic skills sessions.",
+                    "UnitCode": "BTF5801",
+                    "UnitName": "Masters research paper",
+                    "_id": "5878012630213215439e8ad7",
+                    "enjoyRating": 4.333333333,
+                    "enjoyResponse": 8,
+                    "learnRating": 4.010867294,
+                    "learnResponse": 123,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Mastery knowledge unit choice 2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Application studies unit 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Application studies unit 4",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

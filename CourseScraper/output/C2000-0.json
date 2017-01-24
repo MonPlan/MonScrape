@@ -1,0 +1,125 @@
+{
+    "courseAOS": "Bachelor of Information Technology",
+    "courseCode": "C2000",
+    "courseName": "Information Technology",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Information Technology",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Introductory programming unit from: FIT1045, FIT1048, FIT1051"
+                },
+                "FIT1047",
+                {
+                    "faculty": "",
+                    "type": "Major unit 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "FIT1049",
+                {
+                    "faculty": "",
+                    "type": "Major unit 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                [
+                    "FIT2001",
+                    "FIT2099"
+                ],
+                "FIT2094",
+                {
+                    "faculty": "",
+                    "type": "Major unit 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "FIT2002",
+                {
+                    "faculty": "",
+                    "type": "Major unit 4"
+                },
+                {
+                    "faculty": "",
+                    "type": "Major unit 5"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Capstone units 12 points (Studio Project)"
+                },
+                {
+                    "faculty": "",
+                    "type": "Major unit 6"
+                },
+                {
+                    "faculty": "",
+                    "type": "Major unit 7"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Major unit 8"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 2
+        }
+    ]
+}

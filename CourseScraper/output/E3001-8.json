@@ -1,0 +1,116 @@
+{
+    "courseAOS": "Bachelor of Mining Engineering (Honours)",
+    "courseCode": "E3001",
+    "courseName": "Engineering",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ENG1001",
+                "ENG1005",
+                {
+                    "faculty": "",
+                    "type": "ENG1090 (if required) or PHS1080 (if required) or 1 st year engineering elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Elective If two foundation units are required then this elective is used to complete the second of ENG1090 and PHS1080 ,"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ENG1002",
+                "ENG1003",
+                "ENG1060",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "MNE1010",
+                "ESC1011",
+                "ESC2111",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ENG2005",
+                "CIV2242",
+                "MNE2010",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "MNE3xxx Mining Engineering 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "MNE3xxx Mining Engineering 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "MNE3xxx Mining Engineering 3"
+                },
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "MNE3xxx Mining Engineering 4"
+                },
+                {
+                    "faculty": "",
+                    "type": "MNE3xxx Mining Engineering 5"
+                },
+                {
+                    "faculty": "",
+                    "type": "MNE3xxx Mining Engineering 6"
+                },
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "MNE4010",
+                "MNE4030",
+                "MNE4050",
+                "Elective"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "MNE4040",
+                "MNE4020",
+                [
+                    "MNE4060",
+                    "MNE4070"
+                ],
+                "Elective"
+            ],
+            "year": 3
+        }
+    ]
+}

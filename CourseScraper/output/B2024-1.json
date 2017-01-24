@@ -1,0 +1,170 @@
+{
+    "courseAOS": "Economics specialisation",
+    "courseCode": "B2024",
+    "courseName": "Commerce Specialist and Arts",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ECC1000",
+                "ETC1000",
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Minor"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ECC1100",
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 1 selected from a list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Minor"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ECC2000",
+                "ETC2410",
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Minor"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 2 selected from a list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 3 selected from a list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Minor"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 4 selected from a list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business and Economics elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts elective"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 5 selected from a list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business and Economics elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts elective"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 6 selected from a list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business and Economics elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts elective"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 7 selected from a list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business and Economics elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts elective"
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

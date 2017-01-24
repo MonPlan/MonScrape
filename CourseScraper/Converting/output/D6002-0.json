@@ -1,0 +1,141 @@
+{
+    "courseAOS": "",
+    "courseCode": "D6002",
+    "courseName": "Master of Education",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Education",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit orientates students to the field of education and engages them with academic traditions and scholarly practices in the field of education at the postgraduate level. Students review academic texts and research papers which represent diverse standpoints in understanding education. Students examine how education researchers position themselves within the field in terms of different theories and understandings of education. Students develop capacities in critical reading, analysis and synthesis and use these to prepare their own well-crafted and well-supported academic arguments in written and oral forms. Through this unit, students explore a topic or theme of interest to them, critically review the evidence related to it and practise building an academic argument related to this theme.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF4610",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Flexible)",
+                                "Second semester 2017 (Flexible)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 1 2017 (', 'Off-campus block of classes', ')",
+                                "Term 3 2017 (', 'Off-campus block of classes', ')"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Interacting with research in education contexts"
+                },
+                {
+                    "CreditPoints": 12,
+                    "Description": "In this unit students are involved in identifying and investigating current contemporary issues in education through a variety of lenses that may include local, national, regional or global perspectives and emphases on school, adult or higher education learning, both formal and informal, depending on the interests of the student cohorts. The unit begins with the identification of issues at each of these spatial and sectoral levels, relevant to the students and their work and roles in education. Opportunities are provided for students to critically engage with theory, contemporary policy documents and accounts that are relevant to the issues they are investigating. Students further define key questions for investigation, gather appropriate data to research the issues and present and share in debates through peer-led forums. Through shared learning, the unit provides an orientation for students to a broad range of debates across education contexts and develops understanding of the complexities in this field.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF4611",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Flexible)",
+                                "Second semester 2017 (Flexible)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (', 'Off-campus block of classes', ')",
+                                "Term 4 2017 (', 'Off-campus block of classes', ')"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Investigating education issues in global contexts"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Education",
+                    "SCABand": 0,
+                    "UnitCode": "Key Constructs Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Education",
+                    "SCABand": 0,
+                    "UnitCode": "Key Constructs Unit",
+                    "UnitName": ""
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Education",
+                    "SCABand": 0,
+                    "UnitCode": "Enhanced Professional Learning Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Education",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "Enhanced Professional Learning Unit,Professional Inquiry Unit"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Education",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "Enhanced Professional Learning Unit,Professional Inquiry Unit"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Education",
+                    "SCABand": 0,
+                    "UnitCode": "Professional Inquiry Unit",
+                    "UnitName": ""
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

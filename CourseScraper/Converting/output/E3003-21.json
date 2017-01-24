@@ -1,0 +1,857 @@
+{
+    "courseAOS": "Materials Engineering/Finance",
+    "courseCode": "E3003",
+    "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist",
+    "courseType": "Double Undergraduate",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1001,ENG1002"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1003,ENG1005"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "General rules for software development and design. Errors. Data types, variables, expressions, control statements M-files. Numerical techniques: Gauss elimination, solution of non-linear equations, optimisation, curve fitting, numerical calculus, ordinary differential equations.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "Mathematical methods (CAS) recommended.",
+                    "Prohibitions": "ENG1602",
+                    "SCABand": 2,
+                    "UnitCode": "ENG1060",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Computing for engineers"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Presentation and analysis of grouped and ungrouped data using tables, charts and measures of location and dispersion; standardisation techniques, including index numbers, with application to share price indices and the CPI; analysis of relationships between variables using simple and multiple regression; extensions to multiple regression, including nonlinear and categorical explanatory variables and time series data with applications to forecasting; main ideas of probability theory as a foundation for statistical inference; concept of sampling as a way of capturing uncertainty about data; estimators and their properties; constructing and interpreting confidence intervals; fundamentals of hypothesis testing, testing hypotheses about the mean, difference between means and the slope, including analysis of variance.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "ETG1102, ETW1000, ETW1102, ETX1100, ETX9000, FIT1006, STA1010",
+                    "SCABand": 2,
+                    "UnitCode": "ETC1000",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Business and economic statistics"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1002,ENG1001"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1003,ENG1005"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Faculty Elective",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The nature and scope of economics; different economic systems; economic policy analysis and evaluation; main bodies of economic thought; examples of household, business and government economic decision problems; consumer choice, product demand and factor supply; enterprise choice, product supply and factor demand; market analyses of contemporary issues; competitive market long run equilibrium; market power; market failure and concerns for efficiency and equity; government involvement in the Australian economy.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "ECC1000",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Principles of microeconomics"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "Bonding: atomic/molecular arrangement. Crystal systems: directions and planes, stereographic projection; metallic, ionic and ceramic crystals. Defects; vacancies and interstitials; dislocations; stacking faults, twin and grain boundaries. Thermodynamics: condensed systems; entropy, Gibbs free energy; ideal and non-ideal solutions; surface energy and microstructure. Phase equilibria and microstructures: Gibbs phase rule; free energy diagrams; phase diagrams; deviations from ideality, phase separation; ordering; eutectic, eutectoid, peritectic and peritectoid reactions; non-equilibrium microstructures, implications for physical properties.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "MSC2011, MTE2501",
+                    "SCABand": 2,
+                    "UnitCode": "MTE2541",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Crystal structures, thermodynamics and phase equilibria"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The unit focuses on the 'smart' functional roles of the materials in devices which depend on their electrical, optical and thermal properties. Examples of such devices are: active semiconducting devices and associated passive electrical components, 'smart' transducers, optical fibres, optical coatings, liquid crystal displays, optical storage devices, the ruby laser, the solar cell, ceramic insulators, the Peltier cooler. The functional materials will be studied at the microscopic (atomic and/or molecular) level in order to gain an understanding of the device operation.  In addition, some discussion will focus on device fabrication.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "MTE2507, MSC2022, MSC2111",
+                    "SCABand": 2,
+                    "UnitCode": "MTE2544",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Functional materials"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "As a foundation, this unit introduces students to the concepts of finance, financial mathematics, investment analysis, the financial system, risk management and the relationship of finances to other commercial disciplines.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "AFC1100, AFC2000, AFC2100, AFG1300, AFW1300, BFB1300, BFC2000, BFF1300, BFG1300, BFW1300,BFB1001, BFF1001, BFP1001, BFW1001",
+                    "SCABand": 3,
+                    "UnitCode": "BFC1001",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Foundations of finance"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The scope of macroeconomics and its microeconomic underpinnings; aggregation problems; partial equilibrium and general equilibrium analysis; the circular flow of income as a general equilibrium model; the mutual dependence of financial flows and flows of goods and services; sectoral composition of aggregate demand; business and investment behaviour; government spending and taxation; external balance and determination of current and capital accounts; labour market and aggregate supply; money, credit, and the conduct of monetary policy; inflation and unemployment; macroeconomic effects of deregulation in Australia.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "ECC1000 is recommended",
+                    "Prohibitions": "ECF1200, ECG1102, ECS1102, ECW1102",
+                    "SCABand": 3,
+                    "UnitCode": "ECC1100",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Principles of macroeconomics"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "Thermal conductivity, heat transfer film coefficients. Non-steady state conduction; lumped systems. Convection and radiation. Interstitial diffusion, substitutional diffusion, steady-state diffusion (Fick's first law), nonsteady-state diffusion (Fick's second law), solution of diffusion problems (homogenization and carburization), atomic mobility, high-diffusivity paths. Casting, forging, hot rolling, injection moulding. Nucleation and growth: homogeneous and heterogeneous nucleation, solid/liquid interface, growth of solid in liquid, growth of solid in solid. Solidification: coring; cells and dendrites; eutectics; segregation in ingots. Kinetics of phase transformations: TTT and CCT diagrams Evolution of microstructure/nanostructure: thermomechanical processing of steels and Al/Mg alloys; hardenability, quenching and tempering of steels, alloying elements.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "MSC2122, MTE2502, MTE2503, MTE2504, MTE3502",
+                    "SCABand": 2,
+                    "UnitCode": "MTE2542",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Microstructural development"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Advanced matrix algebra: mxn systems, linear independence, sparse matrices, simple tensors. Further ordinary differential equations: systems of ODEs, variation of parameters; boundary-value problems. Fourier series: Euler formulae, convergence, half-range series, solution of ODEs, spectra. Further multivariable calculus: change of variables and chain rule, polar coordinates, line integrals; vector fields; del, divergence, curl and Laplacian; surface and volume integrals; Gauss and Stokes theorems. Partial differential equations: simple PDEs, Laplace, heat and wave equations, superposition, separation of variables, polar coordinates. Advanced numerical methods: solution of linear systems, numerical solution of ODEs and simple PDEs, accuracy, efficiency and stability; discrete Fourier transforms, introduction to PS and FE methods.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "ENG1005 or ENG1091 or equivalent",
+                    "Prohibitions": "ENG2091, MTH2010, MTH2015",
+                    "SCABand": 2,
+                    "UnitCode": "ENG2005",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Advanced engineering mathematics"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit introduces students to the empirical analysis of relationships between economic variables. The approach is based on linear regression theory, and emphasises 'hands on' data analysis. Topics studied will include properties of least squares estimators, hypothesis testing, the choice of appropriate functional form, the use of dummy variables, issues around modelling survey data and the problems of serial correlation, heteroscedasticity and multicollinearity.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "ETC1000 or must be enrolled in course 3822 or 4412 or 4439",
+                    "Prohibitions": "ETC2400, ETC3440, ECC2410",
+                    "SCABand": 3,
+                    "UnitCode": "ETC2410",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introductory econometrics"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The aim of the unit is to introduce students to the theory and application of why and how value enhancing corporate financial decisions are made and implemented. With the emphasis on publicly listed companies, topics covered include; the corporate objective of management, investment evaluation models, valuation of equity and debt instruments, sources and types of funding, issues in risk and return, portfolio theory, asset pricing models, issues in capital structure and dividend policy and the efficiency of capital markets. The unit is designed to ensure students with the necessary skill set for making value-changing financial decisions to maximise firm value.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Students to complete two units as follows: ECF1100 and ETF1100; or ECC1000 and ETC1000; or ETB1100 and ECB1101; or ECW1101 and ETW1000 or ETW1102; or ECP1100 and ETP1100.",
+                    "Prohibitions": "AFF2631, BFF2631, AFG2631, BFG2631, AFW2631, BFB2631, BFP2631, BFW2631, AFW3044, AFC2140, BFB2140, BFF2140, BFP2140, BFW2140.",
+                    "SCABand": 3,
+                    "UnitCode": "BFC2140",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Corporate finance 1"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "Corrosion of surfaces, chemical and electrochemical properties of interfaces, localised corrosion, protection of surfaces, techniques of protection, organic and inorganic surface treatments, bonding at surfaces, thermodynamics of surfaces and interfaces, adhesion and mechanical properties.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "ENG1050 or MSC2011 or MTE2541",
+                    "Prohibitions": "MTE3510 or MSC3111",
+                    "SCABand": 2,
+                    "UnitCode": "MTE3541",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Materials durability"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit deals with the deformation behaviour of materials subject to external forces. Students are introduced to the basics of solid mechanics in a Materials Science and Engineering perspective. The first part of this unit focuses on the mathematical description of stress, strain, and the relationship between them through material models. Topics that will be covered include the theory of linear elasticity, failure criteria, and an introduction to plasticity and viscoelasticity theory. The second part of this unit describes the deformation behaviour of materials from an experimental point of view. Topics include hardening behaviour, ductile and brittle facture, creep and fatigue. A basic introduction to fracture mechanics is also provided.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "MTE2546",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Mechanics of materials"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ACC100,ACC1200"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit extends corporate finance concepts introduced in BFC2140. Topics include equity financing, asset pricing and cost of capital, risk management, real options, capital structure, mergers and acquisitions, corporate governance and international corporate finance.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "AFC2140 or BFC2140",
+                    "Prohibitions": "AFC3140",
+                    "SCABand": 2,
+                    "UnitCode": "BFC3140",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Corporate finance 2"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "Electrical and optical properties of materials - dielectrics, ferroelectrics, superconductors and optical fibres; magnetic properties - microscopic origin of magnetism in specific classes of materials, domains, magnet fabrication and applications; nanodevices which rely on the preceding properties, experimental techniques.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "MTE2544 or MSC2022 or TRC3800 or MSC2111 or PHS2011",
+                    "Prohibitions": "MSC3011, MSC3132, MTE3508",
+                    "SCABand": 2,
+                    "UnitCode": "MTE3545",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Functional materials and devices"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Introduction to common ceramics: industrial ceramics: ceramic crystal structures, clay based industrial ceramics, alumina, mullite; their general compositions, microstructures, processing and properties; understanding the characteristics of these materials from phase diagrams.  Introduction to polymers: Polymer coil; molecular weight and molecular weight distribution; chain and step-growth polymers; tacticity; random, block and graft copolymers; solution properties; thermal properties and Tg; thermoplastics and crosslinked polymers; polymer blends.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "",
+                    "Prohibitions": "MTE2502",
+                    "SCABand": 2,
+                    "UnitCode": "MTE2545",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Polymers and ceramics I"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Topics include the development and application of financial spreadsheets, Excel and Visual Basic programming in financial modelling, modelling company financial statements, fixed income securities analysis, asset allocation and portfolio analysis, optimization using Solver, technical analysis of financial markets, Interest rate models, option pricing models, numerical methods and risk management models.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Students must have passed one of the following before undertaking this unit: AFC2140, BFC2140, AFC2240, BFC2240, AFC2340, BFC2340.",
+                    "Prohibitions": "AFC3540",
+                    "SCABand": 3,
+                    "UnitCode": "BFC3540",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Modelling in finance"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit examines the institutional features of futures and options markets, the use of futures, options and other derivatives in arbitraging, trading and hedging, and prices of these instruments.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Students must have completed one of the following units: BFB1001, BFC1001, BFF1001, BFP1001 or BFW1001 PLUS one of the following units: BFB2140, BFC2140, BFF2140, BFP2140 or BFW2140",
+                    "Prohibitions": "AFC3340, AFF3751, BFF3751",
+                    "SCABand": 3,
+                    "UnitCode": "BFC2751",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Derivatives 1"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit explores the relationships between the microstructure, processing and performance of materials. Metal forming will be linked to the factors that control formability, with yield/failure criteria and constitutive behaviour being examined. Students will engage in finite element analysis of metal processing. Material behaviour from microstructure to applications will be considered for both traditional metal forming and more advanced shaping processes such as additive manufacturing of metals. Microstructural features governing fatigue, fracture and failure of structures will be explored and the extent to which we can predict failure outlined, including design against failure, critical crack size, low and high cycle fatigue. Microstructural toughening, effects of welds and thermal stability of materials will be addressed in terms of mitigation or minimization of structural defects.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "None",
+                    "Prohibitions": "MTE3506, MTE4561",
+                    "SCABand": 2,
+                    "UnitCode": "MTE3543",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Microstructure to applications: the mechanics of materials"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit deals with structural and chemical changes (phase transformations) at the atomic scale and impacts of such changes on the performance of materials in structural applications. The major strengthening mechanisms involving interactions of dislocations with obstacles are discussed This unit examines the factors that are important in influencing the structural and chemical changes and the principles for microstructrual design. It demonstrates how to use the design principles to manipulate, in a controlled manner, the alloying additions and thermomechanical processing to tailor the properties and thus the performance of materials.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "MTE2541 or MSC2011",
+                    "Prohibitions": "MTE3502, MSC3121",
+                    "SCABand": 2,
+                    "UnitCode": "MTE3542",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Microstructural design in structural materials"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Topics include the development and application of financial spreadsheets, Excel and Visual Basic programming in financial modelling, modelling company financial statements, fixed income securities analysis, asset allocation and portfolio analysis, optimization using Solver, technical analysis of financial markets, Interest rate models, option pricing models, numerical methods and risk management models.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Students must have passed one of the following before undertaking this unit: AFC2140, BFC2140, AFC2240, BFC2240, AFC2340, BFC2340.",
+                    "Prohibitions": "AFC3540",
+                    "SCABand": 3,
+                    "UnitCode": "BFC3540",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Modelling in finance"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit examines the institutional features of futures and options markets, the use of futures, options and other derivatives in arbitraging, trading and hedging, and prices of these instruments.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Students must have completed one of the following units: BFB1001, BFC1001, BFF1001, BFP1001 or BFW1001 PLUS one of the following units: BFB2140, BFC2140, BFF2140, BFP2140 or BFW2140",
+                    "Prohibitions": "AFC3340, AFF3751, BFF3751",
+                    "SCABand": 3,
+                    "UnitCode": "BFC2751",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Derivatives 1"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "Metals, ceramics and polymers may be characterised using a number of techniques, and some of these will be explored in this unit. The techniques can be broadly split into direct (imaging, chemical analysis) and indirect (scattering) techniques. The principles underlying techniques such as x-ray diffractometry, electron microscopy, photoelectron or mass spectroscopy are explained. Students will investigate the design of experiments, testing for relationships among variables and curve fitting. Models will be related to the characterisation techniques studied by the application of appropriate models to real data.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "MSC2011 or MTE2541 or PHS2011",
+                    "Prohibitions": "MSC3142",
+                    "SCABand": 2,
+                    "UnitCode": "MTE3547",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Materials characterisation and modelling"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The importance of ceramic properties on their manufacturing is highlighted. The mechanical and thermal properties of ceramics, the structure and production of amorphous ceramics and porous ceramics, the glass transition, optical and electrical properties of glass. The mechanical properties of polymers are very dependent on the timescale and temperature and so the structural basis of linear viscoelasticity and time/temperature superposition are discussed. The mechanical properties of elastomers, crosslinking and reinforcement, rubber elasticity and the tear and fatigue of elastomers. The Eyring theory and methods of toughening polymers are discussed.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "MTE2541 or MSC2011",
+                    "Prohibitions": "MTE3504, MTE3507",
+                    "SCABand": 2,
+                    "UnitCode": "MTE3546",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Polymers and ceramics II"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Topics covered in this unit include the international financial system and the various types of exchange rate systems that exist around the world. Also included is the theory of the determination of exchange rates, as well as an analysis of the extent to which these theories hold in practice. A major topic area is the measurement and management of firms' foreign exchange rate risk, including theory relating to the importance of hedging against exchange risks, and the complexities involved in assessing and managing exchange rate risks in a globally connected world. In discussing the management of foreign currency transactions, the use of hedging tools such as currency futures, options and swaps is covered. The final topic is international portfolio management.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "AFC2140 or BFC2140",
+                    "Prohibitions": "AFW2341, BFW2341, BFF2341,AFC3240",
+                    "SCABand": 2,
+                    "UnitCode": "BFC3240",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "International finance"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit highlights the institutional aspects, as well as the pricing and modelling, of individual derivatives contracts, including futures and forwards, options and swaps. In addition, explanations are provided of the markets where derivatives are traded and how investors evaluate contract payoffs. Examples will also be provided to show how derivatives models and principles are applied to real-world problems.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Students must have passed one of the following units:  BFC2751 or BFF2751",
+                    "Prohibitions": "AFF3751, BFF3751, AFC3340",
+                    "SCABand": 2,
+                    "UnitCode": "BFC3340",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Derivatives 2"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit is expected to develop discernment of good and poor design and the close relationship between design, manufacture and material, with special emphasis upon practical materials identification and selection. It engenders an appreciation of the role and responsibility of the engineer in management of risk - be it economic or personal (through design, manufacturing and use). The role of materials identification and selection and the impact on function and environment is covered. In addition it looks at the role computers play in all facets of the current engineering environment, including the key areas of design, analysis, machining and robotics. It seeks to give students practical skills in these areas, in particular in the area of computer-aided drafting.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "MTE3544 or by permission",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "MTE4571",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Materials engineering design and practice"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Project in the materials field involving a literature survey, experimental or theoretical program, preparation and an oral defence of a technical poster.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "Completion of 120 points or permission",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "MTE4525",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Project I"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit deals with the structure, processing and properties of polymers and shows how these aspects determine their use in particular applications. The rheology of polymers are discussed and the factors controlling viscosity are described and related to polymer processing. The thermodynamics of polymer blends and the resulting morphology is related to the mechanical properties. The wide range of polymer additives is reviewed. For composite materials, the types of matrices and fibres/fillers are described as well as composite fabrication and the effect of reinforcement on properties. Designing with polymers and materials selection for properties and applications is studied in detail.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "MTE2545 or MTE3546",
+                    "Prohibitions": "MTE4560",
+                    "SCABand": 2,
+                    "UnitCode": "MTE4572",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Polymer and composite processing and engineering"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Topics include asset classes and returns, portfolio theory, asset pricing models, security valuation processes and techniques, market efficiency and behavioural finance, portfolio performance evaluations, hedge funds and the CFA Institute code of ethics and standards of professional conduct.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Students must have passed one of the following: AFC2140, BFC2140, AFC1100 (pre 2009) and AFC2100 (pre 2009) before undertaking this unit.",
+                    "Prohibitions": "AFC2240, ACC3230",
+                    "SCABand": 3,
+                    "UnitCode": "BFC2240",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Equities and investment analysis"
+                }
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Material Engineering Elective",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Project in the materials field involving a literature survey, experimental or theoretical program, preparation and presentation of a technical paper.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "MTE4525",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "MTE4526",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Project II"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The first part of this unit will focus on processing of cast and wrought metals. In particular, foundry technology and design of castings, welding and design of weldments and approaches  to obtaining high quality 'clean' steel will be addressed. Selection of an appropriate thermomechanical processing schedule in order to achieve the required microstructure and properties of steels will be discussed. The second part of the unit will introduce ceramic processing technologies including green body shaping, solid state sintering, liquid phase sintering, hot-pressing and sol-gel processing. Microstructures of ceramics and their effects on the materials properties will be presented.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "MTE3542 or MSC3021",
+                    "Prohibitions": "MTE4561, MTE4562, MTE4536",
+                    "SCABand": 2,
+                    "UnitCode": "MTE4573",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Processing and engineering of metals and ceramics"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit is intended to contextualise students' acquired knowledge for solving problems in real world domestic and global situations. As a capstone unit, it should be studied in the final semester of the finance major as it draws upon and integrates learning from previous units studied. The unit encourages students to recognise that finance is a powerful tool for solving our common problems, and increasing the general wellbeing, but may give rise to ethical dilemmas. Students will be exposed to choices and conflicts requiring judgement and thus appreciate that finance can play an important role in helping society achieve it's goals.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Students must have completed 102 credit points and passed BFC2751 or BFF2751 or BFW2751 or BFC3240 or BFC3540 and BFB2140 or BFC2140 or BFP2140 or BFW2140 and BFC2751 or BFF2751.",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "BFC3999",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Finance and society"
+                }
+            ],
+            "year": 4
+        }
+    ]
+}

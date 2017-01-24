@@ -1,0 +1,149 @@
+{
+    "courseAOS": "",
+    "courseCode": "M6003",
+    "courseName": "Master of Biomedical and Health Science",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "This first semester unit of the Masters in Biomedical and Health Sciences degree aims to teach students essential skills in Research communication and writing; Biostatistics; and Research ethics and management. Overall, this unit is designed to teach students how research is conducted in an ethical manner, how research data is managed and analysed, how rational decisions are made through teamwork and how research can be communicated. It will be taught through three parallel streams (modules) of study:  Communications skills module on skills for written, oral and visual communications and the use of resources to facilitate communications such as the library and data archival systems;  Biostatistics module on research design and methodology, and the use of statistics and data analysis; and  Research ethics and management module on rational decision-making processes applied to managing research/industry projects and understanding the legal and ethical environment in which research is conducted.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "BMS5001",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introduction to research and research methodology"
+                },
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit is a designed to allow students to gain the laboratory techniques and research skills to develop their capacity for independent research within laboratories in the biomedical and health sciences. Students will receive extensive hands on laboratory and research training alongside tutorials and lectures designed to give students a strong theoretical background. Laboratory and research skills will be taught in context of the skills of scientific enquiry and problem-solving to engage students in the framework for successful operation within a research environment.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "BMS5002",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Research skills and techniques"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "BMS5003,BMS25004,BMS5005,BMS5006,BMS5007"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "BMS5003,BMS25004,BMS5005,BMS5006,BMS5007"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "BMS5003,BMS25004,BMS5005,BMS5006,BMS5007"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "BMS5003,BMS25004,BMS5005,BMS5006,BMS5007"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-SS-02",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 36,
+                    "Description": "This unit is the research project component of the Master of Biomedical and Health Sciences.The Masters course provides rigorous training and preparation for research. Students will have undertaken rigorous advanced preparatory training prior to commencing this research project unit.Students will undertake a supervised research project involving research of a publishable standard which forms the basis of a thesis presented at the end of the project period.In this unit students will present seminars on their research and are trained in advanced scientific techniques. Students also take part in an oral review of the thesis report.",
+                    "EFTSL": 0.75,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "BMS5001, BMS5002, and 4 units from BMS5003, BMS5004, BMS5005, BMS5006, BMS5007",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "BMS5008",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester to Summer semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Research project and thesis"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "BMS5009",
+                    "UnitName": "Cannot Fetch Data"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "BMS5010",
+                    "UnitName": "Cannot Fetch Data"
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

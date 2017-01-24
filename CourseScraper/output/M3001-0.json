@@ -1,0 +1,92 @@
+{
+    "courseAOS": "Bachelor of Occupational Therapy (Honours)",
+    "courseCode": "M3001",
+    "courseName": "Occupational Therapy",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "BMA1901",
+                "IPE1011",
+                "OCC1021",
+                "OCC1011",
+                {
+                    "faculty": "",
+                    "type": "\u00b7"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BMA1902",
+                "OCC1012",
+                "OCC1032",
+                "OCC1022"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "OCC2011"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "OCC2022",
+                "OCC2020"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "OCC3041",
+                "OCC3061",
+                "OCC3031",
+                "OCC3000"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                [
+                    "OCC3072",
+                    "OCC3062"
+                ],
+                "OCC3052"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "OCC4091 Occupational therapy honours project 2 OR OCC4071 Participatory community practice 2: Implementation (12 points)"
+                },
+                {
+                    "faculty": "",
+                    "type": "Elective*"
+                },
+                "OCC4081"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "OCC4082",
+                "OCC4092"
+            ],
+            "year": 3
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "courseAOS": "Economics specialisation",
+    "courseCode": "B2016",
+    "courseName": "Commerce Specialist and Science",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ECC1000",
+                "ETC1000",
+                {
+                    "faculty": "",
+                    "type": "Science major level 1 sequence 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "Level 1 Science sequence 1"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ECC1100",
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 1 selected from a list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science major level 1 sequence 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Level 1 Science sequence 2"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ECC2000",
+                "ETC2410",
+                {
+                    "faculty": "",
+                    "type": "Science major - level 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "One of SCI1020 STA1010 MTH1020 MTH1030 [or Science elective if already taken as part of another sequence]"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 2 selected from a list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 3 selected from a list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science major - level 2"
+                },
+                [
+                    "SCI2010",
+                    "SCI2015"
+                ]
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 4 selected from a list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business and Economics elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science major - level 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science elective"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 5 selected from a list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business and Economics elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science major - level 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science elective - level 2 or 3"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 6 selected from a list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business and Economics elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science major - level 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science elective - level 2 or 3"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 7 selected from a list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business and Economics elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science major - level 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science elective - level 2 or 3"
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

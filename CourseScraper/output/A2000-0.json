@@ -1,0 +1,117 @@
+{
+    "courseAOS": "Bachelor of Arts",
+    "courseCode": "A2000",
+    "courseName": "Arts",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Arts",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Arts Major 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Minor 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Elective 1"
+                },
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Arts Major 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Minor 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Elective 2"
+                },
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Arts Major 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Minor 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Elective 3"
+                },
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Arts Major 4"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Minor 4"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Elective 4"
+                },
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Arts Major 5"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major 6"
+                },
+                "Elective",
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Arts Major 7"
+                },
+                {
+                    "faculty": "",
+                    "type": "Arts Major 8"
+                },
+                "Elective",
+                "Elective"
+            ],
+            "year": 2
+        }
+    ]
+}

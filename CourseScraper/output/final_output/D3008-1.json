@@ -1,0 +1,1292 @@
+{
+    "courseAOS": "Secondary Education specialisation",
+    "courseCode": "D3008",
+    "courseName": "Education and Computer Science",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Education",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Enrolment in a Faculty of Education course",
+                    "Proh": "EDF1301",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit introduces contemporary learning theories that enable students to reflect on their own learning experiences in order to understand how others learn. From the perspective of broader educational settings (school, community, early childhood settings, home), the important questions of what learning is, how and why learning occurs, what quality learning might be and what influences learning, are discussed and reflected upon. Through examination of different theoretical perspectives and contexts, this unit focuses on building an understanding of what can influence learning and offers skill building in academic learning. Ideas closely associated with learning, including motivation, engagement and ability are also considered. The unit encourages students to begin constructing deep knowledge about the relationship between learning and educational inquiry.",
+                    "UnitCode": "EDF1303",
+                    "UnitName": "Understanding learning and learners",
+                    "_id": "587801bd30213215439e8d3e",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "VCE Mathematics Methods or Specialist Mathematics units 3 & 4 with a study score of 25 or MTH1010.Note: For 2016 Further Mathematics with a study score of 35 will be accepted.",
+                    "Proh": "FIT1029",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces programming fundamentals and the Python language to students. The unit provides a foundational understanding of program design and implementation of algorithms to solve simple problems. Fundamental programming control structures, built in and complex datatypes and mechanisms for modularity will be presented in Python.Topics covered will include basic input and output, program control structures, basic data structures and modular program structure. Problem-solving strategies and techniques for algorithm development, iteration and recursion, algorithm efficiency and the limitations of algorithms will be introduced.",
+                    "UnitCode": "FIT1045",
+                    "UnitName": "Algorithms and programming fundamentals in python",
+                    "_id": "5878027430213215439e8fa9",
+                    "enjoyRating": 3.47826087,
+                    "enjoyResponse": 90,
+                    "learnRating": 3.390116526,
+                    "learnResponse": 45,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF1055",
+                    "UnitName": "Secondary professional experience 1A",
+                    "_id": "587801b830213215439e8d2c",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "VCE Specialist Mathematics or Mathematical Methods units 3 and 4 with a study score of at least 25 or Further maths with a study score of at least 35.",
+                    "Proh": "MAT1077, MTH1112",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces fundamental discrete mathematics topics including combinatorics, sets, relations and functions; methods of logic and proof, especially proof by induction; probability theory, Bayes' theorem; recursion; recurrence relations; trees and other graphs. It establishes the mathematical basis required for studies in Computer Science and Software Engineering.",
+                    "UnitCode": "MAT1830",
+                    "UnitName": "Discrete mathematics for computer science",
+                    "_id": "5878036a30213215439e9317",
+                    "enjoyRating": 3.7,
+                    "enjoyResponse": 14,
+                    "learnRating": 4.00299062,
+                    "learnResponse": 44,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Science",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MTH1020 or VCE Specialist Mathematics units 3 and 4 with a study score of at least 30",
+                    "Proh": "ENG1005, ENG1091, MTH1035",
+                    "SCABand": 2,
+                    "Sypnosis": "Solution of systems of linear equations using Gaussian elimination; matrices, determinants, eigenvalues and eigenvectors; introduction to vectors; methods of integration - substitutions and integration by parts; solution of first-order ordinary differential equations - separable, use of integrating factor; solution of second-order linear ordinary differential equations with constant coefficients and applications; Taylor series and series convergence; the remainder term.",
+                    "UnitCode": "MTH1030",
+                    "UnitName": "Techniques for modelling",
+                    "_id": "5878041130213215439e95c4",
+                    "enjoyRating": 3.7875,
+                    "enjoyResponse": 87,
+                    "learnRating": 4.236111111,
+                    "learnResponse": 5,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF1303",
+                    "Proh": "EDF1302",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit builds on the focus in EDF1303 (Understanding learning and learners) to introduce contemporary approaches to teaching and their impact on learning. It enables students to demonstrate an understanding of curriculum and its role in teaching and learning in educational settings. Students are facilitated to demonstrate knowledge and skills in a range of teaching strategies including effective teaching models and assessment strategies that promote learning. Students develop knowledge and skills to engage in meaningful and respectful relationships with learners, their families and communities, in order to support learning.",
+                    "UnitCode": "EDF1304",
+                    "UnitName": "Understanding teaching for learning",
+                    "_id": "587801bd30213215439e8d3f",
+                    "enjoyRating": 4.185714286,
+                    "enjoyResponse": 317,
+                    "learnRating": 4.09097277,
+                    "learnResponse": 106,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "((One of FIT1040, ECE2071, FIT1002) and FIT1029) or FIT1045Students beginning FIT1008 are assumed to be able to: Identify the main components of an algorithm (variables, operators, expressions, etc), and write the algorithm associated to the specification of a simple problem. Be able to translate a simple algorithm into a program containing variable declarations, selection, repetition, and lists and/or arrays.",
+                    "Proh": "CSE1303, CSC1030, FIT1015, FIT2085",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to core problem-solving, analytical skills, and methodologies useful for developing flexible, robust, and maintainable software. In doing this it covers a range of conceptual levels, from high-level algorithms and data-structures, down to the machine models and simple assembly language programming. Topics include data types; data structures; algorithms; algorithmic complexity; recursion; and translation to assembly language.",
+                    "UnitCode": "FIT1008",
+                    "UnitName": "Introduction to computer science",
+                    "_id": "5878027130213215439e8fa1",
+                    "enjoyRating": 3.970238095,
+                    "enjoyResponse": 135,
+                    "learnRating": 4.002233684,
+                    "learnResponse": 68,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF1055",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF1056",
+                    "UnitName": "Secondary professional experience 1B",
+                    "_id": "587801b830213215439e8d2d",
+                    "enjoyRating": 4.316176471,
+                    "enjoyResponse": 88,
+                    "learnRating": 4.211508467,
+                    "learnResponse": 44,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "FIT1031 and FIT2078",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit introduces students to fundamentals of computer systems, networks and security. It provides basic knowledge of computer organisation and architecture, operating systems, networking architecture, technology and operation. It introduces the concepts of security goals for protecting common modern computer systems and communication networks from adversaries and the deployment of suitable countermeasures to achieve these goals.",
+                    "UnitCode": "FIT1047",
+                    "UnitName": "Introduction to computer systems, networks and security",
+                    "_id": "5878027430213215439e8fab",
+                    "enjoyRating": 3.880434783,
+                    "enjoyResponse": 118,
+                    "learnRating": 3.864349817,
+                    "learnResponse": 118,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Science",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MTH1030, MTH1035, or MTH1085",
+                    "Proh": "ENG2005, ENG2091, MTH2015",
+                    "SCABand": 2,
+                    "Sypnosis": "Functions of several variables, partial derivatives, extreme values, Lagrange multipliers. Multiple integrals, line integrals, surface integrals. Vector differential calculus; grad, div and curl. Integral theorems of Gauss and Stokes. Use of a computer algebra package.",
+                    "UnitCode": "MTH2010",
+                    "UnitName": "Multivariable calculus",
+                    "_id": "5878041130213215439e95c7",
+                    "enjoyRating": 4.266666667,
+                    "enjoyResponse": 63,
+                    "learnRating": 4.574074074,
+                    "learnResponse": 16,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 6,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF1303EDF1304",
+                    "Proh": "EDF2002",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit builds on students' initial education studies to further develop and practise their knowledge and skills in planning for teaching, collaborating with peers and building positive and productive classroom environments. One focus is on understanding the professional responsibilities teachers have with respect to developing their practice, and building and sustaining educational relationships with students, professional colleagues, administrators, parents and members of the community in diverse educational settings. Another focus is developing and applying the practical teaching knowledge and skills students are acquiring in their course and during professional experience. Unit learning and assessment tasks require students to engage with contemporary issues in teaching, to develop a critical position on these issues, and to consider the practical applications of this position in their teaching practice now and into the future.",
+                    "UnitCode": "EDF2005",
+                    "UnitName": "Professional responsibilities, practice and relationships",
+                    "_id": "587801bf30213215439e8d42",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Successful completion of at least 12 credit points of education units",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "In this unit students develop their knowledge and understanding of key priorities in education connected to their various education contexts, the Australian Curriculum and expectations of the Australian Professional Standards for Teachers. The unit includes exploration of cross-curriculum priorities including Asia and Australia's engagement with Asia, education for sustainability, and Aboriginal and Torres Strait Islander peoples, histories and cultures. Through a range of research and inquiry-based methodologies, and through investigations of exemplars of teaching and learning in schools in local and global contexts, students build their understanding of professional practice and education priorities. Students learn how to develop strategies for teaching diverse learners including Aboriginal and Torres Strait Islander students. The unit also focuses on how to implement the critical areas of literacy, numeracy and the use of information and communication technologies (ICTs) in schools.",
+                    "UnitCode": "EDF2006",
+                    "UnitName": "Education priorities",
+                    "_id": "587801bf30213215439e8d43",
+                    "enjoyRating": 4.058823529,
+                    "enjoyResponse": 29,
+                    "learnRating": 4.025925926,
+                    "learnResponse": 29,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF1056",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF2055",
+                    "UnitName": "Secondary professional experience 2A",
+                    "_id": "587801c630213215439e8d56",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "One of FIT1008, FIT1015, FIT2085 or CSE1303 and 6 points of Level 1 mathematics.",
+                    "Proh": "CSE2304, FIT2009",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to problem solving concepts and techniques fundamental to the science of programming. In doing this it covers problem specification, algorithmic design, analysis and implementation. Detailed topics include analysis of best, average and worst-case time and space complexity; introduction to numerical algorithms; recursion; advanced data structures such as heaps and B-trees; hashing; sorting algorithms; searching algorithms; graph algorithms; and numerical computing.",
+                    "UnitCode": "FIT2004",
+                    "UnitName": "Algorithms and data structures",
+                    "_id": "5878027630213215439e8fb3",
+                    "enjoyRating": 4.077380952,
+                    "enjoyResponse": 49,
+                    "learnRating": 3.920413012,
+                    "learnResponse": 25,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "FIT1007 or GCO1812 or GCO9808 or FIT2034",
+                    "Proh": "FIT2004, FIT2071, FIT9015, GCO2817, GCO3512, GCO9807",
+                    "SCABand": 2,
+                    "Sypnosis": "Algorithm analysis. Application and implementation of some common data structures: stacks, queues, lists, priority queues, tables, sets and collections. Data representations including: arrays, linked lists, heaps, trees (including balanced trees) and hashing. Design of application programs making use of common data structures. Design and implementation of new data structures. Study of advanced algorithms in areas such as: graph theory, pattern searching and data compression. Access to the University's computer systems through an Internet service provider is compulsory for off-campus students.",
+                    "UnitCode": "FIT2009",
+                    "UnitName": "Data structures and algorithms",
+                    "_id": "5878027730213215439e8fb5",
+                    "enjoyRating": 4.571428571,
+                    "enjoyResponse": 13,
+                    "learnRating": 4.597222222,
+                    "learnResponse": 13,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Science",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must be enrolled in the Master of Financial Mathematics or have passed one of the following units: MTH2010, MTH2015 or ENG2005",
+                    "Proh": "MTH2051",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit offers a practical introduction to numerical computing. It begins by introducing the computing package MATLAB which is widely used in science and engineering. MATLAB will be the basis for all teaching and practical work. Topics covered include error analysis, the solution of algebraic equations; approximations of functions: curve fitting, least squares and interpolation; analysis of data by Fourier Transforms and FFTs; numerical differentiation and integration; ordinary differential equations. These topics will be supported with case studies drawn from various disciplines in the physical sciences.",
+                    "UnitCode": "MTH3051",
+                    "UnitName": "Introduction to computational mathematics",
+                    "_id": "5878041530213215439e95d5",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF2005",
+                    "Proh": "EDF3006",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit focuses on significant aspects of adolescent development and the implications for teachers. Students further their understanding of psychological research into adolescent development and are encouraged to develop critical perspectives in this field. The unit considers psychological, motivational, social, cognitive, biological and sociocultural perspectives of adolescent development and learning. Students inquire into interpersonal and teaching strategies for teaching and learning with adolescents based on contemporary knowledge of adolescent development.",
+                    "UnitCode": "EDF2007",
+                    "UnitName": "Adolescent development and learning",
+                    "_id": "587801c030213215439e8d44",
+                    "enjoyRating": 3.652083333,
+                    "enjoyResponse": 69,
+                    "learnRating": 3.743901515,
+                    "learnResponse": 35,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Successful completion of at least 12 credit points of education units",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit examines the concept and process of becoming a specialist teacher. It focuses on the identity, knowledge, practices and professional learning of a teacher with expertise grounded in a particular disciplinary tradition. Using different frameworks to explore the nature of disciplinary knowledge, the unit enables students to think critically and creatively about the relationship between their developing disciplinary knowledge and their emerging work as specialist teachers. Students examine how the curriculum organises and represents knowledge in ways that are both specialised and interdisciplinary. They explore how teachers help students develop knowledge, capabilities and skills both within and beyond subject specialism boundaries in ways that meet the needs of a diverse range of students in an ever-changing world. Students develop broad knowledge and understanding of legislative requirements and teaching strategies that support participation and learning of students with disabilities. The unit provides a range of conceptual and practical ideas and resources from which students can build further understandings and capacities in their ongoing professional learning as specialist teachers.",
+                    "UnitCode": "EDF2008",
+                    "UnitName": "Becoming a specialist teacher",
+                    "_id": "587801c030213215439e8d45",
+                    "enjoyRating": 3.862068966,
+                    "enjoyResponse": 59,
+                    "learnRating": 3.954415954,
+                    "learnResponse": 59,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF2055",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF2056",
+                    "UnitName": "Secondary professional experience 2B",
+                    "_id": "587801c630213215439e8d57",
+                    "enjoyRating": 4.464285714,
+                    "enjoyResponse": 43,
+                    "learnRating": 4.435763889,
+                    "learnResponse": 22,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "One of FIT1045, FIT1048, FIT1051, ENG1003 or an equivalent introductory programming unit or (FIT1040 and FIT1029), and one of MAT1830, MTH1030, ENG1005 or equivalent.Students are expected to have basic competence in computer programming.",
+                    "Proh": "CSE2303",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces formal languages, models of computation, and computational complexity. It looks at what computers can and cannot compute. Topics include finite state automata, regular expressions, grammars, pushdown automata, computable functions, Turing machines, polynomial-time reductions, complexity classes P and NP, and NP-completeness. Skills at writing formal proofs will be developed.",
+                    "UnitCode": "FIT2014",
+                    "UnitName": "Theory of computation",
+                    "_id": "5878027730213215439e8fb6",
+                    "enjoyRating": 3.990909091,
+                    "enjoyResponse": 113,
+                    "learnRating": 4.035453272,
+                    "learnResponse": 57,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "FIT1008",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Ability to code in differently constructed programming languages is analogous to speaking in different natural languages with varying grammars. Similar to natural languages, programming languages from different paradigms (styles) vary in their expressiveness and efficiency. One programming language may require many screens-full of complex code to accomplish a task for which another requires but a few expressive lines of code. Therefore, understanding the design principles of programming languages enables computational problems to be implemented in drastically different and powerful ways; leading, in some cases, to solutions that are more elegant, correct, maintainable, efficient and/or extensible.This unit examines a selection of programming languages and paradigms and explores the evolution of language design from low-level paradigms that are closer to the execution model of the machine, to more high-level declarative paradigms that allow programmers to model a problem precisely rather than specify its solution. The unit covers paradigms such as functional and logic programming, comparing and contrasting them to programming styles that students are already familiar with, including object-oriented, imperative and procedural programming paradigms. Topics include specification and data-modeling techniques (covering types and polymorphism, mutability-versus-purity, state management, and side-effects) and different models of execution such as strict-versus-lazy evaluation.The unit provides practical experience with a variety of non-procedural, non-object-oriented programming languages and discusses the influence of programming language theory on the design of current main-stream computer languages, and how the theory translates to practice.",
+                    "UnitCode": "FIT2102",
+                    "UnitName": "Programming paradigms",
+                    "_id": "5878027f30213215439e8fd7",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 6,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Course commenced prior to 2014:Must have passed 3 units in EDF1303, EDF1304, EDF2003, EDF2004, EDF2005, EDF3002Course commenced in or after 2014:EDF2005 and EDF2007",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit inquires into the challenges of achieving equity in schooling and education in diverse social and cultural contexts. It critically engages with a combination of sociological theory, contemporary policy documents and accounts of innovative practice in schools and communities to explore the ways in which curriculum and teaching and learning strategies can be ethically responsive to centralised government policy and local and community needs. International policy developments and trends in multicultural education are examined, as well as local, state and national responses. Cultural, linguistic, religious, socioeconomic, intellectual and physical differences among all students are studied in relation to creating equitable and inclusive learning environments. The unit builds understanding of the histories, cultures and identities of Aboriginal and Torres Strait Islander people and explores how this understanding in educators can productively contribute to experiences of schooling for all young Australians.",
+                    "UnitCode": "EDF3009",
+                    "UnitName": "Schooling, education and equity: Local and global perspectives",
+                    "_id": "587801ce30213215439e8d71",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Successful completion of at least 24 credit points of education units.",
+                    "Proh": "EDF2004",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit examines a range of curriculum theories and uses this knowledge as a framework for exploring the work that teachers do to develop responsive curriculum and innovative practice. Through an examination of a range of innovative practices that engage diverse student populations, the unit explores the ways in which teachers in schools transform centralised curriculum documents and bring curriculum 'to life'. In association with this exploration, students investigate a range of issues that include maximising learner motivation in schools, engagement through curriculum development and innovative practice, developing community-based curriculas and practices, and teachers seeing themselves as 'curriculum workers' and the implication of this for their professional identity. Students draw on their emerging understandings of curriculum policies, issues and innovation to develop practices that are inclusive, exciting and educational.",
+                    "UnitCode": "EDF3010",
+                    "UnitName": "Curriculum development and innovative practice",
+                    "_id": "587801ce30213215439e8d72",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF2056",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF3055",
+                    "UnitName": "Secondary professional experience 3A",
+                    "_id": "587801d530213215439e8d85",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": "Not Offered in 2017",
+                    "Preqs": "FIT2004",
+                    "Proh": "FIT3144",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides practical experience in researching, designing, developing and testing a substantial computer science project. Projects are generally software-based, although sometimes they may involve hardware development or investigation of theory. Projects cover the whole process of software (or hardware) development, from analysis through design to implementation and testing. Comprehensive written documentation on the project is required. Students are assigned in groups to a project supervisor. There are no lectures in this unit, although students will be expected meet weekly with their project supervisor, and attend 2-hour project management seminars during the first six weeks.The unit is the first part of a 12-credit point project sequence; the second part and exit point for the project is FIT3162.",
+                    "UnitCode": "FIT3161",
+                    "UnitName": "Computer science project 1",
+                    "_id": "5878028d30213215439e9009",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "BCS Approved L3 Elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "FIT2004C or C++ programming language",
+                    "Proh": "FIT4001, CSE4333",
+                    "SCABand": 2,
+                    "Sypnosis": "Modern computer systems contain parallelism in both hardware and software. This unit covers parallelism in both general purpose and application specific computer architectures and the programming paradigms that allow parallelism to be exploited in software. The unit examines shared memory and message passing paradigms in hardware and software; concurrency, multithreading and synchronicity; parallel, clustered and distributed supercomputing models, languages and software tools and development environments. Students will program in these paradigms.",
+                    "UnitCode": "FIT3143",
+                    "UnitName": "Parallel computing",
+                    "_id": "5878028a30213215439e8ffd",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF2007",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit enables students to develop knowledge, skills and understandings of how to engage with young and adolescent learners across discipline areas through their language and literacy practices. Drawing on a range of Australian and international research literature, and linking theory and practice, students work collaboratively and individually to develop deep understandings of language and literacy (including numerical literacy) as complex social, cultural, political and technological practices that develop in multiple contexts, in and out of schools and classrooms. They apply their emerging knowledge and skills in these areas to creatively and critically inquire into a range of educational scenarios involving literacy development and learning. Students learn about and undertake ethnographic research into their own literacy practices, and those of students and teachers in diverse educational contexts. In learning from research and through conducting their own inquiries, students develop an appreciation of how language and literacy practices play key roles in mediating diverse learners' identities, relationships and understandings of the world.",
+                    "UnitCode": "EDF3007",
+                    "UnitName": "Developing multiple literacies in education",
+                    "_id": "587801cd30213215439e8d70",
+                    "enjoyRating": 3.21875,
+                    "enjoyResponse": 83,
+                    "learnRating": 3.442445352,
+                    "learnResponse": 42,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Education elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF3055",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF3056",
+                    "UnitName": "Secondary professional experience 3B",
+                    "_id": "587801d530213215439e8d86",
+                    "enjoyRating": 4.277777778,
+                    "enjoyResponse": 34,
+                    "learnRating": 4.28968254,
+                    "learnResponse": 17,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": "Not Offered in 2017",
+                    "Preqs": "FIT3161",
+                    "Proh": "FIT3144",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides practical experience in researching, designing, developing and testing a non-trivial computer science project. Projects are generally software-based, although sometimes they may involve hardware development or investigation of theory. Projects cover the whole process of software (or hardware) development, from analysis through design to implementation and testing. Comprehensive written documentation on the project is required. Students are assigned in groups to a project supervisor. There are no lectures in this unit, although students will be expected to attend regular meetings with their project supervisor.The unit is the second part of a 12-credit point project sequence; the first part and entry point for the project is FIT3161.",
+                    "UnitCode": "FIT3162",
+                    "UnitName": "Computer science project 2",
+                    "_id": "5878028d30213215439e900a",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "(FIT2073 and FIT2096) or (FIT2049 and FIT2073)",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit exposes students to a variety of industry standard games engine environments and development techniques. Students will develop an appreciation and basic working knowledge of a number of different platforms used in contemporary games development. The unit aims to provide students with a practical insight into contemporary, industry standard, games development process and games engines. The studio environment will facilitate considerable peer interaction, in particular in the critique of game engines and the development of game prototypes.The unit provides knowledge and skills, which students can apply within their game development projects in the third year studio project/s (FIT3039/FIT3040) and across all subsequent units.",
+                    "UnitCode": "FIT3145",
+                    "UnitName": "Game design studio 2",
+                    "_id": "5878028a30213215439e8fff",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (On-campus block of classes)",
+                                "Term 4 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit builds students' capacity to demonstrate knowledge and understanding of research into how students learn, teaching and learning theory and practice and the implications in varied education contexts. Students explore principles, approaches and methods for conducting and applying educational research. They investigate issues such as what 'counts' as research, where research can occur, what is to be researched, how research can be undertaken, why research is important and what constitutes a research community in the context of their particular discipline and specialisation. They learn how to generate and use data ethically to inform their educational work and develop an evidence base for this work.",
+                    "UnitCode": "EDF4100",
+                    "UnitName": "Researching teaching and learning",
+                    "_id": "587801e830213215439e8dc3",
+                    "enjoyRating": 4.5,
+                    "enjoyResponse": 2,
+                    "learnRating": 4.166666667,
+                    "learnResponse": 2,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "EDF3001EDF5422",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit builds upon students' existing knowledge of curriculum, through an exploration of recent developments in curriculum, assessment, evaluation and education policy in local and national contexts. Students critically engage with various theoretical views relating to curriculum and assessment and their relationship to policy. A key focus of this unit is investigating what makes particular curricula and assessment approaches have greater or lesser educative value and the impacts of policy in these areas. Consequently, the political and ethical dimensions inherent in all curricula are explored, as are the linkages between curricula, assessment, reporting, evaluation and the quality of student learning. This unit promotes the importance of developing the professional capacity of educators to make critical judgments in terms of curriculum planning, action and evaluation, and the development of assessment that promotes high quality student learning.",
+                    "UnitCode": "EDF4004",
+                    "UnitName": "Curriculum, assessment and education policy",
+                    "_id": "587801e030213215439e8da9",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "EDF4055 Secondary professional experience 4A and EDF4056 Secondary professional experience 4B 25 days (0 pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "EDF5XXX Method unit 1A (6pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "EDF5XXX Method unit 2A (6pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 1 2017 (On-campus block of classes)",
+                                "Term 3 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit builds students' capacity to research teaching and learning in particular educational contexts. Students apply some of the principles and methods of educational research they have learned about by developing a short literature review related to the proposal developed in EDF4100. They then demonstrate their capacity to generate and use data ethically via a research project related to their particular discipline and specialisation. This is focused on examining practice in an education setting, school or classroom, using methods that may include focus groups, interviews, self-study, action research or participant observation. Finally, students demonstrate a clear and coherent exposition of the knowledge they have gained through the presentation of their findings to their peers and in a written report.",
+                    "UnitCode": "EDF4101",
+                    "UnitName": "Research project in education",
+                    "_id": "587801e830213215439e8dc4",
+                    "enjoyRating": 3.916666667,
+                    "enjoyResponse": 12,
+                    "learnRating": 4.236111111,
+                    "learnResponse": 6,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit prepares students for their transition from initial teacher education to their professional practice as teachers. Drawing on a range of research literature and the knowledge, skills and professional experiences developed during all years of their course, students are inducted into the notion of what it means to be engaged in the teaching profession through consideration of the nature of teachers' work and of leadership in education. This includes the ethical, professional, industrial, legal, emotional, intellectual and personal dimensions of the work of teachers and educational leaders. Students gather evidence of and critically reflect on their emerging professional identity as practitioners, and on the Graduate Teaching Standards and graduate attributes they have developed that enable them to be skilled teachers and potential education leaders. They explore the ways in which they can engage with and initiate professional communities of educators in and beyond their immediate professional settings. Students develop understanding of the process of applying for positions and transitioning to the profession in ways that enhance and improve their employability. They continue to develop their literacy, numeracy and information and communication technology (ICT) skills and knowledge through synthesising a variety of theoretical and practical perspectives they have encountered throughout their course.",
+                    "UnitCode": "EDF4006",
+                    "UnitName": "Transition and professional engagement",
+                    "_id": "587801e030213215439e8daa",
+                    "enjoyRating": 3.553571429,
+                    "enjoyResponse": 71,
+                    "learnRating": 3.541987179,
+                    "learnResponse": 36,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "EDF4057 Secondary professional experience 4C and EDF4058 Secondary professional experience 4D 25 days (0 pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "EDF5XXX Method unit 1B (6pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "EDF5XXX Method unit 2B (6pts)",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

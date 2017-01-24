@@ -1,0 +1,83 @@
+{
+    "courseAOS": "Master of Environment and Sustainability",
+    "courseCode": "S6002",
+    "courseName": "Environment and Sustainability",
+    "courseType": "Expert master degree",
+    "faculty": "Faculty of Science",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ENS5010",
+                {
+                    "faculty": "",
+                    "type": "Specialisation preparatory studies Unit 1 (Part B)"
+                },
+                {
+                    "faculty": "",
+                    "type": "Specialisation preparatory studies Unit 2 (Part B)"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ENS5020",
+                {
+                    "faculty": "",
+                    "type": "Specialisation preparatory studies Unit 3 (Part B)"
+                },
+                {
+                    "faculty": "",
+                    "type": "Specialisation preparatory studies Unit 4 (Part B)"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Specialist studies Core Unit 1 (Part C)"
+                },
+                {
+                    "faculty": "",
+                    "type": "Specialist studies Core Unit 2 (Part C)"
+                },
+                {
+                    "faculty": "",
+                    "type": "Research Project Or Interdisciplinary Project Or Sustainability Internship (Part D)"
+                },
+                {
+                    "faculty": "",
+                    "type": "Research Project Or Interdisciplinary Project Or Sustainability Internship (Part D)"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Specialist studies Core Unit 3 (Part C)"
+                },
+                {
+                    "faculty": "",
+                    "type": "Specialisation elective (Part C)"
+                },
+                {
+                    "faculty": "",
+                    "type": "Research Project Or Specialisation elective (Part D)"
+                },
+                {
+                    "faculty": "",
+                    "type": "Research Project Or Specialisation elective (Part D)"
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

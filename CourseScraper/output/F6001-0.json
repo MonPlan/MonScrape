@@ -1,0 +1,47 @@
+{
+    "courseAOS": "Master of Architecture",
+    "courseCode": "F6001",
+    "courseName": "Architecture",
+    "courseType": "Professional entry master degree",
+    "faculty": "Faculty of Art, Design and Architecture",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ARC4001",
+                "ARC4501",
+                "ARC4101"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ARC4002",
+                "ARC4502",
+                {
+                    "faculty": "",
+                    "type": "Open elective"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ARC5001",
+                "ARC5501",
+                "ARC5201"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ARC5002",
+                "ARC5502"
+            ],
+            "year": 1
+        }
+    ]
+}

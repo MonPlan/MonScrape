@@ -1,0 +1,159 @@
+{
+    "courseAOS": "Bachelor of Commerce and Bachelor of Information Technology",
+    "courseCode": "B2025",
+    "courseName": "Commerce and Information Technology",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                [
+                    "ACC1200",
+                    "ACC1100"
+                ],
+                "ECC1000",
+                [
+                    "FIT1045",
+                    "FIT1048",
+                    "FIT1051"
+                ],
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 1"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "MKC1200",
+                "ETC1000",
+                "FIT1047",
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 1"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "MGC1010",
+                "BTC1110",
+                "FIT1049",
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 2"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business and Economics elective"
+                },
+                "FIT2094",
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 2"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "FIT2001 Systems development * OR FIT2099 O-O analysis, design and implementation"
+                },
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 2/3"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 4"
+                },
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 5"
+                },
+                "FIT2002",
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 3"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 6"
+                },
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 7"
+                },
+                {
+                    "faculty": "",
+                    "type": "FIT3047 IE Studio Project 1 OR FIT3039 Studio project 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 3"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 8 or Commerce elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Capstone unit"
+                },
+                {
+                    "faculty": "",
+                    "type": "FIT3048 IE Studio Project 2 OR FIT3040 Studio project 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 3"
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

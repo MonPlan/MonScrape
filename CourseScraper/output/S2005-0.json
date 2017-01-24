@@ -1,0 +1,149 @@
+{
+    "courseAOS": "Ethnomusicology and Musicology specialisation",
+    "courseCode": "S2005",
+    "courseName": "Science and Music",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Science",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science major level 1 sequence 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "Level 1 Science sequence 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "ATS1XXX Music Specialisation 1"
+                },
+                "ATS1899"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science major level 1 sequence 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Level 1 Science sequence 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "ATS1XXX Music Specialisation 2"
+                },
+                "ATS1346"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science major - level 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "One of SCI1020 STA1010 MTH1020 MTH1030 [or Science elective if already taken as part of another sequence]"
+                },
+                "ATS2804",
+                "ATS1345"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science major - level 2"
+                },
+                [
+                    "SCI2010",
+                    "SCI2015"
+                ],
+                "ATS2805",
+                "ATS1900"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science major - level 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science elective"
+                },
+                "ATS2901",
+                [
+                    "ATS2060",
+                    "ATS2687"
+                ]
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science major - level 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science elective - level 2 or 3"
+                },
+                "ATS2902",
+                {
+                    "faculty": "",
+                    "type": "ATS2333 Jazz History or ATS2331/ATS2332 Music Overseas Study Program or ATS2900 Writing about music: Headlines and hashtags"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science major - level 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science elective - level 2 or 3"
+                },
+                "ATS3144",
+                "ATS3094"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science major - level 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science elective - level 2 or 3"
+                },
+                "ATS3153",
+                "ATS3061"
+            ],
+            "year": 3
+        }
+    ]
+}

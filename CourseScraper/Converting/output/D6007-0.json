@@ -1,0 +1,237 @@
+{
+    "courseAOS": "",
+    "courseCode": "D6007",
+    "courseName": "Master of Education and Developmental Psychology",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Education",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit comprises three sections: typical and atypical development of children and adults, counselling, and research methodologies. The developmental section provides students with an advanced understanding of, in particular, the early stages of human development, the fundamental place of relationships and contexts in typical and atypical psychological development, and developmental trajectories across the lifespan. Emphasis is on child--adolescent development and adult facilitation of development and learning in themselves and others (as in parenting, teaching, mentoring and collaboration). The counselling section covers aspects of counselling that are fundamental to facilitating intervention and change. The research section covers contemporary research methodologies relevant for investigation into all areas of educational and developmental psychology.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "Successful completion of an Australian Psychology Accreditation Council (APAC)  accredited four-year sequence in psychology and enrolment in MEd&DevPsych.",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF5720",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Developmental psychology and counselling and research"
+                },
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit presents a psychometric approach to the identification of individual differences in cognition and personality, and adjustment across the lifespan at an advanced level. Students critically debate and review contemporary research and theories of abilities, personality and psychopathology as well as ethical, cultural, and professional issues. They gain experience in administering and reporting a range of essential psycho-educational assessment instruments, assessing abilities, personality and adjustment of children from pre-school age to adults in old age. They develop skills in report writing, planning intervention and self-reflection on the processes and professional relationships involved in psychological testing, all developed in a context of peer review and support.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "Successful completion of an Australian Psychology Accreditation Council (APAC) accredited four-year sequence in psychology.",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF5722",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Cognitive, personality and educational assessment"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit is concerned with developing a sound evidence-based understanding of, and the skills required for working with, individuals and therapeutic groups across the lifespan on the identification, intervention and treatment of psychological problems and psychopathology incorporating an educational and developmental perspective. Ethical, legal issues and case management issues, e.g. keeping records, are considered. The unit develops participants' understanding and skills in clinical interventions in relation to a broad range of child, adolescent and adult problems and psychopathology.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "Successful completion of EDF5720 and an Australian Psychology Accreditation Council (APAC) accredited four-year sequence in psychology",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF5721",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Clinical interventions in educational and developmental psychology"
+                },
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit focuses on assessment, intervention and research related to exceptionality across the lifespan. Cognitive and behavioural assessment and support for children, adolescents and adults with disabilities, as well as those with academic and other talents, are examined across a range of human service systems. Contemporary models of exceptionality and inclusion are reviewed and the associated skills are developed and implemented. Consideration is also given to psychosocial factors and parenting programs related to providing support to individuals who are exceptional, their families and their support workers. Practice models in line with government policy on disability assessments and related legal and ethical principles including cross-cultural issues and social justice concerns are also examined.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "EDF5722 and successful completion of an Australian Psychology Accreditation Council (APAC) accredited four-year sequence in psychology",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF5723",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Exceptionality: Assessment and intervention"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "FY-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Description": "In this unit students are introduced to practical experience and provided opportunities to reflect on their efforts to develop psychological skills in practice and rehearsal situations. The practicum develops a range of professional skills and acquaints students with issues of professional ethics and practice in psychology. Supervision sessions provide students with feedback to enhance their skill development. The placement activities undertaken in this unit contribute to the total placement hours required for the course (minimum 1000 hours). Students attend weekly supervision sessions and undertake a variety of professional experience activities throughout the year totalling the equivalent of approximately 18 days of placement. The timing of activities undertaken in the field varies according to availability. Students are supervised on site by their field supervisors and have regular contact with their University supervisors.",
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF5731",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Full year 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Clinical placement in psychology 1"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "This practicum unit develops a range of professional skills and acquaints students with issues of professional ethics and practice in psychology. Students spend between three and four days per week on placement. The placement activities undertaken in this unit contribute to the total placement hours required for the course (minimum 1000 hours). Students are supervised on site by their field supervisors and also have regular contact with their university supervisors. Monthly group supervision sessions are offered from February to November for the duration of the placements.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "Course 3231 Master of Psychology (Counselling): EDF6501, EDF6502, EDF6503 and EDF6517Course D6007 Master of Educational and Developmental Psychology: EDF5720, EDF5721, EDF5722 and EDF5723",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF5732",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Clinical placement in psychology 2"
+                },
+                {
+                    "CreditPoints": 12,
+                    "Description": "This is a unit of research study focusing on a particular theory, issue, challenge, dilemma, concern or problem in the field of psychology, undertaken with a supervisor. While students are expected to demonstrate initiative and independence, the supervisor offers guidance, support and feedback over the course of the research. The thesis is especially important for students who are intending to undertake further higher degree studies. Graduates who have successfully completed the psychology thesis (both part 1 and part 2) are able to use this 12,000- to 16,000-word study as evidence of independent research experience in an application for entry into the PhD course.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "Students must successfully complete coursework units. However, students may, with the written agreement of the student adviser, undertake a thesis before completing all the coursework requirements.",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF5741",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Psychology thesis part 1"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "This practicum unit develops a range of professional skills and acquaints students with issues of professional ethics and practice in psychology. Students spend between three and four days per week on placement. The placement activities undertaken in this unit contribute to the total placement hours required for the course (minimum 1000 hours). Students are supervised on site by their field supervisors and also have regular contact with their university supervisors. Monthly group supervision sessions are offered from February to November for the duration of the placements.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "Course 3231 Master of Psychology (Counselling): EDF6501, EDF6502, EDF6503 and EDF6517Course D6007 Master of Educational and Developmental Psychology: EDF5720, EDF5721, EDF5722 and EDF5723",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF5733",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Clinical placement in psychology 3"
+                },
+                {
+                    "CreditPoints": 12,
+                    "Description": "This is a unit of research study focusing on a particular theory, issue, challenge, dilemma, concern or problem in the field of psychology, undertaken with a supervisor. While students are expected to demonstrate initiative and independence, the supervisor offers guidance, support and feedback over the course of the research. The thesis is especially important for students who are intending to undertake further higher degree studies. Graduates who have successfully completed the psychology thesis (both part 1 and part 2) are able to use this 12,000- to 16,000-word study as evidence of independent research experience in an application for entry into the PhD course.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "EDF5741",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF5742",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Psychology thesis part 2"
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

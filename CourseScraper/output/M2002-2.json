@@ -1,0 +1,81 @@
+{
+    "courseAOS": "Bachelor of Public Health Science",
+    "courseCode": "M2002",
+    "courseName": "Health Sciences",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "BMA1011",
+                "HSC1100",
+                "HSC1200",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BMA1012",
+                "HSC1300",
+                "HSC1400",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "HSC2100",
+                "HSC2200",
+                "HSC2300",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "PBH2001",
+                "PBH2002",
+                [
+                    "PBH2003",
+                    "PBH2004",
+                    "PBH2005",
+                    "PBH2006"
+                ],
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "PBH3001",
+                {
+                    "faculty": "",
+                    "type": "Two of: PBH3002 Disease prevention and control PBH3003 Environmental determinants of health and disease PBH3004 Health program evaluation PBH3005 Social and behavioural sciences in public health"
+                },
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "PBH3006 Action in public health research or PBH3007 Health promotion practicum or PBH308 Case studies in global and public health"
+                },
+                {
+                    "faculty": "",
+                    "type": "Two of: PBH3009 Chronic disease epidemiology and control PBH3010 Health data management PBH3011 Advanced biostatistics for public health PBH3012 Translating research into practice"
+                },
+                "Elective"
+            ],
+            "year": 2
+        }
+    ]
+}

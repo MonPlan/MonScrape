@@ -1,0 +1,610 @@
+{
+    "courseAOS": "Bachelor of Occupational Therapy (Honours)",
+    "courseCode": "M3001",
+    "courseName": "Occupational Therapy",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "BMA1011, BMA1012, BMS2011, BMS2021, BMS2031, NUR1112, PHY2011, PHY2021, PHY2032, PHY2042.",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit is the first in a sequence of two biomedical science units that provides foundation knowledge of human anatomy and physiology relevant for allied health professions.This unit develops skills in the critical evaluation of evidence and promotes an awareness of the changing nature of medical knowledge.The major themes of study are the structural levels of body organisation, communication via the nervous and endocrine systems, the reproductive system and early stages of human development. Topics include the chemical and cellular basis of human life; integration of body functions and homeostasis; the structure and function of the integumentary system; the nervous system; the endocrine system; and the reproductive system.",
+                    "UnitCode": "BMA1901",
+                    "UnitName": "Human structure and function 1",
+                    "_id": "5878011130213215439e8a7f",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides the basic understanding of the concept of health particularly in the primary care clinical settings. This exploration will begin at a personal level and expand to clinical settings with the broader health environment. Varied definitions and models of health will be introduced to allow a detailed exploration of illness, health risks and how individuals, families and communities use limited resources.Differences between health of the individual and the broader population will be examined using the clinical environment as the focal point. The factors that impact the dimensions of health will be critically explored to better understand the roles of government policies, the private sector and communities. Current inequalities in resources and other factors affecting health in clinical settings will be identified.",
+                    "UnitCode": "IPE1011",
+                    "UnitName": "Foundations of health in primary clinical care",
+                    "_id": "587802e130213215439e914f",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "PSY1011.",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit explores psychological theory and research relevant to the practice of occupational therapy, including psychological perspectives on stress, illness, disability and functioning. Grounded in a biopsychosocial model of health and wellbeing, this introductory unit provides students with an overview of the major psychological traditions and approaches e.g. psychodynamic, developmental, cognitive, social psychology, etc., and examines how each provides insight into the challenges and issues experienced by individuals, carers, families and communities. This unit also introduces students to the methods of inquiry and assumptions of theory associated with the science of psychology. The relevance of the discipline of psychology to occupational therapy thinking and practice is emphasised.",
+                    "UnitCode": "OCC1021",
+                    "UnitName": "Psychology for occupational therapy",
+                    "_id": "5878044030213215439e966e",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will provide students with the skills necessary to describe the role of an occupational therapist as distinct from other health professionals. Students will learn to demonstrate appropriate professional behaviour and beginner's competency with specific early clinical skills. The unit will support students to develop an awareness of the legal, cultural and ethical issues of practice, and begin to understand and articulate some of the challenges faced by clients/consumers of health services.",
+                    "UnitCode": "OCC1011",
+                    "UnitName": "Professional issues",
+                    "_id": "5878043f30213215439e966c",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "\u00b7",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "BMA1901.",
+                    "Proh": "BMA1012, BMA1912, BMS2011, BMS2031, PHY2011, NUR1114 PHY2021, PHY2032, PHY2042",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit is the second in a sequence of two health science units that provides foundation knowledge of human anatomy and physiology relevant for allied health professions and further develops skills in the critical evaluation of evidence.The major themes of study in this unit are: body support and movement, cardiovascular anatomy and physiology, the respiratory system, the urinary system and the control of body fluids; the digestive system and the processing of nutrients in the body; the lymphoid/immune system; microbes and infection; and an introduction to pharmacological principles.",
+                    "UnitCode": "BMA1902",
+                    "UnitName": "Human structure and function 2",
+                    "_id": "5878011130213215439e8a80",
+                    "enjoyRating": 4.75,
+                    "enjoyResponse": 39,
+                    "learnRating": 4.731646899,
+                    "learnResponse": 116,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "OCC1011.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Students will learn about the principles and mechanisms underlying the relationship between the person, their environment and occupations, and how this relates to human health and wellbeing. The concept of occupation will be described and how people shape and are shaped by their engagement in occupation and their environmental context. Students will engage in experiential exercises to support their learning of concepts, including participation in an inter-professional community-based fieldwork experience.",
+                    "UnitCode": "OCC1012",
+                    "UnitName": "Occupational science",
+                    "_id": "5878044030213215439e966d",
+                    "enjoyRating": 3.352941176,
+                    "enjoyResponse": 47,
+                    "learnRating": 3.842885872,
+                    "learnResponse": 70,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Development across the lifespan examines how individuals change and develop as they age - from infancy to old age. This unit explores the psychological and occupational processes inherent in development, and in doing so examines the progressive cognitive, emotional, behavioural, psychosocial and occupational changes that occur with age. A broad range of topics are covered by this unit, including: attachment, motor skill and other psycho-physiological developmental processes, problem solving, language acquisition, moral understanding and abstract thought, identify development and formation, and the nature and course of both intimate and diffuse relationships.",
+                    "UnitCode": "OCC1032",
+                    "UnitName": "Development across the lifespan",
+                    "_id": "5878044030213215439e9670",
+                    "enjoyRating": 4.02173913,
+                    "enjoyResponse": 39,
+                    "learnRating": 3.677878788,
+                    "learnResponse": 47,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "OCC1011.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit introduces student to the historical origins of the use of occupation as theory and the theory of core elements of occupational therapy intervention. Current theoretical concepts and models underpinning occupational therapy practice will be explored along with the occupational therapy problem solving and clinical reasoning process. Case scenarios will be used throughout and students will learn the problem solving strategies that will support their learning in occupational therapy intervention units elsewhere in the course.",
+                    "UnitCode": "OCC1022",
+                    "UnitName": "Foundations of occupational therapy practice",
+                    "_id": "5878044030213215439e966f",
+                    "enjoyRating": 3.838235294,
+                    "enjoyResponse": 70,
+                    "learnRating": 3.929531773,
+                    "learnResponse": 39,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 24,
+                    "EFTSL": 0.5,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "OCC1012, OCC1021, OCC1032,OCC1022 and BMA1902.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit uses an integrated scenario/case-based learning approach. The unit has a 10 week academic block followed by a 3 week fieldwork (clinical) block to apply theory into practice. Students are introduced to the mechanisms and consequences of problems related to mental, sensory, cardiovascular, respiratory, neurological and biomechanical capacities of humans, across the lifespan, that underpin occupational engagement and occupational performance. Students will integrate this knowledge into occupational therapy and related theories and models of practice. Students will be required to develop clinical questions, and acquire knowledge and skills from the process of describing and evaluating occupational performance, and critiquing assessment tools for evaluating occupational engagement and occupational performance. Students will explore different contexts in which participation in occupation takes place.",
+                    "UnitCode": "OCC2011",
+                    "UnitName": "Occupational performance, capabilities and components",
+                    "_id": "5878044030213215439e9671",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides an overview of the skills necessary to critique and evaluate the usefulness, relevance and quality of research evidence related to occupational therapy professional practice. Components of evidence-based practice will be introduced related to occupational therapy. Quantitative and qualitative research methodology approaches  that underpin evidence-based practice will also be introduced. You will be guided through the process of how to ask clinically relevant questions, search for evidence, and critically appraise published research studies. The Monash Occupational Therapy Research Evidence Critique Form (MOTRECF) for both quantitative and qualitative studies will be used to evaluate the relevant evidence. The process used to complete a critically appraised paper (CAP) will also be introduced. This will provide the foundation for you to integrate clinically relevant evidence into your daily professional practice as well as providing you with the skills required for analysing the issues dealt with in the scenario-based learning context used in OCC2020, OCC3030, and OCC3052.",
+                    "UnitCode": "OCC2022",
+                    "UnitName": "Skills for evidence-based practice 1",
+                    "_id": "5878044130213215439e9673",
+                    "enjoyRating": 3.25,
+                    "enjoyResponse": 46,
+                    "learnRating": 3.777261782,
+                    "learnResponse": 38,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "OCC1012, OCC1021, OCC1032,OCC1022 and BMA1902, and OCC2011.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This is the first unit of the occupational therapy intervention units. It comprises integrated case based learning with some time spent in facilities to consolidate application of knowledge into practice. Students will begin to describe, apply and critique the principles of assessment and intervention for clients with problems related to capacities to engage in activities, occupations, and participation in community life. Intervention principles will also incorporate environmental supports and barriers (advocacy, organisational change, environmental adaptation), and evidence-based practice.",
+                    "UnitCode": "OCC2020",
+                    "UnitName": "Enabling occupation: Performance challenges 1A",
+                    "_id": "5878044130213215439e9672",
+                    "enjoyRating": 3.810344828,
+                    "enjoyResponse": 47,
+                    "learnRating": 3.670241546,
+                    "learnResponse": 46,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "OCC2022.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit gives students an advanced overview of the skills necessary to critique and evaluate research evidence. Students will be introduced to the methodology related to conducting survey questionnaire based research (quantitative research methodology) and focus group and semi-structured interviews (qualitative methodology). This will provide the foundation to integrate clinically relevant evidence into daily professional practice as well as skills to be able answer clinical questions. Components of evidence-based practice in occupational therapy will be introduced and practiced. Students will also be introduced to methods of presenting evidence, generating research questions, selecting appropriate quantitative and qualitative research designs, completing data analysis and interpreting data analysis results. Specifically, students will learn the fundamentals of conducting survey questionnaire based research from quantitative perspective and qualitative research using focus group and semi-structured interview methods. This knowledge will enable students to be evidence-based practitioners",
+                    "UnitCode": "OCC3041",
+                    "UnitName": "Skills for evidence-based practice 2",
+                    "_id": "5878044230213215439e9676",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "HSC1081, IPE1011 or equivalent units.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit examines the key theory, frameworks and practical approaches used in contemporary health promotion to address health inequalities, prevent illness and injury, and promote health and wellbeing. Students examine a range of health promotion strategies, their strengths, limitations, evidence-base and application in clinical care and community settings for occupational therapy. Through a focus on empowerment, participation and capacity-building, students develop skills for working with individuals, community networks, new technologies and the mass media to facilitate health promotion action. This unit covers planning and evaluation of health information and behavioural interventions, health education for empowerment, community engagement, social marketing, professional communication and advocacy for healthy public policy. Students critically analyse the challenges and opportunities for integrating health promotion into occupational therapy practice.",
+                    "UnitCode": "OCC3061",
+                    "UnitName": "Health promotion in occupational therapy",
+                    "_id": "5878044330213215439e9678",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "OCC2011 and OCC2020.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This is the second unit of the occupational therapy intervention units. It comprises 10 weeks of integrated scenario-based learning. In this unit, students further describe, apply and critique the principles of assessment and intervention for individual and groups of clients who are restricted in their ability to engage activities, occupations, and participation in community life. Intervention principles will also incorporate environmental supports and barriers (advocacy, organisational change, environmental adaptation) and evidence-based practice.",
+                    "UnitCode": "OCC3031",
+                    "UnitName": "Enabling occupation: Performance challenges 1B",
+                    "_id": "5878044230213215439e9675",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "OCC2011 and OCC2020.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Students enrolled in the Bachelor of Occupational Therapy (Honours) must complete fieldwork placements to satisfy the professional requirements that a sufficient period of supervised practice be completed prior to graduation and application for registration issued by the Australian Health Practitioner Regulation Agency. This 6 week fieldwork placement unit plays an important part in consolidating student application of professional knowledge, attitudes and skills.",
+                    "UnitCode": "OCC3000",
+                    "UnitName": "Enabling occupation: Fieldwork experience 1B",
+                    "_id": "5878044230213215439e9674",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "OCC3072,OCC3062",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "OCC3031.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "In this unit, students begin to shift their view beyond the occupational challenges facing individuals, to consider the ways in which the occupations, health and wellbeing of communities/populations may be impacted by social, political and organisational factors. Students apply the principles of individual occupational challenges to case based scenarios in which advanced clinical reasoning and intervention skills are required for people experiencing complex health and social problems. The cases chosen highlight the multiple approaches to occupational intervention, both individual/clinical and community/prevention.",
+                    "UnitCode": "OCC3052",
+                    "UnitName": "Enabling occupation 2: Performance challenges in population health",
+                    "_id": "5878044230213215439e9677",
+                    "enjoyRating": 3.675,
+                    "enjoyResponse": 38,
+                    "learnRating": 4.052579365,
+                    "learnResponse": 28,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "OCC4091 Occupational therapy honours project 2 OR OCC4071 Participatory community practice 2: Implementation (12 points)",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Elective*",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "OCC3031, OCC3052.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit focuses on the skills required for professional self-management appropriate for entry-level occupational therapists. Guest speakers from the occupational therapy profession will discuss topics such as career progression, medico-legal aspects of practice, professional association and registration requirements. Strategies for identifying and documenting learning needs in readiness for a final fieldwork placement will be covered. Students will also critique professional competencies and set objectives for professional development. The unit also includes content on career planning and recruitment processes.",
+                    "UnitCode": "OCC4081",
+                    "UnitName": "Transition to practice 1",
+                    "_id": "5878044530213215439e9680",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "OCC4071.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit comprises 9 weeks of fieldwork placement followed by on campus debriefing tutorials. The unit provides students with the opportunity to develop, integrate and enhance their practice skills to reach an entry level of competence in occupational therapy prior to graduation. By the end of the fieldwork placement students will be managing a caseload of clients independently. A learning contract developed in OCC4081 will be used to guide fieldwork learning. A portfolio assessment will be used to encourage reflection, a self-directed approach to learning and to provide a record of professional competencies as these are developing.",
+                    "UnitCode": "OCC4082",
+                    "UnitName": "Advanced professional practice",
+                    "_id": "5878044630213215439e9681",
+                    "enjoyRating": 4.041666667,
+                    "enjoyResponse": 17,
+                    "learnRating": 5,
+                    "learnResponse": 1,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "OCC3062 or OCC3072 AND OCC4081.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will enable students to consider their own role within health and human service organisations, and apply and critique contemporary practice knowledge in areas such as leadership and management, team functioning and governance.The Unit will conclude with a conference that includes presentations of research and project work from occupational therapy and physiotherapy students.Students will complete a range of on-line tasks while completing their fieldwork placement as part of the unit OCC4082",
+                    "UnitCode": "OCC4092",
+                    "UnitName": "Transition to practice 2",
+                    "_id": "5878044630213215439e9683",
+                    "enjoyRating": 4.142857143,
+                    "enjoyResponse": 18,
+                    "learnRating": 3.692592593,
+                    "learnResponse": 15,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

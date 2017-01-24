@@ -1,0 +1,187 @@
+{
+    "courseAOS": "Energy and Sustainability Engineering",
+    "courseCode": "E6001",
+    "courseName": "Master of Advanced Engineering",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The unit consists of a review of probabilistic foundations for data analysis including probability, random variables, expectation, distribution functions, important probability distributions, central limit theorem, random vectors, conditional distributions and random processes.Students will develop the foundations of statistical inference including estimation, confidence intervals, maximum likelihood, hypothesis testing, least-squares and regression analysis.A selection of more advanced topics in probability, random modelling and statistical inference will also be presented.The material will be taught in the context of real engineering problems taken from multiple engineering disciplines. A widely used numerical computing environment will be used extensively throughout the unit.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "None",
+                    "Prohibitions": "None",
+                    "SCABand": 2,
+                    "UnitCode": "ENG5001",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Advanced engineering data analysis"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit introduces the concept of sustainable development in engineering, involving environmental, economic and social considerations in the planning, development of a new product and implementation of a new or existing process.This unit also ventures into systematic approaches to design sustainable processes and products by conducting life cycle assessment, risk assessments and cost analysis. These themes will be developed in lectures, problem based sessions and supported by an individual student project work related to selected industrial processes or products.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "None",
+                    "Prohibitions": "None",
+                    "SCABand": 2,
+                    "UnitCode": "CHE5885",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Principles and practices for sustainable development"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit covers modern lighting technology and teaches how lighting can be used for improving sustainability and energy savings. The unit discusses how sensor networks, machine learning techniques and visible light communication can be used to build autonomous lighting networks. It also relates these concepts to intelligent lighting and green building requirements.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "None",
+                    "Prohibitions": "None",
+                    "SCABand": 2,
+                    "UnitCode": "ECE5885",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Energy efficient lighting"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit explores the theory and practice of the supply of energy, energy management and auditing, and the design of sustainable energy facilities. It deals with the systems needed to create low-energy, sustainable buildings, including passive solar design, energy-efficient heating and air-conditioning, and combined heat and power.In addition, it includes coverage of transport energy and energy economics. Case studies from a variety of energy-focused industries such as building services, environmental engineering, heating, ventilation, and air conditioning (HVAC) and architectural technology will be discussed.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "None",
+                    "Prohibitions": "None",
+                    "SCABand": 2,
+                    "UnitCode": "MEC5885",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Energy efficiency and sustainability engineering"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The goal of this unit is to impart an evidence-based methodology for building scalable startups that students can use for the rest of their careers, whether they are starting a new business or working in established organisations.  For a new business, the goal is acquiring investor funding.  In a corporate environment, the methodology will help the organisation start new businesses and allocate their internal resources (time, technology, and talent) more efficiently.  The unit will be taught in a hands-on way that engages student teams by requiring them to develop hypotheses and then test those hypotheses outside the classroom.  Throughout the semester, teams will modify their business models based on feedback from potential customers, and can then decide if there is a worthwhile business to be built.  The unit does not include the execution of the business models.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "None",
+                    "Prohibitions": "None",
+                    "SCABand": 2,
+                    "UnitCode": "ENG5002",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Engineering entrepreneurship"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The unit is designed to provide students with a challenging and intellectually stimulating environment covering numerous aspects of current and future sustainable energy technologies.The unit is intended to introduce and investigate present and emerging trends in the sustainable technologies, including clean fuels, renewable energy systems and hybrid energy systems. Case studies and discussions with leading energy researchers within the University and elsewhere with emphasis on system approach will be undertaken.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "Prerequisites": "None",
+                    "Prohibitions": "MEC6886",
+                    "SCABand": 2,
+                    "UnitCode": "MEC5886",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Sustainable energy technologies"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Enhancement Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Enhancement Unit",
+                    "UnitName": ""
+                }
+            ],
+            "year": 0
+        }
+    ]
+}

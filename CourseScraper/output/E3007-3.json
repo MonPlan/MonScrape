@@ -1,0 +1,201 @@
+{
+    "courseAOS": "Electrical and Computer Systems Engineering specialisation",
+    "courseCode": "E3007",
+    "courseName": "Engineering and Science",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "ENG1001 Engineering Design: lighter, faster, stronger OR ENG1002"
+                },
+                [
+                    "ENG1090",
+                    "PHS1080",
+                    "ENG1005"
+                ],
+                {
+                    "faculty": "",
+                    "type": "Science major level 1 sequence 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "Level 1 Science sequence 1"
+                },
+                [
+                    "ENG1090",
+                    "PHS1080"
+                ]
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "ENG1002 Engineering design: cleaner, safer, smarter OR ENG1001"
+                },
+                "ENG1005",
+                {
+                    "faculty": "",
+                    "type": "Science major level 1 sequence 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Level 1 Science sequence 2"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ENG1003",
+                "ECE2071",
+                {
+                    "faculty": "",
+                    "type": "Science major - level 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "One of SCI1020 STA1010 MTH1020 MTH1030 [or Science elective if already taken as part of another sequence]"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ENG1060",
+                "ECE2072",
+                {
+                    "faculty": "",
+                    "type": "Science major - level 2"
+                },
+                [
+                    "SCI2010",
+                    "SCI2015"
+                ]
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ENG2005",
+                {
+                    "faculty": "",
+                    "type": "ECE2xxx Electrical circuits"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science major - level 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science elective"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "ECE2xxx Signals and systems"
+                },
+                {
+                    "faculty": "",
+                    "type": "ECE2xxx Probability models in engineering"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science major - level 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science elective - level 2 or 3"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ECE3073",
+                {
+                    "faculty": "",
+                    "type": "ECE3xxx Analogue electronics"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science major - level 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science elective - level 2 or 3"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "ECE3xxx Control system design"
+                },
+                "ECE3091",
+                {
+                    "faculty": "",
+                    "type": "Science major - level 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science elective - level 2 or 3"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "ECE3xxx Information and networks"
+                },
+                "ECE4094",
+                "ECE4099",
+                {
+                    "faculty": "",
+                    "type": "ECE elective"
+                }
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "ECE3xxx Engineering electromagnetics"
+                },
+                "ECE4095",
+                {
+                    "faculty": "",
+                    "type": "ECE4xxx Electrical energy systems"
+                },
+                {
+                    "faculty": "",
+                    "type": "ECE elective"
+                }
+            ],
+            "year": 4
+        }
+    ]
+}

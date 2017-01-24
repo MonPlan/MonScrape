@@ -1,0 +1,129 @@
+{
+    "courseAOS": "Accounting specialisation",
+    "courseCode": "B2018",
+    "courseName": "Business Specialist and Information Technology",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ACF1100",
+                "ECF1100",
+                [
+                    "FIT1045",
+                    "FIT1048",
+                    "FIT1051"
+                ],
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 1"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BTF1010",
+                "ETF1100",
+                "FIT1047",
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 1"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "BFF2140",
+                "ACF2200",
+                "FIT1049",
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 2"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ACF2100",
+                "BTX2000",
+                "FIT2094",
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 2"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ACF2400",
+                "BTF3931",
+                {
+                    "faculty": "",
+                    "type": "FIT2001 Systems development * OR FIT2099 O-O analysis, design and implementation"
+                },
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 2/3"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ACF3600",
+                "ACX3150",
+                "FIT2002",
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 3"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ACF3100",
+                "ACF3200",
+                {
+                    "faculty": "",
+                    "type": "FIT3047 IE Studio Project 1 OR FIT3039 Studio project 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 3"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ACF3900",
+                {
+                    "faculty": "",
+                    "type": "Specialisation elective from a list"
+                },
+                {
+                    "faculty": "",
+                    "type": "FIT3048 IE Studio Project 2 OR FIT3040 Studio project 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 3"
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

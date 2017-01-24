@@ -1,0 +1,130 @@
+{
+    "courseCode": "E3003",
+    "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist",
+    "courseAOS": "Environmental Engineering/Economics and Economic Policy",
+    "faculty": "Faculty of Engineering",
+    "courseType": "Double Undergraduate",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+            ["ENG1001","ENG1002"],
+            ["ENG1003","ENG1005"],
+            "ENG1060",
+            "ETC1000"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+            ["ENG1002","ENG1001"],
+            ["ENG1003","ENG1005"],
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Engineering"
+            },
+            "ECC1000"
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 1,
+          "units": [
+            "ECC2800",
+            "BIO2011",
+            "ECC2000",
+            "ECC1100"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 1,
+          "units": [
+            "ENG2055",
+            "CHE2162",
+            "ECC2010",
+            ["ECC2300", "ECC2360", "ECC2450","ECC2600","ECC2610","ECC2800"]
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 2,
+          "units": [
+            "ENG3048",
+            "CIV2263",
+            ["ECC3660","ECC3670","ECC3710","ECC3810","ECC3830","ECC3840"],
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Business and Economics"
+            }
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 2,
+          "units": [
+            "ECE2111",
+            "ECE3161",
+            ["ECC3660","ECC3670","ECC3710","ECC3810","ECC3830","ECC3840"],
+            "ETC2410"
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 3,
+          "units": [
+            "CIV3248",
+            {
+              "type": "Environmental Enginering Elective",
+              "faculty": "Faculty of Engineering"
+            },
+            ["ECC3660","ECC3670","ECC3710","ECC3810","ECC3830","ECC3840"],
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Business and Economics"
+            }
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 3,
+          "units": [
+            "ENE3606",
+            "CIV3285",
+            "ETC2520",
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Business and Economics"
+            }
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 4,
+          "units": [
+            "CIV4286",
+            "CIV4210",
+            "ENE4608",
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Business and Economics"
+            }
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 4,
+          "units": [
+            "CIV4286",
+            "BTX3100",
+            "CIV4212",
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Business and Economics"
+            }
+          ]
+        }
+    ]
+}

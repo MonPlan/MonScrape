@@ -1,0 +1,131 @@
+{
+    "courseAOS": "Visual arts specialisation",
+    "courseCode": "F2007",
+    "courseName": "Fine Art and Business",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Art, Design and Architecture",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "VPR1011",
+                "DWG1201",
+                "AHT1101",
+                "MKF1120",
+                "OHS1000"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "VPR1012",
+                "VPR1113",
+                "AHT1102",
+                "MGF1010"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "VPR2011",
+                {
+                    "faculty": "",
+                    "type": "Workshop elective in Drawing, Film, Glass, Jewellery, Painting, Photography, Printmaking or Sculpture"
+                },
+                "AHT2102",
+                [
+                    "ACF1200",
+                    "ACF1100"
+                ]
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "VPR2012",
+                {
+                    "faculty": "",
+                    "type": "Workshop elective in Drawing, Film, Glass, Jewellery, Painting, Photography, Printmaking or Sculpture"
+                },
+                "ECF1100",
+                "BFF1001"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "VPR3011",
+                {
+                    "faculty": "",
+                    "type": "Workshop elective in Drawing, Film, Glass, Jewellery, Painting, Photography, Printmaking or Sculpture"
+                },
+                "BTF1010",
+                "ETF1100"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "VPR3012",
+                {
+                    "faculty": "",
+                    "type": "Elective from AHT level 2/3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business Major 1"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business Major 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business Major 4"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business Major 5"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 6"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business Major 7"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business Major 8 or Business elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Capstone unit"
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "courseCode": "D5002",
+    "courseName": "Graduate Diploma of Professional Psychology",
+    "courseAOS": "",
+    "courseType": "Graduate Diploma",
+    "faculty": "Faculty of Education",
+    "teachingPeriods": [
+        {
+          "code": "FY-01",
+          "year": 0,
+          "units": [
+              "EDF604"
+          ]
+        }, {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+              "EDF4601",
+              "EDF4605"
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+              "MPH5222",
+              "MPH5244"
+          ]
+        }
+    ]
+}

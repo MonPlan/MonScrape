@@ -1,0 +1,396 @@
+{
+    "courseAOS": "Visual Arts",
+    "courseCode": "F2003",
+    "courseName": "Bachelor of Fine Arts",
+    "courseType": "Undergraduate",
+    "faculty": "Faculty of Art, Design and Architecture",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This is a core unit in the Visual Practices sequence, and is one of four 1st year units. This unit provides students with an exploration of a broad range of approaches to production methodologies in contemporary visual art for those wishing to work in the arts industry. Topics are delivered in an intensive series of workshop environments and will include experimentation with a range of materials, techniques and conceptual approaches. Students will be encouraged to develop inventive solutions to a series of projects set around a variety of themes and concepts appropriate to each workshop. Teaching methods involve technical demonstrations, critical dialogue, class discussion and evaluation. Safe and sustainable approaches to fabrication techniques and materials are promoted as core values in the unit.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "Entry into Bachelor of Visual Arts course",
+                    "Prohibitions": "VPR1001, VPR1002",
+                    "SCABand": 1,
+                    "UnitCode": "VPR1011",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Visual practices 1"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "An intensive program facilitating the acquisition and development of practical and intellectual skills required by art, design and architecture students in the discipline of drawing. Observation, analysis, selection, interpretation and expression are studied through sequential projects. Manufactured and natural forms including the figure and other models are central to the investigation of proportion, structure, volume and space through line, tone, shape, movement and texture. A range of drawing materials and methods are explored.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "Students must be enrolled in a course owned, or, granted permission by, the faculty of Art Design and Architecture.",
+                    "Prohibitions": "DRW1201",
+                    "SCABand": 1,
+                    "UnitCode": "DWG1201",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Drawing 1"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "AHT1011",
+                    "UnitName": "Cannot Fetch Data"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Description": "An introduction to occupational health, safety and environmental training within the context of courses within the Faculty of Art and Design, together with an understanding of the historical perspectives and context of safety and environment concerns in the workplace. The difference between hazard and risk, and the process of risk assessment in workplaces.",
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "Admission to any Art Design and Architecture course",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "OHS1000",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Off-campus)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introduction to art and design health and safety"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This is a core unit in the Visual Practices sequence, and is one of four 1st year units. This unit provides students with a further exploration of a broad range of approaches to production methodologies in contemporary visual art for those wishing to work in the arts industry. Topics are delivered in an intensive series of workshop environments and will include experimentation with a range of materials, techniques and conceptual approaches. Students will be encouraged to develop inventive solutions to a series of projects set around a variety of themes and concepts appropriate to each workshop. Teaching methods involve technical demonstrations, critical dialogue, class discussion and evaluation. Safe and sustainable approaches to fabrication techniques and materials are promoted as core values in the unit.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "Entry into Bachelor of Visual Arts course",
+                    "Prohibitions": "VPR1002, VPR1001",
+                    "SCABand": 1,
+                    "UnitCode": "VPR1012",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Visual practices 2"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Research Practices is a core unit in the Visual Arts sequence and is one of four 1st year units. This unit is a practice driven, workshop based unit which explores varied drawing methodologies and ways they can contribute to a research practice in visual culture. It is designed to develop, challenge and expand how students think about making artwork and to develop research skills. A series of individual and collaborative exercises and projects are presented as starting points that, when navigated, foster creative research skills and develop students' material skills. The main emphasis of this class is to demonstrate how thinking operates through making. Fabrication processes in the workshop can be in any medium from across two- and/or three-dimensional works, to sound and performance. The aim of these exercises is to have a generative influence on production, creating a pool of ideas, strategies, forms and processes for students to draw on and develop as they progress through the course. Teaching methodology involves critical dialogue, classroom discussion and peer review. This unit presents a broad range of approaches to contemporary art and its institutions for those wishing to work in the arts industry as artists, curators, arts writers, educators or practitioners. Research Practices encourages an experimental approach to conceptual and material outcomes. Safe and sustainable approaches to fabrication and materials are core values in the unit.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "Entry into Bachelor of Visual Arts course",
+                    "Prohibitions": "VPR1001, VPR1002",
+                    "SCABand": 1,
+                    "UnitCode": "VPR1113",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Research practices"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The aesthetic, spiritual and ideological energies of the industrial period in painting, furniture, advertising, metalwork and so on. The meaning of works of art and design and the meaning of the standard survey which is traditionally constructed to explain the patterns of art history.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "",
+                    "Prohibitions": "TAD1102",
+                    "SCABand": 1,
+                    "UnitCode": "AHT1102",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Modernism and the avant-garde"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "Research Practices Advanced is a core unit in the Visual Arts sequence, and is the first of the two 2nd year units. This unit is a practice driven, workshop based unit which develops a variety of methodologies and their contribution to a research practice in visual culture. It is designed to further develop, challenge and expand how students think about making artwork and to synthesise research interests, building on VPR1113. A series of individual and collaborative exercises and projects are presented to extend and further foster creative research skills and consolidate students' material skills. The main emphasis of this class is to demonstrate how thinking operates through making. Fabrication processes in the workshop can be in any medium from across two- and/or three-dimensional works, to sound and performance. The aim of these exercises is to further extend each student's capacity for production, creating a pool of ideas, strategies, forms and processes for students to draw on and develop as they progress through the course. Teaching methodology involves critical dialogue, classroom discussion and peer review. This unit presents a broad range of approaches to contemporary art and its institutions for those wishing to work in the arts industry as artists, curators, arts writers, educators or practitioners. Research Practices encourages an experimental approach to conceptual, material and public outcomes. Safe and sustainable approaches to fabrication and materials are core values in the unit.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "Completion of DWG1201, VPR1011, VPR1012 and VPR1113",
+                    "Prohibitions": "VPR2001",
+                    "SCABand": 1,
+                    "UnitCode": "VPR2011",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Research practices advanced"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Arts, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Workshop Elective",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "International Art 1945-1990 covers the art produced in the second half of the 20th century and its relevance to contemporary practice. Various actions, interventions and critiques of institutions, museums and the art market will be considered, as well as feminist, queer and non-Western perspectives. An objective of the unit is to reach an understanding of the way art-historical discourses promote and exclude certain practices and practitioners (especially due to gender, race, sexuality and location), with an emphasis on incorporating recent research on artists who were previously excluded from the historical \"canon\".",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "12 credit points at first year level in Art history and theory, or Theory of Art and Design, Visual Culture or permission from Unit Coordinator.",
+                    "Prohibitions": "TAD2112, TAD3102, TAD3112",
+                    "SCABand": 1,
+                    "UnitCode": "AHT2102",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "International art 1945-1990"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This is a core unit in the Visual Arts and is second of the two 2nd year units. The unit provides students with a broad range of approaches to cultural production for those wishing to work in the visual arts industry across a diverse range of professional platforms. This unit introduces students to various professional processes and outcomes that contemporary visual artists engage and exhibit in. The workshop-driven classes incorporate theoretical and historical perspectives on these gallery-based modes. This unit introduces various steps required to make art public from: studio-based processes; the engagement of critical feedback; administrative processes associated with gallery-based exhibition; installing an artwork; and contextualising the artwork in a considered theoretical and curatorial framework. The workshop program facilitates a support structure for the development and consolidation of experimental approaches to conceptual and material outcomes of burgeoning research interests. Students are required to investigate and develop individual and collaborative solutions to a series of creative public outcomes. Teaching methodology involves lectures, fieldtrips, critical dialogue, class discussion and peer review. Safe and sustainable approaches to fabrication techniques and materials are promoted as core values in the unit.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "VPR2011",
+                    "Prohibitions": "VPR2002",
+                    "SCABand": 1,
+                    "UnitCode": "VPR2012",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Prato"
+                            ],
+                            [
+                                "Second semester 2017 (', 'Off-campus block of classes', ')"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Professional practice"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Arts, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Workshop Elective",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "International Art 1945-1990 covers the art produced in the second half of the 20th century and its relevance to contemporary practice. Various actions, interventions and critiques of institutions, museums and the art market will be considered, as well as feminist, queer and non-Western perspectives. An objective of the unit is to reach an understanding of the way art-historical discourses promote and exclude certain practices and practitioners (especially due to gender, race, sexuality and location), with an emphasis on incorporating recent research on artists who were previously excluded from the historical \"canon\".",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "12 credit points at first year level in Art history and theory, or Theory of Art and Design, Visual Culture or permission from Unit Coordinator.",
+                    "Prohibitions": "TAD2112, TAD3102, TAD3112",
+                    "SCABand": 1,
+                    "UnitCode": "AHT2102",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "International art 1945-1990"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This is a core unit in the Visual Arts sequence and is first of the two 3rd year units. The unit provides students with an advanced perspective on the various modes of publication available to cultural practitioners engaged in Visual Art. This unit gives students an opportunity to incorporate theoretical frameworks that reflect and expand upon a breadth of fields that include education, business, information technology or the liberal arts into their production of visual culture. This unit asks students to develop self-directed strategies that extend upon traditional gallery based exhibition modes. These modes might include: artists' books, editioned objects; site-based research and exhibiting; digital broadcast; collaborative, social and/or performative processes; curatorial contexts; and creative arts writing. The workshop program encourages an experimental and critical approach to conceptual and material outcomes whilst providing opportunities to cultivate curatorial, critical writing and administrative skills. Students are required to initiate individual and collaborative solutions to a series of creative public outcomes. Teaching methodology involves lectures, fieldtrips, critical dialogue, class discussion and peer-review. Safe and sustainable approaches to fabrication techniques and materials are promoted as core values in the unit.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "VPR2012 and 1 department approved elective",
+                    "Prohibitions": "VPR3001",
+                    "SCABand": 1,
+                    "UnitCode": "VPR3011",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Professional practice advanced"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Arts, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Workshop Elective",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit is the last and culminating unit in the Visual Practices sequence and is second of the two 3rd year units. In this unit emphasis is placed on independent cultural research and its relation to a broader collaborative or group context in the public realm. Students develop a creative, expressive and critical project that utilises advanced conceptualisation and material manipulation, engaging with the artwork as part of a chain of production, reception, distribution and publics. Students develop individual programs in conjunction with the lecturers that reflect their evolving cultural practice and professional direction. The program focuses on clear articulation of concepts and their publication in the written form as a supplement to the student's Visual Practice. Detailed analysis and discussion of students' work takes place primarily through personal tuition with lecturers, peer-based critique and experimenting with various modes of public presentation. This unit provides a stimulating and supportive environment through the introduction of a supervised studio and bridges this to independent professional practice in the broader arts arena. This unit contextualises individual practice within various public platforms that require different modes of group and/or collaborative modes of engagement. The work produced culminates in an end of year exhibition of a professional standard, preparing students for entry into the professional world as cultural producer in broad array of Visual Arts disciplines, or the pursuit of further studies at a higher level.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "VPR3011 and 2 department approved electives",
+                    "Prohibitions": "VPR3002",
+                    "SCABand": 1,
+                    "UnitCode": "VPR3012",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Visual practices 3"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                }
+            ],
+            "year": 2
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "courseAOS": "Coursework Stream",
+    "courseCode": "P6002",
+    "courseName": "Master of Clinical Pharmacy",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit will provide students with theoretical information on evidence-based practice as well as the skills to incorporate evidence-based medicine into their clinical practice. Topics will include: formulation of clinical questions, searching the literature for best evidence, evaluating the evidence, and applying the evidence in patient care.Prescribed textGuyatt G, Rennie D, eds. Users' Guides to the Medical Literature. Essentials of evidence-based clinical practice (3rd Edition) McGraw-Hill Professional, 2015.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "Prerequisites": "",
+                    "Prohibitions": "PGC5001",
+                    "SCABand": 2,
+                    "UnitCode": "PGC5101",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "First semester 2017 (Off-campus)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Evidence based practice"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit examines aspects of clinical laboratory data, monitoring patient signs and symptoms and issues in therapeutics. Areas covered include pharmacokinetics, clinical pharmacy, cardiology and topics in general medicine.  The focus of these topics is patient care in both hospital and community settings. Students must be practicing pharmacists in positions with patient contact. To undertake this unit students are required to contribute their own cases.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "Prerequisites": "PGC5101 (PGC5001)",
+                    "Prohibitions": "PGC5002",
+                    "SCABand": 2,
+                    "UnitCode": "PGC5102",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "First semester 2017 (Off-campus)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Patient data and pharmacotherapy 1"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Elective",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Elective",
+                    "UnitName": ""
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Elective",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This capstone unit will be one of the final units completed in the Masters program. It will build on learnings from all units undertaken in the Masters program, in particular the ability to reflect on practice, formulate questions identifying knowledge gaps, analyse available evidence. It will require the student to utilise the Australian Advanced Pharmacy Practice Framework (APPF) to reflect on their level of performance and identify means to further advance their practice.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+                    "Prerequisites": "+ Master of Clinical Pharmacy students must have completed 60 credit points.+ Master of Pharmacy Practice students must have completed 36 credit points.",
+                    "Prohibitions": "PGP5019",
+                    "SCABand": 2,
+                    "UnitCode": "PGC5119",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Parkville"
+                            ],
+                            [
+                                "First semester 2017 (Off-campus)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Advanced practice portfolio"
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

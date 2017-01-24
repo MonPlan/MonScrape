@@ -1,0 +1,136 @@
+{
+    "courseAOS": "Secondary Education specialisation",
+    "courseCode": "D3009",
+    "courseName": "Education and Information Technology",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Education",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF1303",
+                [
+                    "FIT1045",
+                    "FIT1048",
+                    "FIT1051"
+                ],
+                "EDF1055",
+                "FIT1050",
+                "FIT1049"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF1304",
+                "FIT2094",
+                "EDF1056",
+                "FIT1047",
+                {
+                    "faculty": "",
+                    "type": "Level 1/2 MATHS UNIT"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF2005",
+                "EDF2006",
+                "EDF2055",
+                "FIT2001",
+                {
+                    "faculty": "",
+                    "type": "FIT2104 Web Database Interface OR FIT2081 Mobile Apps Development"
+                },
+                {
+                    "faculty": "",
+                    "type": "Level 2 MATHS UNIT"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF2007",
+                "EDF2008",
+                "EDF2056",
+                "FIT2002",
+                "FIT3175"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF3009",
+                "EDF3010",
+                "EDF3055",
+                "FIT3047",
+                {
+                    "faculty": "",
+                    "type": "Level 3 Software Development Major Elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Level 3 MATHS UNIT"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF3007",
+                {
+                    "faculty": "",
+                    "type": "Education elective (6 pts)"
+                },
+                "EDF3056",
+                "FIT3048",
+                {
+                    "faculty": "",
+                    "type": "Level 3 Software Development Major Elective"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF4100",
+                "EDF4004",
+                "EDF4055",
+                {
+                    "faculty": "",
+                    "type": "Method unit 1A (6 pts)"
+                },
+                {
+                    "faculty": "",
+                    "type": "Method unit 2A (6 pts)"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF4101",
+                "EDF4006",
+                "EDF4056",
+                {
+                    "faculty": "",
+                    "type": "Method unit 1B (6 pts)"
+                },
+                {
+                    "faculty": "",
+                    "type": "Method unit 2B (6 pts)"
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

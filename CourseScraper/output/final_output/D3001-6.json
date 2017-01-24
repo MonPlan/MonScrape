@@ -1,0 +1,1225 @@
+{
+    "courseAOS": "Bachelor of Education (Honours) in Secondary Health and Physical Education",
+    "courseCode": "D3001",
+    "courseName": "Education",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Education",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Enrolment in a Faculty of Education course",
+                    "Proh": "EDF1301",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit introduces contemporary learning theories that enable students to reflect on their own learning experiences in order to understand how others learn. From the perspective of broader educational settings (school, community, early childhood settings, home), the important questions of what learning is, how and why learning occurs, what quality learning might be and what influences learning, are discussed and reflected upon. Through examination of different theoretical perspectives and contexts, this unit focuses on building an understanding of what can influence learning and offers skill building in academic learning. Ideas closely associated with learning, including motivation, engagement and ability are also considered. The unit encourages students to begin constructing deep knowledge about the relationship between learning and educational inquiry.",
+                    "UnitCode": "EDF1303",
+                    "UnitName": "Understanding learning and learners",
+                    "_id": "587801bd30213215439e8d3e",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit introduces students to the three curriculum areas of health, physical education, and health and physical education, and provides foundation knowledge for subsequent curriculum units. The unit is the first in a sequence of studies that provides students with essential skills, knowledge and understandings to critically engage with new and established curriculum frameworks, models and pedagogical approaches. A focus on socio-critical and socio-ecological approaches and practical workshop sessions are designed to challenge students' thinking about health and physical education, introduce students to a range of pedagogies, and facilitate the application of theoretical insights to pedagogical practice. National and state curriculum and assessment frameworks provide a focus for investigation of the theoretical underpinnings of contemporary developments, and the influence of competing disciplinary perspectives and political, social and cultural factors on health and physical education curriculum texts and pedagogical practices. Exploration of international developments is used to extend insights into curriculum, pedagogy and assessment models and practices.",
+                    "UnitCode": "EDF1071",
+                    "UnitName": "Introduction to health and physical education",
+                    "_id": "587801b830213215439e8d2e",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF1055",
+                    "UnitName": "Secondary professional experience 1A",
+                    "_id": "587801b830213215439e8d2c",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit introduces students to the sociocultural foundations of health and physical education. Using the sub-disciplines of history, philosophy, and sociology, students examine the role of these areas in shaping and determining contemporary practices in health and physical education. Students learn that personal and contextual factors, together with individual and group actions, shape health, wellbeing, safety and participation in physical activity. Students develop their understandings through the application and critique of historical and contemporary practices within health and physical education.",
+                    "UnitCode": "EDF1171",
+                    "UnitName": "Sociocultural foundations of health and physical education",
+                    "_id": "587801bb30213215439e8d38",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Discipline unit 1",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF1303",
+                    "Proh": "EDF1302",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit builds on the focus in EDF1303 (Understanding learning and learners) to introduce contemporary approaches to teaching and their impact on learning. It enables students to demonstrate an understanding of curriculum and its role in teaching and learning in educational settings. Students are facilitated to demonstrate knowledge and skills in a range of teaching strategies including effective teaching models and assessment strategies that promote learning. Students develop knowledge and skills to engage in meaningful and respectful relationships with learners, their families and communities, in order to support learning.",
+                    "UnitCode": "EDF1304",
+                    "UnitName": "Understanding teaching for learning",
+                    "_id": "587801bd30213215439e8d3f",
+                    "enjoyRating": 4.185714286,
+                    "enjoyResponse": 317,
+                    "learnRating": 4.09097277,
+                    "learnResponse": 106,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit examines how understanding health and physical education (HPE) requires an appreciation of how our lives, the lives of our students and HPE content connect to broader issues within society. Within the context of 'teaching sensitive issues' and 'teaching difficult knowledge', students are supported to use sociological theories to examine power, relationships, difference and diversity. Issues explored are framed within a socio-cultural model for creating safe and supportive learning environments for young people and include sexuality, gender, sexual health, race, religion and ethnicity. Students investigate, critique and describe contemporary developments in HPE and consider how these have influenced, or are likely to influence, practices in schools. Students are introduced to key sociological ideas and are supported to develop knowledge of how to use theory to examine contemporary social issues as well as teaching practice. This deepens knowledge of and appreciation for complex issues in society and the role of HPE in creating safe and supportive learning environments for all students. Students are encouraged to reflect upon and consider how they might develop strategies as future teachers to respond to the issues examined. The unit supports students to implement relevant HPE curriculum in their future careers.",
+                    "UnitCode": "EDF1072",
+                    "UnitName": "Contemporary issues in health and physical education",
+                    "_id": "587801b930213215439e8d2f",
+                    "enjoyRating": 4.45,
+                    "enjoyResponse": 29,
+                    "learnRating": 4.13960114,
+                    "learnResponse": 29,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF1055",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF1056",
+                    "UnitName": "Secondary professional experience 1B",
+                    "_id": "587801b830213215439e8d2d",
+                    "enjoyRating": 4.316176471,
+                    "enjoyResponse": 88,
+                    "learnRating": 4.211508467,
+                    "learnResponse": 44,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit introduces students to the biophysical and behavioural foundations of health and physical education. Students learn about the major biophysical sub-disciplines including functional human anatomy, exercise physiology, nutrition and behavioural psychology. They explore the role these have played in shaping contemporary practices within the health and physical education discipline. Students learn how the biophysical elements interact with social, cultural and environmental factors to influence healthy and physically active lives. Students develop their understanding of the discipline areas through the application and critique of practice aimed to optimise individual potential for health and wellbeing, and the building of healthy, active communities.",
+                    "UnitCode": "EDF1172",
+                    "UnitName": "Biophysical and behavioural foundations of health and physical education",
+                    "_id": "587801bc30213215439e8d39",
+                    "enjoyRating": 4.555555556,
+                    "enjoyResponse": 17,
+                    "learnRating": 4.512962963,
+                    "learnResponse": 17,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Discipline unit 2",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 6,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF1303EDF1304",
+                    "Proh": "EDF2002",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit builds on students' initial education studies to further develop and practise their knowledge and skills in planning for teaching, collaborating with peers and building positive and productive classroom environments. One focus is on understanding the professional responsibilities teachers have with respect to developing their practice, and building and sustaining educational relationships with students, professional colleagues, administrators, parents and members of the community in diverse educational settings. Another focus is developing and applying the practical teaching knowledge and skills students are acquiring in their course and during professional experience. Unit learning and assessment tasks require students to engage with contemporary issues in teaching, to develop a critical position on these issues, and to consider the practical applications of this position in their teaching practice now and into the future.",
+                    "UnitCode": "EDF2005",
+                    "UnitName": "Professional responsibilities, practice and relationships",
+                    "_id": "587801bf30213215439e8d42",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit explores how educators come to understand and appreciate the complex connections across health and physical education (HPE), curriculum learning areas and more broadly in relation to educational priorities. Students investigate key priorities in primary and secondary education connected to the Australian and Victorian curricula and in relation to the professional standards of the Australian Institute for Teaching and School Leadership (AITSL). The unit explores the cross-curriculum priorities of Asia and Australia's engagement with Asia, Aboriginal and Torres Strait Islander peoples, histories and cultures, and education for sustainability, as well as relevant general capabilities. This investigation is contextualised within a broad whole-school as well as specific HPE context. Students draw upon interdisciplinary knowledge developed in first year to explore exemplars of policies and practice as they continue to build knowledge of varied approaches to HPE in the school and community. Students examine the general capabilities including literacy, numeracy and ICT with a focus on those relevant to HPE in Victorian schools and the way they inform teaching and learning in schools. Through combining theory and practice across discipline areas, students continue to enhance their understanding of the wider educational settings, cross-curricular priorities, general capabilities and other programming and planning priorities in HPE.",
+                    "UnitCode": "EDF2071",
+                    "UnitName": "Interdisciplinary approaches to health and physical education",
+                    "_id": "587801c730213215439e8d59",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF1056",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF2055",
+                    "UnitName": "Secondary professional experience 2A",
+                    "_id": "587801c630213215439e8d56",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit explores the discipline of human movement, particularly how humans acquire and refine a broad range of movement skills. The study of motor control and skill acquisition is a broad area that uses foundational biophysical knowledge together with elements of psychology, sociology and understanding of growth and development to explore how and why the human body moves. Students are introduced to concepts such as tacit knowledge and environmental constraints to understand the dynamic interaction between body and environment in the production of high-level skilled sporting and lifetime physical activity movements. The unit also investigates how movement abilities can be diverse due to a range of factors beyond the immediate control of the individual. Students develop a theoretical foundation to underpin many practical approaches common to sports coaching and movement settings. Practical application of theoretical understandings provides students with an appreciation for how they might plan for, implement and evaluate a range of approaches to learning motor skills.",
+                    "UnitCode": "EDF2171",
+                    "UnitName": "Motor control and skill acquisition",
+                    "_id": "587801c930213215439e8d62",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Discipline unit 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to a range of principles, frameworks and practices that guide health promotion in Australia and internationally. Students critically explore the place of health in people's lives and consider a range of factors that shape individual and population health. They also develop knowledge of priority health issues, determinants of health and an appreciation for ways of working to promote health and wellbeing. By developing health promotion planning and evaluation skills, students carefully consider health promotion as a key field for addressing, managing and having an impact upon individual and population health. Areas of investigation and important dimensions of practice include settings-based approaches, partnership, participation, multi-level action, capacity building and evidence-based practice, policy development for health, creating supportive environments, and health education strategies. The application of these to youth health challenges in diverse cultural and economic contexts is also explored.",
+                    "UnitCode": "EDF2173",
+                    "UnitName": "Perspectives on health",
+                    "_id": "587801ca30213215439e8d64",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF2005",
+                    "Proh": "EDF3006",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit focuses on significant aspects of adolescent development and the implications for teachers. Students further their understanding of psychological research into adolescent development and are encouraged to develop critical perspectives in this field. The unit considers psychological, motivational, social, cognitive, biological and sociocultural perspectives of adolescent development and learning. Students inquire into interpersonal and teaching strategies for teaching and learning with adolescents based on contemporary knowledge of adolescent development.",
+                    "UnitCode": "EDF2007",
+                    "UnitName": "Adolescent development and learning",
+                    "_id": "587801c030213215439e8d44",
+                    "enjoyRating": 3.652083333,
+                    "enjoyResponse": 69,
+                    "learnRating": 3.743901515,
+                    "learnResponse": 35,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit explores the range of complex and multilayered factors that influences physical activity and health. Students develop their understanding of interactions across personal, social and environmental contexts that combine to impact individual wellness over time. This unit develops understandings of settings and strengths-based health promotion and social ecology theory as a basis for researching, analysing, applying and appraising knowledge in health and movement fields. Students critique health and movement practices, teaching strategies, and the social and environmental contexts in which they operate. Students undertake research as part of an authentic, ethically sound inquiry-based unit of work, that demonstrates strategies for goal setting, planning, enhancing and assessing student learning related to health and physical education. Students take into account concepts of inclusiveness, power inequalities, diversity and social justice.",
+                    "UnitCode": "EDF2072",
+                    "UnitName": "Social and environmental influences on health and physical education",
+                    "_id": "587801c730213215439e8d5a",
+                    "enjoyRating": 4.1875,
+                    "enjoyResponse": 13,
+                    "learnRating": 4.17962963,
+                    "learnResponse": 13,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF2055",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF2056",
+                    "UnitName": "Secondary professional experience 2B",
+                    "_id": "587801c630213215439e8d57",
+                    "enjoyRating": 4.464285714,
+                    "enjoyResponse": 43,
+                    "learnRating": 4.435763889,
+                    "learnResponse": 22,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "In this unit students use and critically analyse a range of coaching styles and methods of delivery. They consider the use of fundamental motor skills, teaching games for understanding and game sense approaches to delivery. They examine how these approaches support participant learning and gain an appreciation of how to utilise these different delivery strategies to provide differentiation in their instruction. Students learn how to plan and deliver activities with challenging learning goals in a safe, structured, sequential way. They analyse the use of these activities across a range of contexts including active play, minor games, challenge and adventure, and games and sports. They develop knowledge of how to use technology to undertake performance analysis of both participants and themselves as deliverers. Students are encouraged to critique approaches to delivery using technical, ethical, physiological, social and psychological lenses. The unit develops students' skills to plan, facilitate and critique a range of movement experiences.",
+                    "UnitCode": "EDF2172",
+                    "UnitName": "Applied movement contexts in health and physical education 1",
+                    "_id": "587801ca30213215439e8d63",
+                    "enjoyRating": 4.375,
+                    "enjoyResponse": 18,
+                    "learnRating": 4.270454545,
+                    "learnResponse": 18,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Discipline unit 4",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 6,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Course commenced prior to 2014:Must have passed 3 units in EDF1303, EDF1304, EDF2003, EDF2004, EDF2005, EDF3002Course commenced in or after 2014:EDF2005 and EDF2007",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit inquires into the challenges of achieving equity in schooling and education in diverse social and cultural contexts. It critically engages with a combination of sociological theory, contemporary policy documents and accounts of innovative practice in schools and communities to explore the ways in which curriculum and teaching and learning strategies can be ethically responsive to centralised government policy and local and community needs. International policy developments and trends in multicultural education are examined, as well as local, state and national responses. Cultural, linguistic, religious, socioeconomic, intellectual and physical differences among all students are studied in relation to creating equitable and inclusive learning environments. The unit builds understanding of the histories, cultures and identities of Aboriginal and Torres Strait Islander people and explores how this understanding in educators can productively contribute to experiences of schooling for all young Australians.",
+                    "UnitCode": "EDF3009",
+                    "UnitName": "Schooling, education and equity: Local and global perspectives",
+                    "_id": "587801ce30213215439e8d71",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit develops students' understanding of how community partnerships can assist teachers to examine a range of health information, products, services and policies, and evaluate their impact on individual and community health, wellbeing, safety and physical activity within their local and wider communities. In this context, developing understandings of how curriculum can be collaborative between school and those with a stake in the provision of health, sporting and movement outcomes, will support learners and educators to locate and navigate local, regional and global resources to enhance physical activity and health management. The unit draws upon theoretical understandings of the terms community and partnerships to prepare educators as knowledge brokers, capable of negotiating community resources and learning collaborations, including for example with local government, sporting organisations and digital communities of practice. In addition, the unit introduces innovative teaching and learning approaches that adopt partnership models within health and physical education. Planning for quality community partnerships enables students to continue to develop their professional practice and identity as teachers, and make connections between curriculum, teaching, learning and communities.",
+                    "UnitCode": "EDF3071",
+                    "UnitName": "Community development and partnerships",
+                    "_id": "587801d630213215439e8d88",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF2056",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF3055",
+                    "UnitName": "Secondary professional experience 3A",
+                    "_id": "587801d530213215439e8d85",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit builds upon EDF2172 (Applied movement contexts in health and physical education 1) and is the second unit in a sequence of studies that seek to develop students' theoretical knowledge within practical contexts. Students explore and develop a range of pedagogical practices across a range of learning contexts utilising evidenced-based practice (e.g., Sport Education, Teaching Personal and Social Responsibility). In addition, traditional and contemporary practices that underpin sport, physical activity and health and physical education are critically evaluated. Students apply appropriate concepts and knowledge to a variety of practical settings.",
+                    "UnitCode": "EDF3171",
+                    "UnitName": "Applied movement contexts in health and physical education 2",
+                    "_id": "587801d930213215439e8d92",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Discipline unit 5 or elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit encourages students to explore their own capacity as leaders who can respond to education priorities whilst effectively negotiating competing interests and agendas associated with health and physical education (HPE). Students are challenged to consider their role as ethical leaders and change makers, and plan what resources, support, networks and ongoing professional learning they may need to progress performance. The unit engages students in critical reflection to explore current dominant policies and pedagogies within HPE and how these may shape and influence their practice. It prepares students to engage professionally with colleagues, parents/carers and the community with an understanding of the overarching legislative, administrative and organisational policies and processes. In doing so, it supports students to better understand the processes of changing practice within HPE at a policy, school and individual level. Case study and workshop activities examine relations that exist within the education context. Barriers and opportunities to initiating and sustaining change are critiqued and unpacked using various theoretical lenses.",
+                    "UnitCode": "EDF3072",
+                    "UnitName": "Leadership, policy and pedagogies in health and physical education",
+                    "_id": "587801d630213215439e8d89",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF2007",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit enables students to develop knowledge, skills and understandings of how to engage with young and adolescent learners across discipline areas through their language and literacy practices. Drawing on a range of Australian and international research literature, and linking theory and practice, students work collaboratively and individually to develop deep understandings of language and literacy (including numerical literacy) as complex social, cultural, political and technological practices that develop in multiple contexts, in and out of schools and classrooms. They apply their emerging knowledge and skills in these areas to creatively and critically inquire into a range of educational scenarios involving literacy development and learning. Students learn about and undertake ethnographic research into their own literacy practices, and those of students and teachers in diverse educational contexts. In learning from research and through conducting their own inquiries, students develop an appreciation of how language and literacy practices play key roles in mediating diverse learners' identities, relationships and understandings of the world.",
+                    "UnitCode": "EDF3007",
+                    "UnitName": "Developing multiple literacies in education",
+                    "_id": "587801cd30213215439e8d70",
+                    "enjoyRating": 3.21875,
+                    "enjoyResponse": 83,
+                    "learnRating": 3.442445352,
+                    "learnResponse": 42,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF2173",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit builds upon knowledge gained in EDF2173 (Perspectives on health) to extend students' understanding of the complex nature of health and wellbeing by examining a number of contemporary and emerging local and international health challenges. The unit provides an opportunity to explore how social justice, equity and ethics influence health locally and globally. These considerations are situated within a variety of theoretical and practical contexts such as ethical and social theories, harm minimisation, citizenship, globalisation, critical media literacy and health literacy. Contemporary content covered within an Australian context includes topics such as poverty, mental health, drug use, communicable disease, conflict and climate change with a focus on sustainability and health equality. The unit seeks to challenge students to move beyond borders in order to think creatively about twenty-first century health challenges and to become compassionate, empathetic and critically responsive health professionals equipped with a global outlook on the complex factors that contribute to a sustainable future for all.",
+                    "UnitCode": "EDF3073",
+                    "UnitName": "Health, sustainability and wellbeing",
+                    "_id": "587801d730213215439e8d8a",
+                    "enjoyRating": 4.375,
+                    "enjoyResponse": 13,
+                    "learnRating": 4.4875,
+                    "learnResponse": 13,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF3055",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF3056",
+                    "UnitName": "Secondary professional experience 3B",
+                    "_id": "587801d530213215439e8d86",
+                    "enjoyRating": 4.277777778,
+                    "enjoyResponse": 34,
+                    "learnRating": 4.28968254,
+                    "learnResponse": 17,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "The core question considered in this unit is how to ensure all young people, regardless of ability, ethnicity, gender, social class or sexuality, are able to enjoy and participate fully in a range of movement contexts. At a theoretical level, the unit introduces students to the concepts of social inclusion/exclusion and inclusive practice within sport and physical activity settings. This enables students to develop a sophisticated understanding of the issues associated with diversity and inclusion. In practical sessions, the unit develops students' knowledge on differentiating their delivery to meet the learning needs of diverse participants, including those from Aboriginal and Torres Strait Islander heritage, and people with disabilities. Students develop understanding of how inclusive delivery of sport and physical activity can contribute to a more equitable and sustainable world. The practical sessions develop strategies to support students to deliver sport and physical activity in ways that are ethical, foster participation and are challenging for all. They encourage students to reflect on their practice, developing skills to become advocates for inclusive delivery in their future work.",
+                    "UnitCode": "EDF3172",
+                    "UnitName": "Inclusion and diversity in movement contexts",
+                    "_id": "587801d930213215439e8d93",
+                    "enjoyRating": 4.6,
+                    "enjoyResponse": 18,
+                    "learnRating": 4.643939394,
+                    "learnResponse": 18,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Discipline unit 6 or elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 2 2017 (On-campus block of classes)",
+                                "Term 4 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit builds students' capacity to demonstrate knowledge and understanding of research into how students learn, teaching and learning theory and practice and the implications in varied education contexts. Students explore principles, approaches and methods for conducting and applying educational research. They investigate issues such as what 'counts' as research, where research can occur, what is to be researched, how research can be undertaken, why research is important and what constitutes a research community in the context of their particular discipline and specialisation. They learn how to generate and use data ethically to inform their educational work and develop an evidence base for this work.",
+                    "UnitCode": "EDF4100",
+                    "UnitName": "Researching teaching and learning",
+                    "_id": "587801e830213215439e8dc3",
+                    "enjoyRating": 4.5,
+                    "enjoyResponse": 2,
+                    "learnRating": 4.166666667,
+                    "learnResponse": 2,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit expands upon foundational physiological, kinesiological and psychological understandings of human movement science within health and physical education. Human movement science represents a unique discipline that explores human performance in relation to a range of movement challenges. Students develop advanced skills, knowledge and capabilities relevant to sport and exercise science that will enable them to become actors in the critique, interpretation, planning and design of existing sporting, performance, rehabilitation and health related concerns. The unit provides opportunities to examine how particular practices based upon foundational biophysical knowledge have historically emerged, been continually challenged and reinterpreted. Students gain practical experience in both laboratory and field-based settings related to the monitoring and execution of sporting, performance, rehabilitation and health-related practices.",
+                    "UnitCode": "EDF4171",
+                    "UnitName": "Advanced sport and exercise science",
+                    "_id": "587801ea30213215439e8dc9",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "EDF3056",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF4055",
+                    "UnitName": "Secondary professional experience 4A",
+                    "_id": "587801e730213215439e8dc0",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit introduces students to senior secondary curriculum in physical education. The unit builds on method knowledge embedded within previous units in the course. It provides students with essential skills, knowledge and understanding to critically engage and extend political, academic and professional debates related to worthwhile and essential knowledge within senior secondary physical education and how this knowledge is translated into pedagogical practice in the classroom. National and international senior secondary curriculum documents provide students with a focus for learning including the opportunity to develop, implement and enact units of work that are conceptually coherent with regard to curriculum pedagogy and assessment. Students develop understanding of assessment, its moderation and interpretation, and how to use various assessment strategies in the classroom.",
+                    "UnitCode": "EDF4803",
+                    "UnitName": "Senior secondary physical education",
+                    "_id": "587801f530213215439e8df2",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Method unit 3A",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Term 1 2017 (On-campus block of classes)",
+                                "Term 3 2017 (On-campus block of classes)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit builds students' capacity to research teaching and learning in particular educational contexts. Students apply some of the principles and methods of educational research they have learned about by developing a short literature review related to the proposal developed in EDF4100. They then demonstrate their capacity to generate and use data ethically via a research project related to their particular discipline and specialisation. This is focused on examining practice in an education setting, school or classroom, using methods that may include focus groups, interviews, self-study, action research or participant observation. Finally, students demonstrate a clear and coherent exposition of the knowledge they have gained through the presentation of their findings to their peers and in a written report.",
+                    "UnitCode": "EDF4101",
+                    "UnitName": "Research project in education",
+                    "_id": "587801e830213215439e8dc4",
+                    "enjoyRating": 3.916666667,
+                    "enjoyResponse": 12,
+                    "learnRating": 4.236111111,
+                    "learnResponse": 6,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Berwick"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit prepares students for their transition from initial teacher education to their professional practice as teachers. Drawing on a range of research literature and the knowledge, skills and professional experiences developed during all years of their course, students are inducted into the notion of what it means to be engaged in the teaching profession through consideration of the nature of teachers' work and of leadership in education. This includes the ethical, professional, industrial, legal, emotional, intellectual and personal dimensions of the work of teachers and educational leaders. Students gather evidence of and critically reflect on their emerging professional identity as practitioners, and on the Graduate Teaching Standards and graduate attributes they have developed that enable them to be skilled teachers and potential education leaders. They explore the ways in which they can engage with and initiate professional communities of educators in and beyond their immediate professional settings. Students develop understanding of the process of applying for positions and transitioning to the profession in ways that enhance and improve their employability. They continue to develop their literacy, numeracy and information and communication technology (ICT) skills and knowledge through synthesising a variety of theoretical and practical perspectives they have encountered throughout their course.",
+                    "UnitCode": "EDF4006",
+                    "UnitName": "Transition and professional engagement",
+                    "_id": "587801e030213215439e8daa",
+                    "enjoyRating": 3.553571429,
+                    "enjoyResponse": 71,
+                    "learnRating": 3.541987179,
+                    "learnResponse": 36,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For Primary and Secondary Health and Physical Education: EDF4053For Secondary Health and Physical Education: EDF4055For Secondary Education (double degrees): EDF4055",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit monitors secondary professional experience in the Bachelor of Education (Honours). Students complete the required number of days and the activities specified in the unit guide. Students' learning is supported by relevant academic staff in the Faculty of Education, and by teacher mentors in the education setting in which they are placed.",
+                    "UnitCode": "EDF4056",
+                    "UnitName": "Secondary professional experience 4B",
+                    "_id": "587801e730213215439e8dc1",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit builds upon previous units studied and further prepares students to teach school health education in the senior years. The unit enables pre-service education students to build strong historical, philosophical, curriculum and pedagogical foundations in the field of school-based health education. Through an examination of national and international education and health policies and relevant research literature, students critically analyse how policy imperatives shape both contemporary curriculum and pedagogical priorities in health education. Drawing on literature and research studies students critically explore how curriculum and pedagogical imperatives are enacted in diverse educational and professional contexts. Working collaboratively and independently, students review, analyse, consolidate and synthesise their knowledge and skills as they work towards advancing their capacities in this field.",
+                    "UnitCode": "EDF4804",
+                    "UnitName": "Senior secondary health education",
+                    "_id": "587801f530213215439e8df3",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Method unit 3B",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

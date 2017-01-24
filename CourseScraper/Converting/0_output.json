@@ -1,0 +1,412 @@
+[
+    {
+        "courseCode": "B6014-0",
+        "courseName": "Master of Actuarial Studies ()",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "M6023-0",
+        "courseName": "Master of Clinical Medicine (Emergency Medicine)",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "M6023-2",
+        "courseName": "Master of Clinical Medicine (Critical Care Medicine)",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "E3003-2",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Aerospace Engineering/Finance)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "E3003-24",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Mechnical Engineering/Actuarial Science)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "E3003-9",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Civil Engineering/Finance)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "E3003-29",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Mechatronics Engineering/Finance)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "B6003-0",
+        "courseName": "Master of Applied Finance ()",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "E3003-3",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Aerospace Engineering/Mathematical Economics and Econometrics)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "F2003-1",
+        "courseName": "Bachelor of Fine Arts (Fine Art)",
+        "courseType": "Undergraduate"
+    },
+    {
+        "courseCode": "E6001-9",
+        "courseName": "Master of Advanced Engineering (Energy and Sustainability Engineering)",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "B6016-0",
+        "courseName": "Master of Business Administration ()",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "E3003-25",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Mechnical Engineering/Finance)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "B6001-1",
+        "courseName": "Master of Applied Economics and Econometrics (Applied Economics and Econometrics)",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "E3003-12",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Electrical and Computer Systems Engineering/Actuarial Science)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "F6001-0",
+        "courseName": "Master of Architecture ()",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "M6025-1",
+        "courseName": "Master of Biomedical and Health Science (12 Point Practical Project)",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "M6028-0",
+        "courseName": "Master of Clinical Research Methods ()",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "E3003-21",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Materials Engineering/Finance)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "P6002-1",
+        "courseName": "Master of Clinical Pharmacy (Coursework and Research Stream)",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "E6001-4",
+        "courseName": "Master of Advanced Engineering (Electrical Engineering)",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "E3003-30",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Mechatronics Engineering/Economics and Economic Policy)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "E3003-18",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Environmental Engineering/Economics and Economic Policy)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "E3003-1",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Aerospace Engineering/Economics and Economic Policy)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "E3003-10",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Civil Engineering/Economics and Economic Policy)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "E6001-2",
+        "courseName": "Master of Advanced Engineering (Civil Engineering (Transport))",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "F2003-0",
+        "courseName": "Bachelor of Fine Arts (Art History)",
+        "courseType": "Undergraduate"
+    },
+    {
+        "courseCode": "L6011-0",
+        "courseName": "Master of Dispute Resolution ()",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "M6002-0",
+        "courseName": "Master of Dietetics ()",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "E3003-7",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Aerospace Engineering/Mathematical Economics and Econometrics)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "E3003-28",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Mechatronics Engineering/Actuarial Science)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "E6001-0",
+        "courseName": "Master of Advanced Engineering (Chemical Engineering)",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "E3003-0",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Aerospace Engineering/Actuarial Science)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "E3003-27",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Mechnical Engineering/Mathematical Economics and Econometrics)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "M5003-0",
+        "courseName": "Graduate Diploma of Psychology Advanced (Starting with PSY4406)",
+        "courseType": "Graduate Diploma"
+    },
+    {
+        "courseCode": "E6001-1",
+        "courseName": "Master of Advanced Engineering (Civil Engineering (Infrastructure Systems))",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "E3003-13",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Electrical and Computer Systems Engineering/Finance)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "F3001-0",
+        "courseName": "Bachelor of Interior Architecture ()",
+        "courseType": "Undergraduate"
+    },
+    {
+        "courseCode": "E6001-5",
+        "courseName": "Master of Advanced Engineering (Materials engineering)",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "E3003-5",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Aerospace Engineering/Finance)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "E6001-7",
+        "courseName": "Master of Advanced Engineering (Medical Engineering)",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "E3003-19",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Environmental Engineering/Mathematical Economics and Econometrics)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "B6005-0",
+        "courseName": "Master of Business ()",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "F2003-2",
+        "courseName": "Bachelor of Fine Arts (Visual Arts)",
+        "courseType": "Undergraduate"
+    },
+    {
+        "courseCode": "E6001-3",
+        "courseName": "Master of Advanced Engineering (Civil Engineering (Water))",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "L3001-0",
+        "courseName": "Bachelor of Law (Honours) ()",
+        "courseType": "Undergraduate"
+    },
+    {
+        "courseCode": "E3003-15",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Electrical and Computer Systems  Engineering/Mathematical Economics and Econometrics)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "E3003-35",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Software Engineering/Mathematical Economics and Econometrics)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "D6003-0",
+        "courseName": "Master of Counselling ()",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "E3003-31",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Mechatronics Engineering/Mathematical Economics and Econometrics)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "E3003-22",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Materials Engineering/Economics and Economic Policy)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "M6023-1",
+        "courseName": "Master of Clinical Medicine (Clinical Trauma Medicine)",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "E3003-32",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Software Engineering/Actuarial Science)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "E3003-23",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Materials Engineering/Mathematical Economics and Econometrics)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "E3003-14",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Electrical and Computer Systems Engineering/Economics and Economic Policy)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "E3003-16",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Environmenal Engineering/Actuarial Science)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "B6004-0",
+        "courseName": "Master of Banking and Finance ()",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "E3003-20",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Materials Engineering/Actuarial Science)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "E3003-33",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Software Engineering/Finance)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "M5013-0",
+        "courseName": "Graduate Diploma in Psychology ()",
+        "courseType": "Graduate Diploma"
+    },
+    {
+        "courseCode": "M5003-1",
+        "courseName": "Graduate Diploma of Psychology Advanced (Starting with PSY4401)",
+        "courseType": "Graduate Diploma"
+    },
+    {
+        "courseCode": "L6001-0",
+        "courseName": "Master of Commercial Law ()",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "D6007-0",
+        "courseName": "Master of Education and Developmental Psychology ()",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "D5002-0",
+        "courseName": "Graduate Diploma of Professional Psychology ()",
+        "courseType": "Graduate Diploma"
+    },
+    {
+        "courseCode": "E3003-6",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Chemical Engineering/Economics and Economic Policy)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "B6002-0",
+        "courseName": "Master of Accounting ()",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "D6002-0",
+        "courseName": "Master of Education ()",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "E3003-4",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Chemical Engineering/Actuarial Science)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "M6025-0",
+        "courseName": "Master of Biomedical and Health Science (6 Point Practical Project)",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "E3003-26",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Mechnical Engineering/Economics and Economic Policy)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "E3003-11",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Civil Engineering/Mathematical Economics and Econometrics)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "E3003-17",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Environmental Engineering/Finance)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "B6001-2",
+        "courseName": "Master of Applied Economics and Econometrics (Business Economics)",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "E3003-8",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Civil Engineering/Actuarial Science)",
+        "courseType": "Double Undergraduate"
+    },
+    {
+        "courseCode": "M5018-0",
+        "courseName": "Graduate Diploma of Occupational and Environmental Health ()",
+        "courseType": "Graduate Diploma"
+    },
+    {
+        "courseCode": "B6013-0",
+        "courseName": "Master of Business Law ()",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "E6001-6",
+        "courseName": "Master of Advanced Engineering (Mechanical Engineering)",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "E6001-8",
+        "courseName": "Master of Advanced Engineering (Renewable and Sustainable Energy Engineering)",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "P6002-0",
+        "courseName": "Master of Clinical Pharmacy (Coursework Stream)",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "B6001-0",
+        "courseName": "Master of Applied Economics and Econometrics (Applied Econometrics)",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "M6003-0",
+        "courseName": "Master of Biomedical and Health Science ()",
+        "courseType": "Postgrad"
+    },
+    {
+        "courseCode": "E3003-34",
+        "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist (Software Engineering/Economics and Economic Policy)",
+        "courseType": "Double Undergraduate"
+    }
+]

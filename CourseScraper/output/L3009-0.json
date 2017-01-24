@@ -1,0 +1,173 @@
+{
+    "courseAOS": "Bachelor of Laws (Honours) and Bachelor of Global Studies",
+    "courseCode": "L3009",
+    "courseName": "Laws and Global Studies",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Law",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "LAW1111",
+                "LAW1114",
+                "ATS1020",
+                {
+                    "faculty": "",
+                    "type": "BGS specialisation gateway (1y)"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "LAW1112",
+                "LAW1113",
+                {
+                    "faculty": "",
+                    "type": "BGS specialisation gateway (1y)"
+                },
+                {
+                    "faculty": "",
+                    "type": "BGS specialisation elective (2y)"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "LAW2101",
+                "LAW2112",
+                "ATS2086",
+                {
+                    "faculty": "",
+                    "type": "BGS specialisation cornerstone (2y)"
+                },
+                {
+                    "faculty": "",
+                    "type": "BGS specialisation elective (2y)"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "LAW2102",
+                "LAW2111",
+                {
+                    "faculty": "",
+                    "type": "BGS specialisation elective (2y OR 3y)"
+                },
+                {
+                    "faculty": "",
+                    "type": "BGS specialisation elective (3y)"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "LAW3112",
+                "LAW3111",
+                {
+                    "faculty": "",
+                    "type": "Law elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "BGS specialisation elective (3y)"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "LAW3402",
+                {
+                    "faculty": "",
+                    "type": "Commercial law elective (restricted)"
+                },
+                "ATS3111",
+                {
+                    "faculty": "",
+                    "type": "BGS specialisation capstone (3y) (or Year 4, Semester 2)"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Law elective Overseas study"
+                },
+                {
+                    "faculty": "",
+                    "type": "BGS specialsation elective (3y) Overseas study"
+                },
+                {
+                    "faculty": "",
+                    "type": "BGS specialisation elective (2y) Overseas study"
+                },
+                {
+                    "faculty": "",
+                    "type": "BGS specialisation elective (2y) Overseas study"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "LAW4331",
+                "LAW4170",
+                {
+                    "faculty": "",
+                    "type": "Law elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Law elective"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "LAW4323",
+                "LAW4332",
+                {
+                    "faculty": "",
+                    "type": "Law elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Law Research Project elective*"
+                }
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "LAW4303",
+                "LAW4309",
+                {
+                    "faculty": "",
+                    "type": "Law elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Law elective"
+                }
+            ],
+            "year": 4
+        }
+    ]
+}

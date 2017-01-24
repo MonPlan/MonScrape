@@ -1,0 +1,174 @@
+{
+    "courseAOS": "Bachelor of Business and Bachelor of Information Technology",
+    "courseCode": "B2017",
+    "courseName": "Business and Information Technology",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "ACF1200/ACP1200 Accounting for managers or ACF1100/ACP1100 Introduction to Financial accounting"
+                },
+                {
+                    "faculty": "",
+                    "type": "ECF1100/ECP1100 Microeconomics"
+                },
+                [
+                    "FIT1045",
+                    "FIT1048",
+                    "FIT1051"
+                ],
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 1"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "MKF1120/MKP1120 Marketing theory and practice"
+                },
+                {
+                    "faculty": "",
+                    "type": "ETF1100/ETP1100 Business statistics"
+                },
+                "FIT1047",
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 1"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "MGF1010/MGP1010 Introduction to management"
+                },
+                {
+                    "faculty": "",
+                    "type": "BFF1001/BFP1001 Foundations of finance"
+                },
+                "FIT1049",
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 2"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "BTF1010/BTP1010 Business law"
+                },
+                "FIT2094",
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 2"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business Major 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "FIT2001 Systems development * OR FIT2099 O-O analysis, design and implementation"
+                },
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 2/3"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 4"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business Major 5"
+                },
+                "FIT2002",
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 3"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 6"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business Major 7"
+                },
+                {
+                    "faculty": "",
+                    "type": "FIT3047 IE Studio Project 1 OR FIT3039 Studio project 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 3"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Business Major 8 or Business elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Capstone unit"
+                },
+                {
+                    "faculty": "",
+                    "type": "FIT3048 IE Studio Project 2 OR FIT3040 Studio project 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "IT Major Level 3"
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

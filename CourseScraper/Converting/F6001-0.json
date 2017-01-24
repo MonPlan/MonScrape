@@ -1,0 +1,42 @@
+{
+    "courseCode": "F6001",
+    "courseName": "Master of Architecture",
+    "courseAOS": "",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Art, Design and Architecture",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+              "ARC4001",
+              "ARC4501",
+              "ARC4101"
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+              "ARC4002",
+              "ARC4502",
+              {"type": "Open Elective", "faculty": "Faculty of Art, Design and Architecture"}
+
+          ]
+        }, {
+          "code": "S1-01",
+          "year": 1,
+          "units": [
+              "ARC5001",
+              "ARC5501",
+              "ARC5201"
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 1,
+          "units": [
+              "ARC5002",
+              "ARC5502"
+          ]
+        }
+    ]
+}

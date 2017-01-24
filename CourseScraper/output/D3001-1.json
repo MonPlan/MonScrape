@@ -1,0 +1,99 @@
+{
+    "courseAOS": "Bachelor of Education (Honours) in Early Years Education",
+    "courseCode": "D3001",
+    "courseName": "Education",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Education",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF1303",
+                "EDF1030",
+                "EDF1051",
+                "EDF1031",
+                "EDF1038"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF1304",
+                "EDF1032",
+                "EDF1052",
+                "EDF1033",
+                "EDF1039"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF2030",
+                "EDF2031",
+                "EDF2053",
+                "EDF2032",
+                "EDF2038"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF2033",
+                "EDF2034",
+                "EDF2052",
+                "EDF2035",
+                "EDF2039"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF3030",
+                "EDF3031",
+                "EDF3050",
+                "EDF3032",
+                "EDF3038",
+                "EDF3036"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF3033",
+                "EDF3034",
+                "EDF3054",
+                "EDF3035",
+                "EDF3039",
+                "EDF3181"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF4031",
+                "EDF4034",
+                "EDF4051",
+                "EDF4028",
+                "EDF4100"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF4033",
+                "EDF4035",
+                "EDF4052",
+                "EDF4029",
+                "EDF4101"
+            ],
+            "year": 3
+        }
+    ]
+}

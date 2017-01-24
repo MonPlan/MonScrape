@@ -1,0 +1,123 @@
+{
+    "courseAOS": "",
+    "courseCode": "D5002",
+    "courseName": "Graduate Diploma of Professional Psychology",
+    "courseType": "Graduate Diploma",
+    "faculty": "Faculty of Education",
+    "teachingPeriods": [
+        {
+            "code": "FY-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "EDF604",
+                    "UnitName": "Cannot Fetch Data"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit includes a review of the important legislation for psychologists, professional organisations for psychologists, ethics committees and codes of professional conduct. It addresses issues of privacy, confidentiality, privilege and informed consent, professional responsibility in relation to competence, dual relationships and conflicts of interest, the role of the psychologist in court, ethical issues raised by having children as clients, ethical issues in the use of psychological tests, ethical issues in the provision of psychological services to people from a different cultural background, managing the suicidal client, ethical issues in reporting child abuse, the prediction of dangerousness, ethical issues pertaining to service delivery over the internet and by email, and the ethics and responsibilities of supervision. Students pursue a program of readings and assignments which direct attention to ethical, legal and social issues involved in psychological practice. These issues cover relevant legislation, Australian Psychological Society (APS) and other codes of professional conduct for psychologists, registration requirements and some social ramifications of psychological practice.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "Successful completion of an Australian Psychology Accreditation Council (APAC) accredited major sequence in psychology.",
+                    "Prohibitions": "PSY4504",
+                    "SCABand": 1,
+                    "UnitCode": "EDF4601",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Ethics and professional issues"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit introduces students to a range of intervention models/theories used in counselling psychology and the assumptions on which they are based. Students examine the theoretical bases of two approaches in depth.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Education",
+                    "Prerequisites": "Successful completion of an Australian Psychology Accreditation Council (APAC) accredited major sequence in psychology",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "EDF4605",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introduction to counselling psychology"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "How to recognise, evaluate and control hazards in workplaces arising from substances, sound, radiation and micro-organisms. Principles and practice of occupational hygiene including the use of simple instruments, ventilation, personal protective equipment and workplace substances laws. Hygienic standards and their various forms and notations. The difficulties of assessing prior exposures for medico-legal and epidemiological purposes",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "MPH5243.",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "MPH5222",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Assessment and control of workplace hazards"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Introduction to principles & practice of ergonomics. Occupational hygiene as applied to physical hazards: noise, radiation, thermal environments & pressure effects.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "MPH5241.",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "MPH5244",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Ergonomic and physical hazards"
+                }
+            ],
+            "year": 0
+        }
+    ]
+}

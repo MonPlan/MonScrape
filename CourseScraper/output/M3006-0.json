@@ -1,0 +1,76 @@
+{
+    "courseAOS": "Bachelor of Radiography and Medical Imaging (Honours)",
+    "courseCode": "M3006",
+    "courseName": "Radiography and Medical Imaging",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "RAD1031",
+                "RAD1021",
+                "RAD1061"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "RAD1082",
+                "RAD1012"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "RAD2061",
+                "RAD2051"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "RAD2092",
+                "RAD2012"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "RAD3061",
+                "RAD3051"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "RAD3092",
+                "RAD3042"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                [
+                    "RAD4070",
+                    "RAD4080"
+                ],
+                "RAD4000"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "RAD4160"
+            ],
+            "year": 3
+        }
+    ]
+}

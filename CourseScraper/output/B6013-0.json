@@ -1,0 +1,67 @@
+{
+    "courseAOS": "Master of Business Law",
+    "courseCode": "B6013",
+    "courseName": "Business Law",
+    "courseType": "Expert master degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ACF5903",
+                "ECF5953",
+                "ETF5900",
+                "MGF5962"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BTF5000",
+                "BFF5902",
+                "BTF5904",
+                "BTF5001"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Mastery knowledge unit choice 1"
+                },
+                "BFF5021",
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 2"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BTF5801",
+                {
+                    "faculty": "",
+                    "type": "Mastery knowledge unit choice 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 4"
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

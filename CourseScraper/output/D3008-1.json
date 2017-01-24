@@ -1,0 +1,123 @@
+{
+    "courseAOS": "Secondary Education specialisation",
+    "courseCode": "D3008",
+    "courseName": "Education and Computer Science",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Education",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF1303",
+                "FIT1045",
+                "EDF1055",
+                "MAT1830",
+                "MTH1030"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF1304",
+                "FIT1008",
+                "EDF1056",
+                "FIT1047",
+                "MTH2010"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF2005",
+                "EDF2006",
+                "EDF2055",
+                "FIT2004",
+                "FIT2009",
+                "MTH3051"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF2007",
+                "EDF2008",
+                "EDF2056",
+                "FIT2014",
+                "FIT2102"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF3009",
+                "EDF3010",
+                "EDF3055",
+                "FIT3161",
+                {
+                    "faculty": "",
+                    "type": "BCS Approved L3 Elective"
+                },
+                "FIT3143"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF3007",
+                {
+                    "faculty": "",
+                    "type": "Education elective"
+                },
+                "EDF3056",
+                "FIT3162",
+                "FIT3145"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "EDF4100",
+                "EDF4004",
+                {
+                    "faculty": "",
+                    "type": "EDF4055 Secondary professional experience 4A and EDF4056 Secondary professional experience 4B 25 days (0 pts)"
+                },
+                {
+                    "faculty": "",
+                    "type": "EDF5XXX Method unit 1A (6pts)"
+                },
+                {
+                    "faculty": "",
+                    "type": "EDF5XXX Method unit 2A (6pts)"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "EDF4101",
+                "EDF4006",
+                {
+                    "faculty": "",
+                    "type": "EDF4057 Secondary professional experience 4C and EDF4058 Secondary professional experience 4D 25 days (0 pts)"
+                },
+                {
+                    "faculty": "",
+                    "type": "EDF5XXX Method unit 1B (6pts)"
+                },
+                {
+                    "faculty": "",
+                    "type": "EDF5XXX Method unit 2B (6pts)"
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

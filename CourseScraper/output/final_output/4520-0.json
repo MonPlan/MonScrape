@@ -1,0 +1,105 @@
+{
+    "courseAOS": "Bachelor of Health Science (Honours)",
+    "courseCode": "4520",
+    "courseName": "Health Science",
+    "courseType": "Bachelor degree (honours) - 1 year",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit aims to develop students' understanding and skills in the quantitative and qualitative research methods that underpin contemporary global public health and health science research, as well as the analysis, interpretation and reporting of data from such research. This unit introduces students to the theoretical methodological and ethical issues that underpin contemporary global public health and health science research. It provides direction and guidance to honours students in identifying a meaningful research question and develops the skills and knowledge students need to develop a research proposal. It re-introduces students to quantitative and qualitative research frameworks and data analysis techniques they need both to undertake their study and write a research report.",
+                    "UnitCode": "HSC4001",
+                    "UnitName": "Health science research project 1",
+                    "_id": "587802cd30213215439e90fb",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit aims for students to develop critical and analytic skills as applied to contemporary global public health and health science research literature. It will also provide students with advanced knowledge in specific areas of public health and health science relevant to their honours. Seminars will focus on topics such as current public health thinking and practice. Global and local dimensions of health, as well as on skills in evidence appraisal and systematic searching. Students will be active learners with the presentation of seminars to the class during the semester, and leading the discussion that follows. Students will provide a written review of a topic that is related to their specific research project that demonstrates advanced theoretical understanding of the issues and research relating to that topic.",
+                    "UnitCode": "HSC4011",
+                    "UnitName": "Advanced studies in contemporary and global health research",
+                    "_id": "587802cd30213215439e90fd",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 24,
+                    "EFTSL": 0.5,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 to First semester 2018 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "HSC4011 and HSC4001.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "The Honours thesis is a research study, focusing on a particular contemporary global public health and health science research topic or issue, undertaken with the guidance and support of a supervisor. Students will be expected to demonstrate initiative and independence during their research study. All Honours students are required to present on their research project at a research seminar prior to submission. The Honours thesis is designed for students who are intending to undertake further higher degree studies. Graduates who have successfully completed the Health Science Research Project (both Part 1 and Part 2) will be able to use their 15,000 word study as evidence of independent research experience in an application for entry into higher research degree programs.",
+                    "UnitCode": "HSC4002",
+                    "UnitName": "Health science research project 2",
+                    "_id": "587802cd30213215439e90fc",
+                    "enjoyRating": 4.166666667,
+                    "enjoyResponse": 4,
+                    "learnRating": 4.666666667,
+                    "learnResponse": 2,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        }
+    ]
+}

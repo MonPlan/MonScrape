@@ -1,0 +1,69 @@
+{
+    "courseAOS": "Master of Financial Mathematics",
+    "courseCode": "S6001",
+    "courseName": "Financial Mathematics",
+    "courseType": "Expert master degree",
+    "faculty": "Faculty of Science",
+    "teachingPeriods": [
+        {
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Year 1 Semester1"
+                },
+                {
+                    "faculty": "",
+                    "type": "Any four units from Part A"
+                }
+            ]
+        },
+        {
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Year 1 Semester 2"
+                },
+                "MTH5222",
+                "ETC5460",
+                {
+                    "faculty": "",
+                    "type": "Elective from Part B"
+                },
+                {
+                    "faculty": "",
+                    "type": "Elective from Part B"
+                }
+            ]
+        },
+        {
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Year 2 Semester 1"
+                },
+                "MTH5211",
+                "MTH5311",
+                {
+                    "faculty": "",
+                    "type": "Elective from Part B"
+                },
+                {
+                    "faculty": "",
+                    "type": "Elective from Part B"
+                }
+            ]
+        },
+        {
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Year 2 Semester 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Students complete: a), b), or c): MTH5830 Industry placement (24 points) MTH5840 Industry placement (12 points) and MTH5820 Industry research project (12 points) MTH5810 Industry research project (24 points)"
+                }
+            ]
+        }
+    ]
+}

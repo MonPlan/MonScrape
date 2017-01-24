@@ -1,0 +1,145 @@
+{
+    "courseAOS": "International relations specialisation",
+    "courseCode": "B2006",
+    "courseName": "Commerce and Global Studies",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                [
+                    "ACC1200",
+                    "ACC1100"
+                ],
+                "ECC1000",
+                "ATS1020",
+                "ATS1701"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "MKC1200",
+                "ETC1000",
+                "ATS2624",
+                "ATS1873"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "MGC1010",
+                "BTC1110",
+                "ATS2086",
+                "ATS2706"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "ATS2xxx International relations elective Overseas study"
+                },
+                {
+                    "faculty": "",
+                    "type": "ATS2xxx International relations elective Overseas study"
+                },
+                {
+                    "faculty": "",
+                    "type": "ATS2xxx or ATS3xxx International relations elective Overseas study"
+                },
+                {
+                    "faculty": "",
+                    "type": "ATS2xxx or ATS3xxx International relations elective Overseas study"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Business and Economics elective"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 4"
+                },
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 5"
+                },
+                {
+                    "faculty": "",
+                    "type": "ATS3xxx or ATS3xxx International relations elective [from list]"
+                },
+                {
+                    "faculty": "",
+                    "type": "One of ATS3340 International security studies ATS3705 Knowledge and power in world politics"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 6"
+                },
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 7"
+                },
+                "ATS3111"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Commerce Major 8 or Commerce elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Capstone unit"
+                },
+                {
+                    "faculty": "",
+                    "type": "ATS3xxx International studies elective [from list]"
+                },
+                {
+                    "faculty": "",
+                    "type": "ATS3xxx International studies elective [from list]"
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

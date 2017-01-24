@@ -1,0 +1,60 @@
+{
+    "courseAOS": "Master of Accounting ",
+    "courseCode": "B6002",
+    "courseName": "Accounting",
+    "courseType": "Expert master degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ACF5120",
+                "ACF5150",
+                {
+                    "faculty": "",
+                    "type": "Unit from specified list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 1"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ACF5100",
+                "ACF5130",
+                {
+                    "faculty": "",
+                    "type": "Unit from specified list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 2"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ACF5330",
+                {
+                    "faculty": "",
+                    "type": "Capstone unit from specified list"
+                },
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Application studiesunit 4"
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

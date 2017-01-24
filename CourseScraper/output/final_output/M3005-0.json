@@ -1,0 +1,975 @@
+{
+    "courseAOS": "Bachelor of Psychology (Honours)",
+    "courseCode": "M3005",
+    "courseName": "Psychology",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Summer semester A (starts November) 2017 (Off-campus)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "APY1910, ATS1359, ATS1840, AZA1020, PSS1711, PSS1712.",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit provides students with an introduction to the discipline of psychology as a behavioural science.The key topics explored in this unit include personality, the biological bases of behaviour, sensation and perception, an introduction to theories of learning and development, introduction to the historical origins of the discipline, and cross cultural psychology. Consultation classes enhance students' understanding of the lecture material and provide training in research techniques.",
+                    "UnitCode": "PSY1011",
+                    "UnitName": "Psychology 1A",
+                    "_id": "5878049430213215439e979e",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Science",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "BIO1722, BMS1021",
+                    "SCABand": 2,
+                    "Sypnosis": "A study of animal and plant biology and diversity from genes to whole organisms. The structure and function of plant and animal cells is examined with an emphasis on energy fixation, storage and usage. Principles of genetics, including advances in molecular biology, and current views of evolutionary processes and ecology are integrated into a structured course that offers considerable feedback on progress and opportunities for self paced learning. The subject matter of BIO1011 is continued and expanded in BIO1022 and BIO1042.",
+                    "UnitCode": "BIO1011",
+                    "UnitName": "Biology I",
+                    "_id": "5878010830213215439e8a5f",
+                    "enjoyRating": 3.782608696,
+                    "enjoyResponse": 45,
+                    "learnRating": 5,
+                    "learnResponse": 2,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "Each day individuals encounter challenges that impact on their own and others' mental health and wellbeing. These include biological, psychological, and social factors, as well as behaviours such as binge drinking and inappropriate drug use, which can affect both individual health and have wider impact on the community. This unit will employ diverse teaching and learning methods to examine the history of asylums, the move towards deinstitutionalisation, and other advancements in psychological theory and practice that have promoted a push towards community-based mental health care delivery. Students will gain an understanding of the most prevalent mental health issues within the community, including depression, anxiety, drug and alcohol misuse, eating disorders, personality disorders, and psychosis. Common lifespan and developmental challenges for children, adolescents, young adults, and older adults will be discussed.Students will gain an appreciation of how the mental health system works within Australia, the types of community-based organisations, services, and resources available to individuals experiencing a mental health issue, and the barriers that interfere with mental health promotion and recovery from an episode of illness. In undertaking the unit, students will gain familiarity with real life problems faced by people who struggle with mental health difficulties, skills in critical thinking relevant to mental health and wellbeing, and the capacity to analyse responses to particular social and mental health problems.The unit will provide students with knowledge to enable them to participate in the multidisciplinary workforce that address these issues in local, state, and federal government departments, as well as in NGOs, small community-based organisations, and other setting where psychologists work.",
+                    "UnitCode": "PMH1011",
+                    "UnitName": "Mental health in the community",
+                    "_id": "5878048130213215439e9753",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "APY1910, ATS1359, ATS1840, AZA1020, PSS1711, PSS1712.",
+                    "SCABand": 1,
+                    "Sypnosis": "Psychology is a scientific discipline which spans a diverse range of areas. This unit introduces you to a small selection of areas, including: Social psychology: how other people and the social environment influence how we think and behave - e.g., conformity, aggression, stereotypes and prejudice. Cognitive psychology: the exploration of internal mental processes - e.g., the fallible nature of memory, how it works and is influenced by others. Abnormal psychology: what happens when our thoughts, feelings, or behaviour cause distress, and interfere with our ability to function - e.g., depression, anxiety, and schizophrenia.You will also examine how psychologists acquire further knowledge and test their understanding of the way in which individuals think, feel, and behave. This will involve an introduction to research methodology (e.g., research design, descriptive statistics, and inferential statistics).",
+                    "UnitCode": "PSY1022",
+                    "UnitName": "Psychology 1B",
+                    "_id": "5878049430213215439e979f",
+                    "enjoyRating": 3.866558442,
+                    "enjoyResponse": 441,
+                    "learnRating": 3.08873963,
+                    "learnResponse": 53,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Science",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "BIO1011",
+                    "Proh": "BIO1711, BMS1021",
+                    "SCABand": 2,
+                    "Sypnosis": "A study of the biology of whole organisms, organ systems and cells, including molecular genetics, and the effect of environmental parameters on biological functions. The biology of microbes and animals is emphasised. Ecological factors that are biologically important at the level of integrated whole organisms and at cellular, subcellular, and biochemical levels are considered for each organism under study. As for BIO1011 the unit is structured to encourage self paced learning with considerable feed back on individual performance.",
+                    "UnitCode": "BIO1022",
+                    "UnitName": "Biology II",
+                    "_id": "5878010830213215439e8a60",
+                    "enjoyRating": 3.901459118,
+                    "enjoyResponse": 408,
+                    "learnRating": 3.727222222,
+                    "learnResponse": 45,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Applications of epidemiological and statistical concepts and methods to typical problems in population health and in the biomedical literature. This will include consideration of fundamental ethical issues pertaining to the conduct of biomedical research and population health interventions. Much emphasis is placed on a population view of health and disease, social determinants of health, epidemiological principles, research study design and statistical analyses of data.",
+                    "UnitCode": "BMS1042",
+                    "UnitName": "Public health and preventive medicine",
+                    "_id": "5878011530213215439e8a90",
+                    "enjoyRating": 3.86971831,
+                    "enjoyResponse": 282,
+                    "learnRating": 4.572318581,
+                    "learnResponse": 58,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Off-campus)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PSY1011 and PSY1022.",
+                    "Proh": "PSY2031,PSY2051",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit explores how human behaviour, both simple and complex, is underpinned by physiological and neural processes. Students will be introduced to the basic principles of neuroscience, including neuron structure and function, neurotransmission, and functional neuroanatomy. These will be examined within the broader framework of functional systems (e.g. sensation, perception, and memory), and will be used to facilitate an understanding of the neurobiological basis of psychological function and dysfunction. The integration of a quantitative methods module into this unit will provide students with an understanding of, and practical experience with, the application of statistical analysis techniques used to address research questions in Biological Psychology.",
+                    "UnitCode": "PSY2061",
+                    "UnitName": "Biological psychology",
+                    "_id": "5878049530213215439e97a3",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Off-campus)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PSY1011, PSY1022.",
+                    "Proh": "PSY2031, PSY2051",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit explores cognitive and behavioural development across the lifespan, including both typical and atypical development. Students will be introduced to the basic principles of development across infancy, childhood, adolescence and adulthood, such as critical periods for skill development and the link between early and later development. Factors influencing development will be examined within the framework of major theories of development to understand the contribution of genetic, biological, neurological, cognitive and environmental factors. The integration of a quantitative methods module into this unit will provide students with an understanding of, and practical experience with, the application of statistical analysis techniques used to address research questions in Developmental Psychology.",
+                    "UnitCode": "PSY2071",
+                    "UnitName": "Developmental psychology",
+                    "_id": "5878049530213215439e97a4",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Science",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "BIO1011 and BIO1022",
+                    "Proh": "MOL2011 and BMS1062",
+                    "SCABand": 2,
+                    "Sypnosis": "In this unit we will explore the construction, components and maintenance of the cell, focusing on: the similarities and differences between prokaryotic and eukaryotic cells; the properties and functions of membranes; how cells replicate, die, communicate, and form communities; and how cells are genetically programmed.",
+                    "UnitCode": "MCB2011",
+                    "UnitName": "Molecular biology and the cell",
+                    "_id": "5878037930213215439e9350",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Science",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "12 points from level one Biology, Chemistry and/or Physics units",
+                    "Proh": "BMS1052",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit studies how the cells in our body communicate to each other, using fast and slow response systems, and how our bodies use these systems to gain information about the world through our senses and then respond using the muscle systems of our limbs and internal organs and the hormone systems. This material is taught through four successive themes that progressively build up the discipline knowledge and broader organisation, communication and management skills of science. Themes 1 and 2 (Foundations) explain cell structure and nerve organisation and function. Theme 3 (Communication systems) develops that knowledge base to study fast and slow inter-cell communication systems. Theme 4 (Sensory systems) shows how the systems of touch, pain, hearing, vision, taste and smell detect the world and how the brain analyses that information. Theme 5 (Control and response systems) details how the body responds through movement of limbs and the action of internal organs, and hormone systems. Normal physiology and common dysfunctions of the systems are studied, to allow for a greater understanding of the normal physiology, and an appreciation of dysfunctions.",
+                    "UnitCode": "PHY2011",
+                    "UnitName": "Neuroscience of communication, sensory and control systems",
+                    "_id": "5878047d30213215439e9747",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PSY1011 and PSY1022.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit explores key concepts in social psychology and personality theory, including the history and philosophy of, and evidence for, competing theories. Personality theories that are covered include: 1) psychodynamic theories of Freud and Jung; 2) phenomenological theories of Kelly and Rogers; 3) Eysenck's trait approach; 4) Costa and McCrae's five factor model; and, 5) Bandura's social learning theory. Social psychology concepts that will be covered include: 1) social cognition and influence; 2) social identity and attribution; 3) group dynamics and intergroup behaviour; 4) attitude and attitude change; and, 5) attraction and aggression. In each case, these theories will be applied and critiqued in light of contemporary evidence. Lectures and laboratory classes will help students to apply psychological concepts, and gain an understanding of how personality and social psychology influences individual and interpersonal behaviour.",
+                    "UnitCode": "PSY2042",
+                    "UnitName": "Personality and social psychology",
+                    "_id": "5878049530213215439e97a1",
+                    "enjoyRating": 2.951780125,
+                    "enjoyResponse": 211,
+                    "learnRating": 3.469871795,
+                    "learnResponse": 35,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Science",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "BIO1011 and BIO1022, or BMS1021 + Recommended: PHY2011 and/or BCH2011 or BMS2031",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides an introduction to the pharmacological principles underlying drug action, as well as drug absorption, distribution, metabolism and excretion.  Specific examples of drugs used for therapeutic and social reasons are discussed with an emphasis on the social issues associated with drug availability and use.  How new drugs are discovered and the processes by which they are taken from the bench to the marketplace are discussed.",
+                    "UnitCode": "PHA2022",
+                    "UnitName": "Drugs and society",
+                    "_id": "5878046930213215439e96f8",
+                    "enjoyRating": 4.216666667,
+                    "enjoyResponse": 63,
+                    "learnRating": 4.558239963,
+                    "learnResponse": 46,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "BMS1062 or MCB2011/MOL2011",
+                    "Proh": "GEN2041 and GEN2052.",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit introduces the basic genetic principles underlying modern human genetics. Topics include: the central role of genes in the inheritance of traits, and the complex variation in inheritance patterns that arise due to interactions of genes with each other and the environment; the identification, characterisation and mapping of human genes;  the value of model organisms in genetics; chromosome variation and its role in both evolution and human disease; how genes function and how genetic malfunction can lead to genetic disease; how an understanding of such diseases at the genetic level may assist in diagnosis, prevention and therapy; the genetic control of development; genetic counselling and calculating risk for genetic diseases; human evolutionary genetics.",
+                    "UnitCode": "BMS2042",
+                    "UnitName": "Human genetics",
+                    "_id": "5878011730213215439e8a96",
+                    "enjoyRating": 4.528985507,
+                    "enjoyResponse": 134,
+                    "learnRating": 3.934826712,
+                    "learnResponse": 195,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PSY1011 and PSY1022.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "The unit gives students an overview of issues related to addictive behaviours. While the primary emphasis is on substance use, behavioural addictions such as gambling are also addressed. Students are introduced to problems in defining addiction and will be introduced to a range of theories which attempt to explain addictive behaviours. Issues relating to treatment of addictive behaviours will be introduced including prevention of addictive behaviours, assessment and various treatment options available. Students will be introduced to drug policy options in Australia and around the world.",
+                    "UnitCode": "PSY3190",
+                    "UnitName": "Addiction studies",
+                    "_id": "5878049830213215439e97ae",
+                    "enjoyRating": 4.470394737,
+                    "enjoyResponse": 80,
+                    "learnRating": 3.772907069,
+                    "learnResponse": 64,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Off-campus)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Off-campus)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PSY2031 and PSY2051 or PSY2061.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "The first half of this unit covers sensory, the first half of this unit covers sensory processes involved in vision, audition and speech perception. Coding mechanisms common to different modalities are emphasised to help students understand general mechanisms of sensory coding and perceptual processing. The second half encompasses the acquisition, organisation, and retrieval of knowledge and aims to cover cognitive psychology more generally. It includes emphasis on contemporary research techniques, cognitive architecture, attentional processes, models of learning and memory, mental imagery, language and higher-order thinking.",
+                    "UnitCode": "PSY3051",
+                    "UnitName": "Perception and cognitive psychology",
+                    "_id": "5878049730213215439e97a8",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Off-campus)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "First semester 2017 (Off-campus)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PSY2051 or PSY2061 and PSY2071.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit introduces the principles and processes of test development and concepts of test reliability and validity. Some widely used standardised psychology tests will be described.  The unit also covers theories of ability and how our thinking about human abilities is influenced by our cultural framework. Other major themes include methods for establishing the relative influence of heredity and environment on human intelligence, causes of intellectual disability, and intervention programs for disadvantaged and disabled children. A basic knowledge of the ethical, legal and professional responsibilities of psychologists will be provided. Attendance at weekend school is highly recommended for off-campus students.",
+                    "UnitCode": "PSY3041",
+                    "UnitName": "Psychological testing, theories of ability and ethics",
+                    "_id": "5878049630213215439e97a7",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PSY1011 and PSY1022.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "Central theme: introduction to counselling theory, interventions and research. Themes to be covered include theories of counselling, evaluation of counselling, research designs and interventions, ethical decision making in counselling psychology.",
+                    "UnitCode": "PSY3120",
+                    "UnitName": "Introduction to counselling",
+                    "_id": "5878049730213215439e97aa",
+                    "enjoyRating": 4.255208333,
+                    "enjoyResponse": 98,
+                    "learnRating": 4.257383041,
+                    "learnResponse": 40,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PSY2031 or PSY2061.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit covers all important aspects of abnormal behaviour: historical influences, theory, assessment, specific psychopathologies, treatment methods, and legal issues. Both the scientific and professional aspects of abnormal psychology are presented. Efforts will be made to give students the broadest possible view of abnormal behaviour by studying different theoretical perspectives.",
+                    "UnitCode": "PSY3032",
+                    "UnitName": "Abnormal psychology",
+                    "_id": "5878049630213215439e97a6",
+                    "enjoyRating": 3.476045884,
+                    "enjoyResponse": 137,
+                    "learnRating": 4.170418671,
+                    "learnResponse": 52,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Science",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PHY2011 plus one of PHY2042 or PHY2032; or BMS1052 plus one of BMS2031, BND2011 or BNS1072; or permission from the unit co-ordinator.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "The major focus of this course relates to \"neuronal plasticity\" associated with nervous system function in health and disease. Structural and functional changes in nervous system function occur throughout development, adulthood and in disease states associated with neural dysfunction. This course seeks to: focus on specific examples of plastic changes in nervous system function; identify and describe mechanisms contributing to neuronal plasticity; develop an understanding of functional physiological and pathophysiological consequences of neuronal plasticity. We will explore neuronal plasticity at the cellular and neural circuit level associated with higher brain function, such as learning and memory, motor control, cognition and consciousness, and how disruption and dysfunction of neural circuit function contributes to disease states including Alzheimer's, Parkinson's, and Huntington's disease and traumatic brain injury-induced epilepsy. At the level of the peripheral nervous system and spinal cord, functional plasticity underlying the development of chronic pain states will be described. Throughout the course, an emphasis is placed on the use of state-of-the-art research and diagnostic technologies to investigate neural function, including imaging techniques. Emphasis is on assisted self-directed and project based learning.",
+                    "UnitCode": "PHY3012",
+                    "UnitName": "Integrative neuroscience",
+                    "_id": "5878047e30213215439e974c",
+                    "enjoyRating": 3.25,
+                    "enjoyResponse": 25,
+                    "learnRating": 4.112257496,
+                    "learnResponse": 74,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PSY2031 or PSY2061.",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit aims to familiarise students with the assumptions and principles upon which the hypotheses about brain-behaviour relationships are based in the discipline of clinical neuropsychology.A considerable emphasis is also placed on providing a thorough understanding of underlying brain pathology in a range of neurodevelopmental disorders (eg autism and Tourette's syndrome) and neurodegenerative disorders (e.g. Parkinson's and Alzheimer's diseases), as well as their neuropsychological consequences.Both developmental and neurodegenerative disorders will be covered in terms of prevalence, neuropsychological manifestations, neuropathology, assessment techniques and potential treatments. Key skills and techniques relevant to the practice of clinical neuropsychology will also be explored such as the assessment of cognitive functioning and the diagnosis of neuropsychological conditions.",
+                    "UnitCode": "PSY3180",
+                    "UnitName": "Human neuropsychology: Developmental and neurodegenerative disorders",
+                    "_id": "5878049830213215439e97ad",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Either any two of PSY2031, PSY2042 or PSY3041; OR PSY2061 and PSY2071 (Please note that PSY2051 is incompatible with PSY2061 and PSY2071)",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "In this unit, students will continue their training in research via three components. First,  research design and analysis topics presented in first and second year will be explored at a more advanced theoretical level. The major focus of this component will be analysis of variance and multiple regression. Second, students will develop experience performing statistical analyses using a statistical software package. Finally, students will continue their training in research design and analysis by undertaking a group-based research project under the supervision of a member of staff.",
+                    "UnitCode": "PSY3062",
+                    "UnitName": "Research methods and theory",
+                    "_id": "5878049730213215439e97a9",
+                    "enjoyRating": 3.835851648,
+                    "enjoyResponse": 207,
+                    "learnRating": 3.872551297,
+                    "learnResponse": 49,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Completed Bachelors Degree and a major sequence in psychology approved by the Australian Psychological Society or qualification assessed as equivalent by the Australian Psychological Society, with a distinction average for third year psychology units.",
+                    "Proh": "PSY4200, PSY4504.",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit will focus on ethical, legal and professional issues related to psychological practice. Conceptual (eg theories and definitions) and practical issues (eg common ethical dilemmas and case study appraisals) will be addressed. Some of the issues to be addressed include: legislation governing psychologists, professional organisations, codes of professional conduct, and ethical issues raised by: conflicts of interest, children as clients, using psychological tests, and the provision of psychological services to a multi-cultural population, managing the suicidal client, the reporting of child abuse, and service delivery over the internet.",
+                    "UnitCode": "PSY4220",
+                    "UnitName": "Ethical and professional issues in psychology",
+                    "_id": "5878049e30213215439e97c4",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Completed Bachelors Degree and a major sequence in psychology approved by the Australian Psychological Society or qualification assessed as equivalent by the Australian Psychological Society, with a distinction average for third year psychology units.",
+                    "Proh": "PSY4200, PSY4502.",
+                    "SCABand": 1,
+                    "Sypnosis": "The aim of this unit is to provide students with a thorough understanding in statistical concepts to enable them to be informed in their chosen field. The unit begins with a review of univariate statistics and an introduction to the philosophy of research design and analysis. More advanced statistical techniques are then systematically introduced. There is a focus on the understanding of the issues that may arise around the choice of appropriate statistical technique and preparation of data, critiquing decisions made to assist in the interpretation of findings. The content will be set in a context of the needs of professional psychologists and researchers whose interests present unusual methodological demands, which in turn may influence choices in research approach and statistical technique.",
+                    "UnitCode": "PSY4210",
+                    "UnitName": "Statistics and research design for professional psychology",
+                    "_id": "5878049e30213215439e97c3",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 24,
+                    "EFTSL": 0.5,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Full year 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Full year 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Completed Bachelors Degree and a major sequence in psychology approved by the Australian Psychological Society or qualification assessed as equivalent by the Australian Psychological Society, with a distinction average for third year psychology units.",
+                    "Proh": "PSY4001, PSY4002, PSY4011, PSY4012, PSY4021, PSY4022.",
+                    "SCABand": 1,
+                    "Sypnosis": "The Honours year in psychology aims to increase students understanding of theoretical and methodological aspects of research, develop  analytic, research and communication skills, as well as provide students with advanced knowledge in the science and practice of psychology. The Honours program meets the requirements of the Australian Psychological Society for Associate Membership. In this unit, students undertake a supervised research project that aims to provide training in both discipline specific and generic research skills and form the basis of an honours research thesis presented at the end of the year.",
+                    "UnitCode": "PSY4100",
+                    "UnitName": "Psychology honours: Research project",
+                    "_id": "5878049b30213215439e97b9",
+                    "enjoyRating": 4.277777778,
+                    "enjoyResponse": 22,
+                    "learnRating": 4,
+                    "learnResponse": 4,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Completed Bachelors Degree and a major sequence in psychology approved by the Australian Psychological Society or qualification assessed as equivalent by the Australian Psychological Society, with a distinction average for third year psychology units.",
+                    "Proh": "PSY4503.",
+                    "SCABand": 1,
+                    "Sypnosis": "The unit will provide students with a theoretical and practical overview of individual differences, and how these may be assessed and treated using evidence-based approaches. The course of study will include the theoretical background to the development of classes of tests, detailed examination of a range of models of ability and other individual difference issues. Test evaluation methods and a review of recent trends in test development theory will also be covered. The unit will also cover the administration, scoring, and interpretation of a range of psychological tests and classification tools in various psychological settings. An overview of evidence-based interventions for common clinical disorders will also be discussed.",
+                    "UnitCode": "PSY4270",
+                    "UnitName": "Psychological assessment and intervention",
+                    "_id": "5878049f30213215439e97c5",
+                    "enjoyRating": 4.525,
+                    "enjoyResponse": 23,
+                    "learnRating": 4.329059829,
+                    "learnResponse": 24,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "PSY4110,PSY4120,PSY4130",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

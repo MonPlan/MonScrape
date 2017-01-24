@@ -1,0 +1,361 @@
+{
+    "courseAOS": "Fine Art",
+    "courseCode": "F2003",
+    "courseName": "Bachelor of Fine Arts",
+    "courseType": "Undergraduate",
+    "faculty": "Faculty of Art, Design and Architecture",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit is the first in a sequence to introduce students to a range of leading contemporary art practices and methodologies. The unit promotes a cutting-edge approach to conceptual and material processes through interdisciplinary transaction, material and fabrication procedures. Associated projects are introduced based on theories of contemporary art practices, collaborative practices and individual modes of research focused outcomes. Students will develop inventive and sustainable solutions to a series of projects that will enable them to develop a personal methodology and language.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "Admission to an Art & Design course or permission",
+                    "Prohibitions": "Any VPR or VIS level 1 unit",
+                    "SCABand": 1,
+                    "UnitCode": "FNA1111",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introduction to Contemporary Practices 1"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit is an introduction to visual cultures from the perspectives of art, design and architecture. Key themes within contemporary visual culture are discussed in terms of aesthetic, technological, historical and ideological contexts. Students develop critical skills in analysing the diverse artefacts and practices of art, design and architecture and communicating their significance in verbal and written forms.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "",
+                    "Prohibitions": "TAD1101",
+                    "SCABand": 1,
+                    "UnitCode": "AHT1101",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introduction to visual culture in Art Design & Architecture"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "An intensive program facilitating the acquisition and development of practical and intellectual skills required by art, design and architecture students in the discipline of drawing. Observation, analysis, selection, interpretation and expression are studied through sequential projects. Manufactured and natural forms including the figure and other models are central to the investigation of proportion, structure, volume and space through line, tone, shape, movement and texture. A range of drawing materials and methods are explored.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "Students must be enrolled in a course owned, or, granted permission by, the faculty of Art Design and Architecture.",
+                    "Prohibitions": "DRW1201",
+                    "SCABand": 1,
+                    "UnitCode": "DWG1201",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Drawing 1"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Description": "An introduction to occupational health, safety and environmental training within the context of courses within the Faculty of Art and Design, together with an understanding of the historical perspectives and context of safety and environment concerns in the workplace. The difference between hazard and risk, and the process of risk assessment in workplaces.",
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "Admission to any Art Design and Architecture course",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "OHS1000",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Off-campus)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introduction to art and design health and safety"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit is the second in the Contemporary Practices sequence. It continues to challenge students in a range of leading contemporary art practices and methodologies. The unit promotes a cutting-edge approach to conceptual and material processes through interdisciplinary transaction, material and fabrication procedures. Associated projects are introduced based on theories of contemporary art practices, collaborative practices and individual modes of research focused outcomes. Students will develop inventive and sustainable solutions to a series of projects that will enable them to form the basis of personal methodology and material language.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "FNA1111",
+                    "Prohibitions": "Any VIS, VPR  or FNA level 1 unit",
+                    "SCABand": 1,
+                    "UnitCode": "FNA1112",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introduction to Contemporary Practices 2"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The aesthetic, spiritual and ideological energies of the industrial period in painting, furniture, advertising, metalwork and so on. The meaning of works of art and design and the meaning of the standard survey which is traditionally constructed to explain the patterns of art history.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "",
+                    "Prohibitions": "TAD1102",
+                    "SCABand": 1,
+                    "UnitCode": "AHT1102",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Modernism and the avant-garde"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit is the third in the sequence for students to continue a range of leading contemporary art practices and methodologies. The unit promotes conceptual and material processes through painting, sculpture, print and photomedia, integrated drawing, interdisciplinary exchange, material and fabrication procedures. Associated projects are introduced based on theories of contemporary art practices, collaborative practices and individual modes of research focused outcomes. Students will develop inventive and sustainable solutions to a series of projects that will enable them to continue to develop a personal methodology and language.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "Completion of FNA1111 and FNA1112",
+                    "Prohibitions": "Any FNA, VIS or VPR level 2 unit",
+                    "SCABand": 1,
+                    "UnitCode": "FNA2111",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Contemporary Practices 3"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "AHT2101",
+                    "UnitName": "Cannot Fetch Data"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit is the fourth in the sequence for students to continue a range of leading contemporary art practices and methodologies. The unit promotes conceptual and material processes through interdisciplinary exchange, material and fabrication procedures. Associated projects are introduced based on theories of contemporary art practices, collaborative practices and individual modes of research focused outcomes. Students will develop inventive and sustainable solutions to a series of projects that will enable them to continue to develop a personal methodology and language.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "Must have passed FNA2111",
+                    "Prohibitions": "Any FNA, VIS or VPR level 2 unit",
+                    "SCABand": 1,
+                    "UnitCode": "FNA2112",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Prato"
+                            ],
+                            [
+                                "Trimester 3 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Contemporary Practices 4"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit is the fifth in the Contemporary Practices sequence. In this unit emphasis is placed on independent investigation, and the development of the creative and expressive potential inherent in student' work. Imagination combined with advanced conceptualisation and innovation in material manipulation should be manifest at this stage of students' practice. Whilst providing a stimulating and supportive environment this unit provides a bridge between students' experience in the supervised studio and a fully-fledged independent professional practice in the broader arts arena.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "FNA2112",
+                    "Prohibitions": "Any FNA, VIS or VPR level 3 unit",
+                    "SCABand": 1,
+                    "UnitCode": "FNA3111",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Contemporary Practices 5"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit is the last and culminating unit in the Contemporary Practices sequence. In this unit emphasis is placed on independent investigation, and the development of the creative and expressive potential inherent in students' work. Imagination combined with advanced conceptualisation and innovation in material manipulation should be manifest at this stage of students' practice. Students develop individual programs in conjunction with the lecturers that reflect their personal direction and evolving art practice. The program focuses on clear articulation of concepts. Lecturers facilitate students' own exploration, primarily through personal tuition where detailed analysis and discussion of students' work takes place. Whilst providing a stimulating and supportive environment this unit provides a bridge between students' experience in the supervised studio and a fully-fledged independent professional practice in the broader arts arena. The work produced culminates in an end of year exhibition of a professional standard, preparing students for entry into the professional world as fine artists in the discipline of choice, or the pursuit of further studies at a higher level.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "FNA3111",
+                    "Prohibitions": "Any FNA, VIS or VPR level 3 unit",
+                    "SCABand": 1,
+                    "UnitCode": "FNA3112",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Contemporary Practices 6"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                }
+            ],
+            "year": 2
+        }
+    ]
+}

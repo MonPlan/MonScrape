@@ -1,0 +1,84 @@
+{
+    "courseAOS": "Marketing practice specialisation",
+    "courseCode": "B2007",
+    "courseName": "Business Administration",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                [
+                    "ACB1100",
+                    "ACB1200"
+                ],
+                "ECB1101",
+                "MGB1010",
+                "MKB1200"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BTB1010",
+                "ETB1100",
+                "MGW3210",
+                "MKB2600"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "MGB2230",
+                "MGB2430",
+                "MKB2402",
+                "MKB2420"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "MKB2500",
+                "MKB2521",
+                {
+                    "faculty": "",
+                    "type": "Elective Level 1, 2 or 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Elective Level 2 or 3"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "MKB3461",
+                {
+                    "faculty": "",
+                    "type": "Elective Level 1, 2 or 3"
+                },
+                "MKB3301",
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "MGB3684",
+                {
+                    "faculty": "",
+                    "type": "Elective Level 1, 2 or 3"
+                },
+                "MKB3531",
+                "MKB3881"
+            ],
+            "year": 2
+        }
+    ]
+}

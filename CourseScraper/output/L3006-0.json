@@ -1,0 +1,151 @@
+{
+    "courseAOS": "Ethnomusicology and Musicology specialisation",
+    "courseCode": "L3006",
+    "courseName": "Laws and Music",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Law",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "LAW1111",
+                "LAW1114",
+                {
+                    "faculty": "",
+                    "type": "ATS1XXX Music Specialisation 1"
+                },
+                "ATS1899"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "LAW1112",
+                "LAW1113",
+                {
+                    "faculty": "",
+                    "type": "ATS1XXX Music Specialisation 2"
+                },
+                "ATS1346"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "LAW2101",
+                "LAW2112",
+                "ATS2804",
+                "ATS1345"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "LAW2102",
+                "LAW2111",
+                "ATS2805",
+                "ATS1900",
+                [
+                    "ATS2333",
+                    "ATS2331",
+                    "ATS2900"
+                ]
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "LAW3112",
+                "LAW3111",
+                "ATS2901",
+                [
+                    "ATS2060",
+                    "ATS2687"
+                ]
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "LAW3402",
+                {
+                    "faculty": "",
+                    "type": "Commercial law elective"
+                },
+                "ATS2902",
+                "ATS3144",
+                "ATS3094"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Law elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Law elective"
+                },
+                "ATS3153",
+                "ATS3061"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "LAW4331",
+                "LAW4170",
+                {
+                    "faculty": "",
+                    "type": "Law elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Law elective"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "LAW4323",
+                "LAW4332",
+                {
+                    "faculty": "",
+                    "type": "Law Research Project elective*"
+                },
+                {
+                    "faculty": "",
+                    "type": "Law Elective"
+                }
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "LAW4303",
+                "LAW4309",
+                {
+                    "faculty": "",
+                    "type": "Law Elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Law Elective"
+                }
+            ],
+            "year": 4
+        }
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "courseAOS": "Starting with PSY4406",
+    "courseCode": "M5003",
+    "courseName": "Graduate Diploma of Psychology Advanced",
+    "courseType": "Graduate Diploma",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "MO-TP1-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit will provide students with a theoretical and practical overview of individual differences, and how these may be assessed and treated using evidence-based approaches. The course of study will include the theoretical background to the development of classes of tests, detailed examination of a range of models of ability and other individual difference issues. Test evaluation methods and a review of recent trends in test development theory will also be covered. The unit will also cover the administration, scoring, and interpretation of a range of psychological tests and classification tools in various psychological settings. An overview of evidence-based interventions for common clinical disorders will also be discussed.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "",
+                    "Prohibitions": "PSY4503, PSY4270",
+                    "SCABand": 1,
+                    "UnitCode": "PSY4406",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Teaching Period 4 2017 (Online)",
+                                "Teaching Period 6 2017 (Online)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Psychological assessment and intervention"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "MO-TP2-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The aim of this unit is to provide students with a thorough understanding of statistical concepts to enable them to be informed in their chosen field. The unit begins with a review of univariate statistics and introduction to the philosophy of research design and analysis. More advanced statistical techniques are then systematically introduced. There is a focus on the understanding of the issues that may arise around the choice of appropriate statistical technique and preparation of data; critiquing decisions made to assist in the interpretation of findings. The content will be set in a context of the needs of professional psychologists and researchers whose interests present unusual methodological demands, which in turn may influence choices in research approach and statistical technique.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "Completed Bachelor's Degree and a major sequence in psychology approved by the Australian Psychological Society, or qualification assessed as equivalent by the Australian Psychological Society, with a distinction average (70%) for third year psychology units.",
+                    "Prohibitions": "PSY4001, PSY4002, PSY4011, PSY4012, PSY4021, PSY4022, PSY4100 and PSY4210",
+                    "SCABand": 1,
+                    "UnitCode": "PSY4401",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Teaching Period 1 2017 (Online)",
+                                "Teaching Period 3 2017 (Online)",
+                                "Teaching Period 5 2017 (Online)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Psychology research project: Statistics and research design for professional psychology"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "MO-TP3-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The unit will focus on ethical, legal and professional issues related to psychological practice. Conceptual (e.g. theories and definitions) and practical issues (e.g. common ethical dilemmas and case study appraisals) will be addressed. Some of the issues to be addressed include: legislation governing psychologists, professional organisations, codes of professional conduct, and ethical issues raised by: conflicts of interest, children as clients, using psychological tests, and the provision of psychological services to a multi-cultural population, managing the suicidal client, the reporting of child abuse, and service delivery over the internet.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "",
+                    "Prohibitions": "PSY4220",
+                    "SCABand": 1,
+                    "UnitCode": "PSY4405",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Teaching Period 4 2017 (Online)",
+                                "Teaching Period 6 2017 (Online)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Ethical and professional issues in psychology"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "MO-TP4-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The overall GDPA research project is divided into three units, PSY4402, PSY4403 AND PSY4404, beginning with this unit, PSY4402. The collective aim of these units is to increase students' understanding of theoretical and methodological aspects of research, develop analytic, research and communication skills, as well as provide students with advanced knowledge in the science and practice of psychology. The research project meets the requirements of the Australian Psychological Society for Associate Membership.The aim of PSY4402 is to enable students to produce a high quality research project component, consisting of the production of a research report introduction/ literature review.Students will undertake a supervised research project that aims to provide training in both discipline specific and generic research skills, and form the basis of a literature review and research report presented at the end of the course. The thesis introduction/ literature review component of the research report will consist of a description of the students' project, a detailed review of the relevant literature, and a statement of the research hypotheses to be tested. Students will be provided with course materials and guidance to help them produce a high quality research proposal, source and synthesise appropriate research findings, and coherently synthesise this into a research project. The development of these skills and their application to the production of the introduction/ literature review component of the students' research project will build on their research and writing skills developed in previous courses.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "Completed Bachelor's Degree and a major sequence in psychology approved by the Australian Psychological Society or qualification assessed as equivalent by the Australian Psychological Society, with a distinction average (70%) for third year psychology units.",
+                    "Prohibitions": "PSY4001, PSY4002, PSY4011, PSY4012, PSY4021, PSY4022, PSY4100 and PSY4210",
+                    "SCABand": 1,
+                    "UnitCode": "PSY4402",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Teaching Period 1 2017 (Online)",
+                                "Teaching Period 3 2017 (Online)",
+                                "Teaching Period 5 2017 (Online)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Psychology research project: Literature review"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "MO-TP5-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The unit will assist students to identify and enhance specific employability skills acquired throughout the undergraduate study of psychology. The unit also aims to familiarise students with the steps required to become a registered and licensed psychologist in Australia, and the various career pathways available, both specific and beyond the profession of psychology. The ways in which their knowledge and skills are relevant to other industries will also be explored.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "PSY4407",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Teaching Period 4 2017 (Online)",
+                                "Teaching Period 6 2017 (Online)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Psychology in industry: Pathways to employment"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "MO-TP6-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The overall GDPA research project is divided into three units, PSY4402, PSY4403 AND PSY4404, beginning with PSY4402.The collective aim of these units is to increase students' understanding of theoretical and methodological aspects of research, develop analytic, research and communication skills, as well as provide students with advanced knowledge in the science and practice of psychology.The research project meets the requirements of the Australian Psychological Society for Associate Membership.The aim of PSY4403 is to enable students to produce a high quality research project component, consisting of the production of a research project methods section, and research project data accumulation.This unit forms part of students' undertaking of a supervised research project that aims to provide training in both discipline specific and generic research skills.The methods section of the GDPA research report will consist of a description of the methods to be used to answer the research questions, and the accumulation component of the research project will consist of accumulation of research data via the conducting of experiments, surveys, and database access.Students will be provided with course materials and guidance to help them produce high quality research methods and data accumulation research project components, and to coherently synthesise these into the overall research project.The development of these skills and their application to the production of quality research method and data accumulation components will build on students' research and writing skills developed in previous courses.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "Completed Bachelor's Degree and a major sequence in psychology approved by the Australian Psychological Society or qualification assessed as equivalent by the Australian Psychological Society, with a distinction average (70%) for third year psychology units.PSY4401, PSY4402.",
+                    "Prohibitions": "PSY4001, PSY4002, PSY4011, PSY4012, PSY4021, PSY4022, PSY4100, PSY4210",
+                    "SCABand": 1,
+                    "UnitCode": "PSY4403",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Teaching Period 1 2017 (Online)",
+                                "Teaching Period 3 2017 (Online)",
+                                "Teaching Period 5 2017 (Online)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Psychology research project: Methodology and data collection"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "MO-TP1-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "MO-TP2-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The overall GDPA research project is divided into three units, PSY4402, PSY4403 AND PSY4404, beginning with PSY4402.The collective aim of these units is to increase students' understanding of theoretical and methodological aspects of research, develop analytic, research and communication skills, as well as provide students with advanced knowledge in the science and practice of psychology.The research project meets the requirements of the Australian Psychological Society for Associate Membership.The aim of PSY4404 is to enable students to produce high quality research project components, consisting of research report results and discussion sections.This unit forms part of students' undertaking of a supervised research project that aims to provide training in both discipline specific and generic research skills.The results component of the GDPA research report will consist of conducting and writing up of the results of statistical and other analyses of data in order to answer research questions and test research hypotheses.The discussion component of the GDPA research report will consist of relating research results and methods to the research report introduction, including the literature review and hypotheses, and discussing how the student's results have contributed to knowledge of the research area.Students will be provided with course materials and guidance to help them produce high quality results and discussion research report components, and to coherently synthesise these into the overall research project.The development of these skills and their application to the production of the quality data accumulation and results of the research project will build on students' research and writing skills developed in previous courses.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "Prerequisites": "Completed Bachelor's Degree and a major sequence in psychology approved by the Australian Psychological Society or qualification assessed as equivalent by the Australian Psychological Society, with a distinction average (70%) for third year psychology units.PSY4401, PSY4402, PSY4403.",
+                    "Prohibitions": "PSY4001, PSY4002, PSY4011, PSY4012, PSY4021, PSY4022, PSY4100, PSY4210",
+                    "SCABand": 1,
+                    "UnitCode": "PSY4404",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Teaching Period 3 2017 (Online)",
+                                "Teaching Period 5 2017 (Online)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Psychology research project: results and discussion"
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

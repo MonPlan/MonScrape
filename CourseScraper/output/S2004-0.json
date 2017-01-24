@@ -1,0 +1,143 @@
+{
+    "courseAOS": "Computer Science specialisation",
+    "courseCode": "S2004",
+    "courseName": "Science and Computer Science",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Science",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science major level 1 sequence 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "Level 1 Science sequence 1"
+                },
+                "FIT1045",
+                "MAT1830"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science major level 1 sequence 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Level 1 Science sequence 2"
+                },
+                "FIT1008",
+                "MAT1841"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science major \u2013 level 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "One of SCI1020 STA1010 MTH1020 MTH1030 [or Science elective if already taken as part of another sequence]"
+                },
+                "FIT1047",
+                "FIT2004"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science major \u2013 level 2"
+                },
+                [
+                    "SCI2010",
+                    "SCI2015"
+                ],
+                "FIT2014",
+                "FIT1049"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science major \u2013 level 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science elective"
+                },
+                "FIT2099",
+                {
+                    "faculty": "",
+                    "type": "BCS Approved L3 Elective"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science major \u2013 level 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science elective \u2013 level 2 or 3"
+                },
+                "FIT2102",
+                "FIT3155"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science major \u2013 level 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science elective \u2013 level 2 or 3"
+                },
+                "FIT3161",
+                {
+                    "faculty": "",
+                    "type": "BCS Approved L3 Elective"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Science major \u2013 level 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Science elective \u2013 level 2 or 3"
+                },
+                "FIT3162",
+                "FIT3143"
+            ],
+            "year": 3
+        }
+    ]
+}

@@ -1,0 +1,330 @@
+{
+    "courseAOS": "Art History",
+    "courseCode": "F2003",
+    "courseName": "Bachelor of Fine Arts",
+    "courseType": "Undergraduate",
+    "faculty": "Faculty of Art, Design and Architecture",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit is an introduction to visual cultures from the perspectives of art, design and architecture. Key themes within contemporary visual culture are discussed in terms of aesthetic, technological, historical and ideological contexts. Students develop critical skills in analysing the diverse artefacts and practices of art, design and architecture and communicating their significance in verbal and written forms.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "",
+                    "Prohibitions": "TAD1101",
+                    "SCABand": 1,
+                    "UnitCode": "AHT1101",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introduction to visual culture in Art Design & Architecture"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "An intensive program facilitating the acquisition and development of practical and intellectual skills required by art, design and architecture students in the discipline of drawing. Observation, analysis, selection, interpretation and expression are studied through sequential projects. Manufactured and natural forms including the figure and other models are central to the investigation of proportion, structure, volume and space through line, tone, shape, movement and texture. A range of drawing materials and methods are explored.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "Students must be enrolled in a course owned, or, granted permission by, the faculty of Art Design and Architecture.",
+                    "Prohibitions": "DRW1201",
+                    "SCABand": 1,
+                    "UnitCode": "DWG1201",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Drawing 1"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "DIS1704,MKF1120,ATS1279,ATS1298,ATS1903,ATS1305,ATS1254,ATS1089,ATS1090"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Description": "An introduction to occupational health, safety and environmental training within the context of courses within the Faculty of Art and Design, together with an understanding of the historical perspectives and context of safety and environment concerns in the workplace. The difference between hazard and risk, and the process of risk assessment in workplaces.",
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "Admission to any Art Design and Architecture course",
+                    "Prohibitions": "",
+                    "SCABand": 2,
+                    "UnitCode": "OHS1000",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Off-campus)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Introduction to art and design health and safety"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "The aesthetic, spiritual and ideological energies of the industrial period in painting, furniture, advertising, metalwork and so on. The meaning of works of art and design and the meaning of the standard survey which is traditionally constructed to explain the patterns of art history.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "",
+                    "Prohibitions": "TAD1102",
+                    "SCABand": 1,
+                    "UnitCode": "AHT1102",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Modernism and the avant-garde"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Digital Imaging for Contemporary Art is designed to develop an approach to digital imaging tools that aligns with the objectives of a contemporary art practice. Students will be introduced to digital imaging processes such as electronic drawing and capture, image manipulation and various approaches to output such as printing and screen-based applications. While this unit provides a practical introduction to the basic digital imaging tools and materials there is an emphasis on the creative and experimental potential of these tools and how they are utilised within a broader creative practice. Students are encouraged to develop their own creative direction alongside a critical awareness of their ideas.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "Admission to a degree program of the Faculty of Art Design & Architecture, or permission from the Unit Coordinator.",
+                    "Prohibitions": "DIS1103",
+                    "SCABand": 1,
+                    "UnitCode": "PHO1204",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Digital Imaging for Contemporary Art"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "DIS1704,MKF1120,ATS1279,ATS1298,ATS1903,ATS1305,ATS1254,ATS1089,ATS1090"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "AHT2001,AHT2712"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "International Art 1945-1990 covers the art produced in the second half of the 20th century and its relevance to contemporary practice. Various actions, interventions and critiques of institutions, museums and the art market will be considered, as well as feminist, queer and non-Western perspectives. An objective of the unit is to reach an understanding of the way art-historical discourses promote and exclude certain practices and practitioners (especially due to gender, race, sexuality and location), with an emphasis on incorporating recent research on artists who were previously excluded from the historical \"canon\".",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "12 credit points at first year level in Art history and theory, or Theory of Art and Design, Visual Culture or permission from Unit Coordinator.",
+                    "Prohibitions": "TAD2112, TAD3102, TAD3112",
+                    "SCABand": 1,
+                    "UnitCode": "AHT2102",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "International art 1945-1990"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "AHT2011/3011,AHT2025/3025,AHT2120/3120,AHT2130/3130,AHT2137/3137,AHT2138/3138,AHT2440/3440,AHT2530/3530,AHT2722/3722,AHT2740/3740,AHT2801/3801"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "AHT2011/3011,AHT2025/3025,AHT2120/3120,AHT2130/3130,AHT2137/3137,AHT2138/3138,AHT2440/3440,AHT2530/3530,AHT2722/3722,AHT2740/3740,AHT2801/3801"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ATS2790,ATS3113,ATS2517,ATS2163,ATS2436,ATS3437,ATS3763,ATS2983,ATS2962,ATS3969,ATS3405 ,ATS3419 ,ATS2355 , ATS2612/3612 , ATS2957/3957"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Arts",
+                    "SCABand": 0,
+                    "UnitCode": "custom",
+                    "UnitName": ""
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "AH3001,AHT3712"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "AHT2011/3011,AHT2025/3025,AHT2120/3120,AHT2130/3130,AHT2137/3137,AHT2138/3138,AHT2440/3440,AHT2530/3530,AHT2722/3722,AHT2740/3740,AHT2801/3801"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ATS2790,ATS3113,ATS2517,ATS2163,ATS2436,ATS3437,ATS3763,ATS2983,ATS2962,ATS3969,ATS3405 ,ATS3419 ,ATS2355 , ATS2612/3612 , ATS2957/3957"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "AHT2011/3011,AHT2025/3025,AHT2120/3120,AHT2130/3130,AHT2137/3137,AHT2138/3138,AHT2440/3440,AHT2530/3530,AHT2722/3722,AHT2740/3740,AHT2801/3801"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit is designed to assist students specialising in art history and curating to extend their field of study with practical art writing and curatorial experience. A program of directed reading and critical writing, facilitated by regular meetings with staff, will underpin a research project designed to allow students to apply the knowledge they have learnt throughout the degree. Typically, this project will include an exhibition catalogue essay and the curating of an exhibition.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "Prerequisites": "Must have passed 96 credit points towards the BFA Art History and Curating",
+                    "Prohibitions": "",
+                    "SCABand": 1,
+                    "UnitCode": "AHT3150",
+                    "UnitLocationTP": "Not Offered in 2017",
+                    "UnitName": "Project studies"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty"
+                }
+            ],
+            "year": 2
+        }
+    ]
+}

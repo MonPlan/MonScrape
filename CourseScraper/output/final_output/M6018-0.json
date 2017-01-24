@@ -1,0 +1,285 @@
+{
+    "courseAOS": "Medicine and Surgery (Graduate entry)",
+    "courseCode": "M6018",
+    "courseName": "Medical Science and Medicine",
+    "courseType": "Bachelor degree/Master degree",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "GMA1010 Foundations of medical practice (48 points) GMA2000 Final grade (0 points)",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester (extended) 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester (extended) 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MED2031, MED2042 and MED2000 or GMA1010 and GMA2000.",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "MED3051 is an integrated medicine/surgery curriculum based on the four themes of the medical curriculum: Personal and professional development; population, society, health and illness; foundations of medicine; and clinical skills. Evidence-based educational approaches support students in acquiring appropriate knowledge, attitudes and skills in medicine, surgery, clinical skills, evidence-based clinical practice, occupational and environmental medicine, pathophysiology, pharmacology, ethics and law. Previous learning will be extended.",
+                    "UnitCode": "MED3051",
+                    "UnitName": "Medicine and surgery 1",
+                    "_id": "5878039630213215439e93b8",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 24,
+                    "EFTSL": 0.5,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Full year (extended) 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Full year (extended) 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Must have completed 2 of MED2031, MED2042, GMA1010, GMA2000.",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "Introductory Clinical Studies integrates the learning across MED3051 and MED3062. Learning activities specific to each specialty area will be linked to the specific clinical placement and may include lectures, tutorials, case-based learning,  bed- side tutorials, practical skills sessions, and specialty teaching clinics and  directed learning activities.",
+                    "UnitCode": "MED3200",
+                    "UnitName": "Introductory clinical studies",
+                    "_id": "5878039630213215439e93ba",
+                    "enjoyRating": 3.95530303,
+                    "enjoyResponse": 105,
+                    "learnRating": 3.884044012,
+                    "learnResponse": 46,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester (extended) 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester (extended) 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Must have passed an (I/W) unit in {MED3051}.",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "MED3062 is an integrated medicine/surgery curriculum based on the four themes of the medical curriculum: personal and professional development; population, society, health and illness; foundations of medicine; and clinical skills. Evidence-based educational approaches support students in acquiring appropriate knowledge, attitudes and skills in medicine, surgery, clinical skills, evidence-based clinical practice, occupational and environmental medicine, patho-physiology, pharmacology, ethics and law. Previous learning will be extended. By the end of the semester students must be capable of undertaking history and clinical examinations of patients with straightforward conditions.",
+                    "UnitCode": "MED3062",
+                    "UnitName": "Medicine and surgery 2",
+                    "_id": "5878039630213215439e93b9",
+                    "enjoyRating": 3.935740741,
+                    "enjoyResponse": 117,
+                    "learnRating": 3.776242478,
+                    "learnResponse": 53,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 24,
+                    "EFTSL": 0.5,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Full year (extended) 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Full year (extended) 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MED3051, MED3062 and MED3200 or GMB3031, GMB3042 and GMB3200.",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "Specialty Clinical Practices provides clinical teaching in Children's Health, General Practice, Psychiatry and Women's Health. Students will undertake clinical placements in at least 2 specialty areas across the semester. Learning activities, tailored to the specific placement, may include lectures, tutorials, case-based learning, bedside tutorials, practical skills sessions, and specialty teaching clinics and directed learning activities. Students are expected to attend clinical settings, undertake independent learning activities and consolidate knowledge and skills from previous learning. EBCP and Health Economics components will be integrated with placement activities.",
+                    "UnitCode": "MED4190",
+                    "UnitName": "Specialty clinical practices",
+                    "_id": "5878039630213215439e93bc",
+                    "enjoyRating": 4.083333333,
+                    "enjoyResponse": 91,
+                    "learnRating": 3.819787367,
+                    "learnResponse": 43,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "MED4200 Integrated clinical studies (24 points) MED4000 Year 3B and 4C final grade (0 points)",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 18,
+                    "EFTSL": 0.375,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester (extended) 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester (extended) 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MED4000, MED4190 and MED4200.",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "MED5091 is focused on facilitating the transition of students into the medical workplace as beginning interns. Students will participate in a range of learning experiences which are designed to substantially enhance their clinical reasoning, diagnostic and case management skills. Students will participate in supervised clinical practice and related learning activities (learning modules). Furthermore, students will have the opportunity to broaden their knowledge and skills in self selected areas of clinical practice which may include electing a remote community, health or medicine related field.",
+                    "UnitCode": "MED5091",
+                    "UnitName": "Advanced clinical practice 1",
+                    "_id": "5878039730213215439e93c0",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Full year (extended) 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Full year (extended) 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "2012 pre-reqs: MED4071, MED4082 and MED40002014 pre-reqs: MED4171, MED4182, MED4200 and MED4000 or GMC4151, GMC4162, GMC4200 and GMC4000.",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "Medical practitioners are frequently required to respond to emerging and consolidating innovations and policies related to clinical practice. MED5102 further develops the concept of 'readiness to practice' and focuses upon the development of students' understanding of the principles of Patient Safety and the related clinical competencies. The unit will provide students with an understanding of the role of research in Patient Safety and the application of these principles and practices in diverse contexts. The unit will have the capacity to respond to other issues/innovations/policy changes as they arise in medical practice.",
+                    "UnitCode": "MED5102",
+                    "UnitName": "Contemporary developments in clinical practice: Patient safety",
+                    "_id": "5878039830213215439e93c3",
+                    "enjoyRating": 4.166025641,
+                    "enjoyResponse": 81,
+                    "learnRating": 3.913752914,
+                    "learnResponse": 27,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "MED5092 Advanced clinical practice 2 (12 points) MED5100 Final MBBS grade (0 points)",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

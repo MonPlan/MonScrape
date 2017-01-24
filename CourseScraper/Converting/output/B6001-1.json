@@ -1,0 +1,206 @@
+{
+    "courseAOS": "Applied Economics and Econometrics",
+    "courseCode": "B6001",
+    "courseName": "Master of Applied Economics and Econometrics",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "Description": "This unit applies microeconomic principles to study how consumers and firms make decisions to achieve their goals. In particular, it analyses how firms position themselves in the market and how they form their output and price decisions on the basis of their understanding of demand and supply conditions, market structures, and strategic interaction with other firms. Finally this unit looks at particular aspects of market failure and the role of government in relation to market failure.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "ECF4100 and ECX5410",
+                    "SCABand": 3,
+                    "UnitCode": "ECF5410",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Applied microeconomics"
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "The focus is on practical questions about how to achieve national economic growth and control inflation in the context of a global economy, with special attention to policy formulation and implementation and the dilemmas facing decision-makers in the government and private sectors. Macroeconomic forecasting and the methods for analysing the short-term and long-term trends are also considered. Australia's experience during the last two decades, in particular the impact of the Asian Currency Crisis, are examined closely.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "",
+                    "Prohibitions": "ECF4200, ECX5420",
+                    "SCABand": 3,
+                    "UnitCode": "ECF5421",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Applied macroeconomics"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ECC5900,ECF5927"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ECC5901,ECF5923"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ETC5341,ETF5320"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Mastery Knowledge Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ETF2100,ETC2410"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ETF2700,ETC2440,ETF2121"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Mastery Knowledge Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 6,
+                    "Description": "Presents newly developed econometric methodology in model building and model evaluation in general.  Recent literature on assessing business time series properties, non-linear time series models, multiple cointegration, impulse response function and variance decomposition is introduced.  Examples in business, economics and finance will be drawn to illustrate the application of techniques covered in this unit.",
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Students must be enrolled in course code 4412, 3816 or 3822 or must have passed ETF3200 or ETF9200 or ETF3300 or ETC3410 or ETC5341 or ETF5320 or by permission.",
+                    "Prohibitions": "",
+                    "SCABand": 3,
+                    "UnitCode": "ETF5200",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Applied time series econometrics"
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Business and Economics",
+                    "SCABand": 0,
+                    "UnitCode": "Application Studies Unit",
+                    "UnitName": ""
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "FY-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 12,
+                    "Description": "This unit will be organised around a series of workshops to introduce the research methodology to students. Different fields of applied economics such as reveal preference theory, experiment economics, industrial organisation, fiscal and monetary theory and financial economics will then be introduced to showcase the research frontiers of applied economics.Students will then be required to select a project in their area of specialisation and submit a 9000 word report and an oral presentation. Students will work closely with a personal supervisor to ensure that the research paper locates and masters new knowledge and demonstrates originality in both research content and intellectual argument.",
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Business and Economics",
+                    "Prerequisites": "Admission to B6001 Master of Applied Economics and Econometrics",
+                    "Prohibitions": "ECF5010, ECF5300.",
+                    "SCABand": 3,
+                    "UnitCode": "ECF5060",
+                    "UnitLocationTP": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Evening)",
+                                "Full year 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "UnitName": "Applied economics research project"
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "courseCode": "E3003",
+    "courseName": "Bachelor of Engineering (Honours) and Bachelor of Commerce Specialist",
+    "courseAOS": "Mechatronics Engineering/Mathematical Economics and Econometrics",
+    "faculty": "Faculty of Engineering",
+    "courseType": "Double Undergraduate",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+            ["ENG1001","ENG1002"],
+            ["ENG1003","ENG1005"],
+            "ENG1060",
+            "ETC1000"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+            ["ENG1002","ENG1001"],
+            ["ENG1003","ENG1005"],
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Engineering"
+            },
+            "ECC1000"
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 1,
+          "units": [
+            "ECE2071",
+            "ECE2131",
+            "ECC2000",
+            "ECC1100"
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 1,
+          "units": [
+            "ENG2005",
+            "TRC2201",
+            ["ECC2010", "ECC2360", "ECC2600","ECC3660","ECC3670","ECC3690","ECC3710", "ECC3830"],
+            "ETC2410"
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 2,
+          "units": [
+            "TRC3200",
+            "MEC2402",
+            ["ETC2460 & ETC2520","ETC2440 & ECC2610","MTH1020 & MTH1030","MTH1030 & MTC2010/MTC2021"],
+            ["ECC2010", "ECC2360", "ECC2600","ECC3660","ECC3670","ECC3690","ECC3710", "ECC3830"]
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 2,
+          "units": [
+            "ECE3161",
+            "TRC2001",
+            ["ETC2460 & ETC2520","ETC2440 & ECC2610","MTH1020 & MTH1030","MTH1030 & MTC2010/MTC2021"],
+            ["ECC3660","ECC3670","ECC3690","ECC3710", "ECC3830"]
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 3,
+          "units": [
+            "TRC3802",
+            "TRC2500",
+            ["ECC3660","ECC3670","ECC3690","ECC3710", "ECC3830"],
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Business and Economics"
+            }
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 3,
+          "units": [
+            "TRC3600",
+            "TRC3000",
+            "ECC3840",
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Business and Economics"
+            }
+          ]
+        },
+        {
+          "code": "S1-01",
+          "year": 4,
+          "units": [
+            "TRC4000",
+            "TRC4800",
+            "TRC4418",
+            {
+              "type": "Faculty Elective",
+              "faculty": "Faculty of Business and Economics"
+            }
+          ]
+        },
+        {
+          "code": "S2-01",
+          "year": 4,
+          "units": [
+            "TRC4001",
+            "TRC4092",
+            {
+              "type": "Mechnical Engineering Elective",
+              "faculty": "Faculty of Business and Economics"
+            },
+            "ETC3400"
+          ]
+        }
+    ]
+}

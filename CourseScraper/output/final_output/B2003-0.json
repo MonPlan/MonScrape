@@ -1,0 +1,689 @@
+{
+    "courseAOS": "Bachelor of Accounting",
+    "courseCode": "B2003",
+    "courseName": "Business Specialist",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students enrolled in course code 0816 must be granted permission to undertake this unit.",
+                    "Proh": "BTB1010, BTP1010, BTC1110, BTG1200, BTW1200",
+                    "SCABand": 3,
+                    "Sypnosis": "Liability for defective products; liability for misleading advice or information; contract law; agency law; partnership law; introduction to company law; company officers' duties.",
+                    "UnitCode": "BTF1010",
+                    "UnitName": "Business law",
+                    "_id": "5878012330213215439e8ac5",
+                    "enjoyRating": 3.974226804,
+                    "enjoyResponse": 211,
+                    "learnRating": 3.887235527,
+                    "learnResponse": 43,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ACB1002, AFF1121, ACF1121, AFG1002, ACG1002, AFC1030, AFW1002, ACW1002, ACC1100, ACP1100.",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit provides students with an introduction to financial accounting guided by the Conceptual Framework and Accounting Standards. Emphasis is placed on accounting processes, practices and policies that enable the financial statements to be prepared. Students will integrate theoretical and technical knowledge learned and exercise judgement to explore accounting issues.",
+                    "UnitCode": "ACF1100",
+                    "UnitName": "Introduction to financial accounting",
+                    "_id": "5877ff8530213215439e8452",
+                    "enjoyRating": 4.129032258,
+                    "enjoyResponse": 120,
+                    "learnRating": 4.121760198,
+                    "learnResponse": 120,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ECB1101, ECC1000, ECG1101, ECP1100, ECS1101, ECW1101, PMM2020",
+                    "SCABand": 3,
+                    "Sypnosis": "Economics as an area of knowledge. Economics in a business degree. Understanding economic policy. An analysis of markets: supply and demand; consumer behaviour; firm behaviour; cost of production and profit maximisation; behaviour of firms in different market structures; evaluation of market capitalist economic systems, economic efficiency, market failure, government failure; current economic policies, competition policy, privatisation and the funding of education.",
+                    "UnitCode": "ECF1100",
+                    "UnitName": "Microeconomics",
+                    "_id": "587801a430213215439e8cd8",
+                    "enjoyRating": 3.688311688,
+                    "enjoyResponse": 205,
+                    "learnRating": 3.745326328,
+                    "learnResponse": 205,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ETX1100, BUS1100, ETB1100, ETC1000, ETG1102, ETW1000, ETW1102, PMM2020, SCI1020, ETP1100, ETX9000, AFX9510, ETC9000, ETX9000 and students enrolled in course codes 1941, 2224, 3381 or 4423 cannot undertake this unit.",
+                    "SCABand": 2,
+                    "Sypnosis": "Students will learn to use basic statistical techniques and apply them to problems in accounting, finance, management, marketing and business in general. Students should also be able to effectively communicate the results of their analyses. This unit covers descriptive statistics for revealing the information contained in data; probability as a tool for dealing with uncertainty; probability distributions to model business behaviour; confidence interval estimation and hypothesis testing techniques for single populations; analysis of relationships between variables using simple linear regression; and simple tools for forecasting time series data. Excel software will be used.",
+                    "UnitCode": "ETF1100",
+                    "UnitName": "Business statistics",
+                    "_id": "5878025f30213215439e8f59",
+                    "enjoyRating": 3.865972222,
+                    "enjoyResponse": 216,
+                    "learnRating": 3.938020197,
+                    "learnResponse": 108,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "AFC1100, AFC2000, AFC2100, AFG1300, AFW1300, BFB1300, BFC2000, BFF1300, BFG1300, BFW1300,BFC1001, BFB1001, BFP1001, BFW1001",
+                    "SCABand": 3,
+                    "Sypnosis": "As a foundation, this unit introduces students to the concepts of finance, financial mathematics, investment analysis, the financial system, risk management and the relationship of finances to other commercial disciplines.",
+                    "UnitCode": "BFF1001",
+                    "UnitName": "Foundations of finance",
+                    "_id": "587800f630213215439e8a12",
+                    "enjoyRating": 3.895502646,
+                    "enjoyResponse": 321,
+                    "learnRating": 4.710291859,
+                    "learnResponse": 53,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "BTF1010, BTC1110 or BTP1010",
+                    "Proh": "BTB2220, BTC2210, BTF2220, BTG2220, BTW2220",
+                    "SCABand": 3,
+                    "Sypnosis": "Topics include the separate legal entity status of companies and the concept of limited liability; the effect of registration; the corporate constitution; the company's relationship with outsiders; corporate management incorporating extensive consideration of directors' duties; share capital; regulation of public fund raising; members' remedies incorporating statutory remedies and common law rights of action; members' meetings; forms of corporate insolvency administrations.",
+                    "UnitCode": "BTX2000",
+                    "UnitName": "Corporations law",
+                    "_id": "5878013330213215439e8b0e",
+                    "enjoyRating": 4.353846154,
+                    "enjoyResponse": 184,
+                    "learnRating": 4.779761905,
+                    "learnResponse": 11,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed one of the following units: ACF1100, ACF1121, AFF1121, ACP1100.",
+                    "Proh": "ACB2020, AFC2131, ACC2131, AFG2020, ACG2020, AFW2020, ACW2020, AFF2391, ACF2391, ACC2200.",
+                    "SCABand": 3,
+                    "Sypnosis": "This introductory management accounting unit focuses on the types of cost information that can be produced to assist managers and other employees within organisations in planning and control, and in decision-making. Topics include: costs and cost behaviour, product costing, cost allocation techniques, cost-volume-profit analysis, and the use of cost information for management decisions.",
+                    "UnitCode": "ACF2200",
+                    "UnitName": "Introduction to management accounting",
+                    "_id": "5877ff8630213215439e8455",
+                    "enjoyRating": 4.331730769,
+                    "enjoyResponse": 122,
+                    "learnRating": 4.02310049,
+                    "learnResponse": 61,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed one of the following units:  AFF1000, ACF1000, AFP1000, ACB1000, ACP1000, ACC1000, AFC1000, ACF1100, ACC1100, ACP1100, ACC1200, ACP1200, ACF1200, ACW1100, ACW1200.",
+                    "Proh": "ACB2851, ACC2851, ACF2851, ACG2851, ACP2851, ACW2851, BUS1060, BUS3030, AFF2851, AFC2851, AFW2851, AFP2851, ACC2400.",
+                    "SCABand": 3,
+                    "Sypnosis": "At the core of Accounting Information Systems is the idea that accountants must understand the core business processes that underpin the business activities in an organisation and generate transaction data. Thus, the objective of this unit is to provide students with a broad introduction to the core business processes.Further, given the role technology plays in accounting, with many accounting systems being computerised, other topics covered include: how hardware, software and human processes turn data into useful financial and non-financial information for decision making, methods for documenting and analysing business processes, principles of effective spreadsheet design, systems development and maintenance, and the need to understand internal controls in order to ensure (information and other) resources remain secure from losses through both inadvertent and malicious actions.",
+                    "UnitCode": "ACF2400",
+                    "UnitName": "Accounting information systems",
+                    "_id": "5877ff8630213215439e8456",
+                    "enjoyRating": 2.6984375,
+                    "enjoyResponse": 129,
+                    "learnRating": 2.948844333,
+                    "learnResponse": 65,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed one of the following units: ACF1121, AFF1121, ACF1100, ACP1100.",
+                    "Proh": "ACB2491, AFF2491, ACF2491, AFG2491, ACG2491, AFW2491, ACW2491, ACC2120, AFC2120, ACC2100.",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit examines financial accounting issues associated with the operation of corporate structures. Topics include financial reporting requirements, financing company operations, business combinations, the nature of corporate groups, the preparation of consolidated financial statements and financial statement analysis.",
+                    "UnitCode": "ACF2100",
+                    "UnitName": "Financial accounting",
+                    "_id": "5877ff8530213215439e8454",
+                    "enjoyRating": 4.107142857,
+                    "enjoyResponse": 148,
+                    "learnRating": 4.078532429,
+                    "learnResponse": 148,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed one of the following units: BFC1001, BFF1001, AFC2140, BFC2140, BFF2140 PLUS one of the following units: AFF1121, ACC1030, ACF1100, ACC1100, ACF2100, ACC2100",
+                    "Proh": "AFC3230, AFC3234, ACC3230.",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit explores a range of techniques used to analyse corporate financial performance and valuation of entities. These include: application and use of financial ratios and forecasting techniques, accounting-based and cash flow-based share valuation, credit analysis and financial distress prediction, equity security analysis, and analysis relating to mergers and takeovers. Both Australian and international case studies are used to provide a real-world context.",
+                    "UnitCode": "ACX3150",
+                    "UnitName": "Financial analysis and valuation",
+                    "_id": "5877ff9530213215439e848f",
+                    "enjoyRating": 4.333333333,
+                    "enjoyResponse": 9,
+                    "learnRating": 4.041666667,
+                    "learnResponse": 9,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have completed one of the following units: AFF2391, ACF2391, ACF2200",
+                    "Proh": "ACC3131, AFC3131, ACF3431, AFF3431, ACB3021, AFW3021, ACW3021, AFG3021, ACG3021, ACC3200",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit focuses on the provision and use of management accounting information for management planning and control in organisations. Technical and behavioural issues related to budgeting, variance analysis, performance measurement, and value chain management are considered.",
+                    "UnitCode": "ACF3200",
+                    "UnitName": "Management accounting",
+                    "_id": "5877ff8630213215439e8458",
+                    "enjoyRating": 4.096491228,
+                    "enjoyResponse": 118,
+                    "learnRating": 4.050574007,
+                    "learnResponse": 118,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed one of the following units: AFF2491, ACF2491, ACF2100",
+                    "Proh": "ACF3631, AFF2631, ACC3160, AFC3160, ACB3041, AFW3041, ACW3041, AFG3041, ACG3041, ACC3600",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit encompasses the nature and purpose of audit and assurance services, and the regulatory and professional environment in which they operate. Students apply professional, ethical and legal requirements stemming from the assurance framework and applicable auditing pronouncements to 'real world' scenarios.",
+                    "UnitCode": "ACF3600",
+                    "UnitName": "Auditing and assurance",
+                    "_id": "5877ff8730213215439e8459",
+                    "enjoyRating": 4.044117647,
+                    "enjoyResponse": 69,
+                    "learnRating": 4.051790541,
+                    "learnResponse": 69,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Accounting elective unit from specified list",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed one of the following units: AFF2491, AFC2491, ACC2100.",
+                    "Proh": "ACB3050, AFF3491, ACF3491, AFG3040, ACG3040, AFC3120, ACC3120, AFG3050, ACG3050, AFW3040, ACW3040, AFW3050, ACW3050, ACC3200",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit explores advanced financial accounting issues, building on knowledge and skills gained in earlier units in financial accounting. A range of theories used to assess accounting decisions, reporting practices and regulation are examined. The unit focuses on a number of contemporary accounting issues including: measurement, intangible assets, financial instruments, foreign currency transactions and integrated reporting.",
+                    "UnitCode": "ACF3100",
+                    "UnitName": "Advanced financial accounting",
+                    "_id": "5877ff8630213215439e8457",
+                    "enjoyRating": 4.32,
+                    "enjoyResponse": 149,
+                    "learnRating": 4.256172512,
+                    "learnResponse": 149,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "City (Melbourne)"
+                            ],
+                            [
+                                "Trimester A 2017 (Day)",
+                                "Trimester B 2017 (Day)",
+                                "Trimester C 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "BTF1010",
+                    "Proh": "BTB3221, BTC3150, BTG3221, BTW3221",
+                    "SCABand": 3,
+                    "Sypnosis": "Assessable income and exempt income; deductions; capital gains tax; fringe benefits tax; goods and services tax; residence and source; individual offsets.",
+                    "UnitCode": "BTF3931",
+                    "UnitName": "Taxation law",
+                    "_id": "5878012430213215439e8aca",
+                    "enjoyRating": 4.013513514,
+                    "enjoyResponse": 75,
+                    "learnRating": 4.412820513,
+                    "learnResponse": 25,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have completed the following five units:ACF1100, ACF2100, ACF2200, ACF2400, and ACF3200.",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "This capstone unit integrates prior learning gained throughout the Bachelor of Accounting course and prepares students for transition to a professional career and for undertaking postgraduate studies. Students will be required to analyse, synthesise, critically evaluate, and apply knowledge and skills acquired over the course of their studies to real-world scenarios. Students will also be required to reflect on the role of accounting in organisations and society more generally, and will develop professional judgement, as well as the key skills that are expected of accountants.",
+                    "UnitCode": "ACF3900",
+                    "UnitName": "Global issues in accounting",
+                    "_id": "5877ff8730213215439e845a",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Free elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        }
+    ]
+}

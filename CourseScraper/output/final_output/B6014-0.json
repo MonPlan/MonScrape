@@ -1,0 +1,433 @@
+{
+    "courseAOS": "Master of Actuarial Studies",
+    "courseCode": "B6014",
+    "courseName": "Actuarial Studies",
+    "courseType": "Master degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed one of the following units: AFC2000, BFC2000, AFC1100 (pre 2009), AFC2100 (pre 2009), BFB1001, BFC1001, BFF1001, BFP1001, BFW1001 OR be enrolled in course B6014 or 4439 prior to undertaking this unit.",
+                    "Proh": "AFC2340",
+                    "SCABand": 3,
+                    "Sypnosis": "Topics covered in this unit include: an introduction to mathematics of finance, rates of interest, rates of discount, present and accumulated value of cash flows under fixed and variable rates of interest, equation of value, applications to debt and retirement income stream markets, in particular the Australian annuity, short-term money market and capital markets; factors affecting accumulation under the Superannuation Guarantee Scheme; economic factors affecting the yield curve, zero coupon bonds, zero coupon bond yield curve, pricing bonds, bond yields, callable bonds, effect of tax on yield, annuity bonds, hybrids, CGB futures and options on futures, interest rate risk management by immunisation, stochastic models for cash flows and stochastic rates of interest, calculation of moments of present values and accumulations, arbitrage-free asset pricing, hedging, optimal conversion of lump sum to a retirement income stream.",
+                    "UnitCode": "BFC2340",
+                    "UnitName": "Debt markets and fixed income securities",
+                    "_id": "587800f230213215439e8a00",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have passed ETC1000, or be enrolled in course 4439.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will introduce students to basic financial and stochastic techniques used in actuarial work, and will give an overview of some of the areas in which actuaries are currently involved. The student will be introduced to the basic concepts involved in assessing and pricing future risks and pricing insurance products, using past data.",
+                    "UnitCode": "ETC2430",
+                    "UnitName": "Actuarial statistics",
+                    "_id": "5878025230213215439e8f22",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ECF2331",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit examines the scope for policy to improve macroeconomic performance. It will cover: the cyclical behaviour of the economy; the role of monetary, fiscal and exchange rate policies in influencing economic activities; the implementation and operation of monetary policy; the relationship of exchange rates to monetary policy; major factors determining movements in interest rates and exchange rates in both the intermediate and long terms.",
+                    "UnitCode": "ECF5923",
+                    "UnitName": "Macroeconomics and monetary policy",
+                    "_id": "587801a930213215439e8ced",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ECF2731, ECG2731, ECS2731 and ECW2731",
+                    "SCABand": 3,
+                    "Sypnosis": "Students will develop sound knowledge of the differing views of the firm and industry. Topics include: the firm within a capitalist economic system; the macroeconomic constraints on the firm; the market structural constraints on the firm; differing perspectives of the firm - the conventional economic, technological view, the accounting, management and marketing views, the recent transaction costs and new classical view; how these different areas explain current issues such as downsizing and electronic commerce.",
+                    "UnitCode": "ECF5927",
+                    "UnitName": "Managerial economics",
+                    "_id": "587801a930213215439e8cee",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MTH2222, ETC2520",
+                    "SCABand": 3,
+                    "Sypnosis": "An introduction to probability and statistical inference for use in economics and business. Topics covered include random variables, moments and cumulants generating function, discrete and continuous distributions, independence, jointly distributed random variables, conditional random variables, the central limit theorem, sampling distribution, properties of estimators, confidence intervals, tests of hypotheses.",
+                    "UnitCode": "ETC5252",
+                    "UnitName": "Probability and statistical inference for economics and business",
+                    "_id": "5878025b30213215439e8f46",
+                    "enjoyRating": 4.038461538,
+                    "enjoyResponse": 24,
+                    "learnRating": 4.028787879,
+                    "learnResponse": 24,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ETC1000 or must be enrolled in course 3822 or 4412 or 4439",
+                    "Proh": "ETC2400, ETC3440, ECC2410",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit introduces students to the empirical analysis of relationships between economic variables. The approach is based on linear regression theory, and emphasises 'hands on' data analysis. Topics studied will include properties of least squares estimators, hypothesis testing, the choice of appropriate functional form, the use of dummy variables, issues around modelling survey data and the problems of serial correlation, heteroscedasticity and multicollinearity.",
+                    "UnitCode": "ETC2410",
+                    "UnitName": "Introductory econometrics",
+                    "_id": "5878025230213215439e8f20",
+                    "enjoyRating": 3.971153846,
+                    "enjoyResponse": 114,
+                    "learnRating": 4.000993401,
+                    "learnResponse": 114,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Application studies unit 1",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Application studies unit 2",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have completed the following units: ETC2430, ETC3430, ETC3530, ETC3420 and ETC3510, or completion of 24 credit points in course 4439",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "Unit ETC4110 covers the subject material required for Actuaries Institute subject Part IIA The Actuarial Control Cycle. The student is introduced to the concept of the Actuarial Control Cycle and how it can be applied in practical commercial situations in a wide range of insurance and related applications. This covers life insurance, general insurance, health insurance, pension or superannuation funds and investment issues. The unit also develops the student's understanding of a wide range of commercial background matters in insurance, pensions and investment - covering features of financial products, the related business environment in Australia, and Government policies affecting insurance and related industries. Risk management is introduced both in terms of the risk issues involved in offering insurance and related financial products, and the general concepts of Enterprise Risk Management.",
+                    "UnitCode": "ETC4110",
+                    "UnitName": "Actuarial practice I",
+                    "_id": "5878025830213215439e8f39",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ETC2520 or ETC2440 or equivalent.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Mathematical definition of options and other financial derivatives; probability models; mathematical models of random processes; applications; numerical methods; Monte Carlo methods.",
+                    "UnitCode": "ETC5351",
+                    "UnitName": "Modelling in finance and insurance",
+                    "_id": "5878025d30213215439e8f4d",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must be granted permission to undertake this unit to ensure an appropriate background in Finance and Econometrics.",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit focuses on the specification, estimation and testing of asset pricing models, including the capital asset pricing model and extensions; the statistical characteristics of financial data emphasising skewness, kurtosis and volatility aspects; volatility models such as ARCH models of financial time series, with applications to stock prices, derivatives, and exchange rates including the forecast performance of these models.",
+                    "UnitCode": "ETC5346",
+                    "UnitName": "Financial econometrics",
+                    "_id": "5878025c30213215439e8f4c",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ETC2430",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "Financial mathematics under uncertainty will apply the ideas of interest rates, present values, cash flow modelling and profit testing in the context of certain payments and payments dependent on individual deaths or other uncertain risk. We will also introduce stochastic modelling techniques applied to actuarial and financial contexts.Students will cover the topics of present values and accumulated values, equations of value, Markov modelling, survival models, life tables and contingent products.",
+                    "UnitCode": "ETC5343",
+                    "UnitName": "Financial mathematics under uncertainty",
+                    "_id": "5878025c30213215439e8f4a",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Evening)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "ETC4110",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "",
+                    "UnitCode": "ETC4120",
+                    "UnitName": "Actuarial practice II",
+                    "_id": "5878025830213215439e8f3a",
+                    "enjoyRating": 4,
+                    "enjoyResponse": 4,
+                    "learnRating": 4,
+                    "learnResponse": 4,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have completed ETC4110 or by permission of the unit coordinator.",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "Unit ETC4130 covers the subject material required for Actuaries Institute subject Part IIB Investment and Asset Modelling. The unit gives an introduction into the investment background for Australian financial institutions, especially those offering insurance and related financial products. It then addresses issues in asset liability management. The student is introduced to the characteristics and behaviour of various investment types and the understanding of the relationship between risk and return. Valuation methods for investment types are addressed. Economic and financial theories relevant to investment are studied. The techniques of setting investment objectives for different investment funds are covered. More detailed issues in relation to asset liability management are then addressed, including how investment policy for assets may assist in managing liabilities for financial institutions.",
+                    "UnitCode": "ETC4130",
+                    "UnitName": "Asset liability management",
+                    "_id": "5878025830213215439e8f3b",
+                    "enjoyRating": 4.75,
+                    "enjoyResponse": 6,
+                    "learnRating": 4.111111111,
+                    "learnResponse": 6,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "AFC2340 or ETC2430 or BFC2340 or by permission.",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit focuses on the modelling and valuation of cash flows dependent on death, survival, or other uncertain risks.",
+                    "UnitCode": "ETC5353",
+                    "UnitName": "Insurance and pensions",
+                    "_id": "5878025d30213215439e8f4e",
+                    "enjoyRating": 3.875,
+                    "enjoyResponse": 16,
+                    "learnRating": 4.073412698,
+                    "learnResponse": 16,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Business and Economics",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must have completed one of the following units: ETC2420, ETC2520 or MTH2222 before undertaking this unit",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "To provide a further grounding in the mathematics and statistics of short term insurance risk.",
+                    "UnitCode": "ETC5342",
+                    "UnitName": "Applied insurance methods",
+                    "_id": "5878025c30213215439e8f49",
+                    "enjoyRating": 4,
+                    "enjoyResponse": 5,
+                    "learnRating": 4,
+                    "learnResponse": 5,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

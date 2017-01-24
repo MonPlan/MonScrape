@@ -1,0 +1,82 @@
+{
+    "courseAOS": "Bachelor of Interior Architecture (Honours)",
+    "courseCode": "F3001",
+    "courseName": "Interior Architecture",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Art, Design and Architecture",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "IAR1113",
+                "DWG1201",
+                "AHT1101",
+                "OHS1000"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "IAR1114",
+                "IAR1411",
+                "IAR1602"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "IAR2115",
+                "IAR2601",
+                "IAR2411"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "IAR2116",
+                "Elective",
+                "IAR2602"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "IAR3117",
+                "PPR3102",
+                "IAR3401"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "IAR3118",
+                "IAR3303",
+                "Elective",
+                "IAR4406"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "IAR4119",
+                "Elective",
+                "IAR4500"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "IAR4120",
+                "IAR4501"
+            ],
+            "year": 3
+        }
+    ]
+}

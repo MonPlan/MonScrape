@@ -1,0 +1,248 @@
+[
+    {
+        "name": "Full-year teaching period",
+        "code": "FY-01",
+        "startDate": "27/02/2017",
+        "endDate": "20/10/2017"
+    },
+    {
+        "name": "Full-year (extended)",
+        "code": "FY-32",
+        "startDate": "23/01/2017",
+        "endDate": "24/11/2017"
+    },
+    {
+        "name": "MBA 1",
+        "code": "MBA-TP1-01",
+        "startDate": "01/02/2017",
+        "endDate": "30/06/2017"
+    },
+    {
+        "name": "MBA 2",
+        "code": "MBA-TP2-01",
+        "startDate": "01/03/2017",
+        "endDate": "31/05/2017"
+    },
+    {
+        "name": "MBA 3",
+        "code": "MBA-TP3-01",
+        "startDate": "01/06/2017",
+        "endDate": "31/08/2017"
+    },
+    {
+        "name": "MBA 4",
+        "code": "MBA-TP4-01",
+        "startDate": "01/07/2017",
+        "endDate": "31/12/2017"
+    },
+    {
+        "name": "MBA 5",
+        "code": "MBA-TP5-01",
+        "startDate": "01/09/2017",
+        "endDate": "31/12/2017"
+    },
+    {
+        "name": "Monash online 1",
+        "code": "MO-TP1-01",
+        "startDate": "05/01/2017",
+        "endDate": "17/02/2017"
+    },
+    {
+        "name": "Monash online 2",
+        "code": "MO-TP2-01",
+        "startDate": "03/03/2017",
+        "endDate": "19/04/2017"
+    },
+    {
+        "name": "Monash online 3",
+        "code": "MO-TP3-01",
+        "startDate": "05/05/2017",
+        "endDate": "16/06/2017"
+    },
+    {
+        "name": "Monash online 4",
+        "code": "MO-TP4-01",
+        "startDate": "30/06/2017",
+        "endDate": "11/08/2017"
+    },
+    {
+        "name": "Monash online 5",
+        "code": "MO-TP5-01",
+        "startDate": "25/08/2017",
+        "endDate": "06/10/2017"
+    },
+    {
+        "name": "Monash online 6",
+        "code": "MO-TP6-01",
+        "startDate": "20/10/2017",
+        "endDate": "01/12/2017"
+    },
+    {
+        "name": "October intake - South Africa",
+        "code": "OCT-MSA-01",
+        "startDate": "23/10/2017",
+        "endDate": "02/02/2018"
+    },
+    {
+        "name": "October intake - Malaysia",
+        "code": "OCT-MY-01",
+        "startDate": "23/10/2017",
+        "endDate": "19/01/2018"
+    },
+    {
+        "name": "Research Q1",
+        "code": "RES-Q1",
+        "startDate": "01/01/2017",
+        "endDate": "31/03/2017"
+    },
+    {
+        "name": "Research Q2",
+        "code": "RES-Q2",
+        "startDate": "01/04/2017",
+        "endDate": "30/06/2017"
+    },
+    {
+        "name": "Research Q3",
+        "code": "RES-Q3",
+        "startDate": "01/07/2017",
+        "endDate": "30/09/2017"
+    },
+    {
+        "name": "Research Q4",
+        "code": "RES-Q4",
+        "startDate": "01/10/2017",
+        "endDate": "31/12/2017"
+    },
+    {
+        "name": "Semester 1",
+        "code": "S1-01",
+        "startDate": "27/02/2017",
+        "endDate": "26/05/2017"
+    },
+    {
+        "name": "Semester 1 (extended)",
+        "code": "S1-32",
+        "startDate": "23/01/2017",
+        "endDate": "23/06/2017"
+    },
+    {
+        "name": "Semester 1 (northern)",
+        "code": "S1-60",
+        "startDate": "11/09/2017",
+        "endDate": "08/12/2017"
+    },
+    {
+        "name": "Semester 2",
+        "code": "S2-01",
+        "startDate": "24/07/2017",
+        "endDate": "20/10/2017"
+    },
+    {
+        "name": "Semester 2 (extended)",
+        "code": "S2-32",
+        "startDate": "26/06/2017",
+        "endDate": "24/11/2017"
+    },
+    {
+        "name": "Semester 2 (northern)",
+        "code": "S2-60",
+        "startDate": "20/02/2017",
+        "endDate": "26/05/2017"
+    },
+    {
+        "name": "Semester 2 - semester 1",
+        "code": "S2-S1-02",
+        "startDate": "24/07/2017",
+        "endDate": "25/05/2018"
+    },
+    {
+        "name": "Semester 2 - summer A",
+        "code": "S2-SS-02",
+        "startDate": "24/07/2017",
+        "endDate": "16/02/2018"
+    },
+    {
+        "name": "Summer semester A",
+        "code": "SSA-02",
+        "startDate": "01/11/2017",
+        "endDate": "16/02/2018"
+    },
+    {
+        "name": "Summer semester B",
+        "code": "SSB-01",
+        "startDate": "01/01/2017",
+        "endDate": "17/02/2017"
+    },
+    {
+        "name": "Summer A - semester 1",
+        "code": "SS-S1-01",
+        "startDate": "01/11/2016",
+        "endDate": "26/05/2017"
+    },
+    {
+        "name": "Term 1",
+        "code": "T1-57",
+        "startDate": "01/01/2017",
+        "endDate": "31/03/2017"
+    },
+    {
+        "name": "Term 2",
+        "code": "T2-57",
+        "startDate": "01/04/2017",
+        "endDate": "30/06/2017"
+    },
+    {
+        "name": "Term 3",
+        "code": "T3-57",
+        "startDate": "01/07/2017",
+        "endDate": "30/09/2017"
+    },
+    {
+        "name": "Term 4",
+        "code": "T4-57",
+        "startDate": "01/10/2017",
+        "endDate": "31/12/2017"
+    },
+    {
+        "name": "Trimester 1",
+        "code": "T1-58",
+        "startDate": "09/01/2017",
+        "endDate": "12/05/2017"
+    },
+    {
+        "name": "Trimester 2",
+        "code": "T2-58",
+        "startDate": "15/05/2017",
+        "endDate": "18/08/2017"
+    },
+    {
+        "name": "Trimester 3",
+        "code": "T3-58",
+        "startDate": "21/08/2017",
+        "endDate": "08/12/2017"
+    },
+    {
+        "name": "Trimester A",
+        "code": "TRI-A-29",
+        "startDate": "06/03/2017",
+        "endDate": "26/05/2017"
+    },
+    {
+        "name": "Trimester B",
+        "code": "TRI-B-29",
+        "startDate": "26/06/2017",
+        "endDate": "15/09/2017"
+    },
+    {
+        "name": "Trimester C",
+        "code": "TRI-C-29",
+        "startDate": "13/11/2017",
+        "endDate": "02/02/2018"
+    },
+    {
+        "name": "Winter semester",
+        "code": "WS-01",
+        "startDate": "19/06/2017",
+        "endDate": "14/07/2017"
+    }
+]

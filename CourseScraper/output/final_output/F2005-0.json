@@ -1,0 +1,758 @@
+{
+    "courseAOS": "Industrial Design and Communication Design specialisations and Games Development major",
+    "courseCode": "F2005",
+    "courseName": "Design and Information Technology",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Art, Design and Architecture",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "TAD1101",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit is an introduction to visual cultures from the perspectives of art, design and architecture. Key themes within contemporary visual culture are discussed in terms of aesthetic, technological, historical and ideological contexts. Students develop critical skills in analysing the diverse artefacts and practices of art, design and architecture and communicating their significance in verbal and written forms.",
+                    "UnitCode": "AHT1101",
+                    "UnitName": "Introduction to visual culture in Art Design & Architecture",
+                    "_id": "5877ff9b30213215439e84a8",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Students must be enrolled in a course owned, or, granted permission by, the faculty of Art Design and Architecture.",
+                    "Proh": "DRW1201",
+                    "SCABand": 1,
+                    "Sypnosis": "An intensive program facilitating the acquisition and development of practical and intellectual skills required by art, design and architecture students in the discipline of drawing. Observation, analysis, selection, interpretation and expression are studied through sequential projects. Manufactured and natural forms including the figure and other models are central to the investigation of proportion, structure, volume and space through line, tone, shape, movement and texture. A range of drawing materials and methods are explored.",
+                    "UnitCode": "DWG1201",
+                    "UnitName": "Drawing 1",
+                    "_id": "5878017a30213215439e8c29",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "FIT1031 and FIT2078",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit introduces students to fundamentals of computer systems, networks and security. It provides basic knowledge of computer organisation and architecture, operating systems, networking architecture, technology and operation. It introduces the concepts of security goals for protecting common modern computer systems and communication networks from adversaries and the deployment of suitable countermeasures to achieve these goals.",
+                    "UnitCode": "FIT1047",
+                    "UnitName": "Introduction to computer systems, networks and security",
+                    "_id": "5878027430213215439e8fab",
+                    "enjoyRating": 3.880434783,
+                    "enjoyResponse": 118,
+                    "learnRating": 3.864349817,
+                    "learnResponse": 118,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "FIT2015, DIS1911",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit is an introduction to the techniques, frameworks and processes comprising 3D modelling and 3D imaging. Foundations of 3D aims to give students an understanding of 3D modelling by developing skills in 3D model creation for a variety of contexts, including 3D prototyping, 3D visualisation and 3D modelling for games and animation. Students will communicate their knowledge of 3D theory through the production of designs that demonstrate geometrical modelling, texture mapping, virtual lighting techniques, camera positioning, and rendering procedures.",
+                    "UnitCode": "FIT1033",
+                    "UnitName": "Foundations of 3D",
+                    "_id": "5878027230213215439e8fa4",
+                    "enjoyRating": 4.1,
+                    "enjoyResponse": 32,
+                    "learnRating": 3.979707792,
+                    "learnResponse": 32,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "EFTSL": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Off-campus)",
+                                "Second semester 2017 (Off-campus)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Admission to any Art Design and Architecture course",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "An introduction to occupational health, safety and environmental training within the context of courses within the Faculty of Art and Design, together with an understanding of the historical perspectives and context of safety and environment concerns in the workplace. The difference between hazard and risk, and the process of risk assessment in workplaces.",
+                    "UnitCode": "OHS1000",
+                    "UnitName": "Introduction to art and design health and safety",
+                    "_id": "5878044b30213215439e9691",
+                    "enjoyRating": 4.045454545,
+                    "enjoyResponse": 48,
+                    "learnRating": 3.962286504,
+                    "learnResponse": 88,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "TAD1101 or AHT1101",
+                    "Proh": "TAD1102, TAD2101, TAD2214",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit considers the various strands of European modernism and their legacy in relation to the design disciplines. Key avant-garde movements and practices are studied, with particular consideration given to their ideological, political and cultural contexts and motives. The critical and utopian tendencies of twentieth-century avant-garde practices are considered in terms of their lasting implications for the social role of design. Students will continue to develop a range of approaches to understanding works of design and related issues, while also refining the broader critical and analytical skills necessary to their disciplines.",
+                    "UnitCode": "TDN1002",
+                    "UnitName": "Design and the avant-garde",
+                    "_id": "587804e430213215439e98c6",
+                    "enjoyRating": 3.738636364,
+                    "enjoyResponse": 85,
+                    "learnRating": 3.815568355,
+                    "learnResponse": 55,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "FIT2071",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces programming fundamentals and the C++ language to students. The unit provides a foundational understanding of program design and implementation of algorithms to solve simple problems. Fundamental programming control structures, built in and complex data-types and mechanisms for modularity will be presented in C++. This unit also places a focus on object-oriented design principles, using object-oriented design as a process for program design and problem solving. More advanced object-oriented programming topics such as inheritance and polymorphism will also be covered. Other C++ fundamentals such as pointers and the STL will be presented, as will implementations of algorithms and data structures used in problem solving.",
+                    "UnitCode": "FIT1048",
+                    "UnitName": "Fundamentals of C++",
+                    "_id": "5878027430213215439e8fac",
+                    "enjoyRating": 4.6,
+                    "enjoyResponse": 100,
+                    "learnRating": 4.418384293,
+                    "learnResponse": 100,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Completion of 12 points of FIT units.",
+                    "Proh": "FIT2003",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides a practical and theoretical introduction to what it means to be an IT professional today. Students will encounter a range of issues relevant to professional practice in the workplace, as well as an understanding of the wider responsibilities that professionals are called upon to uphold in society. Topics addressed include: organisational and professional communication; mindfulness; teamwork; the nature of the IT professions; the role of professional associations; problem solving and information use; cross-cultural awareness; personal and professional ethics and codes of practice.",
+                    "UnitCode": "FIT1049",
+                    "UnitName": "IT professional practice",
+                    "_id": "5878027530213215439e8fad",
+                    "enjoyRating": 3.482545045,
+                    "enjoyResponse": 188,
+                    "learnRating": 3.664236475,
+                    "learnResponse": 63,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "FIT2048",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides a foundation in the theoretical and practical principles of game design and game narrative structures in the games development process. Utilising the principles taught in this unit, students will be given the opportunity to design innovative game applications and implement the consequences of their decisions as working game prototypes.The combination of theory and practice in this unit is geared to equip students with the skills to not only design innovative games, but also to critique existing games and importantly new game ideas. The studio environment will facilitate considerable peer interaction, in particular in the design, communication, and critique of new game ideas. The unit provides knowledge and skills, which students can apply within their game development projects in the third year studio project/s (FIT3039/3040) and across all subsequent units.",
+                    "UnitCode": "FIT2073",
+                    "UnitName": "Game design studio 1",
+                    "_id": "5878027930213215439e8fc0",
+                    "enjoyRating": 4.791666667,
+                    "enjoyResponse": 48,
+                    "learnRating": 4.649235209,
+                    "learnResponse": 24,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "CDS1001,IDN1001",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "TDN1002",
+                    "Proh": "",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit covers a range of sociological and critical theories that inform the analysis and interpretation of designed objects and images. Various perspectives of production, consumption and exchange are considered, including theories of the commodity and the gift. The bodies of thought surveyed include Marxist and structuralist perspectives, and subsequent discourses, as well as parallel streams of critique, and attendant linguistic and semiotic theories. Students will develop an enhanced understanding of the systems of objects and images to which designers contribute.",
+                    "UnitCode": "TDN2001",
+                    "UnitName": "Sociologies of design",
+                    "_id": "587804e530213215439e98c7",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "FIT1048 or FIT2071",
+                    "Proh": "FIT2049",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will further develop object-oriented programming skills with the C++ language, and place them into the Games Programming context. Fundamental games programming design principles will be covered, including formal game structures and the game program loop. A number of specific games programming techniques with C++ will be also covered. These include the use of DirectX, games physics, and advanced 3D rendering, expressing these concepts through game creation using C++ and Microsoft Windows DirectX. Underpinning this will be use of fundamental mathematical principles for working with computer graphics and game interactions. This provides a strong grounding for further study in this area, especially related to games engine development and artificial intelligence.",
+                    "UnitCode": "FIT2096",
+                    "UnitName": "Games programming 1",
+                    "_id": "5878027e30213215439e8fd1",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "CDS1002,IDN1002",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "(FIT2073 and FIT2096) or (FIT2049 and FIT2073)",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit exposes students to a variety of industry standard games engine environments and development techniques. Students will develop an appreciation and basic working knowledge of a number of different platforms used in contemporary games development. The unit aims to provide students with a practical insight into contemporary, industry standard, games development process and games engines. The studio environment will facilitate considerable peer interaction, in particular in the critique of game engines and the development of game prototypes.The unit provides knowledge and skills, which students can apply within their game development projects in the third year studio project/s (FIT3039/FIT3040) and across all subsequent units.",
+                    "UnitCode": "FIT3145",
+                    "UnitName": "Game design studio 2",
+                    "_id": "5878028a30213215439e8fff",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "FIT2096",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will further develop games development programming skills with the C++ language, and explore them further in the Games Programming context. Focus will be on advanced games programming techniques, including a focus on the content pipeline, advanced rendering and visual game effects. Principles will also be placed into the context of different libraries, such as OpenGL, and other platforms, such as mobile. This provides a strong grounding for further study in this area, especially related to games engine development and artificial intelligence.",
+                    "UnitCode": "FIT2097",
+                    "UnitName": "Games programming 2",
+                    "_id": "5878027e30213215439e8fd2",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "CDS2001,IDN2001",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "FIT2001,FIT2099",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "FIT2049 or FIT2096",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces topics in Artificial Intelligence (AI) suited to real-time simulation and computer games development. Using a practice-based and programming-led approach, the unit explores a number of fundamental concepts, techniques and algorithms that can be used to build real-time, interactive games, virtual environments and simulations. Starting with basic concepts in 2D discrete simulation, the unit progresses to continuous, 3D models, agent simulation, bio-inspired intelligence models and search algorithms. Programs are developed using the Processing and Cinder environments in Java and C++.",
+                    "UnitCode": "FIT3094",
+                    "UnitName": "Artificial life, artificial intelligence and virtual environments",
+                    "_id": "5878028730213215439e8ff4",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "(FIT2073 and FIT2096) or (FIT2049 and FIT2073)",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit exposes students to a variety of industry standard games engine environments and development techniques. Students will develop an appreciation and basic working knowledge of a number of different platforms used in contemporary games development. The unit aims to provide students with a practical insight into contemporary, industry standard, games development process and games engines. The studio environment will facilitate considerable peer interaction, in particular in the critique of game engines and the development of game prototypes.The unit provides knowledge and skills, which students can apply within their game development projects in the third year studio project/s (FIT3039/FIT3040) and across all subsequent units.",
+                    "UnitCode": "FIT3145",
+                    "UnitName": "Game design studio 2",
+                    "_id": "5878028a30213215439e8fff",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Completion of 24 points of level 2 or 3 FIT units",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will focus on research into the latest developments in the field of information technology, including innovative technology developments involving human computer interaction, information visualisation of complex data and emerging interface techniques. Students will learn valuable research and communication skills as they investigate and share with their peers the impact of emergent technologies and interfaces on society. The content presented in the lectures will focus on grand challenges in the field of information technology and on emerging trends. Students will apply their theoretical understanding to a practical project negotiated with the lecturer using a learning contract.",
+                    "UnitCode": "FIT3146",
+                    "UnitName": "Emergent technologies and interfaces",
+                    "_id": "5878028a30213215439e9000",
+                    "enjoyRating": 4,
+                    "enjoyResponse": 15,
+                    "learnRating": 3.783333333,
+                    "learnResponse": 15,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "South Africa"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Completion of at least 36 points of study, including one of (FIT1002, FIT1040, FIT1045, FIT1048, FIT1051, ENG1003) (or equivalent) and one of (FIT1049, FIT2003, EDF2005, SCI2010) (or equivalent)",
+                    "Proh": "AFW3043, BEW3640, BUS2176, CIV3205, CPE2006, CSE2203, GCO3807, GEG3104, GSE3003,     FIT3086, MGW2700, MMS2203",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit introduces students to the many concepts, tools and techniques for managing information technology projects. Exploring traditional and agile approaches for managing projects, topics include project lifecycles, project planning, project scheduling, team building, risk management, time and quality management. A case study approach will be used to provide learning opportunities, with an emphasis on the unique aspects of information technology projects.",
+                    "UnitCode": "FIT2002",
+                    "UnitName": "IT project management",
+                    "_id": "5878027630213215439e8fb2",
+                    "enjoyRating": 4.147420635,
+                    "enjoyResponse": 130,
+                    "learnRating": 4.206732203,
+                    "learnResponse": 33,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "FIT Elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "CDS3001,IDN3001",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Prato"
+                            ],
+                            [
+                                "Trimester 2 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "TDN2001",
+                    "Proh": "TAD3214, TAD2214",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit develops the capacity to understand and apply the methodologies of current design research practice. Through using research processes appropriate to their discipline, students will investigate contemporary issues that penetrate the links between design, society and the environment. They will be required to use their research to uncover existing knowledge; use it to articulate and substantiate an argument; and build on it to formulate their own critically informed ideas. Through acquired research skills students will be able to interrogate a range of contemporary design issues drawn from the perceived moral dichotomies of design: useful/useless, social conscience/private indulgence, essential need/unnecessary consumption, luxury/necessity, and so on.",
+                    "UnitCode": "TDN3001",
+                    "UnitName": "Research for design",
+                    "_id": "587804e530213215439e98c9",
+                    "enjoyRating": 3.833333333,
+                    "enjoyResponse": 6,
+                    "learnRating": 4.14869281,
+                    "learnResponse": 40,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "For students in course 3334: ((FIT1040 or FIT1002) and FIT1004 and FIT1031 and FIT2001 and FIT2002 and (FIT1003 or FIT2003)) and ((FIT2026 and FIT2072) or FIT2049)For students in course 3806: FIT2017, FIT3003 and FIT3020For students in course 3750: FIT2026, FIT2072 and FIT3020For students commencing study in 2016: FIT2092 or (FIT2073 and FIT2096)",
+                    "Proh": "MMS3404, MMS3407",
+                    "SCABand": 2,
+                    "Sypnosis": "The principal development process focus of the unit will be on the social, legal and business context in which multimedia and games development companies must operate. Students will work actively in teams on the development of a multimedia or games application or exhibit. Project teams will use project planning/management skills, and design and build a prototype of the project using appropriate software processes and methodologies. Students will integrate multimedia, programming and technical knowledge in the development process. Requirements are fulfilled by the team producing an identified set of deliverables. The team must ensure that each deliverable is completed on schedule.",
+                    "UnitCode": "FIT3039",
+                    "UnitName": "Studio project 1",
+                    "_id": "5878028330213215439e8fe7",
+                    "enjoyRating": 5,
+                    "enjoyResponse": 1,
+                    "learnRating": 5,
+                    "learnResponse": 1,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "CDS3002,IDN3002",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Art, Design and Architecture",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "TDN3002,TDN3003",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Information Technology",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "FIT3039",
+                    "Proh": "MMS3408",
+                    "SCABand": 2,
+                    "Sypnosis": "Students will work actively in teams on the development of a multimedia or games application or exhibit. Using project planning/management skills along with other development procedures, students must then deliver a functional multimedia system or game, along with all requisite documentation, which integrates multimedia, programming, and technical knowledge in the development process. Requirements are fulfilled by the team producing an identified set of deliverables, usually a progress report, full system documentation, and functional project. The team must ensure that each deliverable is completed on schedule, with each member of the team demonstrating a significant contribution to the overall effort.",
+                    "UnitCode": "FIT3040",
+                    "UnitName": "Studio project 2",
+                    "_id": "5878028330213215439e8fe8",
+                    "enjoyRating": 4.357142857,
+                    "enjoyResponse": 14,
+                    "learnRating": 4.174603175,
+                    "learnResponse": 14,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

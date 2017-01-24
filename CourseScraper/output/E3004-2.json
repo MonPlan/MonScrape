@@ -1,0 +1,151 @@
+{
+    "courseAOS": "Electrical and Computer Systems Engineering specialisation",
+    "courseCode": "E3004",
+    "courseName": "Engineering and Biomedical Science",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "ENG1001 Engineering Design: lighter, faster, stronger OR ENG1002"
+                },
+                [
+                    "ENG1090",
+                    "PHS1080",
+                    "ENG1005"
+                ],
+                "BMS1011",
+                "BMS1021",
+                [
+                    "ENG1090",
+                    "PHS1080"
+                ]
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "ENG1002 Engineering design: cleaner, safer, smarter OR ENG1001"
+                },
+                "ENG1005",
+                "BMS1042",
+                "BMS1062"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ENG1003",
+                "ECE2071",
+                "BMS1031",
+                "BMS2021"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ENG1060",
+                "ECE2072",
+                "BMS1052",
+                "BMS2042"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ENG2005",
+                {
+                    "faculty": "",
+                    "type": "ECE2xxx Electrical circuits"
+                },
+                "BMS2011",
+                "BMS2031"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "ECE2xxx Signals and systems"
+                },
+                {
+                    "faculty": "",
+                    "type": "ECE2xxx Probability models in engineering"
+                },
+                "BMS2052",
+                "BMS2062"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ECE3073",
+                {
+                    "faculty": "",
+                    "type": "ECE3xxx Analogue electronics"
+                },
+                "BMS3031"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "ECE3xxx Control system design"
+                },
+                "ECE3091",
+                "BMS3052"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "ECE3xxx Information and networks"
+                },
+                "ECE4094",
+                "ECE4099",
+                {
+                    "faculty": "",
+                    "type": "ECE elective"
+                }
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "ECE3xxx Engineering electromagnetics"
+                },
+                "ECE4095",
+                {
+                    "faculty": "",
+                    "type": "ECE4xxx Electrical energy systems"
+                },
+                {
+                    "faculty": "",
+                    "type": "ECE elective"
+                }
+            ],
+            "year": 4
+        }
+    ]
+}

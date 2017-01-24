@@ -1,0 +1,132 @@
+{
+    "courseAOS": "Civil Engineering and Architectural Design Specialisation",
+    "courseCode": "E3009",
+    "courseName": "Engineering and Architectural Design",
+    "courseType": "Bachelor degree/Bachelor degree (honours)",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                [
+                    "ENG1090",
+                    "ENG1001"
+                ],
+                "ARC1301",
+                "ARC1001",
+                [
+                    "ENG1090",
+                    "PHS1080"
+                ]
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ENG1005",
+                "ARC2301",
+                "ARC1002"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ENG1003",
+                "CIV2206",
+                "ENG1002",
+                "CIV2263"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ENG1060",
+                {
+                    "faculty": "",
+                    "type": "ENG 2005 Advanced engineering mathematics S2"
+                },
+                "CIV2225",
+                "ENG1001"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "AHT1101",
+                "ARC2401",
+                "ARC2001"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ARC3401",
+                "ARC2402",
+                "ARC2002"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "CIV3XXX Eng Hydrology S1"
+                },
+                {
+                    "faculty": "",
+                    "type": "CIV3XXX Concrete & Masonry S1"
+                },
+                "CIV3248",
+                "CIV2282"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "CIV4XXX Bridge design & assessment S2"
+                },
+                "CIV3204",
+                "CIV3221",
+                "CIV2242"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "CIV4xxx Water treatment S1"
+                },
+                {
+                    "faculty": "",
+                    "type": "CIV4XXX Project management S1"
+                },
+                "ARC3001"
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "CIV4212",
+                "CIV4210",
+                {
+                    "faculty": "",
+                    "type": "CIV4xxx Road engineering S2"
+                },
+                "CIV3247"
+            ],
+            "year": 4
+        }
+    ]
+}

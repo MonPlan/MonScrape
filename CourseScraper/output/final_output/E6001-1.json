@@ -1,0 +1,223 @@
+{
+    "courseAOS": "Master of Advanced Engineering (2 years) - Entry level 1",
+    "courseCode": "E6001",
+    "courseName": "Advanced Engineering",
+    "courseType": "Expert master degree",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "None",
+                    "Proh": "None",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit consists of a review of probabilistic foundations for data analysis including probability, random variables, expectation, distribution functions, important probability distributions, central limit theorem, random vectors, conditional distributions and random processes.Students will develop the foundations of statistical inference including estimation, confidence intervals, maximum likelihood, hypothesis testing, least-squares and regression analysis.A selection of more advanced topics in probability, random modelling and statistical inference will also be presented.The material will be taught in the context of real engineering problems taken from multiple engineering disciplines. A widely used numerical computing environment will be used extensively throughout the unit.",
+                    "UnitCode": "ENG5001",
+                    "UnitName": "Advanced engineering data analysis",
+                    "_id": "5878023d30213215439e8ed5",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Part B. Enhancement unit",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Part C. Technical elective unit",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Part C. Technical elective unit",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "None",
+                    "Proh": "None",
+                    "SCABand": 2,
+                    "Sypnosis": "The goal of this unit is to impart an evidence-based methodology for building scalable startups that students can use for the rest of their careers, whether they are starting a new business or working in established organisations.  For a new business, the goal is acquiring investor funding.  In a corporate environment, the methodology will help the organisation start new businesses and allocate their internal resources (time, technology, and talent) more efficiently.  The unit will be taught in a hands-on way that engages student teams by requiring them to develop hypotheses and then test those hypotheses outside the classroom.  Throughout the semester, teams will modify their business models based on feedback from potential customers, and can then decide if there is a worthwhile business to be built.  The unit does not include the execution of the business models.",
+                    "UnitCode": "ENG5002",
+                    "UnitName": "Engineering entrepreneurship",
+                    "_id": "5878023e30213215439e8ed6",
+                    "enjoyRating": 4.019230769,
+                    "enjoyResponse": 76,
+                    "learnRating": 4.117063492,
+                    "learnResponse": 38,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Part B. Enhancement unit",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Part C. Technical elective unit",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Part C. Technical elective unit",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Part D. Discipline core unit",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Part D. Discipline core unit",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ENG9001",
+                    "UnitName": "Cannot Fetch Data",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides students a unique opportunity to work on a real-world, engineering design problem in a multidisciplinary team environment. The project will involve a critical assessment of the design problem from engineering as well as non-engineering perspectives. The project work rely on using creative problem solving and decision-making skills and modern project management tools for developing practical solutions to the design problem. The outcomes of the project will be communicated via presentations, demonstrations and reports. This project may be undertaken either within the faculty or with external partners. This is the first part of a two-unit project sequence.",
+                    "UnitCode": "ENG5003",
+                    "UnitName": "Advanced design project A",
+                    "_id": "5878023e30213215439e8ed7",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Part D. Discipline core unit",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Part D. Discipline core unit",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

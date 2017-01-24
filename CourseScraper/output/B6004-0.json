@@ -1,0 +1,67 @@
+{
+    "courseAOS": "Master of Banking and Finance",
+    "courseCode": "B6004",
+    "courseName": "Banking and Finance",
+    "courseType": "Expert master degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ACF5903",
+                "ECF5953",
+                "ETF5900",
+                "BFF5925"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Preparatory studies unit selected from list"
+                },
+                "BFF5935",
+                "BFF5916",
+                "BFF5280"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "BFF5926",
+                [
+                    "BFF5914",
+                    "BFF5260"
+                ],
+                "BFF5915",
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 1"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "BFF5130",
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Application studies unit 4"
+                }
+            ],
+            "year": 1
+        }
+    ]
+}

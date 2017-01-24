@@ -1,0 +1,648 @@
+{
+    "courseAOS": "Bachelor of Radiation Sciences",
+    "courseCode": "M2002",
+    "courseName": "Health Sciences",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "BMA1901",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit is the first of two units designed to educate health science students about the anatomical structures and physiological functions of the systems of the human body that underpin the regulatory mechanisms for homeostatic control. Students will be introduced to the principles of cell biology, tissue types and their origins together with their importance in maintaining the homeostasis of the various body systems. The key anatomical features of the integumentary and musculoskeletal systems will be examined as well as their role in the control of homeostasis. The central and peripheral nervous system will be addressed in the context of its physiological characteristics and with special attention to the anatomical features of the spinal cord and brain. Students will be introduced to the various functions of the brain in the context of homeostasis and control, together with the special senses. Throughout the unit, clinical connections will be made with the systems addressed so that students will understand the relevance of the topics included in the unit to the health and human science disciplines.",
+                    "UnitCode": "BMA1011",
+                    "UnitName": "Foundations of anatomy and physiology for health practice 1",
+                    "_id": "5878011030213215439e8a7d",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "HSC1061, PHH1061.",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to the skills necessary to locate, critique, interpret and summarise relevant evidence. This will provide a solid foundation for an evidence-based approach to optimising health and well-being at a population level.Students are guided through skills in searching for and locating evidence. They are introduced to different research methodologies and ways of analysing data to understand various research paradigms. This information is used to critique the available literature.Students will be introduced to both qualitative and quantitative methods of data collection and analysis; basic descriptive statistics; measurement concepts; and synthesis and reporting of data.",
+                    "UnitCode": "HSC1100",
+                    "UnitName": "Introduction to research and evidence",
+                    "_id": "587802c830213215439e90e6",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "HSC1081, PHH1081.",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides an introduction to the principles and practices of contemporary public health. Case study examples are used to illustrate public health successes, including the key elements contributing to these successful approaches.Key concepts introduced include population health, social determinants of health, health inequalities, health and human rights, and the core roles and functions of public health systems, policies and programs.Inequalities within and across national boundaries are explored, as well as the contributing factors to these inequalities. Public health priorities are explored through consideration of population health trends and vulnerable populations.",
+                    "UnitCode": "HSC1200",
+                    "UnitName": "Introduction to public health",
+                    "_id": "587802c830213215439e90e7",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "PHS1031, PHS1080.",
+                    "SCABand": 3,
+                    "Sypnosis": "The behaviour of human and biomedical systems are understood in terms of underlying physical principles. Forces involved in human movement and body systems including muscles and joints. Energy and heat flow and metabolism, pressure, osmosis, diffusion and respiration, fluid flow in the cardiovascular system. Electrical charges, current, potential and capacitance in simple circuits, EEG, ECG, cells and nerve conduction. Sound and ultrasound, human hearing, refraction and lenses, the human eye, optical and electron microscopes. X-rays and radiation, biological effects and damage, radiation therapy and medical imaging.",
+                    "UnitCode": "BMS1031",
+                    "UnitName": "Medical biophysics",
+                    "_id": "5878011530213215439e8a8f",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "BMA1011.",
+                    "Proh": "BMA1902, BMA1912",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit is the second of the two units designed to familiarise health science students with the anatomical structures and physiological functions of the systems of the human body that underpin the regulatory mechanisms for homeostatic control. Students will be introduced to the structure and function of the cardiovascular, circulatory and respiratory systems together with their vital role in maintaining homeostasis. The key features of the lymphatic system and the properties of blood will be discussed. The unit will continue with a look at the importance of the endocrine system and its role in integrating various functions to control homeostasis. Students will be introduced to the key anatomical and physiological features of the urinary and digestive systems and the importance of maintaining pH and fluid balance within the body. Finally, students will be introduced to the reproductive systems, pregnancy and development. Throughout the unit, clinical connections will be made with the systems addressed so that students will understand the relevance of the topics included in the unit to the health and human science disciplines.",
+                    "UnitCode": "BMA1012",
+                    "UnitName": "Foundations of anatomy and physiology for health practice 2",
+                    "_id": "5878011030213215439e8a7e",
+                    "enjoyRating": 4.825581395,
+                    "enjoyResponse": 116,
+                    "learnRating": 4.514814815,
+                    "learnResponse": 14,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides an introduction to the course of disease for common health conditions, and their impact on individuals and populations.The unit outlines different types of disease, and explores common diseases from pathophysiological, psychosocial, and epidemiological perspectives. The course of disease, and contributing and risk factors at the individual and social levels are explored, as well as the consequences for individuals, health systems, and society.Particular conditions considered will vary but will include diseases across the communicable, non-communicable, acute, chronic and degenerative conditions.",
+                    "UnitCode": "HSC1300",
+                    "UnitName": "Human health and disease",
+                    "_id": "587802c830213215439e90e8",
+                    "enjoyRating": 4.02173913,
+                    "enjoyResponse": 106,
+                    "learnRating": 2.640502713,
+                    "learnResponse": 173,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "BME3032, HSC1052, PHH1052.",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will deliver a structured introduction to the Australian healthcare system. Students will gain a preliminary knowledge of the organization, current policies and policy debates, funding arrangements and emerging trends in healthcare practice. A feature of the unit is an inclusive approach to the understanding of health. This approach will consider aged care, disability, mental health, and alcohol and drug components in addition to established health services. Case studies will be used to consolidate the theoretical material. Students will develop a reflective understanding of their own experience of health care, and  be able to identify their assumptions regarding health and the practice of health care. Overarching themes will include an overview of the health system, specialist sectors and working in the health space.",
+                    "UnitCode": "HSC1400",
+                    "UnitName": "The Australian healthcare system",
+                    "_id": "587802c830213215439e90e9",
+                    "enjoyRating": 2.2,
+                    "enjoyResponse": 173,
+                    "learnRating": 4.144306846,
+                    "learnResponse": 52,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of All",
+                    "SCABand": 0,
+                    "UnitCode": "Free Elective",
+                    "UnitName": "Choose from any faculty",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "One of (HSC1200, HSC1081, PHH1081).",
+                    "Proh": "HSC3011.",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit explores key emerging challenges in health at the national and global levels. A case study approach is used to explore current issues facing health systems, including the causes, consequences, and approaches used to address the issues.Causes are considered at the behavioural, social, cultural, political and environmental levels. A public health and/or systems thinking perspective is taken to describe and critically appraise initiatives to address identified issues.Specific challenges which will be the focus of this unit will change over time in line with contemporary and emerging issues, but for example may include: obesity, population ageing, climate change, emerging infectious diseases and mental health, terrorism, and natural disasters.",
+                    "UnitCode": "HSC2100",
+                    "UnitName": "Emerging challenges in health",
+                    "_id": "587802c930213215439e90ec",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "BMA1012 and HSC1300",
+                    "Proh": "BEH1041, NUT2001.",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit uses the framework of human development to examine health throughout the lifespan. Physical, cognitive, emotional, behavioural and psychosocial development, and the impact of culture on health will be examined. Students will investigate the roles of allied health professionals in assessing and maintaining health across the lifespan.",
+                    "UnitCode": "HSC2200",
+                    "UnitName": "Health and the human lifespan",
+                    "_id": "587802c930213215439e90ee",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "One of (HSC1081, PHH1081, HSC1200).",
+                    "Proh": "HSC1072, HSC2101, PHH2101.",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to the contemporary frameworks and strategies that are used to prevent disease and promote health at the population level. Students will examine methods for primary, secondary and tertiary prevention undertaken through health agencies, and develop an understanding of the role of different health professions in this work. Disease prevention methods investigated will include behavioural education and counselling, vaccination and pharmacological interventions, health screening, chronic disease self-management, and rehabilitation in health care and community settings. Health promotion will be introduced as an approach that uses multiple strategies to empower individuals and communities and create supportive environments for health. The health promotion actions examined will include policy development, community mobilisation, health education and social marketing. The role that partnerships and capacity building play in sustaining action and health outcomes will be investigated. Learning will be facilitated with case examples and consideration will be given to how the methods examined can be applied to current public health priorities.",
+                    "UnitCode": "HSC2300",
+                    "UnitName": "Health promotion and disease prevention",
+                    "_id": "587802ca30213215439e90ef",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Summer semester A (starts November) 2017 (Off-campus)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "APY1910, ATS1359, ATS1840, AZA1020, PSS1711, PSS1712.",
+                    "SCABand": 1,
+                    "Sypnosis": "This unit provides students with an introduction to the discipline of psychology as a behavioural science.The key topics explored in this unit include personality, the biological bases of behaviour, sensation and perception, an introduction to theories of learning and development, introduction to the historical origins of the discipline, and cross cultural psychology. Consultation classes enhance students' understanding of the lecture material and provide training in research techniques.",
+                    "UnitCode": "PSY1011",
+                    "UnitName": "Psychology 1A",
+                    "_id": "5878049430213215439e979e",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "HSC2141, HSC2142",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to the applications of epidemiological concepts and methods to typical problems in population health and in the broader public health literature.This will include consideration of fundamental ethical issues pertaining to the conduct of public health research and population health interventions.Emphasis is placed on a population view of health and disease, social determinants of health, epidemiological principles, research study design and interpretation, and communication of evidence in practice.",
+                    "UnitCode": "PBH2001",
+                    "UnitName": "Foundations of epidemiology",
+                    "_id": "5878045b30213215439e96c4",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "RAD1061",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit is designed to provide students with the requisite knowledge and understanding of the scientific and technological principles associated with the practice of diagnostic radiography.Students will be introduced to radiographic terminology, image critique and analysis with a particular emphasis on the axial skeleton and musculoskeletal system, the thorax, abdomen and pelvis.An introduction to the design of the modern radiologic suite and the role of medical imaging in radiation therapy will be provided.In addition, an overview of the production of the X-ray image and the safety features related to the use of radiation in a radiographic environment will be studied.",
+                    "UnitCode": "RAD2001",
+                    "UnitName": "Medical imaging science: Radiographic principles",
+                    "_id": "587804af30213215439e9805",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "RTS4102",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit is designed to provide students with the opportunity to explore the role of the radiation therapist and the role of the multidisciplinary team in radiation therapy.Students will investigate what constitutes appropriate professional behaviour in the health care setting and they will become familiar with use of appropriate medical terminology.Students will also investigate and demonstrate occupational health and safety, radiation safety, infection control and manual handling principles.The unit will support students to develop an awareness of cultural and communication competence, and allow students to begin to understand and articulate some of the challenges faced by the diverse range of patients being treated in radiation therapy centres.Cancer management strategies will be introduced to students and the concept of reflective practice will be introduced with a variety of models of reflection.This unit introduces students to the clinical radiation therapy environment in the format of a short clinical orientation.",
+                    "UnitCode": "RTS2001",
+                    "UnitName": "Professional practice in radiation therapy",
+                    "_id": "587804bc30213215439e982d",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Caulfield"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "APY1910, ATS1359, ATS1840, AZA1020, PSS1711, PSS1712.",
+                    "SCABand": 1,
+                    "Sypnosis": "Psychology is a scientific discipline which spans a diverse range of areas. This unit introduces you to a small selection of areas, including: Social psychology: how other people and the social environment influence how we think and behave - e.g., conformity, aggression, stereotypes and prejudice. Cognitive psychology: the exploration of internal mental processes - e.g., the fallible nature of memory, how it works and is influenced by others. Abnormal psychology: what happens when our thoughts, feelings, or behaviour cause distress, and interfere with our ability to function - e.g., depression, anxiety, and schizophrenia.You will also examine how psychologists acquire further knowledge and test their understanding of the way in which individuals think, feel, and behave. This will involve an introduction to research methodology (e.g., research design, descriptive statistics, and inferential statistics).",
+                    "UnitCode": "PSY1022",
+                    "UnitName": "Psychology 1B",
+                    "_id": "5878049430213215439e979f",
+                    "enjoyRating": 3.866558442,
+                    "enjoyResponse": 441,
+                    "learnRating": 3.08873963,
+                    "learnResponse": 53,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": "Not Offered in 2017",
+                    "Preqs": "RAD2001",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit is designed to provide students with the requisite knowledge and understanding of the scientific and technological principles associated with the practice underpinning Computed Tomography (CT) imaging.It introduces students to the associated instrumentation and protocols, positioning methods and radiation protection principles related to CT.The unit will build on digital image processing introduced in RAD2001. The unit will introduce students to the variety of uses of CT in the diagnostic and therapeutic health environment.Students will develop skills in relation to image critique and analysis with a particular emphasis on the axial skeleton and musculoskeletal system, the thorax, abdomen and pelvis.",
+                    "UnitCode": "RAD3002",
+                    "UnitName": "Medical imaging science: Computed tomography",
+                    "_id": "587804b130213215439e980a",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Levels 1 and 2 of BRadMedImag course.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit delivers theoretical and practical knowledge in abdominal ultrasound that also forms a foundation for subsequent ultrasound studies in RAD3042 and RAD4080. The unit introduces the student to the requisite knowledge required to perform an ultrasound examination of abdominal organs, including the physics of ultrasound and instrumentation, sonographic anatomy and pathophysiology, scanning principles and practice. Students will participate in the scanning of models under supervision to enable them to apply these principles and develop basic practical skills in a simulated clinical environment.",
+                    "UnitCode": "RAD3061",
+                    "UnitName": "Medical imaging science (ultrasound)",
+                    "_id": "587804b230213215439e980e",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "RTS3001",
+                    "UnitName": "Cannot Fetch Data",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "RTS4104",
+                    "UnitName": "Cannot Fetch Data",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Levels 1 and 2 of BradMedImag, RAD3051 and RAD3061.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "The physics of MRI is presented, with particular application to clinical diagnostic imaging. The unit covers the basic physics of magnetic dipoles and magnetic spin resonance, through to a detailed presentation of the basic gradient and spin echo sequences that are used in medical MRI scanners. The factors that determine the contrast and spatial resolution achievable in MRI are discussed. The FID signal sampling and image reconstruction methods are reviewed, as are the SNR and image artifacts that typically occur in MRI. Patient and MRI staff safety issues are presented. An overview of MRI imaging applications, such as spectroscopic and dynamic imaging is presented.",
+                    "UnitCode": "RAD3092",
+                    "UnitName": "Magnetic resonance imaging (physics and technology)",
+                    "_id": "587804b230213215439e980f",
+                    "enjoyRating": 4.291666667,
+                    "enjoyResponse": 23,
+                    "learnRating": 3.958333333,
+                    "learnResponse": 10,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Online)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "The focus of this unit is an in-depth understanding of the key facets of radiation physics. Students will be able to define radiation and radioactive decay. Students will be able to describe in detail the interactions of radiation with matter, and explain how radiation is detected and measured. Students will gain an appreciation for the importance of radiation safety, and will be encouraged to critically reflect on the implications of radiation protection in their clinical experiences. Students will also be given an introduction to medical radiations instrumentation and techniques, with emphasis on the fusion of the conceptual theory with the practical applications. Whilst studying these topics, students will be encouraged to critically reflect, analyse and synthesise relevant information from the literature and their previous experiences of studying physics.",
+                    "UnitCode": "RTS4101",
+                    "UnitName": "Radiation therapy science 1",
+                    "_id": "587804bc30213215439e982e",
+                    "enjoyRating": 4.277777778,
+                    "enjoyResponse": 14,
+                    "learnRating": 3.688888889,
+                    "learnResponse": 12,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Online)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit focuses on the action of ionising radiation on living things at the cellular level and the resulting effects on organs, tissues and the whole body. Students will gain an in-depth knowledge on the biological effects of ionising and non-ionising radiation, and the mechanisms of repair to biological damage. Students will be able to describe the systemic and total body responses to early/late effects of radiation. Students will undertake a critical review on how the effects of radiation on biological tissue can be utilised in the practice of radiation therapy. Students will acquire an appreciation of the potential hazards present in different radiation therapy procedures, and focus on the principles of dose reduction, while maximising the information produced from a particular dose of ionising or non-ionising radiation. Whilst studying these topics, students will be encouraged to critically reflect, analyse and synthesise relevant information from the literature.",
+                    "UnitCode": "RTS4103",
+                    "UnitName": "Radiation therapy science 3",
+                    "_id": "587804be30213215439e9830",
+                    "enjoyRating": 4.25,
+                    "enjoyResponse": 14,
+                    "learnRating": 3.883333333,
+                    "learnResponse": 8,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "RTS4105",
+                    "UnitName": "Cannot Fetch Data",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        }
+    ]
+}

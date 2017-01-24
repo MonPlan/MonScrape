@@ -1,0 +1,454 @@
+{
+    "courseAOS": "Bachelor of Physiotherapy (Honours)",
+    "courseCode": "M3002",
+    "courseName": "Physiotherapy",
+    "courseType": "Bachelor degree (honours)",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 24,
+                    "EFTSL": 0.5,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "PTY1011 is an integrated unit based on the five themes of the physiotherapy curriculum. Theme 1: Personal and professional development focuses on development of personal and professional attributes that assist transition from student to physiotherapist. Theme 2: Population, Society and Health addresses broader society and population health issues. Theme 3: Fundamental Knowledge of Health Sciences provides the knowledge which underpins physiotherapy practice. Theme 4: Applied practice develops clinical competencies integral to physiotherapy practice. Theme 5: Research focuses on the ability to locate, interpret and evaluate research as a foundation for evidence based practice.",
+                    "UnitCode": "PTY1011",
+                    "UnitName": "Physiotherapy 1",
+                    "_id": "587804a830213215439e97e6",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 24,
+                    "EFTSL": 0.5,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PTY1011.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "PTY1022 is an integrated unit based on the 5 themes of the physiotherapy curriculum. Theme 1: Personal and Professional Development focuses on development of personal and professional attributes which assist transition from student to physiotherapist. Theme 2: Population, Society and Health relates primarily to healthcare service delivery in the rural sector and behaviour change. Theme 3: Fundamental Knowledge of Health Science provides the knowledge which underpins physiotherapy practice. Theme 4: Applied practice develops clinical competencies integral to physiotherapy practice. Theme 5: Research focuses on the ability to locate and evaluate research as a foundation for evidence based practice.",
+                    "UnitCode": "PTY1022",
+                    "UnitName": "Physiotherapy 2",
+                    "_id": "587804a830213215439e97e7",
+                    "enjoyRating": 4.224137931,
+                    "enjoyResponse": 54,
+                    "learnRating": 4.430555556,
+                    "learnResponse": 7,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 24,
+                    "EFTSL": 0.5,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PTY1011, PTY1022.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "PTY2031 develops the 5 themes on which the 4 year curriculum is based. Theme 1: Personal & Professional Development: explores effective communication with clients with cardiorespiratory conditions. Theme 2: Population, Society & Health: explores issues relating to healthcare policy development and delivery. Theme 3: Fundamental Knowledge of Health Science: provides the biomedical and physiotherapy knowledge that underpins physiotherapy clinical practice. Theme 4: Applied Practice: develops clinical skills integral to physiotherapy practice in the management of cardiorespiratory clients. Theme 5: Research: explores knowledge and skills that relate  to the ability to critically evaluate research.",
+                    "UnitCode": "PTY2031",
+                    "UnitName": "Physiotherapy 3",
+                    "_id": "587804a830213215439e97e9",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 24,
+                    "EFTSL": 0.5,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PTY1011, PTY1022, PTY2031.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "PTY2042 is an integrated unit based on the 5 themes of the physiotherapy curriculum. Theme 1: Personal and Professional Development focuses on development of personal and professional attributes which assist transition from student to physiotherapist. Theme 2: Population, Society and Health investigates the evolution of health promotion, its inherent values and assumptions. Theme 3: Fundamental Knowledge of Health Science provides the knowledge which underpins physiotherapy practice. Theme 4: Applied Practice develops clinical competencies integral to physiotherapy practice. Theme 5: Research focuses on the ability to locate and evaluate research as a foundation for evidence based practice.",
+                    "UnitCode": "PTY2042",
+                    "UnitName": "Physiotherapy 4",
+                    "_id": "587804a930213215439e97ea",
+                    "enjoyRating": 4.4,
+                    "enjoyResponse": 48,
+                    "learnRating": 3.833333333,
+                    "learnResponse": 4,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 1,
+            "units": [
+                {
+                    "CreditPoints": 24,
+                    "EFTSL": 0.5,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PTY2031, PTY2042.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "PTY3051 continues to develop students' knowledge and skills in the five theme areas upon which the four year curriculum is based. These are: Theme 1: Personal and Professional Development; Theme 2: Population, Society and Health; Theme 3: Fundamental Knowledge of Health Science; Theme 4: Applied Practice; and Theme 5: Research.Case based learning remains the cornerstone for integration of the different themes within the course.",
+                    "UnitCode": "PTY3051",
+                    "UnitName": "Physiotherapy 5",
+                    "_id": "587804a930213215439e97ec",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "Summer semester A (starts November) 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PTY1011, PTY1022, PTY2031, PTY2042, PTY3051.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "PTY3162 continues to develop the five themes upon which the four year curriculum is based. These are Theme 1 Personal and Professional Development; Theme 2 Population, Society and Health; Theme 3 Fundamental Knowledge of Health Science; Theme 4 Applied Practice; and Theme 5 Research. Problem based learning (PBL) and clinical practice provide the opportunities for integration of the different themes within the course. Students undertake a clinical attachment (5 weeks) during this unit, providing them the opportunity to apply integrated knowledge and skills from previous learning in the Bachelor of Physiotherapy to patient care in either an acute, subacute or community setting.",
+                    "UnitCode": "PTY3162",
+                    "UnitName": "Physiotherapy 6A: Clinical",
+                    "_id": "587804a930213215439e97ed",
+                    "enjoyRating": 4.25,
+                    "enjoyResponse": 24,
+                    "learnRating": 4.087962963,
+                    "learnResponse": 20,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "Summer semester A (starts November) 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PTY1011, PTY1022, PTY2031, PTY2042, PTY3051.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "PTY3262 continues to develop the five themes upon which the four year curriculum is based. These are Theme 1 Personal and Professional Development; Theme 2 Population, Society and Health; Theme 3 Fundamental Knowledge of Health Science; Theme 4 Applied Practice; and Theme 5 Research. Problem based learning (PBL) and clinical practice provide the opportunities for integration of the different themes within the course. Students undertake a clinical attachment (5 weeks) during this unit, providing them the opportunity to apply integrated knowledge and skills from previous learning in the Bachelor of Physiotherapy to patient care in either an acute, subacute or community setting.",
+                    "UnitCode": "PTY3262",
+                    "UnitName": "Physiotherapy 6B: Clinical",
+                    "_id": "587804a930213215439e97ee",
+                    "enjoyRating": 4.25,
+                    "enjoyResponse": 20,
+                    "learnRating": 4.083333333,
+                    "learnResponse": 14,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Summer semester A (starts November) 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PTY1011, PTY1022, PTY2031, PTY2042, PTY3051.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "PTY3362 continues to develop the five themes upon which the four year curriculum is based. These are Theme 1 Personal and Professional Development; Theme 2 Population, Society and Health; Theme 3 Fundamental Knowledge of Health Science; Theme 4 Applied Practice; and Theme 5 Research. Clinical practice provides the opportunities for integration of the different themes within the course. Students undertake a clinical attachment (5 weeks) during this unit, providing them the opportunity to apply integrated knowledge and skills from previous learning in the Bachelor of Physiotherapy to patient care in acute, subacute and community settings.",
+                    "UnitCode": "PTY3362",
+                    "UnitName": "Physiotherapy 6C: Clinical",
+                    "_id": "587804aa30213215439e97ef",
+                    "enjoyRating": 4.2,
+                    "enjoyResponse": 14,
+                    "learnRating": 4.097222222,
+                    "learnResponse": 5,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Second semester 2017 (Day)",
+                                "Summer semester A (starts November) 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PTY1011, PTY1022, PTY2031, PTY2042, PTY3051.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "PTY3462 continues to develop the five themes upon which the four year curriculum is based. These are Theme 1 Personal and Professional Development; Theme 2 Population, Society and Health; Theme 3 Fundamental Knowledge of Health Science; Theme 4 Applied Practice; and Theme 5 Research. Problem based learning (PBL) and written activities provide the opportunities for integration of the different themes within the course. Students undertake a range of written assessment tasks during this unit as well as attending one post clinical campus-based week, providing them the opportunity to apply integrated knowledge and skills from previous learning in the Bachelor of Physiotherapy to patient care issues in a range of settings.",
+                    "UnitCode": "PTY3462",
+                    "UnitName": "Clinical placement",
+                    "_id": "587804aa30213215439e97f0",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 2,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PTY1011, PTY1022, PTY2031, PTY2042, PTY3051, PTY3162, PTY3262, PTY3362, PTY3462.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "PTY4171 continues to develop the five themes upon which the four year curriculum is based. These are: Theme 1: Personal and Professional Development; Theme 2: Population, Society and Health; Theme 3: Fundamental Knowledge of Health Science; Theme 4: Applied Practice; and Theme 5: Research.Delivery of physiotherapy services and ongoing case based learning provide opportunities for integration of the different themes within the course.Students undertake a clinical attachment (5 weeks) during this unit and complete self directed learning tasks, providing them the opportunity to apply integrated knowledge and skills from previous learning in the Bachelor of Physiotherapy to acute, community or subacute patient care.",
+                    "UnitCode": "PTY4171",
+                    "UnitName": "Physiotherapy 7A: Clinical",
+                    "_id": "587804ab30213215439e97f5",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PTY1011, PTY1022, PTY2031, PTY2042, PTY3051, PTY3162, PTY3262, PTY3362.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "PTY4172 continues to develop the five themes upon which the four year curriculum is based. These are: Theme 1: Personal and Professional Development; Theme 2: Population, Society and Health; Theme 3: Fundamental Knowledge of Health Science; Theme 4: Applied Practice; and Theme 5: Research.Delivery of physiotherapy services and ongoing case based learning provide opportunities for integration of the different themes within the course. Students undertake a clinical attachment (5 weeks) during this unit, providing them the opportunity to apply integrated knowledge and skills from previous learning in the Bachelor of Physiotherapy to acute, subacute or community patient care.",
+                    "UnitCode": "PTY4172",
+                    "UnitName": "Physiotherapy 7B: Clinical",
+                    "_id": "587804ab30213215439e97f6",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "Summer semester A (starts November) 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PTY1011, PTY1022, PTY2031, PTY2042, PTY3051, PTY3162, PTY3262, PTY3362, PTY3462.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "PTY4281 continues to develop the five themes upon which the four year curriculum is based. These are:Theme 1 Personal and Professional Development;Theme 2 Population, Society and Health;Theme 3 Fundamental Knowledge of Health Science;Theme 4 Applied Practice; andTheme 5 Research.During this unit, students undertake an initial clinical elective attachment of 5 weeks duration .This provides the opportunity to apply and expand integrated knowledge and skills from previous learning in the Bachelor of Physiotherapy to patient care in  various health care consumers in a diverse range of health care related settings. Students are expected to spend 34 hours per week during clinical education in health service or elective placement facilities with additional self-directed study hours. Additional study time will be required for completion of self-directed assessment tasks.",
+                    "UnitCode": "PTY4281",
+                    "UnitName": "Physiotherapy 8A: Clinical",
+                    "_id": "587804ac30213215439e97f7",
+                    "enjoyRating": 4.25,
+                    "enjoyResponse": 14,
+                    "learnRating": 4.017857143,
+                    "learnResponse": 14,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PTY3162, PTY3262, PTY3362, PTY3462.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "PTY4282 continues to develop the five themes upon which the four year curriculum is based. These are Theme 1 Personal and Professional Development; Theme 2 Population, Society and Health; Theme 3 Fundamental Knowledge of Health Science; Theme 4 Applied Practice; and Theme 5 Research. During this 6 week unit, students undertake a clinical attachment of 2 weeks duration in the area of 'Lifespan / Community'.This provides the opportunity to apply and expand integrated knowledge and skills from previous learning in the Bachelor of Physiotherapy to patient care across the Lifespan / Community in a diverse range of health care related settings. Students are expected to spend 34 hours per week during clinical education in health service or placement facilities with additional self-directed study hours. An additional four weeks off-campus study is allocated for completion of assignments and self-directed education tasks.",
+                    "UnitCode": "PTY4282",
+                    "UnitName": "Physiotherapy 8B: Clinical",
+                    "_id": "587804ac30213215439e97f8",
+                    "enjoyRating": 4.1875,
+                    "enjoyResponse": 14,
+                    "learnRating": 3.966017316,
+                    "learnResponse": 17,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 24,
+                    "EFTSL": 0.5,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Peninsula"
+                            ],
+                            [
+                                "Full year 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "PTY1011, PTY1022, PTY2031, PTY2042, PTY3051 ,PTY3162, PTY3262 ,PTY3362, PTY3462.",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "PTY4283 continues to develop the five themes upon which the four year curriculum is based. This campus based unit occurs in two sections in Semester 2. It extends students' integrated knowledge and skills into specialised areas of physiotherapy practice and prepares students for graduation and entry into the workforce. Unique to PTY4283 is an Interprofessional Seminar series which will take place in the final week of Semester 2, Year 4. Students will have the opportunity to listen to presentations from multiprofessional students and will participate in peer review of these sessions.",
+                    "UnitCode": "PTY4283",
+                    "UnitName": "Physiotherapy 8C: Campus",
+                    "_id": "587804ad30213215439e97f9",
+                    "enjoyRating": 4.05,
+                    "enjoyResponse": 17,
+                    "learnRating": 4.666666667,
+                    "learnResponse": 1,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

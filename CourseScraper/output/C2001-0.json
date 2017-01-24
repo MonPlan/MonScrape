@@ -1,0 +1,72 @@
+{
+    "courseAOS": "Bachelor of Computer Science",
+    "courseCode": "C2001",
+    "courseName": "Computer Science",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Information Technology",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "FIT1045",
+                "MAT1830",
+                "FIT1047",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "FIT1008",
+                "MAT1841",
+                "FIT1049",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "FIT2004",
+                "FIT2099",
+                "Elective",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "FIT2014",
+                "FIT2102",
+                "Elective",
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "FIT3161",
+                "FIT3171",
+                {
+                    "faculty": "",
+                    "type": "Approved Level 3 computer science elective"
+                },
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "FIT3162",
+                "FIT3155",
+                "FIT3143",
+                "Elective"
+            ],
+            "year": 2
+        }
+    ]
+}

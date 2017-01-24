@@ -1,0 +1,129 @@
+{
+    "courseAOS": "Software Engineering and Actuarial Science specialisations",
+    "courseCode": "E3003",
+    "courseName": "Engineering and Commerce Specialist",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ENG1001",
+                [
+                    "ENG1090",
+                    "PHS1080",
+                    "ENG1005"
+                ],
+                "ETC1000",
+                "ECC1000",
+                [
+                    "ENG1090",
+                    "PHS1080"
+                ]
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ENG1002",
+                "ENG1005",
+                "ECC1100",
+                "ACC1100"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ENG1060",
+                "MAT1830",
+                "ETC2440",
+                "ETC2410"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ENG1003",
+                "FIT2101",
+                "BFC2140",
+                "ETC2420"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "FIT2085",
+                "FIT2099",
+                "BFC2000",
+                "BFC2340"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "FIT2004",
+                "FIT2107",
+                "ETC2430",
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 1 from a list"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "FIT3170",
+                "FIT3159",
+                "FIT3077",
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 2 from a list"
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "FIT2100",
+                "FIT3171",
+                "ETC3530"
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "FIT4002",
+                "FIT4003",
+                "FIT3165",
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 3 from a list"
+                }
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "SE Technical elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 4 from a list"
+                }
+            ],
+            "year": 4
+        }
+    ]
+}

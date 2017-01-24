@@ -1,0 +1,58 @@
+{
+    "courseAOS": "Architectural Design",
+    "courseCode": "F2001",
+    "courseName": "Architectural Design",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Art, Design and Architecture",
+    "teachingPeriods": [
+        {
+            "units": [
+                "ARC1001",
+                "AHT1101",
+                "ARC1301",
+                "OHS1000"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ARC1002",
+                "ARC1102",
+                "ARC2301"
+            ]
+        },
+        {
+            "units": [
+                "ARC2001",
+                "ARC2401",
+                "ARC2101"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ARC2002",
+                "ARC2402",
+                "ARC3101"
+            ]
+        },
+        {
+            "units": [
+                "ARC3001",
+                "ARC3102",
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ARC3002",
+                "ARC3401",
+                "Elective"
+            ]
+        }
+    ]
+}

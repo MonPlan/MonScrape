@@ -1,0 +1,75 @@
+{
+    "courseAOS": "Formulation science specialisation",
+    "courseCode": "P2001",
+    "courseName": "Pharmaceutical Science",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Pharmacy and Pharmaceutical Sciences",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "PSC1011",
+                "PSC1021",
+                "PSC1031",
+                "PSC1041"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "PSC1012",
+                "PSC1022",
+                "PSC1032",
+                "PSC1042"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "PSC2011",
+                "PSC2021",
+                "PSC2031",
+                "PSC2041"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "PSC2012",
+                "PSC2222",
+                "PSC2232",
+                {
+                    "faculty": "",
+                    "type": "One of: PSC2122, PSC2132, PSC2142"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "PSC3211",
+                "PSC3221",
+                "PSC3231",
+                "PSC3041"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "PSC3212",
+                "PSC3222",
+                "PSC3232",
+                {
+                    "faculty": "",
+                    "type": "One of PSC3322, PSC3112, PSC3142"
+                }
+            ],
+            "year": 2
+        }
+    ]
+}

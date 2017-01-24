@@ -1,0 +1,120 @@
+{
+    "courseAOS": "Bachelor of Economics degree with the Mathematical Economics and Econometrics stream ",
+    "courseCode": "B2004",
+    "courseName": "Commerce Specialist",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Business and Economics",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ECC1000",
+                "ETC1000",
+                {
+                    "faculty": "",
+                    "type": "BusEco elective 1"
+                },
+                {
+                    "faculty": "",
+                    "type": "Maths units or Free elective"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ECC1100",
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "BusEco elective 2"
+                },
+                {
+                    "faculty": "",
+                    "type": "Maths units or Free elective"
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ETC2410",
+                "ECC2000",
+                {
+                    "faculty": "",
+                    "type": "Maths units or Free elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 1 selected from a list"
+                },
+                {
+                    "faculty": "",
+                    "type": "BusEco elective 3"
+                },
+                {
+                    "faculty": "",
+                    "type": "Maths units or Free elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit2 selected from a list"
+                },
+                {
+                    "faculty": "",
+                    "type": "BusEco elective 4"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Specialisation unit 3 selected from a list"
+                },
+                "ECC3840",
+                "ETC3400",
+                {
+                    "faculty": "",
+                    "type": "Free elective"
+                }
+            ],
+            "year": 2
+        }
+    ]
+}

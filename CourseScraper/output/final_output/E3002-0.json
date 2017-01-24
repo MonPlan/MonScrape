@@ -1,0 +1,781 @@
+{
+    "courseAOS": "Aerospace Engineering specialisation",
+    "courseCode": "E3002",
+    "courseName": "Engineering and Arts",
+    "courseType": "Bachelor degree (honours)/Bachelor degree",
+    "faculty": "Faculty of Engineering",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 5,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ENG1001 Engineering Design: lighter, faster, stronger OR ENG1002",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1090,PHS1080,ENG1005",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Minor",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Engineering",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "ENG1090,PHS1080",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ENG1002 Engineering design: cleaner, safer, smarter OR ENG1001",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "VCE Specialist Mathematics or ENG1090 (or equivalent)",
+                    "Proh": "ENG1091, MTH1030, MTH1035",
+                    "SCABand": 2,
+                    "Sypnosis": "Vector algebra and geometry: equations of lines and planes. Linear algebra: matrix operations, up to 3x3 systems of linear equations, eigenvalues and eigenvectors. Calculus: improper integrals, integration by parts. Sequences and series: fundamentals of convergence, Taylor series, use in error analysis. Ordinary differential equations: first order, second order with constant coefficients, repeated roots, simple non-homogeneous cases. Laplace transforms: elementary functions, inversion by tables; shifting; derivatives, applications to ODEs. Multivariable calculus: partial derivatives, gradient and directional derivatives, maxima and minima.",
+                    "UnitCode": "ENG1005",
+                    "UnitName": "Engineering mathematics",
+                    "_id": "5878023630213215439e8eb6",
+                    "enjoyRating": 3.728916952,
+                    "enjoyResponse": 225,
+                    "learnRating": 3.708615101,
+                    "learnResponse": 113,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Minor",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces students to the use of Information Technology (IT) in modern engineering practice. Students will learn an object-oriented approach to both computer systems and software engineering for solving engineering problems.Students will work in small teams to develop a mobile application that meets a contemporary need in engineering. The fundamental stages in the software development lifecycle will be introduced, including requirements analysis, design, implementation and verification. Students will use IT tools to support the engineering process.",
+                    "UnitCode": "ENG1003",
+                    "UnitName": "Engineering mobile apps",
+                    "_id": "5878023630213215439e8eb5",
+                    "enjoyRating": 3.662162162,
+                    "enjoyResponse": 306,
+                    "learnRating": 3.75307989,
+                    "learnResponse": 153,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MEC2403",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides students with the necessary skills and knowledge in solid mechanics to confidently analyse and design engineering components and structures with particular reference to the aerospace industry. Each part of the unit contrasts theory and practical application in order to impart a practical appreciation of the knowledge gained. The role of approximate methods of analysis and their interaction with practical situations is highlighted. Constant use is made of real life problems from the aerospace industry",
+                    "UnitCode": "MAE2401",
+                    "UnitName": "Aircraft structures 1",
+                    "_id": "5878036030213215439e92f1",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Minor",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)",
+                                "October intake 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "Mathematical methods (CAS) recommended.",
+                    "Proh": "ENG1602",
+                    "SCABand": 2,
+                    "Sypnosis": "General rules for software development and design. Errors. Data types, variables, expressions, control statements M-files. Numerical techniques: Gauss elimination, solution of non-linear equations, optimisation, curve fitting, numerical calculus, ordinary differential equations.",
+                    "UnitCode": "ENG1060",
+                    "UnitName": "Computing for engineers",
+                    "_id": "5878023730213215439e8eb9",
+                    "enjoyRating": 4.05248538,
+                    "enjoyResponse": 274,
+                    "learnRating": 3.934633702,
+                    "learnResponse": 137,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "24 Credit points",
+                    "Proh": "None",
+                    "SCABand": 2,
+                    "Sypnosis": "The course provides an introduction to aircraft performance with the aim of enabling students to predict answers to questions such as: how high, how fast or how slowly can an aircraft fly, how quickly can it climb or turn in a circle, how much runway does it require to take off and land, and how much fuel does it need to travel a given distance.The emphasis is on physical understanding, and the focus is on subsonic aircraft performance.  In order to support the aircraft performance topics that form the core of the course, basic fluid mechanics is introduced so that students can understand and predict the main sources of lift and drag forces produced on aircraft.A brief introduction is also given to airbreathing aircraft powerplants so that students understand their basic characteristics and why different powerplant classes are appropriate to different flight speed regimes.  Aircraft longitudinal stability concepts are introduced, as are the basic phenomena of transonic and supersonic flight.",
+                    "UnitCode": "MAE2405",
+                    "UnitName": "Aircraft performance",
+                    "_id": "5878036130213215439e92f5",
+                    "enjoyRating": 3.583333333,
+                    "enjoyResponse": 35,
+                    "learnRating": 3.805555556,
+                    "learnResponse": 20,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Minor",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "ENG2006",
+                    "UnitName": "Cannot Fetch Data",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "TRC2201",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces second year mechanical engineering students to the concepts of time, space, coordinate systems, particles, rigid bodies, forces, work, energy and Newton's Laws of Motion. Students will be taught the fundamentals of kinematics and kinetics of rigid bodies and systems of particles and to carry out dynamic analysis to balance systems with rotating and reciprocating masses. Students will also be introduced to 3-dimensional dynamics of rigid bodies. The fundamentals of mechanical vibration, analysis and synthesis of planar mechanisms and experimental modeling will complete the unit.",
+                    "UnitCode": "MEC2401",
+                    "UnitName": "Dynamics I",
+                    "_id": "5878038730213215439e937d",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit provides the discipline basis for applications in energy, power and heat transfer. It is the core unit in the discipline of thermal sciences, providing a basic level of knowledge and problem solving capability in thermodynamics and heat transfer. The thermal sciences disciplines are central to mechanical and aerospace engineering, being used in the design and analysis of energy conversion devices and systems. Inevitably, in those conversion processes involving heat, analysis and consequent design requires an understanding of the basic heat transfer mechanisms. Thus, the unit is core to understanding aircraft propulsion and computational heat and fluid flow at later year levels.",
+                    "UnitCode": "MAE2402",
+                    "UnitName": "Thermodynamics and heat transfer",
+                    "_id": "5878036030213215439e92f2",
+                    "enjoyRating": 4.645833333,
+                    "enjoyResponse": 43,
+                    "learnRating": 4.1,
+                    "learnResponse": 18,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MEC2404",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit develops the student's physical and analytical understanding of the bases for aerodynamic flows and translates that into the ability to formulate, analyse and solve aerodynamic problems. It covers an introduction to the concept of a fluid and the continuum hypothesis. Definition of aerodynamic variables and coefficients. Introduction and description of fluid flow kinematics, and the application of this knowledge to the design and use of pumps, fans and compressors. Introduction of conservation principles and their application to the development of the governing equations for incompressible inviscid aerodynamic flows based on the ideas of control mass and control volume. Development of Bernoulli's equation. Solution of the governing Laplace equation for fundamental potential flows and the application of the principle of superposition to derive the solution of complex aerodynamic flows. Development and application of thin airfoil theory for infinite wings, and lifting line theory for finite wings. Introduction to the panel method for the analyses of general three-dimensional incompressible inviscid flow over twisted and delta wings.",
+                    "UnitCode": "MAE2404",
+                    "UnitName": "Aerodynamics I",
+                    "_id": "5878036130213215439e92f4",
+                    "enjoyRating": 4.15,
+                    "enjoyResponse": 15,
+                    "learnRating": 3.669980507,
+                    "learnResponse": 35,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MAE2404 and 18 engineering credit points at level two",
+                    "Proh": "MEC3451",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit develops further the students' physical understanding and analytical skills by including compressibility effects and the viscous nature of aerodynamic flows and translates that into the ability to formulate, analyse and solve very general aerodynamic problems. It covers control volume analysis of steady, one-dimensional, linear and nonlinear compressible flows. Nozzle flows. Steady, supersonic, two-dimensional linear and nonlinear flows. Linearized compressible subsonic and supersonic flow. Introduction to transonic and hypersonic flow. Control volume analysis of viscous incompressible flow, boundary layer flow and free shear flows like jets and wakes, including momentum integral analysis, similarity analysis and similarity solutions of these equations as they pertain to wall bounded and free shear flows. Application of this knowledge to simple design problems.",
+                    "UnitCode": "MAE3401",
+                    "UnitName": "Aerodynamics II",
+                    "_id": "5878036130213215439e92f6",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "(MTH2021 and MTH2032) or ENG2091 or ENG2092 or ENG2005 and MEC2401",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit introduces the student to the fundamental aspects in flight dynamics. The requirements and associated equations for static equilibrium and trim are developed.  Further, these equations are treated to describe longitudinal static stability and lateral static stability. Performance and flying handling will be introduced.  The equations of motion of a rigid vehicle are developed, together with the solution of these and introduction to state space model.  The role of small perturbations, aerodynamic force and moment derivatives, aerodynamic control inputs will be established, together with linearized equations.  The description of aircraft attitude and Euler angles are presented.  The basis and formulations for lateral and longitudinal dynamics and stability will be developed. Control of aircrafts will also be introduced.",
+                    "UnitCode": "MAE3404",
+                    "UnitName": "Flight vehicle dynamics",
+                    "_id": "5878036230213215439e92f8",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "MEC3xxx Computer-aided design",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MAE2402 and MAE3401",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit builds on concepts in MAE3401 and relates aircraft and rocket engines to the laws of thermodynamics, various fuel-air power cycles, their real behaviour plus fuel and combustion chemistry. Efficiency and performance of aircraft engines based on piston and gas turbine platforms is examined along with piston and turboprop engines and propeller design for subsonic speed. For jets and turbofan engines, nozzle design for transonic to supersonic speed is covered, as are supersonic engines. The unit concludes with an introduction to rocket motors and their design and performance for both atmospheric and space flight.",
+                    "UnitCode": "MAE3405",
+                    "UnitName": "Flight vehicle propulsion",
+                    "_id": "5878036230213215439e92f9",
+                    "enjoyRating": 4.833333333,
+                    "enjoyResponse": 20,
+                    "learnRating": 3.904040404,
+                    "learnResponse": 20,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts Major",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Arts elective",
+                    "UnitName": "",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MAE2401",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit aims to develop an understanding of the analytical methodologies used in strength and stiffness assessment of aircraft structures. The unit will develop an understanding of the translation of aerodynamic and ground loading on aircraft wings and fuselage to the overall airframe.  An understanding of the concept of structural idealisation and constraint will be developed along with real-world limitations. The principles of stressed skin construction will be considered in detail. The unit aims to develop an understanding of the analysis and design of structural problems common in the aerospace industry. It will provide students with the tools necessary to analyse aircraft structures.",
+                    "UnitCode": "MAE3407",
+                    "UnitName": "Aircraft structures II",
+                    "_id": "5878036330213215439e92fb",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "MAE4xxx Flight vehicle design",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "MAE4xxx Aerospace computational mechanics",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "18 engineering credit points at level three",
+                    "Proh": "MAE4901",
+                    "SCABand": 2,
+                    "Sypnosis": "Students undertake a self-guided learning task in the form of a project.Projects may be a single semester or (in conjunction with MEC4402) a full year in length [Enrolment by Departmental approval only]. Projects will consist of either a design, theoretical, or experimental investigation. The project may be undertaken either within the Department or externally with a company or research organization. In either case, an academic member of staff will act as the supervisor. While some projects may benefit from group based work it is expected that students will work individually on each project.NB. Before work is started on the project a safety induction and risk assessment process will be completed.",
+                    "UnitCode": "MEC4401",
+                    "UnitName": "Final year project",
+                    "_id": "5878038a30213215439e938d",
+                    "enjoyRating": 3.939393939,
+                    "enjoyResponse": 30,
+                    "learnRating": 4.086022311,
+                    "learnResponse": 25,
+                    "placeholder": false
+                }
+            ],
+            "year": 4
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MAE3404",
+                    "Proh": "TRC3600, MEC3457",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit commences with the modelling of various dynamic engineering systems, followed by the analysis of their transient and steady-state responses. More sophisticated analytical methods such as root locus and frequency response will be explored and will build the foundation for controller design in the future. Modelling via state-space methods will also be briefly covered.",
+                    "UnitCode": "MAE3408",
+                    "UnitName": "Aerospace control",
+                    "_id": "5878036330213215439e92fc",
+                    "enjoyRating": 3.916666667,
+                    "enjoyResponse": 19,
+                    "learnRating": 3.166666667,
+                    "learnResponse": 12,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": "Not Offered in 2017",
+                    "Preqs": "(MAE1041 or MAE2405) and MAE3401",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "The unit covers a more advanced study of the aerodynamics of aircraft wings and aerofoil sections than introduced in previous units. Topics are covered in sufficient depth that students will understand the essential aerodynamic principles applied to aircraft wing design. The notable features of wing and airfoil aerodynamics are outlined, including transition and the analysis of viscous flows. Methods for the analysis and prediction of airfoil and finite wing aerodynamics are covered, together with an introduction to procedures for quantitative design.",
+                    "UnitCode": "MAE4409",
+                    "UnitName": "Wing design",
+                    "_id": "5878036430213215439e9300",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MAE3407",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "This unit will explain why aircraft structures/components fail, how engineers can learn from such failure and design to prevent it. Both fundamental and applied aspects of failure of aircraft structural components will be covered. The unit will detail the damage tolerance design philosophy, and how it fits into airworthiness requirements as described in the relevant Standard (JSSG 2006). The unit focuses on how fracture mechanics principles and modern fatigue crack growth laws are used to meet JSSG2006. To illustrate the effect of cracking on service aircraft we will consider flaw growth in a range of aircraft undergoing both in-service flight loading and full scale fatigue tests.",
+                    "UnitCode": "MAE4408",
+                    "UnitName": "Damage tolerance and airworthiness",
+                    "_id": "5878036430213215439e92ff",
+                    "enjoyRating": 2.75,
+                    "enjoyResponse": 12,
+                    "learnRating": 4.5,
+                    "learnResponse": 2,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Engineering",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ],
+                        [
+                            [
+                                "Malaysia"
+                            ],
+                            [
+                                "First semester 2017 (Day)",
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "MEC4401",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "In this unit, together with MEC4401, students undertake a self-guided learning task in the form of a project. It is a full year project of either a major design, theoretical, or experimental investigation. The project may be undertaken either within the department or externally with a company or research organisation. In either case, an academic member of staff will act as the supervisor. While some projects may benefit from group based work it is expected that students will work individually on each project.",
+                    "UnitCode": "MEC4402",
+                    "UnitName": "Final year project - Thesis",
+                    "_id": "5878038b30213215439e938e",
+                    "enjoyRating": 4.116477273,
+                    "enjoyResponse": 49,
+                    "learnRating": 4.383493188,
+                    "learnResponse": 47,
+                    "placeholder": false
+                }
+            ],
+            "year": 4
+        }
+    ]
+}

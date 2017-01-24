@@ -1,0 +1,37 @@
+{
+    "courseCode": "B6002",
+    "courseName": "Master of Accounting",
+    "courseAOS": "",
+    "faculty": "Faculty of Business and Economics",
+    "courseType": "Postgrad",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+              "ACF5120",
+              "ACF5150",
+              {"type": "Mastery Knowledge Unit", "faculty": "Faculty of Business and Economics"},
+              {"type": "Application Studies Unit", "faculty": "Faculty of Business and Economics"}
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+              "ACF5100",
+              "ACF5130",
+              {"type": "Mastery Knowledge Unit", "faculty": "Faculty of Business and Economics"},
+              {"type": "Application Studies Unit", "faculty": "Faculty of Business and Economics"}
+          ]
+        }, {
+          "code": "S1-01",
+          "year": 1,
+          "units": [
+              "ACF5330",
+              {"type": "Capstone Experience", "faculty": "Faculty of Business and Economics"},
+              {"type": "Application Studies Unit", "faculty": "Faculty of Business and Economics"},
+              {"type": "Application Studies Unit", "faculty": "Faculty of Business and Economics"}
+          ]
+        }
+    ]
+}

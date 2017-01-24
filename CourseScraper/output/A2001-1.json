@@ -1,0 +1,98 @@
+{
+    "courseAOS": "International studies specialisation",
+    "courseCode": "A2001",
+    "courseName": "Global Studies",
+    "courseType": "Bachelor degree",
+    "faculty": "Faculty of Arts",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "units": [
+                "ATS1020",
+                "ATS1325",
+                "Elective",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ATS1326",
+                {
+                    "faculty": "",
+                    "type": "Specialisation elective"
+                },
+                "Elective",
+                "Elective"
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                "ATS2086",
+                {
+                    "faculty": "",
+                    "type": "2 nd year cornerstone"
+                },
+                {
+                    "faculty": "",
+                    "type": "Specialisation elective"
+                },
+                "Elective"
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "Specialisation elective"
+                },
+                {
+                    "faculty": "",
+                    "type": "Specialisation elective (overseas study)"
+                },
+                {
+                    "faculty": "",
+                    "type": "Specialisation elective (overseas study)"
+                },
+                {
+                    "faculty": "",
+                    "type": "Specialisation elective (overseas study)"
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "units": [
+                {
+                    "faculty": "",
+                    "type": "3 rd year capstone"
+                },
+                {
+                    "faculty": "",
+                    "type": "Specialisation elective"
+                },
+                "Elective",
+                "Elective"
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "units": [
+                "ATS3111",
+                {
+                    "faculty": "",
+                    "type": "Specialisation elective"
+                },
+                "Elective"
+            ],
+            "year": 2
+        }
+    ]
+}

@@ -1,0 +1,552 @@
+{
+    "courseAOS": "Bachelor of Science and Bachelor of Biomedical Science",
+    "courseCode": "S2007",
+    "courseName": "Science and Biomedical Science",
+    "courseType": "Bachelor degree/Bachelor degree",
+    "faculty": "Faculty of Science",
+    "teachingPeriods": [
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major level 1 sequence 1",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Level 1 Science sequence 1",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit introduces the student to the chemistry of organic molecules and the biochemistry of cells. We examine the role of functional groups in biological molecules of biomedical importance and common reactions in metabolism. We reinforce concepts of ionisation and pH. We discuss the chemistry of proteins and their physical properties in solution leading up to an examination of enzyme catalysis and kinetics. This lays the foundation for an examination of the biological oxidation of fats and carbohydrates that provides the cell with energy. We examine the way energy is stored in times of plenty and relate our understanding to normal and disease states that occur.",
+                    "UnitCode": "BMS1011",
+                    "UnitName": "Biomedical chemistry",
+                    "_id": "5878011530213215439e8a8d",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "BIO1011, BIO1022.",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit introduces the student to the fundamental units of life (the cells) and explores how cells come together to form primary tissues which subsequently combine to form the organ systems and ultimately the living organism.Cellular structure and metabolism is studied including the chemical constituents of living cells and the biological reactions that take place in them. Basic developmental biology concepts associated with the patterning of the body plan and embryological origins of cells and tissues are introduced.The unit also introduces students to the microbial world and explores the structure and function of the immune system and how the body develops an immune response.",
+                    "UnitCode": "BMS1021",
+                    "UnitName": "Cells, tissues and organisms",
+                    "_id": "5878011530213215439e8a8e",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major level 1 sequence 2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Level 1 Science sequence 2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "",
+                    "SCABand": 2,
+                    "Sypnosis": "Applications of epidemiological and statistical concepts and methods to typical problems in population health and in the biomedical literature. This will include consideration of fundamental ethical issues pertaining to the conduct of biomedical research and population health interventions. Much emphasis is placed on a population view of health and disease, social determinants of health, epidemiological principles, research study design and statistical analyses of data.",
+                    "UnitCode": "BMS1042",
+                    "UnitName": "Public health and preventive medicine",
+                    "_id": "5878011530213215439e8a90",
+                    "enjoyRating": 3.86971831,
+                    "enjoyResponse": 282,
+                    "learnRating": 4.572318581,
+                    "learnResponse": 58,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MCB2011, MOL2011.",
+                    "SCABand": 3,
+                    "Sypnosis": "Gene structure and function, including the genetic code and its interpretation, the assembly of genes and chromosomal organisation, and the basics of the genetic flow of information from DNA to RNA to protein. Mechanisms of gene expression and regulation, gene replication and repair, and the causes and implications of genetic mutations. Molecular genetics and recombinant DNA technology for the manipulation of genes. Genomics and its applications in medicine and principles of gene therapy.",
+                    "UnitCode": "BMS1062",
+                    "UnitName": "Molecular biology",
+                    "_id": "5878011630213215439e8a92",
+                    "enjoyRating": 4.038043478,
+                    "enjoyResponse": 195,
+                    "learnRating": 4.16352657,
+                    "learnResponse": 187,
+                    "placeholder": false
+                }
+            ],
+            "year": 0
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major \u2013 level 2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "One of SCI1020 STA1010 MTH1020 MTH1030 [or Science elective if already taken as part of another sequence]",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "PHS1031, PHS1080.",
+                    "SCABand": 3,
+                    "Sypnosis": "The behaviour of human and biomedical systems are understood in terms of underlying physical principles. Forces involved in human movement and body systems including muscles and joints. Energy and heat flow and metabolism, pressure, osmosis, diffusion and respiration, fluid flow in the cardiovascular system. Electrical charges, current, potential and capacitance in simple circuits, EEG, ECG, cells and nerve conduction. Sound and ultrasound, human hearing, refraction and lenses, the human eye, optical and electron microscopes. X-rays and radiation, biological effects and damage, radiation therapy and medical imaging.",
+                    "UnitCode": "BMS1031",
+                    "UnitName": "Medical biophysics",
+                    "_id": "5878011530213215439e8a8f",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "BMS1011.",
+                    "Proh": "BCH2022",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit covers the molecular principles of cellular metabolic regulation, metabolic interrelationship of tissues, molecular events associated with the fed and fasted states, and the generation of metabolic energy by oxidation of macronutrients.It discusses hormone action and the molecular and cellular basis of diseases, and gives an overview of tissue metabolism.The autonomic control of energy, exercise and metabolism, and how drugs can modulate these processes will be considered and discussed.The unit will also  cover the molecular mechanism of cell growth, differentiation and death, and introduces the basic principles of developmental biology covering cell fate, pattern formation and tissue morphogenesis during embryonic life.",
+                    "UnitCode": "BMS2021",
+                    "UnitName": "Human molecular cell biology",
+                    "_id": "5878011630213215439e8a94",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major \u2013 level 2",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "Faculty of Science",
+                    "SCABand": 0,
+                    "UnitCode": "Choose One",
+                    "UnitName": "SCI2010,SCI2015",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "PHY2011.",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit consists of an introduction to human nervous system which ranges in scope from the operations of individual nerve cells at the molecular level to the generation of complex cognitive behaviours. The unit will provide students with an essential overview of the human nervous system and it will also serve as a foundation for more specialised studies in neurobiology or cognitive science.",
+                    "UnitCode": "BMS1052",
+                    "UnitName": "Human neurobiology",
+                    "_id": "5878011630213215439e8a91",
+                    "enjoyRating": 4.262376238,
+                    "enjoyResponse": 187,
+                    "learnRating": 3.847183102,
+                    "learnResponse": 282,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "BMS1062 or MCB2011/MOL2011",
+                    "Proh": "GEN2041 and GEN2052.",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit introduces the basic genetic principles underlying modern human genetics. Topics include: the central role of genes in the inheritance of traits, and the complex variation in inheritance patterns that arise due to interactions of genes with each other and the environment; the identification, characterisation and mapping of human genes;  the value of model organisms in genetics; chromosome variation and its role in both evolution and human disease; how genes function and how genetic malfunction can lead to genetic disease; how an understanding of such diseases at the genetic level may assist in diagnosis, prevention and therapy; the genetic control of development; genetic counselling and calculating risk for genetic diseases; human evolutionary genetics.",
+                    "UnitCode": "BMS2042",
+                    "UnitName": "Human genetics",
+                    "_id": "5878011730213215439e8a96",
+                    "enjoyRating": 4.528985507,
+                    "enjoyResponse": 134,
+                    "learnRating": 3.934826712,
+                    "learnResponse": 195,
+                    "placeholder": false
+                }
+            ],
+            "year": 1
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major \u2013 level 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science elective",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "ANT2331.",
+                    "SCABand": 3,
+                    "Sypnosis": "This course is an introduction to human anatomy. It includes an overview of  general principles of major body systems. This will be followed by a consideration of specific areas of regional anatomy from an evolutionary perspective. Namely, what distinguishes the human body from other primates, mammals and indeed vertebrates and how have these adaptations of anatomy contributed in a functional context to us being so successful.  Practical classes will involve exposure to human cadaver prosections, skeletal material, models and a range of imaging modalities including X-rays, CT scans etc.",
+                    "UnitCode": "BMS2011",
+                    "UnitName": "Structure of the human body: An evolutionary and functional perspective",
+                    "_id": "5878011630213215439e8a93",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "BMS1052.",
+                    "Proh": "BND2011, PHY2011, PHY2021 and PHY2032.",
+                    "SCABand": 3,
+                    "Sypnosis": "Physiology is the study of how living organisms work. It involves the functions of cells, tissues, organs and the whole organism. This unit will provide you with an overview of how the body maintains a constant environment for its cells and tissues through the integrated functions of the following physiological systems: cardiovascular, renal, endocrine, respiratory, reproductive and gastrointestinal. You will also consider how the body adapts to changes in the external environment and to disease states.",
+                    "UnitCode": "BMS2031",
+                    "UnitName": "Body systems",
+                    "_id": "5878011630213215439e8a95",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 4,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major \u2013 level 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science elective \u2013 level 2 or 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "BMS1062.",
+                    "Proh": "MIC2022.",
+                    "SCABand": 3,
+                    "Sypnosis": "The following aspects of the interactions of microbes with their hosts will be presented in lectures, tutorials, discussion groups and videos: The history of infectious diseases, medically important viruses and bacteria, pathogenic mechanisms in infectious diseases, immunity to infection, and their regulation, control of infection by vaccines and drugs, and emerging diseases.",
+                    "UnitCode": "BMS2052",
+                    "UnitName": "Microbes in health and disease",
+                    "_id": "5878011730213215439e8a97",
+                    "enjoyRating": 4.019607843,
+                    "enjoyResponse": 120,
+                    "learnRating": 4.525802187,
+                    "learnResponse": 134,
+                    "placeholder": false
+                },
+                {
+                    "CreditPoints": 6,
+                    "EFTSL": 0.125,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "Second semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "",
+                    "Proh": "MOL2022.",
+                    "SCABand": 3,
+                    "Sypnosis": "Bioinformatics unites the major advances in biology, biochemistry and the biomedical sciences with those in computing, bioinformatics and networking. The unit covers the application of the internet to biomedical sciences; organisation and uses of scientific databases; use of computational methods in genomics and proteomics; fundamentals of molecular modelling; analysis and presentation of biomedical data; and communication of biomedical data using information technology.",
+                    "UnitCode": "BMS2062",
+                    "UnitName": "Introduction to bioinformatics",
+                    "_id": "5878011730213215439e8a98",
+                    "enjoyRating": 3.838582677,
+                    "enjoyResponse": 264,
+                    "learnRating": 4.011597192,
+                    "learnResponse": 120,
+                    "placeholder": false
+                }
+            ],
+            "year": 2
+        },
+        {
+            "code": "S1-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major \u2013 level 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science elective \u2013 level 2 or 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 12,
+                    "EFTSL": 0.25,
+                    "Faculty": "Faculty of Medicine, Nursing and Health Sciences",
+                    "LocationAndTime": [
+                        [
+                            [
+                                "Clayton"
+                            ],
+                            [
+                                "First semester 2017 (Day)"
+                            ]
+                        ]
+                    ],
+                    "Preqs": "BMS1011, BMS1021, BMS1031, BMS1042, BMS1052, BMS1062, BMS2011, BMS2021, BMS2031, BMS2042, BMS2052, BMS2062.",
+                    "Proh": "BMS3021.",
+                    "SCABand": 3,
+                    "Sypnosis": "This unit will provide insights into the molecular mechanisms that mediate human diseases and the specific biotechnologies used to facilitate diagnosis and treatment.Relevant areas studied in this unit may change from year to year but will generally include a number of topics related to pharmacology, cancer, cardiovascular disease, development and stem cells, infection and immunity, metabolic disease and obesity, and neuroscience.The small group work in the unit is designed to build employability skills for graduates.Emphasis is placed on critical thinking, research skills and on communication skills in the context of biomedical research.",
+                    "UnitCode": "BMS3031",
+                    "UnitName": "Molecular mechanisms of disease",
+                    "_id": "5878011730213215439e8a9a",
+                    "enjoyRating": 3,
+                    "enjoyResponse": 0,
+                    "learnRating": 3,
+                    "learnResponse": 0,
+                    "placeholder": false
+                }
+            ],
+            "year": 3
+        },
+        {
+            "code": "S2-01",
+            "numberOfUnits": 3,
+            "units": [
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science major \u2013 level 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "Science elective \u2013 level 2 or 3",
+                    "UnitName": "",
+                    "placeholder": true
+                },
+                {
+                    "CreditPoints": 0,
+                    "Faculty": "",
+                    "SCABand": 0,
+                    "UnitCode": "BMS3052",
+                    "UnitName": "Cannot Fetch Data",
+                    "placeholder": true
+                }
+            ],
+            "year": 3
+        }
+    ]
+}

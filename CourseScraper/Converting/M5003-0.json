@@ -1,0 +1,58 @@
+{
+    "courseCode": "M5003",
+    "courseName": "Graduate Diploma of Psychology Advanced",
+    "courseAOS": "Starting with PSY4406",
+    "courseType": "Graduate Diploma",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+            "code": "MO-TP1-01",
+            "year": 0,
+            "units": [
+                "PSY4406"
+          ]
+        }, {
+            "code": "MO-TP2-01",
+            "year": 0,
+            "units": [
+              "PSY4401"
+          ]
+        }, {
+            "code": "MO-TP3-01",
+            "year": 0,
+            "units": [
+                "PSY4405"
+            ]
+        }, {
+            "code": "MO-TP4-01",
+            "year": 0,
+            "units": [
+                "PSY4402"
+            ]
+        }, {
+            "code": "MO-TP5-01",
+            "year": 0,
+            "units": [
+                "PSY4407"
+            ]
+        }, {
+            "code": "MO-TP6-01",
+            "year": 0,
+            "units": [
+                "PSY4403"
+            ]
+        }, {
+            "code": "MO-TP1-01",
+            "year": 1,
+            "units": [
+                "Elective"
+            ]
+        }, {
+            "code": "MO-TP2-01",
+            "year": 1,
+            "units": [
+                "PSY4404"
+            ]
+        }
+    ]
+}

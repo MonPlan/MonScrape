@@ -1,0 +1,26 @@
+{
+    "courseCode": "M6023",
+    "courseName": "Master of Clinical Medicine",
+    "courseAOS": "Critical Care Medicine",
+    "courseType": "Postgrad",
+    "faculty": "Faculty of Medicine, Nursing and Health Sciences",
+    "teachingPeriods": [
+        {
+          "code": "S1-01",
+          "year": 0,
+          "units": [
+              "MAP5003",
+              "MAP5101"
+          ]
+        }, {
+          "code": "S2-01",
+          "year": 0,
+          "units": [
+              {"type": "Part B - Elective", "faculty": "Faculty of Medicine, Nursing and Health Sciences"},
+              {"type": "Part B - Elective", "faculty": "Faculty of Medicine, Nursing and Health Sciences"},
+              {"type": "Part B - Elective", "faculty": "Faculty of Medicine, Nursing and Health Sciences"},
+              {"type": "Part B - Elective", "faculty": "Faculty of Medicine, Nursing and Health Sciences"}                                          
+          ]
+        }
+    ]
+}
