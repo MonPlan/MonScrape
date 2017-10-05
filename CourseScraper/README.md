@@ -14,3 +14,6 @@ In monPlan-API's repository, we also used the course map PDF files from the hand
 
 ## Validation
 Before running `main.py`, a script `validate_course_structure.py` is used to check if a JSON file is valid.
+
+# License
+This is licensed under the `MIT` License by [Monash University](https://monash.edu) through the MonashUnitPlanner team
